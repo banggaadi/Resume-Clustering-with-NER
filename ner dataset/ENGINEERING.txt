@@ -1,0 +1,2014 @@
+0
+budget
+hardware
+network systems
+database
+dec
+documentation
+inspection
+logistics
+meetings
+ms excel
+microsoft office
+outlook
+powerpoint
+network
+networking
+operating systems
+oracle
+personnel
+presentations
+progress
+quality
+maintain documentation
+routers
+safety
+scheduling
+shipping
+spreadsheets
+supervision
+operating
+repairs
+gas turbine engines
+main propulsion machinery
+auxiliary equipments
+prolusion control systems
+air systems
+automatic control valves
+automatic electronic controls
+blow-in doors
+bus transfer switches
+cannon plugs
+console filters
+demister pads
+detector components
+electrically operated valves
+electrical controllers
+electrical motors
+electrical relays
+fuel oil coalesces
+fuel oil systems
+halon systems
+hydraulic systems
+indicating relays
+intake louver hatches
+lever control components
+engine components
+fuel system components
+fuel systems
+generators
+generators assembly components
+lube oil systems
+module components
+power turbine components
+jacking gears
+seawater cooling pumps
+main switchboards
+frequency regulators
+electronic enclosures
+indicating micro switches
+salinity cells
+hydraulic system components
+leadership
+personnel management skills
+methods
+funding source
+modernization projects
+sustainment projects
+hawaii united states
+annual salary: 60
+equipment and materials
+amp meter
+voltmeter
+based on priority
+navy course: a-651-0119
+testing
+operation
+maintenance
+front desk
+food & beverage
+security
+health
+fire
+problems
+unusual occurrences
+rangers
+concerts
+blueprints
+carpentry
+detail-oriented
+electrical wiring
+engineer
+hvac
+materials
+excel
+window
+windows xp
+word
+oil
+painting
+plumbing
+read
+soldering
+fluent in spanish
+welding
+wiring
+proficiency in c++
+autocad
+autocad inventor
+python
+linux
+xcode
+visual basic
+ms word
+ms powerpoint
+arcview
+drafting
+gps
+graphic
+microsoft access
+microstation
+file maintenance
+surveys
+utilities
+drop test
+button cycling test
+sturgeons
+signal generators
+develop
+maintain test procedures
+tester debugging
+ecn
+deviations
+qrqc
+workflow analysis
+kanban
+simulated continuous flow
+de-bottlenecking
+riverbed
+hp
+silverspring networks
+nec
+cisco
+pocketfinder
+commercial
+visual aids
+state            associate degree
+physics
+automation
+cable modems
+cabling
+cad
+cat5
+coach
+cpu
+dc
+debugging
+dft
+design software
+electronics
+email
+features
+functional
+government
+intel
+logic analyzer
+mac os
+marketing
+mcafee
+mes
+access
+win 7
+netscape
+networking essentials
+networks
+os
+optimization
+oscilloscope
+osi
+pc hardware installation
+pc software
+pc troubleshooting
+proposals
+reading
+red hat
+rms
+routing
+schematics
+servers
+shell programming
+script
+scripting
+six sigma
+solaris
+sql server
+sun microsystems
+switches
+tcp/ip
+tds
+technical support
+telecommunication
+phone
+test equipment
+troubleshoot
+troubleshooting
+unix
+upgrade
+validation
+view
+wan
+x-86
+multi-meters
+state      implemented schematics
+state        implemented schematics
+client server
+computer networks
+computer sales
+clients
+desktops
+hp netservers
+laptops
+windows
+migration
+network printers
+nics
+protocols
+purchasing
+qa
+raid
+repairing
+specification
+upgrading
+usability testing
+vista
+auto-cad
+c
+c++
+hazop
+iso 9001
+logic
+works
+minitab
+plc
+pro-e
+profit
+project management
+quality assurance
+receiving
+research
+statistical process control
+strategic planning
+supply chain
+visual basics
+""
+r
+catia
+ansys
+product          project management
+gd&t
+kaizen
+apqp
+ppap
+8d
+5 why
+kpi's
+reliability sae standards
+vehicle ergonomics
+dvp&r
+qcc
+people
+workplace safety
+state      designed
+developed
+tooling
+equipment
+fishbone analysis
+5why
+control plans
+used benchmarking
+customer surveys
+head clearance
+entrance height
+saej1516v002
+sub-systems
+analyzed the jph
+throughput
+bottleneck
+labor hours
+benchmarking
+cnc
+cost analysis
+ergonomics
+lean manufacturing
+manufacturing process
+packaging
+process engineering
+product development
+pro/engineer
+pro/mechanical
+solid edge
+microsoft navision
+microsoft project
+china cabinets
+procurement of material
+optic design
+ada
+photo
+architect
+brochures
+catalogs
+client
+edge
+etl
+forms
+graphics
+inspector
+interpretation
+lighting
+material selection
+mechanical
+mentoring
+navision
+procurement
+product management
+safety codes
+sales
+unique
+administrative
+cash receipts
+customer service
+directing
+instruction
+inventory
+machinery
+natural gas
+organizing
+police
+promotion
+quality control
+reconciling
+risk management
+supervisory
+proactive
+self-motivated
+ar
+bank reconciliations
+billings
+budgets
+cash flow projections
+government contracting
+technical
+peachtree (proficient)
+jde (proficient)
+great plains (trained)
+labview
+matlab
+word.
+evaluate
+document
+maintained
+reservoir characterizations
+minimize non-value-added time
+processes
+procedures
+and line activities
+installed upgrades
+performed troubleshooting
+graphs
+diagrams
+reports
+designing
+failure analysis
+process control
+process design
+simulation
+system configuration
+systems engineering
+cero
+hypermesh
+dfmea
+ms office suite
+fortran
+matlab/simulink
+key issues
+trends
+university of michigan-dearborn
+engine operation
+air flowrate
+visvesvaraya technological university
+common rail
+glow plugs
+spark plugs
+head gaskets
+shims
+tappets
+brake pads
+brake shoes
+brake fluid
+engine oil
+coolant
+egr systems
+vvt systems
+engine filters
+fuel filters
+servicing of inter-coolers
+suspension systems
+sheet metal works
+websites
+magazine and
+options
+automotive powertrains
+vehicle thermal management
+strength of materials
+fluid mechanics
+heat transfer
+thermodynamics      skills    ansys
+automobiles
+automotive
+basic
+business plan development
+calibration
+concept
+dimensions
+gateways
+inspect
+market
+office
+programming
+requirement
+selling
+system engineering
+transmission
+visvesvaraya technological university.
+hmi
+scada
+servo drives
+vfd
+panel testing
+abu dhabi
+hook up drawing
+mto
+material requisition
+vendor offer evaluation
+technical write up
+api
+isa
+iec
+control panel  wiring
+flow
+pressure
+unit commitment
+economic dispatch)
+control system design
+power electronics
+apollo
+c++ programming
+com
+controller
+engineering projects
+fat
+drawing
+http
+ms office
+philosophy
+plc programming
+siemens
+siemens plc
+system design
+system  analysis
+teaching
+uh)
+lead development
+build teams
+mentor
+digital tv
+industrial automation
+control systems  c
+java
+jvm
+embedded linux
+lxc
+rtos - os9
+vxworks  dvb
+mpeg
+h.264
+hls
+mp4  json
+rest
+soap
+xml
+snmp
+tr069  microcontrollers
+hardware  matlab
+scrum
+sdlc
+data entry
+circuit design
+digital signal processing
+drafting 2
+english
+fast
+french
+leadership skills
+mathcad
+microprocessors
+c#
+multimeters
+orcad
+pspice
+software design
+solidworks
+systems design
+power systems analysis
+verilog
+ms visual studio
+qualification documents
+measurement
+glass cases
+state      took calls
+10am-4pm
+4pm-10pm)
+triples
+north bend
+bellevue
+attention to detail
+interpersonal skills
+critical thinking
+dependable
+electrical engineering
+electrical systems
+forklifts
+logo
+next
+pick
+quick
+fast learner
+television
+time management
+audio
+cd-roms
+ceridian
+cost reduction
+drivers
+executive management
+mac
+managing
+marketing and sales
+multimedia
+objective c
+policies
+printers
+quest
+scanners
+scripts
+software development
+software testing
+sound cards
+sun
+test tools
+usb
+video
+automotive cnc
+cnc programming
+shop floor
+amada
+estimating
+receptionist
+retail sales
+manufacturing engineer
+cost estimating
+problem solving
+plasma
+brakes
+stamping
+automotive stamping
+continuous improvement
+engineering support
+manufacturing processes
+outside sales
+press brake
+sales with
+stamping dies
+tool room
+press brakes
+laser
+motoman
+robotic
+robotic welding
+strippit
+turret press
+hand tools
+inspections
+design for manufacturing
+collection
+flux core
+load calculations
+mechanical engineer
+mechanical/electrical engineer
+product support
+steel design
+structural steel
+structural steel design
+compressors
+machining
+plating
+powder coating
+shear
+sorting
+total project management
+lasers
+air conditioning
+assembly
+autodesk
+buying/procurement
+cabinets
+chassis
+circuit board
+control panel
+conveyors
+designer/drafter
+electrical schematics
+mig
+ms outlook
+ncr
+stainless steel
+stamping press
+telecommunications
+tig welding
+training
+trusses
+mechanical engineering
+adobe captivate
+blackboard
+business objects
+clarity
+cerner
+doors
+echimp
+eclipsys
+ehrs
+epic
+hboc
+macess
+idx
+i-max facet
+heat
+sql server 2005
+cognos
+er/studio
+mini-tab
+sas
+sharepoint foundation 2007/2010
+spss
+one note
+power point
+project
+sharepoint
+and visio.
+delivery
+paint
+plc 5
+power distribution
+producing
+robotic systems
+vision systems
+corrective maintenance
+industrial machinery
+preventive maintenance
+sensors
+biotechnology
+electrical mechanical
+estimation
+hydraulics
+mechanical technician
+pneumatics
+project manager
+sop
+circuit boards
+dmm
+electrical test
+esd
+first article inspection
+medical devices
+production process
+schematic
+surface mount
+test engineer
+through-hole
+control systems
+sensor
+temperature and humidity
+electrical engineer
+entry level
+ieee
+self motivated
+pr
+public relations
+git
+bash
+pandas
+seaborn
+matplotlib
+openfoam
+cfd-ace+®
+fluent®
+comsol®
+lammps
+afm
+confocal microscopy
+regression analysis
+diverter
+dem
+problem-solving
+prioritizing
+multitasking
+openwells
+spotfire
+sap
+concur
+project assignments
+standardize
+dimensional specifications
+morale
+productivity
+ii
+new product development
+instrument software testing
+test execution
+including software
+digital
+state
+me
+us
+budgeting
+construction management
+film
+hiring
+negotiations
+process improvement
+spc
+strategy
+system administrator
+3d
+3d studio max
+adobe
+photoshop
+architectural drafting
+book
+conversion
+crystal reports
+data dictionary
+databases
+edit
+fiber optics
+gis
+hps
+illustrator
+indesign
+mapper 6
+ms access
+ms project
+3.1
+enterprise
+networks 4.7.1
+db
+coding
+revit
+supervisor
+transformers
+transformer
+design software:  labview
+synopsys design vision
+modelsim
+osx   equipment:  oscilloscope
+spectrum analyzer
+nsit
+2011-12
+cpr certified
+data acquisition
+digital design
+direction
+electronics i
+fashion
+first aid
+html programming
+windows 2000
+natural
+oscilloscopes
+physics i
+speaking
+sql
+statistics
+systems design i
+technical writing
+vhdl
+vi
+web design
+cost
+resources
+facilities
+equipment specialists
+development of staff
+objective
+availability
+labor reduction
+yield improvements
+lower chemical cost
+part consumption
+integration engineers
+equipment performance
+production planning
+manufacturing
+directed
+bill of materials
+productions version
+quality management forms
+electroless nickel
+electrolytic copper
+1995.       skills    basic
+cobol
+pascal
+prolith (modeling)
+statistical analysis: jmp
+pcs
+spc++
+data view
+crystal ball
+pluming
+full finish
+team builder
+outlook training
+excel training
+hotsos training
+"stratton warren ""mms"""
+bluebeam
+microsoft word
+city
+3d modeling
+read blueprints
+detail oriented
+floor plans
+frame
+3dsmax
+messaging
+microsoft office applications
+multi-tasking
+problem solving skills
+renovation
+replaced
+cleaning
+mechanical drafting
+bim
+accounting software
+balance
+capital expenditures
+handling cash
+civil engineering
+interpersonal communications
+consulting
+contracts
+prepare contract
+customer care
+design and construction
+engineering design
+expense reports
+filing
+marketing research
+peak
+prime
+project plans
+express
+recording
+transportation
+written communication
+technical drawings
+including sweeping
+store inventory
+transactions
+state      ged
+08/2017
+clinical analyst
+analyst
+agency
+dialysis
+develop drug
+iia
+iso
+market and development
+personnel management
+design process
+researching
+solid works
+team management
+visio
+functional block diagram
+structured text
+instruction list. )
+assembly (intel
+motorola
+ti)
+inventor
+psim
+easy power
+xilinx ise
+siemens step 7
+wago codesys
+allen bradley rslogix
+erp (alliance
+global shop
+xa
+specifications
+criteria
+production schedules
+switchboards
+one-line drawings
+variable frequency drives
+dynamic braking cabinets
+panel boards
+jacking switchgears
+block diagrams
+electrical one-lines
+test
+motor model
+short circuit
+breaker coordination
+arc flash
+fault analysis
+kencana shipyard
+malaysia: vfds
+mccs
+generator controls
+environmental safety
+erp
+flash
+hardware design
+microprocessor
+modeling
+power generation
+protel
+renovations
+staff management
+step 7
+structured
+supervising
+switchgear
+tender
+academic
+project lead
+testing software
+automated equipment
+operations
+transmissions
+commodities
+hydraulic pumps
+pumps
+design engineering
+engineering department
+process development
+assembly process
+business requirements
+electronic production
+production control
+massey ferguson
+product design
+six-sigma
+automation design
+contract negotiations
+ergonomic
+fanuc
+policy development
+robotics
+program management
+industrial/manufacturing
+manufacturing engineering
+fans
+cables
+fcals
+gbic
+mounting
+alignment
+adjusting
+operational testing
+machines
+stake
+screw
+bolt
+rivet
+weld
+cement
+press fits
+parts fabrication assembly
+cable
+hp servers
+ibm
+layout
+monitors
+msn
+power supply
+press
+proliant
+systems integration
+type
+switch
+lfacs
+icgs / idds
+requestnet
+aardwolf
+adtran
+microsoft outlook
+ccp
+wsam image
+lotus sametime
+fiber brains
+ringbuilder
+plat indexes
+venue
+wsam-dc fiber
+assist
+workforce management systems
+relief
+including contractors
+private owners
+customers
+building contractors
+state      prepared diagrams
+work orders
+logs
+drawings
+charts
+electronic
+copper
+build terminals
+facility addresses
+facility checks
+inquiries
+beltsville
+md
+grounds
+heating
+shocks
+parking lots
+building pads
+production engineering
+siemens plm
+solidworks pdm  tableau
+powerbi
+tm1  ms access
+sharepoint designer  jira
+684
+847
+$1b sales
+mgm resorts
+caesars entertainment
+wynn resorts
+15 indirect engineers
+system controls
+capital equipment
+elt
+independent work ethic
+6 direct reports
+1 million skus
+5 direct reports
+& service departments
+procedural training
+and project manager
+asp.net
+agile
+apache
+capacity planning
+competitive
+crystal
+eclipse
+full life cycle
+php
+iis
+javascript
+mvc
+developer
+rapport
+reporting
+system architecture
+verbal communication
+visual studio
+written
+excellent communication
+inspecting
+team lead
+modems
+technician
+trainer
+approach
+atl
+backup
+broadcast
+cli
+ca
+content
+dynamic html5
+editing
+ftp
+gui
+ids
+innovation
+explorer
+ip
+json
+lan
+mb
+mfc
+win
+2000
+nas
+oop
+page
+proxy
+rendering
+san
+threads
+video editing
+visual c++
+workflow
+writer
+bridges
+css
+html5
+hr
+team building
+memory
+performance reviews
+atm
+cadence
+de-bugging
+ethernet
+iso 9000
+linux os
+power supplies
+sonet
+t1
+trouble shooting
+estimate
+execute
+technical reviews
+managing releases
+demos
+risk mitigation planning
+conflict resolution
+training & development
+multitasking abilities
+overseeing hiring
+jira
+checklists
+software engineering
+and operating systems
+black box testing
+sanity testing
+boundary analysis
+performance testing
+system integration testing
+functional testing
+test plan
+test coverage
+traceability matrix
+bug tracking
+katalon studio
+xls data input
+unix shell/perl scripting
+groovy
+iso 8583
+emv tags
+tcp
+postman
+curl-siege
+jmeter
+jcl
+cics
+unix-solaris
+vsphere
+proxmox
+ingenico
+equinox
+pax and innowi
+key management
+kpi
+dukpt
+key injection
+git-stash
+git-lab
+torquisesvn
+sourcetree
+oracle 12c
+postgresql
+mongodb
+pgadmin 4
+sql developer
+sql management studio
+toad
+microsoft office suite
+bugzilla
+redmine
+waterfall
+iterative
+restaurant manager
+symphony
+positouch
+iccverify
+vcms
+vts
+astrex
+discover rct
+ats
+mas
+mdfs
+aci-interchange
+aci-prm
+aci-adm
+tsys certifynow
+budget 5
+coaching
+communication skills
+communication  skills
+counseling
+customer services
+focus
+mathematics
+payroll
+property management
+record keeping
+staff  training
+adobe acrobat
+cms
+customer relations
+train employees
+great plains
+maintain inventory
+inventory control
+mrp
+router
+100 boundary systems
+defined
+benefits/compensation management
+process improvements
+application development
+arbonne international
+24 hour fitness
+symantec
+critical path
+etec systems
+salesforce
+engineering
+infrastructure
+partners
+distributors
+ordering
+registering
+renewing
+billing
+glenayre electronics
+quantum corporation
+costs
+claremont
+los angeles
+interorganizational collaborations
+interpersonal
+computer literate
+cpu's
+database software
+energy manager
+facility management
+laundry
+team leader
+legal
+msa
+navy
+radiography
+real estate
+strategic
+strategic plans
+written communication skills
+programming languages: c
+hp qtp
+physics: 81/100
+chemistry: 89/100
+virtual stock market
+business processes
+chemistry
+crm
+event management
+image
+qtp
+quick test professional
+tableau
+shielding
+isolation
+latchup
+antenna
+em
+hercules
+caliber
+"chip
+assembly router"
+aprisa
+regulator
+data management
+iq
+layout design
+real time
+sun-solaris
+chemical engineering technician
+engineering management
+equipment inventory
+staffing
+cooking
+gardening
+banking
+calculus
+credit
+database management system
+experiments
+mysql
+retail
+vba
+akanksha foundation
+accounting
+civil engineer
+front office
+director
+meeting facilitation
+mail
+multi-line telephone
+proofing
+self-starter
+spanish
+typing
+website
+air force
+conflict management
+senior management
+team leadership
+leadership development
+microsoft visio
+peer review
+project planning
+risk analysis
+asp.net 4.5
+clustering
+curriculum development
+customer satisfaction
+data analysis
+data mining
+data warehouse
+database design
+database management
+data warehousing
+environmental protection
+environmental science
+html
+instructor
+lecturer
+machine learning
+microsoft sql
+workshops
+decision-making
+experimentation
+lesson planning
+mechanical design
+nastran
+patran
+camera
+predict
+research and design
+army
+inspects
+marconi
+radar
+radio
+telephone
+control
+road
+bridging
+af/ rf generators
+transceiver analyzers
+frequency counters
+fdrs
+tdrs
+semiautomatic
+administration
+write/review ca/pa reports
+responses
+analyzing
+and summarizing information
+recalls
+corrective actions
+procedural breakdowns
+2012
+forecasting
+ims
+sap r/3
+strategy/planning
+supervising 4
+reduce waste
+a+
+account management
+alpha
+microsoft applications
+b2b
+bind
+cat 5
+computer hardware
+css3
+customer support
+dhcp
+dns
+fax machines
+firewall
+help desk
+human resources
+inventory management
+ipx
+java script
+jquery
+lans
+all microsoft
+exchange
+money
+publisher
+windows applications
+windows 95
+msql
+nsf
+network administration
+network security
+pc's
+pc hardware
+software installation
+ss7
+tech support
+software support
+telecom
+telephony
+vpn
+voice over ip
+voip
+web development
+wans
+windows server
+biology
+oral
+"cost
+analysis"
+equipment operation
+pq
+"process
+development"
+process-engineering
+"quality
+assurance"
+turkey
+carburetors
+ignition points
+alternators
+regulators
+oil change
+u.s. army
+ft. huachuca
+az
+completed 1998   •certificate
+aberdeen proving ground
+pueblo high school
+tucson
+lock-out/tag-out
+iso-9001 standards
+electrical equipment operation
+mechanical repair
+oil servicing
+electrical component repair
+safety awareness
+various testing equipment
+equipment/wiring installation
+solenoid/valves
+pc repair
+fabrication
+well organized
+premier
+back-up
+council
+internet usage
+leadership training
+exchange server
+mom
+novell servers
+performance management
+recruiting
+systems management server
+speech
+apple computers
+asset management
+equipment installation
+filling
+fire protection
+food safety
+hammer
+labor relations
+maintenance schedules
+microsoft nt server
+microwave
+novell
+phones
+uhf
+vhf
+water quality
+wonderware
+chill
+sc
+fax
+laboratory testing
+maple
+nds
+oss
+positioning
+technical documentation
+technician v
+upgrades
+welder
+written communications
+active directory
+ad
+imaging
+itil v
+mcse
+microsoft technologies
+producer
+sla
+desktop support
+supplier mgmt
+program engineering
+component procurement
+me planning
+schedule commitments
+state      december 4th
+baseline schedules
+change management
+through approvals
+bca
+business operations
+business plan
+business strategy
+design of experiments
+financial planning
+ie
+people management
+mgmt
+product marketing
+max
+production management
+sound
+tal
+vision
+rough sketches
+troubleshooting diagrams
+layouts and plans
+ms  office
+run simulation
+implementation
+including verification
+testing tools
+manual drawings
+installing
+state      operates
+modifies
+icing indicators
+drive units
+spray units
+test support structure
+standpipe systems
+fire pumps
+panels
+releasing
+updating
+wrong parts
+lss
+closing
+articles
+oam
+chemcad
+c+
+antivirus
+apple
+bgp
+call center
+ccna
+cd-rom
+cisco ios
+encryption
+dell
+help desk support
+insurance
+internet explorer
+linux and os
+windows 7
+microsoft windows
+msi
+networking i
+ospf
+printer
+ssl
+system administration
+tables
+tv
+troubleshooting i
+video conferencing
+acrylic
+engineer-in-training
+eit
+graphics and design
+material science
+microsoft excel
+microsoft powerpoint
+"project
+management"
+"verbal communication
+skills"
+verbal communication skills
+weighing
+experience with autocad
+dynamic ax
+peoplesoft
+sales force
+advertisements
+advertising
+ad copy
+financial
+market trends
+workbench
+accounts receivable
+aia
+bank reconciliation
+daily cash receipts
+cash flow
+consultant
+financial reports
+financial statements
+general ledger
+general ledger accounts
+pivot tables
+spreadsheet
+tax
+timberline
+content management
+camc
+charleston
+9800
+dsl/cable
+hubs
+ide/ scsi devices
+network storage devices
+vb.net
+budget management
+calculator
+facilities management
+financial reporting
+human resource management
+inventory levels
+java 1
+java 2
+problem-solving skills
+maintain records
+re-engineering
+software training
+supply chain management
+tango
+user support
+water treatment
+web design 1
+web design 2
+websites.
+metallurgical
+metallurgical engineering
+fundraising
+mec
+exploration
+metallurgy
+laboratory
+xrf
+coatings
+corrosion
+materials engineering
+pipeline
+machine tools
+team work
+c programming
+macintosh
+math
+98
+operating system
+35mm
+pro-engineer
+unigraphics
+asp
+rest  jquery
+bootstrap
+html5  mssql
+dts
+ssis
+ssrs  iis 5
+iis 6  agile
+kanban  objective c
+including customization delivery
+net
+data migration
+database administration
+driving
+e-commerce
+information technology
+market planning
+order management
+presenting
+pricing
+product manager
+real-time
+sales management
+stories
+ui design
+venture capital
+year-end
+computer-aided design (cad)
+nx unigraphics
+catia  mmachining
+v5
+sstatistical data analysis
+quality function deployment
+5s jmp
+pam-stamp
+3-d  ddesign
+funds
+statistical analysis
+sharepoint & costpoint
+administrative assistant
+benefits
+clerical
+mailing
+office equipment
+reception
+scanning
+repair and overhaul
+block upgrades
+prototypes
+suppliers
+lm reps
+define scope
+project objectives
+status reports
+support equipment
+align
+tolerances
+bpo/pre-flight
+aircraft systems
+components
+letters
+schedule maintenance
+staff development
+technical assistance
+construct
+current
+microsoft team foundation
+microsoft test manager
+tera term
+gshell
+utp
+including refractometer
+cd
+autodesk inventor
+abaqus
+dynamic
+gd & t
+tolerance analysis
+advanced manufacturing
+safety procedures
+process parameters
+increase material flow
+engineering analysis
+finite element analysis
+chaudhary r.
+ingle a. (phd)
+cad/cam
+lathe
+prototyping
+dasylab
+electrical
+lean/5s
+hydraulic testing
+applied science
+state     applied science
+munitions systems technology
+printing
+extrusion
+die design
+iprime
+microstructures
+polymer processing
+servo controls
+calibrations
+6 sigma
+asq stats
+advance regressions
+instron testing methods
+corona treating
+isd 287
+american red cross
+certified              skills    administrative
+chemist
+cpr
+data collection
+design of experiment
+dsc
+ind
+indexing
+peachtree
+seminars
+sigma
+technical training
+tutoring
+algebra
+geometry
+college math
+presentation
+analysis
+grading and evaluation
+esl students
+technology integration
+classroom monitoring
+quantitative analysis
+operations management
+optimization  c
+google docs
+ajax
+expert systems
+neural
+pl/sql
+pci
+perl
+public safety
+real-time 3
+receiving 6
+valuation
+vc
+agile software development
+handsoft
+epdm
+clearquest
+lean/six sigma
+safety engineering
+"requirements
+engineering creation"
+ansys 14
+dfma
+dfa/dfm
+zemax
+i-deas
+intralink
+"bill of
+materials"
+cage codes
+asme standards
+simulink
+software engineers
+test engineers
+technical artists and
+bc
+citrix
+laboratory equipment
+process equipment
+business analysts
+documentation specialists
+multi-channel business applications
+personalization features
+cell phones
+pdas (palm vii
+voice
+scheduling and dispatching
+spare parts
+oracle/sql
+management
+standards
+support
+required escalations
+jeopardy notifications
+risk
+gui usability
+boundary
+performance
+regression
+findings
+donators
+employees
+events
+acceptance
+user preferences
+national education center
+san francisco
+kensington training program
+san mateo
+cases
+regression testing
+client/server
+integration
+integration testing
+integrator
+lotus notes
+ms visual basic
+software quality assurance
+network protocols
+qa test
+test cases
+application analysis
+application support
+automated test scripts
+basis
+business process management
+dispatching
+issues management
+maintenance repair
+planning modules
+process management
+qa testing
+staff training
+systems support
+test scripts
+graphical user interface
+wireless
+black box
+usability
+adt
+pocket pc
+systems administration
+telephones
+wap
+retail marketing
+architecture
+database systems
+design review
+quality engineer
+software quality engineer
+test plans
+white box
+white box testing
+db2
+dbase
+dbase iv
+netbeui
+new products
+rdbms
+solutions
+storage area network
+structured software
+system integration
+virtual machine
+visual test
+vm
+assurance analyst
+automated testing
+back end
+data integrity
+dos
+file
+invoice
+ms exchange
+ms-dos
+business intelligence
+e-business
+embedded systems
+qa engineering
+real time embedded
+wireless data
+visio)
+erp-sap
+sas-stat
+animations
+visual management
+5s
+standardized work
+boring machine
+checks
+tests
+six sigma methodology
+continuous improvement techniques
+safety engineering (fta
+fmea)
+mission arlington
+arlington
+texas.         skills     asp.net
+grinders
+languages
+visual basic 6
+ms visio
+stat graphics
+manufacturing yield improvement
+cip
+mill
+scheme
+"system
+design"
+naval
+fm
+sps
+drilling and tapping

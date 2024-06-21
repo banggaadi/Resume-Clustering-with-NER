@@ -1,0 +1,578 @@
+0
+business management
+conversion
+client
+customer satisfaction
+customer services
+"customer service
+experience"
+direct sales
+direction
+"executive
+management"
+focus
+forms
+hiring
+languages
+director
+marketing
+meetings
+works
+enterprise
+network
+"performance
+management"
+quality
+""
+real time
+recruiting
+sales
+"sales
+analysis"
+spanish
+strategy
+calendaring
+client relations
+computer proficiency
+coordination
+creative problem solving
+critical thinking
+customer needs assessment
+customer service
+data entry
+documentation
+email
+executive management support
+filing
+grammar
+internet research
+letters and memos
+multi-task management
+organizational skills
+prioritization
+scheduling
+service orientation
+telephone skills
+time management
+travel arrangements
+type 85 wpm
+typing
+vendor management
+order entry
+re-pricing of claims
+receptionist
+advanced problem-solving
+rims
+sap
+outlook
+data warehouse maintenance
+microsoft office suite
+microsoft outlook
+microsoft powerpoint
+microsoft word.
+attention to detail
+billing
+data analysis
+e-mail
+english
+organize files
+financial
+financial reports
+investments
+leadership
+microsoft office
+office
+portuguese
+risk management
+selling
+strategic planning
+phone
+web page
+account management
+b2b
+balance
+budgets
+budget
+business development
+business intelligence
+contract negotiations
+clientele
+clients
+e-commerce
+executive management
+senior management
+gateway
+help desk
+hp
+kronos
+market
+materials
+optimization
+performance reviews
+policies
+proposals
+speaking
+qa
+quality assurance
+real-time
+reporting
+specification
+staffing
+symantec
+technical support
+telecommunications
+training materials
+powerpoint
+excel
+project initiation
+planning
+industry updates
+monitor satisfaction
+word
+basic
+business works
+cable
+capacity planning
+coaching
+computer peripherals
+computer hardware
+computer applications
+driving
+features
+frame
+functional
+java
+leadership skills
+logic
+mentoring
+ms office
+windows operating systems
+share point
+presenting
+processes
+project lead
+project management
+sound
+sql
+strategic management
+supervision
+translating
+troubleshooting
+verbal communication skills
+visio
+web designing
+wise
+workflow
+written
+mi
+cincinnati
+screening resumes
+behavioral based interviewing
+high energy
+multi-tasking
+recruitment
+performance management
+michigan
+ohio and midland
+hi-potential program
+query resolution
+one-on-one meetings
+town halls
+city
+branding
+bi
+change management
+closing
+communication skills
+employee relations
+fast
+human resource
+hr
+mac os
+managing
+ms office suite
+windows
+98
+oracle applications
+organization development
+performance appraisal
+process improvement
+promotion
+settlements
+strategic
+"survey
+design"
+asset management
+administrative
+computer proficient
+conflict management
+contract negotiation
+digital photography
+file management
+problem solving
+property management
+social media
+routers: cisco 17xx
+18xx
+26xx
+28xx
+37xx
+38xx
+3750
+45xx
+65xx series
+nexus  5k
+2k
+7k
+eigrp
+bgp
+rip-2
+pbr
+route filtering
+redistribution
+summarization
+vtp
+stp
+pvst+
+rpvst+
+multicast operations
+layer 3 switches
+ether channels
+fast ethernet
+gigabit ethernet
+fddi
+cddi
+token ring
+channelized links (e1/t1/e3/t3)
+fiber optic circuits
+frame relay
+isdn
+hsrp
+glbp
+irdp
+nat
+snmp
+syslog
+ntp
+dhcp
+cdp
+dns
+fxo/fxs/e&m/t1/isdn/ pri
+radius
+ips/ids
+dmz setup
+cbac
+cisco nac
+acl
+ios firewall features
+ex 4200
+ex 4500
+mx-480
+m series
+srx210
+change
+telecommunication
+multi-tasking call center
+contracts
+insurance
+team building
+mac
+outlook exchange
+newsletter
+personnel
+presentations
+re-engineering
+spreadsheets
+team player
+strong public speaker
+professional and friendly
+active directory
+backup
+ccna
+cisco
+cisco certified
+hardware
+dec
+erp
+firewalls
+ftp
+gui
+hindi
+ip
+lan
+access
+microsoft certified professional
+mcp
+mail
+windows 8
+windows7
+windows xp
+migration
+ess
+network associates
+network printers
+network and troubleshooting
+networking
+ospf
+printer
+protocols
+rip
+routers
+routing
+sap basis
+servers
+switches
+phones
+telnet
+terminal server
+vista
+wan
+post:- abhana
+disit:- damoh
+adobe
+advertisements
+art
+interpersonal communication
+excellent communication
+creative design
+client satisfaction
+dependable
+adaptable learner
+staff training
+first aid
+government security clearance
+graphic design
+computer graphics
+leadership ability
+organized individual
+messaging
+weapons training
+page-layout
+critical thinker
+photography
+very fast learner
+tear gas training
+honesty
+loyalty
+integrity
+proficient in sap
+evms
+accruals
+call center
+counseling
+financial management
+forecasting
+invoicing
+mod
+network support
+procurement
+profit
+vendor relations
+microsoft office: word
+pp
+vurv
+taleo
+banner
+brass peoplesoft
+hireexpress
+and fmp
+a level 2
+analyst
+arts
+as/400
+bridges
+c
+call centre
+coach
+credit
+desktops
+engineer
+event management
+ids
+maintaining inventory
+inventory
+itil
+itil v
+knowledge management
+laptops
+logging
+microsoft exchange
+windows 7
+win
+win 7
+win 2000
+win 95
+nt
+msn
+operating system
+oracle
+punjabi
+san
+sla
+sql server
+ssl
+tax
+technical documentation
+troubleshoot
+video
+vpn
+vc
+karan vihar
+kirari extn- ii
+nangloi
+c++
+c#
+microsoft project
+8.1
+firefox
+sql server 2005
+policy amounts
+policy premium dates
+transfer funds
+system security
+cases
+test cases
+functional testing
+integration
+integration testing
+integrator
+android
+android sdk
+ios
+mapping
+safari
+software testing
+statistics
+test plans
+topo
+writing functional
+test engineer
+writing test
+writing test cases
+ms sql server
+retail
+retail marketing
+system testing
+acceptance testing
+gis
+html
+javascript
+linux
+performance testing
+regression testing
+scripting
+self motivated
+software development
+structured software
+system integration
+user acceptance
+user acceptance testing
+xml
+operations
+database
+insurance management
+payments
+b2b software
+high performance computing
+security
+software engineering
+trading
+program management
+service management
+client relationship management
+sales and solutioning
+transition management
+managing p&l
+a p
+behavioral health
+business operations
+business planning
+business process
+consulting
+contact management
+customer relationship management
+crm
+customer care
+dell
+direct marketing
+entrepreneur
+fp&a
+gross profit
+human resource management
+human resources
+inside sales
+legal
+management consulting
+organizational
+process re-engineering
+sales support
+accounts payable
+ad
+ap
+automation
+trial balance
+book
+debit
+fixed assets
+indexing
+processing of invoices
+invoice processing
+letters
+ms-word
+purchase requisitions
+purchasing
+receiving
+reconciling
+shared service
+sla i
+sun
+acquisitions
+banking
+cl
+cpa
+inventory control
+microsoft dynamics
+mis
+navision
+negotiation
+requirement
+stock control
+supervising
+moorthy nagar
+villivakkam
+faxing
+anesthesia
+labs
+registration
+well baby newborn
+inpatient claims
+power point
+internet explorer
+cms pricers
+drg calculator
+icd-9
+cpt
+problems
+"power
+point"
+facets
+ika systems
+"drg
+calculator"
+claims processing
+active
+long term disability
+carrier eligibility
+brokers
+government regulation
+benefits
+brochures
+calculator
+cms
+cpt coding
+team lead
+team leader
+microsoft access
+microsoft word
+police
+coding

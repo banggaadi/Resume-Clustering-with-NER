@@ -1,0 +1,2136 @@
+0
+budget
+cabling
+cisco
+hardware
+client
+documentation
+electrician
+feasibility studies
+funds
+information technology
+inspector
+lan
+materials
+access
+network
+networking
+networks
+personnel
+telephone systems
+printers
+processes
+project management
+quality assurance
+routers
+system design
+technical assistance
+technician
+telecommunications
+troubleshoot
+troubleshooting
+upgrades
+video
+cable
+and telephone.
+army
+counseling
+customer assistance
+database
+inventory
+ip
+windows 7
+policies
+protocols
+repairs
+routing
+san
+supervisor
+test equipment
+wan
+photoshop
+premier
+art
+computer repair
+curriculum development
+customer service training
+department of health
+dreamweaver
+fireworks
+flash
+help desk
+html coding
+illustrator
+indesign
+inventory control
+mac os
+market
+excel
+microsoft networking
+outlook
+powerpoint
+windows os
+word
+multimedia presentations
+natural
+network management
+novell
+php
+progress
+quarkxpress
+staff training
+technical support
+user training
+phone
+wiring
+staff
+trained
+wireless network
+visits
+funerals
+state
+peoplesoft hcm 8.8/9.x
+peoplesoft financials 8.8/9.x
+peopletools 8.51/ 8.54
+sql developer
+ms office
+visio
+ms project
+dell stat 5.6/5.7
+application designer
+putty
+sharepoint
+oracle enterprise manager
+stat admin
+toad
+service now
+remedy
+heat
+oracle e-business
+financial
+operational
+security
+control walkthroughs
+control testing
+remediation assistance
+implementations
+operational audits
+permission lists
+data owners
+end users
+improvements
+monitor
+developers
+quality engineers
+peers
+dashboards
+ps financials
+ps campus solutions
+cybersecurity assessments
+peoplesoft financial systems
+procurement
+audit schedules
+risk management
+compliance
+analysis
+business owners
+peoplesoft
+oracle
+siebel
+payroll
+peoplesoft hr
+define business processes
+invoice approvals
+employee time approvals
+sponsor roadmap
+coaching plan
+business leaders
+applications
+track
+modify
+test
+debug
+determined root cause
+e-procurement
+vpn connectivity
+blackberry
+ccna
+approach
+as/400
+audit reports
+auditing
+business owner
+business process
+business processes
+business process re-engineering
+change management
+cisa
+citrix
+coaching
+continuous improvement
+council
+clients
+customer satisfaction
+dell
+e-business
+financials
+financials 8.8
+financial reporting
+functional
+grants
+hp
+hubs
+hr
+information systems
+internal audit
+it management
+it support
+itil
+leadership
+team lead
+mainframe
+meetings
+mcse
+migration
+enterprise
+oncology
+developer
+peoplesoft hrms
+peoplesoft 9.1
+peoplesoft 9.2
+peopletools
+peopletools 8.51
+quality
+re-engineering
+reporting
+requirement
+requirements gathering
+risk assessment
+sarbanes oxley
+sas
+sigma
+sql
+strategy
+structured
+supplier management
+user support
+technical documentation
+upgrade
+validation
+vpn
+articles
+ad
+cisco ios
+cisco routers
+contracts
+dell poweredge servers
+designing
+erp
+firewall
+focus
+groupwise
+help desk support
+ibm
+ids
+laptops
+notebook computers
+linux
+managing
+mas90
+exchange
+office
+windows
+windows xp
+network engineer
+network printers
+operating systems
+pci
+phone system
+pos
+prime
+printer
+purchasing
+express
+research
+router
+scanners
+sco unix
+ssl
+switches
+cisco switches
+symantec
+trend
+vendor management
+vista
+voip
+windows server
+workflow
+a  certification
+active directory
+anti-virus
+compliance manager
+ca
+concept
+contract negotiations
+conversion
+encryption
+desktops
+disaster recovery
+dns
+gateway
+imaging
+information security
+legal
+mac
+director
+mcafee
+mediator
+mentoring
+microsoft exchange
+mail
+windows (xp
+negotiation
+programming
+proxy
+red hat
+relationship building
+statistics
+tcp/ip
+technical trainer
+phones
+author
+administrative
+analyst
+agency
+cat5
+engineer
+engineering support
+government
+ims
+local area networks
+local area network
+lans
+law
+project leader
+project coordination
+qa
+quick
+radio
+sat
+scheduling
+surveys
+switch
+systems integration
+telephone
+theatre
+uhf
+ultra high frequency
+voice and data
+4d
+adobe products
+apple
+automation
+backup
+broadcast
+budget planning
+computer technician
+databases
+dhcp
+editing
+final cut
+ftp
+magic
+microsoft exchange server
+2000
+network administration
+os
+operating system
+power builder 6.5
+power builder 9.0
+quickbooks pro
+sales
+servers
+software installation
+microsoft sql server
+streaming video
+sybase sql anywhere
+television
+windows 2000 server
+academic
+adp
+architect
+b2b
+behavioral health
+billing
+book
+broadvision
+cad
+case management
+ventura
+crm
+customer support
+data collection
+data warehouse
+decision support
+delivery
+document management
+edge
+estimating
+front office
+drawing
+insurance
+internet marketing
+law enforcement
+leadership skills
+mentor
+microwave
+new construction
+packaging
+pacs
+patient care
+permitting
+presentations
+process re-engineering
+project leadership
+proposal
+public health
+public safety
+real-time
+requirements definition
+rms
+sap
+supervision
+tax
+training materials
+utilities
+warrants
+web development
+asp.net
+adobe acrobat
+adobe dreamweaver
+adobe photoshop
+application design
+arts
+billing systems
+business objects
+business operations
+c++
+client server
+strong communication skills
+"crystal
+reports 9"
+"database
+development"
+database development
+database design
+forms
+frame
+html
+computer support
+marketing materials
+"microsoft
+access"
+microsoft office
+microsoft sharepoint
+oracle database
+pl/sql
+personnel management
+police
+profit
+report writing
+sdlc
+software development
+strategic planning
+system administration
+user manuals
+visual basic
+web intelligence
+branding
+budgets
+business analysis
+bi
+business intelligence
+business management
+data analysis
+dba
+decision making
+hiring
+producing
+sap bw
+ms sql
+staff development
+systems architecture
+website
+adobe
+antivirus
+backup exec
+call center
+capacity planning
+computer assembly
+direct attached storage
+das
+dell servers
+iso 9000
+logistics
+logistics and management
+microsoft certified professional
+microsoft office professional
+microsoft project
+microsoft sql
+microsoft visio professional
+windows 8
+nas
+network attached storage
+new product development
+pbx
+quality improvement
+robotic
+safety
+storage area network
+teamwork
+technical analysis
+visio professional
+vision
+web portal
+integrity
+repair
+files
+implementing
+monitored
+threat bulletins
+nt
+and win 2000)
+network connectivity
+tcp/ip configuration
+provided technical support
+email boxes
+distribution lists
+performed upgrades
+c
+client and server
+compaq
+data processing
+drivers
+email
+ghost
+hewlett-packard
+internet connectivity
+ms office products
+microsoft office suite
+win9
+windows 2000
+win 2000
+windows 95
+98
+windows nt
+monitors
+network security
+norton antivirus
+peripherals
+various printers
+desktop support
+trouble-shoot
+basic
+benefits
+broadband
+budgeting
+cobol
+computer applications
+conferences
+consulting
+customer service
+database management
+dbase iv
+direction
+edi
+features
+fortran
+gis
+ibm compatible
+inspection
+interpretation
+laser
+macintosh
+mapinfo
+mathematics
+ms excel
+management information system
+naval
+novell netware
+oil
+pascal
+pc networking
+camera
+proposals
+reception
+relational database
+rpg iii
+shell
+software engineering
+strategic
+sun sparc
+telecommunication
+transmission
+unix and c
+unix
+vax
+vms
+wide area network
+microsoft outlook 2013
+windows 10
+system security
+data automation
+circuit design application
+unix client server
+interpersonal skills
+network systems
+content encryption
+customer relations
+databases query
+electronic filing
+microsoft windows deployment
+software imaging
+lotus notes
+mainframes
+formal presentations
+radio communication
+geographical statistics
+and technical support.
+detail oriented
+legal terminology
+managerial experience
+meeting organizational skills
+advanced problem-solving skills
+paralegal
+performance appraisals
+lr&w
+westlaw
+lexisnexis
+accounting
+cisco certified
+e-mail
+employee training
+finance
+human resources
+team leadership
+managing people
+ms office suite
+windows 98
+needs analysis
+network administrator
+organizational development
+programmer
+seminars
+service level agreements
+sla
+telecom
+telephony
+trainer
+wordperfect
+account management
+cables
+ms exchange server
+hp unix
+vbscript
+visual basic programming
+network/server security
+geographic information system
+vbscripts and powershell
+sans
+lync 2013
+communicated with teachers
+managers and students
+fortress desktop security
+rosetta stone
+proofpoint spam filter
+iboss web filter
+group policy
+2012
+2003
+7
+10
+linux hp unix
+microsoft office 2007
+2010
+2013
+2016
+skype for business
+escape financial system
+alertus desktop alerting
+""
+laserfiche
+sharepoint 2013
+informacast speaker system
+ram
+video cards
+hard drives
+raid controllers
+network cabling
+motherboards
+20+ years' experience)
+it operations (intermediate
+cna
+a+
+mcp
+comptia a+
+a+network
+a+ security
+hippa
+series 7
+63
+24 microsoft
+comptia
+sec  series 7
+12        skills    a+
+a+ certification
+hardware installation
+dos
+hardware support
+internet explorer
+windows 8.1
+software documentation
+user interface
+asp.net 4.5
+vb.net
+contract negotiation
+etl
+training
+executive management
+senior management
+goldmine
+healthcare it
+marketing
+network analysis
+performance reviews
+process enhancement
+product development
+sql server
+visual studio
+american sign language
+excellent communication
+english
+power point
+microsoft word
+works
+problem solving skills
+translation
+disaster recovery planning
+inspects
+notebooks
+mechanical
+nortel
+pick
+scanner
+script
+shipping
+user documentation
+arabic
+back-up
+nt servers
+pc's
+training programs
+trouble shooting
+.net
+adabas
+ado
+agile
+application development
+asp
+banking
+banyan
+cardiology
+data management
+database administration
+xml
+iis
+it strategy
+c#
+network support
+object modeling
+oracle dba
+oracle sql
+requirements analysis
+tableau
+web applications
+year 2000
+software: active directory
+hp insight manager
+emc avamar
+symantec ghost
+voltage email encryption
+websense
+quest archive manager
+symantec backup exec
+microsoft iis
+ca arcserve
+barracuda spam firewall
+blackberry enterprise server
+sophos anti-virus
+trend micro anti-virus
+vmware
+hyper-v
+barracuda backup
+barracuda web filter
+cisco call manager
+cisco uccx
+exact target
+cisco  switches
+checkpoint firewalls
+hp procurve switches
+meraki wi-fi
+cisco wi-fi
+hp proliant
+dell poweredge.
+streamline
+business systems
+closing 3
+guardian
+investments
+itil v
+money
+msa
+negotiating
+relationship management
+rfi
+rfp
+sales support
+clerical
+good communication skills
+computer knowledge
+excellent customer service
+electrical wiring
+filing
+mechanic
+weapons
+multi-tasking
+record keeping
+spanish
+supervising
+answering phones
+vra
+a+ certified
+cash flow
+content management
+coral
+extranet
+firewalls
+lotus
+microsoft access i
+microsoft access
+microsoft certified
+microsoft office 97
+microsoft windows 2003
+microsoft nt 4
+nt 4 0
+navision
+office suites
+organizing
+report writer i
+sql 2000
+sybase
+system administrator
+training employees
+voice mail
+web site
+bathrooms
+building exterior
+parking lot
+state             information technology
+microsoft great plains
+accountmate
+campus nexus crm
+arcserve
+audio
+bgp
+linc
+domino
+ma
+exchange server
+novell servers
+real estate
+server configuration
+upgrading
+language: chinese
+adobe suit
+java
+cording
+rfid
+e-commerce
+(hr) business marketing
+qms statistics
+including:er
+registration
+pharmacy
+interpersonal
+content
+debugging
+human resource
+j2ee
+ldap
+memory
+optimization
+organizational skills
+problem analysis
+self-starter
+spreadsheet
+system integration
+team player
+storage systems
+network equipment
+imac
+ipad
+configured
+including desktops
+product deficiencies
+quality control
+ado-ekiti    -    city
+and remedy  installing
+hosted applications
+desktop
+dutch
+and russian
+oral
+conflict resolution
+cpr
+creativity
+first aid
+fundraising
+instruction
+philosophy
+read
+recording
+sound
+teacher
+teaching
+positive and welcoming
+caring and secured
+safe-risk taking
+theme based
+emotionally
+physically
+support
+equal
+turn taking
+helping others
+dairy foods
+dedicated
+restrictions
+and responsibilities
+excitement
+pto member
+traditional events
+patriotic events
+program observation
+children needs
+different vehicles
+group activity
+green light
+wheels
+handles
+mirrors)
+safety (hand signal
+helmet
+lanes
+seat belt
+cars/trucks
+boats/ships
+air plane
+make paper boats
+paper airplane
+train blocks
+learn shapes
+vehicle sounds
+coloring sheets
+origami papers
+books
+flash cards
+outdoor with bikes
+theme based songs
+little red wagon
+train set
+play dough
+raisins
+peanut butter
+administrative duties
+schedule appointments
+asset management
+attorney
+balance
+billing system
+cashier
+catalog
+com
+credit
+data entry
+debit
+fast
+laptop computers
+legal documents
+microsoft excel
+ms windows
+ms windows xp
+ms word
+network setup
+notary public
+order office supplies
+organizational
+receptionist
+sims
+install software
+spreadsheets
+answer phones
+written
+c+
+hardware configuration
+computer hardware
+configuration management
+contract management
+copying
+equipment installation
+fax machines
+mercator
+microcomputers
+share point
+win 7
+nec
+oct
+copiers
+pr
+software troubleshooting
+systems administration
+systems analysis
+systems development
+tables
+telephones
+unique
+certification specialists
+ca 92121 network+
+tape backups
+business development
+cd
+cpu
+desktop pc
+dvd
+electronics
+graphs
+hp-ux
+knowledge management
+messaging
+mcse 2003
+netmeeting
+ms outlook
+ms outlook 2000
+windows applications
+navy
+netview
+network hardware
+nms
+pc anywhere
+cameras
+problem resolution
+proliant
+ras
+schematics
+scripts
+service level agreement
+software - troubleshooting
+sun servers
+tivoli
+type
+usb
+web site content
+cat 5
+air force
+competitive
+dictation
+ethernet
+internet protocols
+team leader
+microsoft office 2000
+pricing
+technical training
+word perfect
+and qualifications    windows
+wireshark
+snort
+tcpdump
+encase
+bash programming
+computer networking
+state       analyzed software
+hipaa
+iso 27001
+mac osx
+http/apache
+dns/bind
+ssh
+snmp
+quickly gaining trust
+developing spreadsheets
+faxing reports
+installed
+rdms
+reports
+grantee
+participation
+vba
+client-server
+dec
+directing
+ibm mainframe
+modems
+vse
+written communication  ai
+project management  budgeting
+python  budgets
+quality  budget
+research  business intelligence
+sales  change management
+scheduling  conflict resolution
+sdlc  critical thinking
+network design
+six sigma  crm
+next
+software development  clients
+sql  client
+staffing  data collection
+perl
+strategic  data migration
+problem-solving
+time management  databases
+upgrades  designing
+upgrade  senior management
+state        develops
+develop
+implementation
+throughput
+organization
+infrastructure
+and manage schedules
+resources
+emerging ai
+digital
+schedule adherence
+training end users
+communications
+testing
+marketing and management
+international business
+confluence
+identify interdivisional dependencies
+schedule
+including risks
+planned
+sprint reviews
+sprint retrospectives
+staging
+excellent interpersonal skills
+cost reduction
+electronic health records
+market development
+microsoft products
+risk analysis
+security analysis
+view
+emails
+cis
+budget management
+concise
+promotion i
+retail
+selling
+written communication skills
+microbial testing
+method validation
+efficient internet browsing
+sas programming
+uplc
+uv
+ft-ir
+dissolution apparatus
+buffer preparation
+iso
+identification
+cytotoxic activity
+sds-page
+tissue culture
+gc
+lc/ms
+tlc
+.  ftir
+uv-vis spectrophotometer
+and kf coulometer
+biotechnology
+calibration
+cell culture
+chemistry
+dna
+elisa
+experiments
+ftir
+hplc
+laboratory equipment
+page
+pcr
+scanning
+sop
+symposium
+weighing
+workshops
+administrative support
+client/server
+client support
+mac hardware
+microsoft exchange 2003
+web servers
+3com
+bay networks
+hub
+netware
+software support
+sales software: salesforce.com
+tapscan  cms:  joomla
+process development
+process improvement
+software testing
+serena version manager
+serena business manager
+serena business administrator
+reflections
+winscp
+javascript
+microsoft windows server
+microsoft active directory
+microsoft group policy
+mac os x
+apple ios
+android
+centos
+suse enterprise server
+"novell
+netware"
+novell edirectory
+novell groupwise
+novell datasync/mobility server
+"novell
+teaming"
+novell zenworks
+adobe connect pro
+apache
+openssl
+mysql
+bind
+expression engine
+aerohive
+bluesocket wireless controller
+barracuda anti-spam appliance
+barracudaware
+3com nbx
+avaya
+cisco pix
+cisco network assistant
+vmware esx
+vmware fusion
+pharos uniprint
+ntop
+nagios
+nagiosql
+icinga
+cacti
+realchat
+mrbs
+webcalendar. vbulletin
+movable type
+wordpress
+mediawiki
+gallery2
+gallery3
+simple
+joomla
+moodle
+mailman
+ems campus
+ems master calendar
+virtual ems
+c-cure
+especially with apple
+micron
+lenovo
+hp laserjets
+canon mfds
+300
+"billing
+system"
+"citrix
+metaframe"
+novell groupwise 6.5
+groupwise 5.x
+windows nt 4.0
+nds
+novell 6.0
+novell 6.5
+novell 4.x
+t1
+time management
+consultation
+real time
+systems engineer
+video conferencing
+operations
+ms sql server
+database systems
+life cycle
+ms asp
+online solutions
+project launch
+solutions
+sql server 2000
+system development
+closer
+media strategy
+online marketing
+bank card
+collections
+data migration
+receivables
+intranet
+maintenance
+application support
+archiving
+subject matter expert
+work flow
+business requirements
+graphical user interface
+increase
+kronos
+load balancing
+offshore
+production environment
+belt certified
+black belt
+six sigma
+six-sigma
+associate
+coding
+css
+dhtml
+frontpage
+minitab
+retail sales
+self motivated
+structured software
+test plans
+time & attendance
+time and attendance
+act!
+acrobat
+after effects
+premiere
+consultant
+documentum
+freebsd
+graphic designer
+html5
+ms iis
+internet communications
+languages
+logo
+apple mac
+ms access
+ms exchange
+microsoft windows
+multimedia
+os 7
+print advertising
+print design
+robotic systems
+sage
+microsoft visual basic
+web designer
+web design
+webmaster
+azure
+bash
+batch
+cisco asa
+datadomain
+emc
+enterprise vault
+epo
+file servers
+gpo
+isa
+powershell
+proxy server
+solarwinds
+storsimple
+tmg
+ubuntu
+visual basic script
+vbs
+veritas netbackup
+vranger
+veeam
+vdi
+virtual manchine
+nmap
+zenmap.
+o365
+heat call logging
+crystal reports
+t3 voicemail
+netmotion
+novell imanager
+management
+state      identify
+install
+program
+configure
+modifications
+over the phone
+research complex inquiries
+development
+training classes
+correspondence
+chico center
+orland
+paradise
+procedures
+techniques
+powerpoint and publisher)
+office assistant
+legal office assistant
+brochures
+news releases
+80 new systems)
+hardware repair
+memory upgrades
+software installs
+data dictionaries
+attendance
+database software
+desktop publishing
+desktop publisher
+equipment inventory
+special events
+html web design
+in design
+logging
+macros
+publisher
+newsletter
+sap r/3
+training material
+tutoring
+web server
+customer services
+electronic medical records
+"help
+desk"
+materials management
+scrum
+computer operations
+cost analysis
+publications
+publication
+training manuals
+ads
+advertising
+ibm aix
+color
+digital photography
+digital video
+direct mail
+ecommerce
+"final
+          cut pro"
+sgi irix
+logic
+loss prevention
+"lotus
+          notes"
+marketing strategy
+newspaper
+prepress
+"print
+          advertising"
+print production
+video post production
+api
+bloomberg
+bonds
+business planning
+design and construction
+equities
+equity
+fidessa
+fixed income
+gmp
+goal-setting
+team-building
+managerial
+order management
+pc hardware
+reuters
+securities
+trading systems
+trading system
+vendor relations
+vm
+attention to detail
+business solutions
+charts
+cognos
+fax
+forecasting
+great plains
+jd edwards
+microsoft outlook
+microsoft works
+problem solving
+supply chain
+transportation
+travel arrangements
+multiple website support
+coordinating
+department
+data
+state    computer assistant
+using linux
+including software migration
+000
+adobe suite
+removed viruses-spyware
+ii
+daily operations
+including system backups
+user profile setups
+city
+content management systems
+team collaborator/facilitator
+innovator   inspection
+audits
+researcher
+problem solver
+aix
+business solution
+frame relay
+db2
+innovation
+notes
+performance management
+phd
+rehabilitation
+relational databases
+scada
+staff supervision
+technical management
+track-it
+water treatment
+in theming
+python
+dms ii
+xhtml
+eclipse
+bluej
+jgrasp
+apache struts
+os x
+struts
+meeting department standards
+design
+hardware platforms
+enterprise software applications
+and outsourced systems
+practices
+accounting systems
+negotiate contracts
+data integration
+data modeling
+data warehouses
+due-diligence
+faxing
+lean manufacturing
+loan origination
+modeling
+improve processes
+web sites
+websites
+software licenses
+architects
+manage
+software
+suppliers
+retrieve
+maintained
+including patch management
+account maintenance
+bakermaks
+red hat linux
+team building
+team performance
+shell scripting
+evaluate
+systems software
+applications software
+montgomery
+asm
+capability maturity model
+cmm
+data dictionary system
+database and applications
+due diligence
+government regulations
+oracle rdbms
+scripting
+sqlloader
+unix shell scripts
+programming languages: java/j2ee
+restful-web services
+hibernate
+angularjs
+reactjs
+jquery
+bootstrap
+selenium webdriver
+cucumber  databases: mysql
+postgresql
+mongodb
+maven
+ant  practices: agile/scrum
+waterfall
+tdd
+clean coding
+single page application
+rest
+grunt
+npm
+node
+json
+jenkins  ide: eclipse
+intellij
+aop
+dao
+jdbc
+transaction
+annotation
+mifare
+desfire
+jsp
+file handling
+io
+generics
+code enhancements
+kathmandu engineering college
+annual technological festival
+udp
+http/s
+stp
+hsrp
+isis
+rip
+ospf
+mpls
+smtp
+ipsec
+vlan
+cisco packet tracer
+virtualbox
+aws
+ccomputer communication networks
+multimedia communication
+apache2
+http
+$20 m budget
+600+ retail locations
+6000 mobile technicians
+90 warehouses
+2 distribution centers
+2-way text
+text to chat
+web chat
+multi-modal self-service experience
+chat bots pilot
+personalized promo codes
+agents
+work order management
+platforms:  windows 2000
+win 3.11/95/98
+dos 6.22
+citrix ica
+cisco 2500 switches
+hp laser jets
+citrix metaframe xp
+symantec: pc anywhere
+adobe:                       acrobat
+partition magic
+adware
+spyware
+networking: tcp/ip
+wireless 802.11 a/b/g
+wins
+business applications
+managed
+internal staff members
+ftp servers
+domain policies
+computers
+enterprise resource planning
+pcanywhere
+proposal development
+sarbanes-oxley
+veritas
+apollo
+image
+intel
+microsoft software
+mos
+novel
+pdf
+processors
+receiving
+recruiting
+installing software
+systems analyst
+vb
+accounts payable
+data base
+internet software
+letters
+lotusnotes
+office management
+proofreader
+secretarial
+transcription
+written communication
+composition
+complaints
+or comments
+cancel accounts
+e- mail
+written correspondence
+service level
+department tasks
+other supervisors
+customer service managers
+state              skills    administrative
+coach
+prepare contracts
+dispatching
+inspect
+iso 9001
+recruitment
+safety codes
+supervisory
+educating
+achieving
+dedication
+ado.net
+ajax
+ide
+catalogs
+checkout process
+dcl
+edit
+editor
+window
+sorting
+user interface design
+lotus approach
+develop business
+business process analysis
+client management
+crystal
+oracle 7.3
+oracle and sql
+oracle 8
+os/2
+pc support
+pro c
+reading
+sybase sql server
+system configuration
+taxes
+uniface 6.1
+uniface
+uniface 5.2
+information design
+procedure development
+website design
+training development
+quality processes
+event planning
+work breakdown structures
+basic programming
+bookkeeping
+business communication
+ibm software
+lotus 2.1
+ms-dos
+novell netware 4.11
+shorthand
+typing
+word processing
+wordperfect 5.1
+properly spaced
+however
+include that. otherwise
+inc.
+mechanicsburg
+pa
+business programming
+ibm software applications
+intermediate lotus 2.1
+ms-dos commands
+ibm basic programming
+advanced wordperfect 5.1
+state       academics/business typing
+office procedures
+actionscript
+photo
+brochure
+cms
+css3
+graphics
+java programming
+medical technology
+network engineering
+organization development
+prototyping
+search engine optimization
+storyboarding
+phone 7.0
+video editing
+web development i
+website management
+big data
+circuit design
+data acquisition
+data analyst
+data mining
+dbm
+dti
+design software
+gsm
+labview
+logic analyzer
+manufacturing processes
+matlab
+radar
+ncs
+db
+pivot tables
+project design
+spectrum analyzer
+spss
+metrics
+accountable for
+accounts to
+adjustments
+and account
+basis
+campaign management
+client communication
+consumer marketing
+data quality
+financial services
+mapping
+marketing analysis
+marketing campaign
+marketing research
+process documentation
+product manager
+program management
+public relations
+topo
+bsa
+business systems analysis
+crm marketing
+customer relationship management
+database marketing
+deployment
+gap analysis
+integration
+integrator
+qa process
+root cause analysis
+satisfaction
+segmentation
+functional specifications
+liaison
+ms sharepoint
+user access
+writing functional
+front end
+front end design
+front-end
+informatica
+lamp
+lamp stack
+ms visio
+rational
+rational rose
+roi
+sql server 2005
+technical specifications
+translated
+uml
+warranty
+ghosting
+architecture
+information architecture
+software requirements
+critical thinking
+decision-making
+help-desk
+hp printers
+sms
+tech support
+xerox copiers
+annuities
+qa validation
+project planning
+qa test
+qa testing
+uat
+leadership development
+best practices
+business case
+capacity management
+collection
+portfolio management
+project plans
+saas
+sow
+statement of work
+technical requirements
+cases
+coda
+extract
+transform
+and load
+governance
+ibm cognos
+qa methodology
+quality assurance standards
+sme
+test lead
+batch processing
+its
+instructor
+order processing
+acceptance testing
+data warehousing
+ibm rational software
+org development
+rational software
+rdb
+software qa
+user acceptance
+model view controller
+model-view-controller
+mvc
+application software
+asp.net 4.0
+award
+engines
+exceptions
+file
+invoice
+invoices
+long-term disability
+ltd
+r2
+sftp
+software engineer
+sql server 2012
+ui
+web based
+coldfusion
+prototype
+prototypes
+audio visual
+games
+fast learner
+landscaping
+including lunches
+determining relevance
+prioritization
+etc.
+copier
+including booking airfare
+vendors
+including vips
+greeting visitors
+leave tracking
+maintaining telephone directory
+customer service experience
+"data
+entry"
+multi-line telephone
+effectively communicate
+priority
+review
+sccm
+macintosh os x
+mobile
+automate
+macintosh os
+network and support
+network & support
+hp servers
+it project management
+macola
+mas 90
+medical manager
+microsoft dynamics
+phone systems
+quickbooks
+solidworks
+terminal server
+toshiba
+adr
+cna 5.1
+corporate accounting
+educational programs
+employee relations
+internal audits
+inventory management
+leadership training
+regulatory compliance
+marketing plans
+novell netware 4.x
+certified novell administrator
+employee development
+backups
+xenapp
+hyper v
+dynamic crm
+dynamic  gp
+financial management
+office365
+improve products
+sales reports
+strategic plans
+cloud
+"active
+directory"
+business plan
+network and systems
+microsoft office products
+microsoft windows xp
+multi-media
+novell network
+software design
+systems support
+tested
+review side effects
+drug interactions
+medical equipment
+side effects
+patient profiles
+charge system files
+weighed
+healthcare supplies
+business continuity
+technology infrastructure
+business process improvement
+cdm
+fulfillment
+opex
+provisioning
+retail marketing
+copy machine
+lending
+server virtualization
+virtualization
+directory service
+lan/wan
+workstations
+cissp
+journal
+systems security
+biochemistry
+procurement clerk
+purchasing agent
+computer programmer
+local area  network
+dynamics 365
+project
+powerapps
+powerbi
+flow
+ssharepoint
+intune
+ems
+ssis
+ssas)
+dax
+r
+qlik (qlikview/qliksense)
+sisense
+datorama
+yellowfin
+cisco switch management
+rdp
+automation anywhere
+rf devices
+ap
+automation tools
+clientele
+facility management
+floor plans
+renovation
+sales analysis
+supply chain management
+translating
+ventilation
+acquisitions
+disaster planning
+"enterprise
+resource planning"
+facilities management
+operations management
+pc systems
+people skills
+process design
+"proposal
+       development"
+front page
+internet access
+layout
+office applications
+all pc hardware
+develop policies
+power supply
+tops
+cisco router
+database applications
+windows 9
+property management
+radiology
+stockroom
+sops
+cafm
+p3
+restructuring
+space planning
+voice
+credit card
+packing
+payments
+warehouse inventory
+wireless
+wireless networks
+clarify
+data conversion
+data validation
+fixed asset
+fixed assets
+integration testing
+plant maintenance
+autocad
+course development
+dc
+leadership and development
+trainer workshops (t3)
