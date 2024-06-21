@@ -1,849 +1,849 @@
-0
-instructional design
-teaching
-progress monitoring
-course development  evernote
-slack
-social media
-excel
-outlook
-projects
-security trading
-portfolio managament
-liability structuring  research
-analysis
-needs
-risk-taking is encouraged
-faculty
-parents
-child abuse
-substance abuse
-harassment
-ela
-programming
-charts
-excellent communication
-conferences
-conflict resolution
-critical thinking
-focus
-instruction
-lesson planning
-managing
-meetings
-office
-problem solving
-processes
-progress
-teacher
-time management
-including running lights
-county
-behavior
-state
-microsoft word
-state     educate children
-state     answer phones
-transferring support
-take orders
-stock deliveries
-usa     child development
-n  utritional needs
-l  anguage acquisition
-cultural influences
-columbus
-answer phones
-verbal communication skills
-enthusiasti c
-problem-solve r
-great organizational skills
-encouraging
-technology savvy
-eager to learn
-eager to teach
-increase
-training
-coaching
-clerical
-filing
-class
-liaison
-translate
-mathematics
-writing test
-42 wpm
-cpr
-typing
-chemistry
-and physical science
-college prep
-ordered supplies
-made appointments
-including chemical monitoring
-coagulation
-immunology
-weekly
-influenza
-and mononucleosis.  a
-b
-sickle cell determination
-antigen typing
-hematology
-lesson plans
-machinery
-medical technology
-urinalysis     mentoring
-communication
-social skills
-biology
-medical microbiology
-managers
-4th
-assisted in inclusion
-resource teachers
-coordinating services
-academics
-classroom management
-team building
-support
-technology
-data collection
-monitor progress
-set next steps
-job exploration counseling
-self-advocacy
-guiding case analysis
-state      observed
-evaluated
-forming literacy circles
-incorporating technology
-data
-minority
-avenue
-documentation
-driving
-functional
-leadership
-monitors
-organizing
-personnel
-rehabilitation services
-trainer
-vi
-vision
-academic
-delivery
-equity
-math
-microsoft office
-reporting
-arts
-coach
-continuous improvement
-council
-educational programs
-english
-leadership training
-mentor
-policies
-project mgmt
-quality
-reading
-research
-spanish
-staff development
-strategic
-adobe photoshop
-adobe premier
-benefits
-communication skills
-curriculum development
-flash
-human resource
-materials
-powerpoint
-microsoft words
-needs assessment
-peoplesoft
-proposal writing
-sales training
-sound
-supervisor
-training material
-training programs
-course development
-trouble shooting
-corporate trainer
-critical thinker
-microsoft office (excel
-publisher
-word)
-multi-line phone proficiency
-advanced clerical knowledge
-invoice processing
-accounting familiarity
-appointment setting
-social media knowledge
-accurate and detailed
-customer service-oriented
-articulate and well-spoken
-database management
-teaching/tutoring
-technological instruction
-effective
-phonics
-science
-social studies
-writing
-songs/raps
-assigning grades
-taking attendance
-recess duty
-songs
-vendors
-organized
-treasury
-state      planned
-documents
-including vips
-purchase orders
-expense reports
-researching chargebacks
-budget
-educator
-access
-organizational development
-publisher)
-internet browsers
-eureka
-& engage ny
-small
-fluency
-word study station
-tests
-wilson reading
-houghton mifflin
-cmt prep
-city
-state   ncate endorsement
-basic
-book
-content
-in k
-inspiration
-inventory
-word
-next
-non-fiction
-speaking
-scientific
-structured
-fall 2004
-fall 2005
-spring 2006
-russian and hebrew.
-linguistic
-acute care
-art
-autism
-biochemistry
-fundraising
-law
-patient care
-pediatrics
-physical therapy
-resuscitation
-urology
-temples
-community
-drama festival
-water bottle collection
-walk-a-thons
-performances
-socially
-games
-basic science
-people skills
-administrative
-administrative support
-budgets
-contracts
-database
-financial reports
-grants
-leadership skills
-lesson plan
-windows
-multi -tasking
-internet research
-payroll
-philosophy
-quickbooks
-record keeping
-recruiting
-scheduling
-team player
-child care
-family servicing
-first aid
-instructing
-directing
-mental health
-management information system
-program evaluation
-protocols
-maintain records
-recruitment
-safety
-supervising
-teaching and computing.
-creative thinking
-problem solver
-phone
-accounting
-approach
-attention to detail
-back-up
-cash handling
-cash register
-cashier
-closing
-cooking
-credit
-client
-"customer
+,0
+0,instructional design
+1,teaching
+2,progress monitoring
+3,course development  evernote
+4,slack
+5,social media
+6,excel
+7,outlook
+8,projects
+9,security trading
+10,portfolio managament
+11,liability structuring  research
+12,analysis
+13,needs
+14,risk-taking is encouraged
+15,faculty
+16,parents
+17,child abuse
+18,substance abuse
+19,harassment
+20,ela
+21,programming
+22,charts
+23,excellent communication
+24,conferences
+25,conflict resolution
+26,critical thinking
+27,focus
+28,instruction
+29,lesson planning
+30,managing
+31,meetings
+32,office
+33,problem solving
+34,processes
+35,progress
+36,teacher
+37,time management
+38,including running lights
+39,county
+40,behavior
+41,state
+42,microsoft word
+43,state     educate children
+44,state     answer phones
+45,transferring support
+46,take orders
+47,stock deliveries
+48,usa     child development
+49,n  utritional needs
+50,l  anguage acquisition
+51,cultural influences
+52,columbus
+53,answer phones
+54,verbal communication skills
+55,enthusiasti c
+56,problem-solve r
+57,great organizational skills
+58,encouraging
+59,technology savvy
+60,eager to learn
+61,eager to teach
+62,increase
+63,training
+64,coaching
+65,clerical
+66,filing
+67,class
+68,liaison
+69,translate
+70,mathematics
+71,writing test
+72,42 wpm
+73,cpr
+74,typing
+75,chemistry
+76,and physical science
+77,college prep
+78,ordered supplies
+79,made appointments
+80,including chemical monitoring
+81,coagulation
+82,immunology
+83,weekly
+84,influenza
+85,and mononucleosis.  a
+86,b
+87,sickle cell determination
+88,antigen typing
+89,hematology
+90,lesson plans
+91,machinery
+92,medical technology
+93,urinalysis     mentoring
+94,communication
+95,social skills
+96,biology
+97,medical microbiology
+98,managers
+99,4th
+100,assisted in inclusion
+101,resource teachers
+102,coordinating services
+103,academics
+104,classroom management
+105,team building
+106,support
+107,technology
+108,data collection
+109,monitor progress
+110,set next steps
+111,job exploration counseling
+112,self-advocacy
+113,guiding case analysis
+114,state      observed
+115,evaluated
+116,forming literacy circles
+117,incorporating technology
+118,data
+119,minority
+120,avenue
+121,documentation
+122,driving
+123,functional
+124,leadership
+125,monitors
+126,organizing
+127,personnel
+128,rehabilitation services
+129,trainer
+130,vi
+131,vision
+132,academic
+133,delivery
+134,equity
+135,math
+136,microsoft office
+137,reporting
+138,arts
+139,coach
+140,continuous improvement
+141,council
+142,educational programs
+143,english
+144,leadership training
+145,mentor
+146,policies
+147,project mgmt
+148,quality
+149,reading
+150,research
+151,spanish
+152,staff development
+153,strategic
+154,adobe photoshop
+155,adobe premier
+156,benefits
+157,communication skills
+158,curriculum development
+159,flash
+160,human resource
+161,materials
+162,powerpoint
+163,microsoft words
+164,needs assessment
+165,peoplesoft
+166,proposal writing
+167,sales training
+168,sound
+169,supervisor
+170,training material
+171,training programs
+172,course development
+173,trouble shooting
+174,corporate trainer
+175,critical thinker
+176,microsoft office (excel
+177,publisher
+178,word)
+179,multi-line phone proficiency
+180,advanced clerical knowledge
+181,invoice processing
+182,accounting familiarity
+183,appointment setting
+184,social media knowledge
+185,accurate and detailed
+186,customer service-oriented
+187,articulate and well-spoken
+188,database management
+189,teaching/tutoring
+190,technological instruction
+191,effective
+192,phonics
+193,science
+194,social studies
+195,writing
+196,songs/raps
+197,assigning grades
+198,taking attendance
+199,recess duty
+200,songs
+201,vendors
+202,organized
+203,treasury
+204,state      planned
+205,documents
+206,including vips
+207,purchase orders
+208,expense reports
+209,researching chargebacks
+210,budget
+211,educator
+212,access
+213,organizational development
+214,publisher)
+215,internet browsers
+216,eureka
+217,& engage ny
+218,small
+219,fluency
+220,word study station
+221,tests
+222,wilson reading
+223,houghton mifflin
+224,cmt prep
+225,city
+226,state   ncate endorsement
+227,basic
+228,book
+229,content
+230,in k
+231,inspiration
+232,inventory
+233,word
+234,next
+235,non-fiction
+236,speaking
+237,scientific
+238,structured
+239,fall 2004
+240,fall 2005
+241,spring 2006
+242,russian and hebrew.
+243,linguistic
+244,acute care
+245,art
+246,autism
+247,biochemistry
+248,fundraising
+249,law
+250,patient care
+251,pediatrics
+252,physical therapy
+253,resuscitation
+254,urology
+255,temples
+256,community
+257,drama festival
+258,water bottle collection
+259,walk-a-thons
+260,performances
+261,socially
+262,games
+263,basic science
+264,people skills
+265,administrative
+266,administrative support
+267,budgets
+268,contracts
+269,database
+270,financial reports
+271,grants
+272,leadership skills
+273,lesson plan
+274,windows
+275,multi -tasking
+276,internet research
+277,payroll
+278,philosophy
+279,quickbooks
+280,record keeping
+281,recruiting
+282,scheduling
+283,team player
+284,child care
+285,family servicing
+286,first aid
+287,instructing
+288,directing
+289,mental health
+290,management information system
+291,program evaluation
+292,protocols
+293,maintain records
+294,recruitment
+295,safety
+296,supervising
+297,teaching and computing.
+298,creative thinking
+299,problem solver
+300,phone
+301,accounting
+302,approach
+303,attention to detail
+304,back-up
+305,cash handling
+306,cash register
+307,cashier
+308,closing
+309,cooking
+310,credit
+311,client
+312,"customer
 satisfaction"
-customer service
-fat
-inventory management
-microsoft excel
-neat
-pos
-pricing
-knowledge of store
-retail
-sales
-tables
-tops
-written
-photoshop
-advertising
-cancer
-competitive
-consultant
-creative design
-creative problem solving
-client relations
-direct mail
-editing
-government
-illustrator
-director
-marketing plan
-marketing
-market
-2000
-presenter
-producing
-project management
-public relations
-public speaking
-quick learner
-radio
-read
-robotics
-sales manager
-scripts
-speak spanish
-technical writing
-video
-web site
-edit
-facsimile
-notes
-multi-tasking
-office machines
-organizational skills
-photocopiers
-scanners
-switch
-teamwork
-telephones
-type
-typewriters
-voice mail
-workshops
-motivation
-management
-listening
-counseling
-computer literacy
-development
-implementing
-mo - il
-microbiología
-director general
-directora
-industrial
-jefe de laboratorio
-acta
-bpm
-c
-carne de cerdo
-carne porcina
-control de calidad
-data mining
-farmacéutica
-farmacéutico
-iso
-iso 9001
-manipuladores
-microbiologia
-producción
-programación
-química
-químico
-sas
-seguridad
-toxicología
-tutor
-vigilancia
-discharge planning
-evaluate patients
-anatomy
-emr software
-front office
-injections
-letters
-medical terminology
-physiology
-ultra-sound
-interpersonal skills
-camera
-microsoft office.
-pakistan            skills     basic
-express
-fast learner
-self-motivated
-used  speaking
-planning
-leading
-computer skills
-communication with staff
-microsoft works
-grades
-state       teaching 2
-3
-listening skills
-state      customer service
-computer data entry
-works
-data input
-answering phone
-grammar
-interactive
-whole word recognition
-4
-power point
-counselor
-native spanish speaker
-time management.
-microsoft office (word
-outlook)
-infinite campus
-invoices
-accounts payable
-cash
-of accounts
-accountant
-audits
-billing
-buying/procurement
-general accounting
-operations
-payments
-purchasing
-receptionist
-retail sales
-accounts receivable
-basis
-data entry
-assistant director
-associate
-aviation
-budgeting
-career development
-credit card
-executive assistant
-fixed assets
-maintenance
-pipeline
-reconciling
-supply chain
-the accounts
-clerk
-estimation
-finance
-with accounts
-and accounting
-audit
-auditing
-collection
-financial report
-healthcare
-insurance billing
-reconciliation
-solutions
-administrative assistant
-disbursement
-filings
-legal documents
-medicaid
-quota
-accounts payables
-aol
-banking
-business works
-clients
-databases
-email
-financial
-forms
-funds
-internet explorer
-internet applications
-invoicing
-lotus
-mediation
-microsoft office 98
-netscape navigator
-peachtree
-peachtree (accounting software
-receiving
-sap
-shipping
-telephone
-tutoring
-good team member
-childcare
-hiring
-merchandising
-selling
-recording
-flyers
-state      teacher daycare
-activities
-music
-lunches
-.  activities
-streamline
-document management
-fast
-problem-solving
-project coordination
-proposals
-proposal development
-bookkeeping
-english 3
-english 4
-mail
-money
-notary public
-secretarial
-tax
-phones
-arbitration
-cpi
-creative problem solver
-customer services
-insurance
-law enforcement
-team lead
-logistics
-ms word
-page
-sales development
-differentiated instruction
-technology integration
-character development
-smart board
-ms word/powerpoint/excel
-.  applied shampoo
-massaged scalped
-group activities
-computer literate
-drivers
-natural
-packaging
-rapport
-state      prepare lunch
-subject matter
-adding signage
-selection of materials
-plumbing
-physical
-social
-administrators
-potential
-including english
-including administrators
-testing specialists
-functional behavior assessments
-coordinated
-work time
-and demonstrations
-educators
-conduct vision assessments
-oversaw communication progression
-consultation
-speech therapy
-technical support
-bookkeeper
-human resources
-internet navigation
-microsoft office products
-organizational
-evaluation of patients
-problem solving skills
-unique
-mentoring
-economics
-managing 3
-team-work
-quick
-sabre
-staffing
-branding
-business case
-interpersonal
-oral
-relationship building
-seminars
-written communication skills
-"scheduling
+313,customer service
+314,fat
+315,inventory management
+316,microsoft excel
+317,neat
+318,pos
+319,pricing
+320,knowledge of store
+321,retail
+322,sales
+323,tables
+324,tops
+325,written
+326,photoshop
+327,advertising
+328,cancer
+329,competitive
+330,consultant
+331,creative design
+332,creative problem solving
+333,client relations
+334,direct mail
+335,editing
+336,government
+337,illustrator
+338,director
+339,marketing plan
+340,marketing
+341,market
+342,2000
+343,presenter
+344,producing
+345,project management
+346,public relations
+347,public speaking
+348,quick learner
+349,radio
+350,read
+351,robotics
+352,sales manager
+353,scripts
+354,speak spanish
+355,technical writing
+356,video
+357,web site
+358,edit
+359,facsimile
+360,notes
+361,multi-tasking
+362,office machines
+363,organizational skills
+364,photocopiers
+365,scanners
+366,switch
+367,teamwork
+368,telephones
+369,type
+370,typewriters
+371,voice mail
+372,workshops
+373,motivation
+374,management
+375,listening
+376,counseling
+377,computer literacy
+378,development
+379,implementing
+380,mo - il
+381,microbiología
+382,director general
+383,directora
+384,industrial
+385,jefe de laboratorio
+386,acta
+387,bpm
+388,c
+389,carne de cerdo
+390,carne porcina
+391,control de calidad
+392,data mining
+393,farmacéutica
+394,farmacéutico
+395,iso
+396,iso 9001
+397,manipuladores
+398,microbiologia
+399,producción
+400,programación
+401,química
+402,químico
+403,sas
+404,seguridad
+405,toxicología
+406,tutor
+407,vigilancia
+408,discharge planning
+409,evaluate patients
+410,anatomy
+411,emr software
+412,front office
+413,injections
+414,letters
+415,medical terminology
+416,physiology
+417,ultra-sound
+418,interpersonal skills
+419,camera
+420,microsoft office.
+421,pakistan            skills     basic
+422,express
+423,fast learner
+424,self-motivated
+425,used  speaking
+426,planning
+427,leading
+428,computer skills
+429,communication with staff
+430,microsoft works
+431,grades
+432,state       teaching 2
+433,3
+434,listening skills
+435,state      customer service
+436,computer data entry
+437,works
+438,data input
+439,answering phone
+440,grammar
+441,interactive
+442,whole word recognition
+443,4
+444,power point
+445,counselor
+446,native spanish speaker
+447,time management.
+448,microsoft office (word
+449,outlook)
+450,infinite campus
+451,invoices
+452,accounts payable
+453,cash
+454,of accounts
+455,accountant
+456,audits
+457,billing
+458,buying/procurement
+459,general accounting
+460,operations
+461,payments
+462,purchasing
+463,receptionist
+464,retail sales
+465,accounts receivable
+466,basis
+467,data entry
+468,assistant director
+469,associate
+470,aviation
+471,budgeting
+472,career development
+473,credit card
+474,executive assistant
+475,fixed assets
+476,maintenance
+477,pipeline
+478,reconciling
+479,supply chain
+480,the accounts
+481,clerk
+482,estimation
+483,finance
+484,with accounts
+485,and accounting
+486,audit
+487,auditing
+488,collection
+489,financial report
+490,healthcare
+491,insurance billing
+492,reconciliation
+493,solutions
+494,administrative assistant
+495,disbursement
+496,filings
+497,legal documents
+498,medicaid
+499,quota
+500,accounts payables
+501,aol
+502,banking
+503,business works
+504,clients
+505,databases
+506,email
+507,financial
+508,forms
+509,funds
+510,internet explorer
+511,internet applications
+512,invoicing
+513,lotus
+514,mediation
+515,microsoft office 98
+516,netscape navigator
+517,peachtree
+518,peachtree (accounting software
+519,receiving
+520,sap
+521,shipping
+522,telephone
+523,tutoring
+524,good team member
+525,childcare
+526,hiring
+527,merchandising
+528,selling
+529,recording
+530,flyers
+531,state      teacher daycare
+532,activities
+533,music
+534,lunches
+535,.  activities
+536,streamline
+537,document management
+538,fast
+539,problem-solving
+540,project coordination
+541,proposals
+542,proposal development
+543,bookkeeping
+544,english 3
+545,english 4
+546,mail
+547,money
+548,notary public
+549,secretarial
+550,tax
+551,phones
+552,arbitration
+553,cpi
+554,creative problem solver
+555,customer services
+556,insurance
+557,law enforcement
+558,team lead
+559,logistics
+560,ms word
+561,page
+562,sales development
+563,differentiated instruction
+564,technology integration
+565,character development
+566,smart board
+567,ms word/powerpoint/excel
+568,.  applied shampoo
+569,massaged scalped
+570,group activities
+571,computer literate
+572,drivers
+573,natural
+574,packaging
+575,rapport
+576,state      prepare lunch
+577,subject matter
+578,adding signage
+579,selection of materials
+580,plumbing
+581,physical
+582,social
+583,administrators
+584,potential
+585,including english
+586,including administrators
+587,testing specialists
+588,functional behavior assessments
+589,coordinated
+590,work time
+591,and demonstrations
+592,educators
+593,conduct vision assessments
+594,oversaw communication progression
+595,consultation
+596,speech therapy
+597,technical support
+598,bookkeeper
+599,human resources
+600,internet navigation
+601,microsoft office products
+602,organizational
+603,evaluation of patients
+604,problem solving skills
+605,unique
+606,mentoring
+607,economics
+608,managing 3
+609,team-work
+610,quick
+611,sabre
+612,staffing
+613,branding
+614,business case
+615,interpersonal
+616,oral
+617,relationship building
+618,seminars
+619,written communication skills
+620,"scheduling
 appointments"
-arts i
-dependable
-diagnosis
-all microsoft
-providing treatment
-reception
-pensacola
-cost control
-financial accounting
-inventory levels
-positioning
-surveys
-microsoft
-excel experienced
-wpm 38
-vases
-baskets
-atlanta
-los angeles
-european gardens
-permanent arrangements
-government forms
-employment taxes
-advanced floral designer
-problem-solving   organizational skills
-art i-iv
-drawing
-painting
-ceramics
-school readiness
-ged testing
-adult basic education
-aquatics
-assigning
-winter
-spring
-pep fests
-dances
-lifeguards
-water safety instructors
-brochures
-motivating
-workshops/seminars
-health and wellness
-arrangements
-exchange
-travel arrangements
-field operations
-packing
-program manager
-vouchers
-award
-and power point
-discussions
-agenda book notes
-email correspondence
-halls
-cafeterias
-submitting background checks
-in-house drug screening
-i-9 verification
-terminating employees
-sales calls
-preparing business quotes
-answering phones
-recording new orders
-disputes
-geology
-and education) history
-earth science
-and education)  history
-microsoft office applications
-presentations
-researching
-telephone etiquette
-behaviors
-teachers
-injury
-emotional disturbance
-used: self-direction
-design
-after school programs
-volunteer hours
-expand
-fair booths
-direction
-keyboard
-profit
-supervisory skills
-resourceful
-diligent and persistent
-adaptable
-basic keyboard
-and ten key.
-assignments
-including clerical support
-poems
-state           skills    book
-staff  training
-supervision
-9th
-bishopville
-language arts
-special projects
-including workshops
-including making copies
-sending faxes
-result driven
-positive
-curriculum implementation
-streamlined program efficiency
-such as numbers
-colors
-motor
-health-related
-making recommendations
-sales incentives
-and selling techniques
-psychology
-state             latino studies
-state          interests    accomplishments
-financial reporting
-state     proctored quizzes
-tutored
-clearances
-youtube video creation
-wiki pages
-mathematica
-agency
-business strategy
-cold calling
-customer service skills
-fluent in english
-ftp
-hr
-legal
-mergers and acquisitions
-executive presentations
-process improvement
-quality assurance
-sales and training
-strategic marketing
-vendor relations
-website
-recorded
-and banked cash
-checks
-# pgp-562282
-renewed in 2016
-enthusiastic people person
-""
-aseptic techniques
-bachelors
-calculators
-calibration
-department of health
-dna
-equipment maintenance
-forth
-good laboratory practices
-interpretation
-laboratory procedures
-laboratory tests
-pathology
-pcr
-physiology i
-qa
-real-time
-statistics
-technician
-troubleshoot
-composition i
-composition
-handling emergencies
-generating correspondence
-check requests
-marketing proposals
-fishing tackle retailer
-bass times
-junior bassmaster
-"""statements of use"""
-copyrights
-aquariums
-academic planning
-administrative skills
-case management
-documentation and shorthand
-newsletter development
-content creation
-dimensions
-logic
-proposal
-maintain files
-strategic planning
-trend
-usability testing
-websites
-inspect
-laundry
-transport materials
-meal prep
-android
-autodesk autocad
-autodesk inventor professional
-pro/e
-solidworks
-gis analyst
-lidar data
-autodesk revit architectural
-microstation
-mathcad
-cad/cam
-fortran
-and frontpage)
-i-deas
-elite hvac
-trace 700
-carrier
-nc programming
-adobe (acrobat
-and photoshop)
-firefox
-and html
-css
-wordpress.
+621,arts i
+622,dependable
+623,diagnosis
+624,all microsoft
+625,providing treatment
+626,reception
+627,pensacola
+628,cost control
+629,financial accounting
+630,inventory levels
+631,positioning
+632,surveys
+633,microsoft
+634,excel experienced
+635,wpm 38
+636,vases
+637,baskets
+638,atlanta
+639,los angeles
+640,european gardens
+641,permanent arrangements
+642,government forms
+643,employment taxes
+644,advanced floral designer
+645,problem-solving   organizational skills
+646,art i-iv
+647,drawing
+648,painting
+649,ceramics
+650,school readiness
+651,ged testing
+652,adult basic education
+653,aquatics
+654,assigning
+655,winter
+656,spring
+657,pep fests
+658,dances
+659,lifeguards
+660,water safety instructors
+661,brochures
+662,motivating
+663,workshops/seminars
+664,health and wellness
+665,arrangements
+666,exchange
+667,travel arrangements
+668,field operations
+669,packing
+670,program manager
+671,vouchers
+672,award
+673,and power point
+674,discussions
+675,agenda book notes
+676,email correspondence
+677,halls
+678,cafeterias
+679,submitting background checks
+680,in-house drug screening
+681,i-9 verification
+682,terminating employees
+683,sales calls
+684,preparing business quotes
+685,answering phones
+686,recording new orders
+687,disputes
+688,geology
+689,and education) history
+690,earth science
+691,and education)  history
+692,microsoft office applications
+693,presentations
+694,researching
+695,telephone etiquette
+696,behaviors
+697,teachers
+698,injury
+699,emotional disturbance
+700,used: self-direction
+701,design
+702,after school programs
+703,volunteer hours
+704,expand
+705,fair booths
+706,direction
+707,keyboard
+708,profit
+709,supervisory skills
+710,resourceful
+711,diligent and persistent
+712,adaptable
+713,basic keyboard
+714,and ten key.
+715,assignments
+716,including clerical support
+717,poems
+718,state           skills    book
+719,staff  training
+720,supervision
+721,9th
+722,bishopville
+723,language arts
+724,special projects
+725,including workshops
+726,including making copies
+727,sending faxes
+728,result driven
+729,positive
+730,curriculum implementation
+731,streamlined program efficiency
+732,such as numbers
+733,colors
+734,motor
+735,health-related
+736,making recommendations
+737,sales incentives
+738,and selling techniques
+739,psychology
+740,state             latino studies
+741,state          interests    accomplishments
+742,financial reporting
+743,state     proctored quizzes
+744,tutored
+745,clearances
+746,youtube video creation
+747,wiki pages
+748,mathematica
+749,agency
+750,business strategy
+751,cold calling
+752,customer service skills
+753,fluent in english
+754,ftp
+755,hr
+756,legal
+757,mergers and acquisitions
+758,executive presentations
+759,process improvement
+760,quality assurance
+761,sales and training
+762,strategic marketing
+763,vendor relations
+764,website
+765,recorded
+766,and banked cash
+767,checks
+768,# pgp-562282
+769,renewed in 2016
+770,enthusiastic people person
+771,
+772,aseptic techniques
+773,bachelors
+774,calculators
+775,calibration
+776,department of health
+777,dna
+778,equipment maintenance
+779,forth
+780,good laboratory practices
+781,interpretation
+782,laboratory procedures
+783,laboratory tests
+784,pathology
+785,pcr
+786,physiology i
+787,qa
+788,real-time
+789,statistics
+790,technician
+791,troubleshoot
+792,composition i
+793,composition
+794,handling emergencies
+795,generating correspondence
+796,check requests
+797,marketing proposals
+798,fishing tackle retailer
+799,bass times
+800,junior bassmaster
+801,"""statements of use"""
+802,copyrights
+803,aquariums
+804,academic planning
+805,administrative skills
+806,case management
+807,documentation and shorthand
+808,newsletter development
+809,content creation
+810,dimensions
+811,logic
+812,proposal
+813,maintain files
+814,strategic planning
+815,trend
+816,usability testing
+817,websites
+818,inspect
+819,laundry
+820,transport materials
+821,meal prep
+822,android
+823,autodesk autocad
+824,autodesk inventor professional
+825,pro/e
+826,solidworks
+827,gis analyst
+828,lidar data
+829,autodesk revit architectural
+830,microstation
+831,mathcad
+832,cad/cam
+833,fortran
+834,and frontpage)
+835,i-deas
+836,elite hvac
+837,trace 700
+838,carrier
+839,nc programming
+840,adobe (acrobat
+841,and photoshop)
+842,firefox
+843,and html
+844,css
+845,wordpress.

@@ -1,1367 +1,1367 @@
-0
-sales software: salesforce.com
-ms word
-excel
-adp payroll system
-great plains software
-abc
-bloomberg
-broadcast
-budget
-client
-clients
-excellent customer service
-customer service
-database
-financial
-ledger
-letters
-marketing
-media plan
-mentor
-newsletter
-nursing
-press
-press releases
-public relations
-publications
-publicity
-radio
-real estate
-receiving
-research
-sales
-fm
-speeches
-sun
-phone
-tv
-television
-video
-web site
-articles
-consumer
-state      communication
-special olympics
-organized seating arrangements
-advertised event
-write pr proposals
-broker talent deals
-maintained client relationships
-professional athletes
-managers
-publicists
-agents
-award shows
-national
-jodeci
-chante moore
-jesse powell
-keke wyatt
-jaguar wright
-archie
-magic johnson music
-business programs
-cable
-national print
-social media
-sports
-fashion magazines
-epks
-press kits
-biographies
-media alerts
-scouting locations
-planning budgets
-producers
-including writers
-regional
-print
-in-house publicists
-kenny “babyface” edmonds
-boyz ii men
-lionel richie
-deborah cox
-tamia
-tracie spencer
-dave koz
-the temptations
-the bees gees
-kurupt
-shep crawford
-tupac shakur
-r. kelly
-state              skills    photo
-artist
-arts
-avenue
-billings
-budgets
-bi
-ca
-databases
-event management
-special events
-fashion
-film
-legal
-magic
-managing
-marketing strategies
-marketing plans
-market
-materials
-media relations
-works
-paralegal
-pr
-producer
-proposals
-quality control
-recording
-strategy
-mtv awards
-grammy
-naacp image awards
-america music awards
-and bet
-etc.)
-videos
-photography
-product
-bet awards
-ascap (music expo
-administrative
-advertising
-agency
-clerical
-conferences
-content
-copying
-edge
-editing
-editor
-event planning
-inventory
-director
-media training
-meetings
-microsoft office
-office
-power point
-publisher
-word
-progress
-raiser's edge
-social media platforms
-website
-workshops
-accounting
-acquisitions
-bookkeeping
-book
-conflict resolution
-data analysis
-documentation
-government
-inspecting
-law enforcement
-listening
-logistics
-logistics management
-win
-navy
-personnel
-police
-policies
-quality assurance
-reporting
-requirement
-scheduling
-shipping
-spreadsheet
-strategist
-workflow
-scheduling appointments
-c
-cardiology
-directing
-leadership
-patient care
-surgery
-answering phones
-phones
-legal assistant
-satisfaction
-training
-coaching
-fundraising
-copywriting
-budgeting
-merchandising
-games
-adobe photoshop
-b2c
-photoshop
-associate
-liaison
-operations
-medical
-fitness
-2016
-direct mail
-marketing plan
-public policy
-community relations
-content management systems
-indesign
-ms office
-quark xpress
-video production
-dslar cameras
-adobe premier
-video stories
-public service announcements
-media campaigns
-brand image
-business leaders
-consumers
-directors
-noticiero univision
-"""embracing autism"
-cashier
-com
-crisis communications
-customer satisfaction
-direction
-driving
-hiring
-hr
-modeling
-profit
-recruitment
-retail
-selling
-websites
-2014
-illustrator
-html
-projet management
-change management
-writing skills
-business development
-solutions
-exchange
-marketing department
-b2b
-b2b sales
-including sales
-promotional
-sales management
-sales organization
-securities
-american red cross
-health and wellness
-red cross
-registered nurse
-and marketing
-business plan
-conflict management
-crisis management
-customer relations
-educational programs
-emergency preparedness
-fact
-fact erp
-graphic design
-healthcare
-hippa
-marcom
-mba
-media planning
-networking
-printing
-product management
-receptionist
-retail sales
-rn
-audio
-"corporate
+,0
+0,sales software: salesforce.com
+1,ms word
+2,excel
+3,adp payroll system
+4,great plains software
+5,abc
+6,bloomberg
+7,broadcast
+8,budget
+9,client
+10,clients
+11,excellent customer service
+12,customer service
+13,database
+14,financial
+15,ledger
+16,letters
+17,marketing
+18,media plan
+19,mentor
+20,newsletter
+21,nursing
+22,press
+23,press releases
+24,public relations
+25,publications
+26,publicity
+27,radio
+28,real estate
+29,receiving
+30,research
+31,sales
+32,fm
+33,speeches
+34,sun
+35,phone
+36,tv
+37,television
+38,video
+39,web site
+40,articles
+41,consumer
+42,state      communication
+43,special olympics
+44,organized seating arrangements
+45,advertised event
+46,write pr proposals
+47,broker talent deals
+48,maintained client relationships
+49,professional athletes
+50,managers
+51,publicists
+52,agents
+53,award shows
+54,national
+55,jodeci
+56,chante moore
+57,jesse powell
+58,keke wyatt
+59,jaguar wright
+60,archie
+61,magic johnson music
+62,business programs
+63,cable
+64,national print
+65,social media
+66,sports
+67,fashion magazines
+68,epks
+69,press kits
+70,biographies
+71,media alerts
+72,scouting locations
+73,planning budgets
+74,producers
+75,including writers
+76,regional
+77,print
+78,in-house publicists
+79,kenny “babyface” edmonds
+80,boyz ii men
+81,lionel richie
+82,deborah cox
+83,tamia
+84,tracie spencer
+85,dave koz
+86,the temptations
+87,the bees gees
+88,kurupt
+89,shep crawford
+90,tupac shakur
+91,r. kelly
+92,state              skills    photo
+93,artist
+94,arts
+95,avenue
+96,billings
+97,budgets
+98,bi
+99,ca
+100,databases
+101,event management
+102,special events
+103,fashion
+104,film
+105,legal
+106,magic
+107,managing
+108,marketing strategies
+109,marketing plans
+110,market
+111,materials
+112,media relations
+113,works
+114,paralegal
+115,pr
+116,producer
+117,proposals
+118,quality control
+119,recording
+120,strategy
+121,mtv awards
+122,grammy
+123,naacp image awards
+124,america music awards
+125,and bet
+126,etc.)
+127,videos
+128,photography
+129,product
+130,bet awards
+131,ascap (music expo
+132,administrative
+133,advertising
+134,agency
+135,clerical
+136,conferences
+137,content
+138,copying
+139,edge
+140,editing
+141,editor
+142,event planning
+143,inventory
+144,director
+145,media training
+146,meetings
+147,microsoft office
+148,office
+149,power point
+150,publisher
+151,word
+152,progress
+153,raiser's edge
+154,social media platforms
+155,website
+156,workshops
+157,accounting
+158,acquisitions
+159,bookkeeping
+160,book
+161,conflict resolution
+162,data analysis
+163,documentation
+164,government
+165,inspecting
+166,law enforcement
+167,listening
+168,logistics
+169,logistics management
+170,win
+171,navy
+172,personnel
+173,police
+174,policies
+175,quality assurance
+176,reporting
+177,requirement
+178,scheduling
+179,shipping
+180,spreadsheet
+181,strategist
+182,workflow
+183,scheduling appointments
+184,c
+185,cardiology
+186,directing
+187,leadership
+188,patient care
+189,surgery
+190,answering phones
+191,phones
+192,legal assistant
+193,satisfaction
+194,training
+195,coaching
+196,fundraising
+197,copywriting
+198,budgeting
+199,merchandising
+200,games
+201,adobe photoshop
+202,b2c
+203,photoshop
+204,associate
+205,liaison
+206,operations
+207,medical
+208,fitness
+209,2016
+210,direct mail
+211,marketing plan
+212,public policy
+213,community relations
+214,content management systems
+215,indesign
+216,ms office
+217,quark xpress
+218,video production
+219,dslar cameras
+220,adobe premier
+221,video stories
+222,public service announcements
+223,media campaigns
+224,brand image
+225,business leaders
+226,consumers
+227,directors
+228,noticiero univision
+229,"""embracing autism"
+230,cashier
+231,com
+232,crisis communications
+233,customer satisfaction
+234,direction
+235,driving
+236,hiring
+237,hr
+238,modeling
+239,profit
+240,recruitment
+241,retail
+242,selling
+243,websites
+244,2014
+245,illustrator
+246,html
+247,projet management
+248,change management
+249,writing skills
+250,business development
+251,solutions
+252,exchange
+253,marketing department
+254,b2b
+255,b2b sales
+256,including sales
+257,promotional
+258,sales management
+259,sales organization
+260,securities
+261,american red cross
+262,health and wellness
+263,red cross
+264,registered nurse
+265,and marketing
+266,business plan
+267,conflict management
+268,crisis management
+269,customer relations
+270,educational programs
+271,emergency preparedness
+272,fact
+273,fact erp
+274,graphic design
+275,healthcare
+276,hippa
+277,marcom
+278,mba
+279,media planning
+280,networking
+281,printing
+282,product management
+283,receptionist
+284,retail sales
+285,rn
+286,audio
+287,"corporate
 communications"
-corporate communications
-designing
-editorial
-features
-marketing collateral
-newsletters
-newspaper
-developer
-page
-presentations
-xpress
-scripts
-trade shows
-transportation
-webmaster
-dreamweaver
-branding
-cost control
-executive coaching
-focus
-messaging
-outlook
-powerpoint
-positioning
-project management
-proposal development
-speaking
-quality
-roofing
-strategic
-pitches
-blogs
-ceo letters
-statistical reports
-health philanthropy
-created
-army core
-reduced scrolling
-trimmed clutter
-employee recognition
-civil works projects
-level 1 (usace
-savannah district
-savannah
-phase i (usace
-ft. meade
-approach
-concept
-credit
-english
-senior management
-money
-enterprise
-oil
-processes
-quick
-relationship management
-repairs
-spanish
-technical training
-adobe illustrator
-benefits
-cancer
-content management
-funds
-graphics
-marketing management
-marketing materials
-microsoft excel
-microsoft outlook
-microsoft powerpoint
-microsoft word
-network
-networks
-next
-product marketing
-project lead
-promotion
-sound
-photo
-ad copy
-content creation
-edit
-fast
-team building
-marketing consulting
-lisa
-negotiations
-newspapers
-paint
-camera
-producing
-recruiting
-researcher
-seminars
-speech
-stories
-strategic marketing
-unique
-web content
-author
-work history      vp
-state      strategize
-direct
-md.
-department of tourism
-old bay
-mccormick & company
-marble slab creamery
-great american cookies
-pretzelmaker
-nobel learning communities
-inc.
-execute
-and manage local
-message points
-interview coordination
-marketing collateral pieces
-the today show
-fox & friends
-newsweek
-consistent account messaging
-to account executive
-to account manager
-copy
-ad
-business process
-cms
-council
-filing
-front page
-functional
-hot dog
-image
-journalism
-layout
-mac
-2000
-operating systems
-organizing
-presenting
-qualitative research
-read
-speech writing
-swift
-tops
-written communications
-written
-writer
-""" ocean city"
-company literature
-announcements
-prospects
-talking points
-exhibitions
-000 employees
-attention to detail
-brochures
-excellent communication
-contracts
-email
-marketing and communications
-marketing communications
-marketing material
-understand store
-purchasing
-travel arrangements
-adobe
-acrobat
-advertisements
-art direction
-asset management
-banners
-brand strategy
-brochure
-capital markets
-creative direction
-creative development
-flash
-packaging design
-packaging
-posters
-pre-press
-programming
-strategic development
-web design
-and customer service
-banner
-visiflow
-xtendersolutions
-cisco agent desktop
-squarespace
-mailchimp
-cendyn
-google analytics
-gps
-lexis nexis
-media plans
-access
-ms office suite
-project plans
-public speaking
-creative problem solving
-event production
-fax
-invoicing
-notebooks
-law
-microsoft office suite
-office equipment
-scanner
-self -motivated
-team player
-editing skills
-multi-media
-self-starter
-verbal communication skills
-equity
-finance
-grants
-investments
-msi
-oct
-pdm
-prime minister
-rehabilitation
-supervision
-surveys
-tender
-pc
-microsoft office programs
-windows
-volleyball
-kayaking
-music
-reading
-hiking
-swimming
-blogging
-faculty
-students
-fiscal administration
-acknowledging
-major gifts campaigns
-endowments
-investment  policies
-scholarship programs
-donor recognition
-writing
-annual reports
-marketing literature
-promoting
-chair (2015-2016)
-d.r.
-gibson
-m.c.
-novicevic
-m.m.
-15(1)
-9-19.   novicevic
-m.
-williams
-l.
-abraham
-d.
-smothers
-j.
-crawford
-16(3).
-state
-accounts payable
-accounts receivable
-administrative functions
-back-up
-balance sheet
-billing
-concise
-cpr
-delivery
-diagnosis
-financial forecasting
-financial reporting
-insurance
-ms excel
-mail
-ms powerpoint
-month-end closing
-payroll
-sarbanes-oxley
-taxes
-type
-human-centered design facilitator
-concepts
-notes
-and programs
-market research
-san
-excellent interpersonal skills
-strong communication skills
-copyediting
-database management
-employee relations
-problem solver
-fast learner
-spreadsheets
-"accounts
+288,corporate communications
+289,designing
+290,editorial
+291,features
+292,marketing collateral
+293,newsletters
+294,newspaper
+295,developer
+296,page
+297,presentations
+298,xpress
+299,scripts
+300,trade shows
+301,transportation
+302,webmaster
+303,dreamweaver
+304,branding
+305,cost control
+306,executive coaching
+307,focus
+308,messaging
+309,outlook
+310,powerpoint
+311,positioning
+312,project management
+313,proposal development
+314,speaking
+315,quality
+316,roofing
+317,strategic
+318,pitches
+319,blogs
+320,ceo letters
+321,statistical reports
+322,health philanthropy
+323,created
+324,army core
+325,reduced scrolling
+326,trimmed clutter
+327,employee recognition
+328,civil works projects
+329,level 1 (usace
+330,savannah district
+331,savannah
+332,phase i (usace
+333,ft. meade
+334,approach
+335,concept
+336,credit
+337,english
+338,senior management
+339,money
+340,enterprise
+341,oil
+342,processes
+343,quick
+344,relationship management
+345,repairs
+346,spanish
+347,technical training
+348,adobe illustrator
+349,benefits
+350,cancer
+351,content management
+352,funds
+353,graphics
+354,marketing management
+355,marketing materials
+356,microsoft excel
+357,microsoft outlook
+358,microsoft powerpoint
+359,microsoft word
+360,network
+361,networks
+362,next
+363,product marketing
+364,project lead
+365,promotion
+366,sound
+367,photo
+368,ad copy
+369,content creation
+370,edit
+371,fast
+372,team building
+373,marketing consulting
+374,lisa
+375,negotiations
+376,newspapers
+377,paint
+378,camera
+379,producing
+380,recruiting
+381,researcher
+382,seminars
+383,speech
+384,stories
+385,strategic marketing
+386,unique
+387,web content
+388,author
+389,work history      vp
+390,state      strategize
+391,direct
+392,md.
+393,department of tourism
+394,old bay
+395,mccormick & company
+396,marble slab creamery
+397,great american cookies
+398,pretzelmaker
+399,nobel learning communities
+400,inc.
+401,execute
+402,and manage local
+403,message points
+404,interview coordination
+405,marketing collateral pieces
+406,the today show
+407,fox & friends
+408,newsweek
+409,consistent account messaging
+410,to account executive
+411,to account manager
+412,copy
+413,ad
+414,business process
+415,cms
+416,council
+417,filing
+418,front page
+419,functional
+420,hot dog
+421,image
+422,journalism
+423,layout
+424,mac
+425,2000
+426,operating systems
+427,organizing
+428,presenting
+429,qualitative research
+430,read
+431,speech writing
+432,swift
+433,tops
+434,written communications
+435,written
+436,writer
+437,""" ocean city"
+438,company literature
+439,announcements
+440,prospects
+441,talking points
+442,exhibitions
+443,000 employees
+444,attention to detail
+445,brochures
+446,excellent communication
+447,contracts
+448,email
+449,marketing and communications
+450,marketing communications
+451,marketing material
+452,understand store
+453,purchasing
+454,travel arrangements
+455,adobe
+456,acrobat
+457,advertisements
+458,art direction
+459,asset management
+460,banners
+461,brand strategy
+462,brochure
+463,capital markets
+464,creative direction
+465,creative development
+466,flash
+467,packaging design
+468,packaging
+469,posters
+470,pre-press
+471,programming
+472,strategic development
+473,web design
+474,and customer service
+475,banner
+476,visiflow
+477,xtendersolutions
+478,cisco agent desktop
+479,squarespace
+480,mailchimp
+481,cendyn
+482,google analytics
+483,gps
+484,lexis nexis
+485,media plans
+486,access
+487,ms office suite
+488,project plans
+489,public speaking
+490,creative problem solving
+491,event production
+492,fax
+493,invoicing
+494,notebooks
+495,law
+496,microsoft office suite
+497,office equipment
+498,scanner
+499,self -motivated
+500,team player
+501,editing skills
+502,multi-media
+503,self-starter
+504,verbal communication skills
+505,equity
+506,finance
+507,grants
+508,investments
+509,msi
+510,oct
+511,pdm
+512,prime minister
+513,rehabilitation
+514,supervision
+515,surveys
+516,tender
+517,pc
+518,microsoft office programs
+519,windows
+520,volleyball
+521,kayaking
+522,music
+523,reading
+524,hiking
+525,swimming
+526,blogging
+527,faculty
+528,students
+529,fiscal administration
+530,acknowledging
+531,major gifts campaigns
+532,endowments
+533,investment  policies
+534,scholarship programs
+535,donor recognition
+536,writing
+537,annual reports
+538,marketing literature
+539,promoting
+540,chair (2015-2016)
+541,d.r.
+542,gibson
+543,m.c.
+544,novicevic
+545,m.m.
+546,15(1)
+547,9-19.   novicevic
+548,m.
+549,williams
+550,l.
+551,abraham
+552,d.
+553,smothers
+554,j.
+555,crawford
+556,16(3).
+557,state
+558,accounts payable
+559,accounts receivable
+560,administrative functions
+561,back-up
+562,balance sheet
+563,billing
+564,concise
+565,cpr
+566,delivery
+567,diagnosis
+568,financial forecasting
+569,financial reporting
+570,insurance
+571,ms excel
+572,mail
+573,ms powerpoint
+574,month-end closing
+575,payroll
+576,sarbanes-oxley
+577,taxes
+578,type
+579,human-centered design facilitator
+580,concepts
+581,notes
+582,and programs
+583,market research
+584,san
+585,excellent interpersonal skills
+586,strong communication skills
+587,copyediting
+588,database management
+589,employee relations
+590,problem solver
+591,fast learner
+592,spreadsheets
+593,"accounts
 payable"
-ask
-billing system
-charts
-customer support
-frame
-oss
-scanning
-service level agreement
-service level agreements
-tax
-telephone
-state        processed applications
-payments
-corrections
-state       dispensed guidance
-staff
-negotiated
-lectures
-factiva
-cision
-twitter
-pinterest
-youtube and instagram)
-newsletter  agency
-organizing  brand management
-organizational  brochures
-presentations  budgets
-pr  budget
-press releases  budgeting
-pricing  competitive
-producing  content
-profit      contract negotiation
-project management  database
-promotional materials  management
-proofreading  special events
-public relations  graphics
-public  inventory
-relations  logistics
-publicity  marketing strategies
-research  marketing plan
-retail  marketing
-sales  market
-strategy  marketing communications
-time management  materials
-translation  meetings
-plans
-"such as
+594,ask
+595,billing system
+596,charts
+597,customer support
+598,frame
+599,oss
+600,scanning
+601,service level agreement
+602,service level agreements
+603,tax
+604,telephone
+605,state        processed applications
+606,payments
+607,corrections
+608,state       dispensed guidance
+609,staff
+610,negotiated
+611,lectures
+612,factiva
+613,cision
+614,twitter
+615,pinterest
+616,youtube and instagram)
+617,newsletter  agency
+618,organizing  brand management
+619,organizational  brochures
+620,presentations  budgets
+621,pr  budget
+622,press releases  budgeting
+623,pricing  competitive
+624,producing  content
+625,profit      contract negotiation
+626,project management  database
+627,promotional materials  management
+628,proofreading  special events
+629,public relations  graphics
+630,public  inventory
+631,relations  logistics
+632,publicity  marketing strategies
+633,research  marketing plan
+634,retail  marketing
+635,sales  market
+636,strategy  marketing communications
+637,time management  materials
+638,translation  meetings
+639,plans
+640,"such as
 flyers"
-launches
-business meetings
-"registration database
+641,launches
+642,business meetings
+643,"registration database
 management"
-including registration
-attendee tracking
-presentation
-planned
-brand management
-competitive
-contract negotiation
-database  management
-news releases
-organizational
-pricing
-promotional materials
-proofreading
-public  relations
-time management
-translation
-web pages
-engage
-000 livestream participants)
-500 attendees)
-project manager
-its
-pacs
-radiology
-dicom
-integration
-integrator
-mckesson
-sales to
-staff training
-with sales
-security
-backbone
-data center
-mentoring
-phone system
-windows 7
-increase
-systems analyst
-as400
-emr
-excellent multitasker
-frontpage
-hms
-internet explorer
-kronos
-linux
-ms sql server
-pagemaker
-problem-solving
-siemens
-simultaneously
-sql
-sql server
-sql server 2000
-technology management
-unix
-wordperfect
-event wrap-reports
-product dossiers
-launch plans
-hootsuite
-kissmetrics
-chaos cocktails
-tx)
-the pr boutique
-linda gaunt communications
-photo editing
-program announcements
-pitch letters
-company-wide emails
-training videos
-ads
-content development
-marketing strategy
-hospitals
-external
-development
-motivate
-goals
-monitoring activities
-data analytics
-strategic communications
-amplify coverage
-content writers
-digital marketers
-visual designers
-etc.
-media events
-press conferences
-product launches
-- preparing
-photos
-made changes
-post-production team members
-advertiser funding
-ford
-land rover
-samsung
-htc
-international standard
-state        provides procurement
-logistical
-records
-systems contracts
-vendors by commodity
-planning
-diligent
-sub-consultants
-project managers
-engineers
-engineering
-spelling
-comprehension
-measure
-email marketing
-community management
-communications
-social media.
-business strategy
-database skills
-event coordination
-fast paced
-focused
-hris
-human resources
-social media management
-leadership skills
-strong organizational skills
-troubleshoot
-brand development
-business strategies
-cisco
-fireworks
-hp
-logo
-market planning
-publicist
-rfp
-copywriter
-proactive
-self motivated
-governance
-public relations strategy
-media strategy
-premier
-strategic planning
-white papers
-contract management
-million
-registrations
-staffing
-energetic
-organizational skills
-storage area network
-corporate finance
-detail oriented
-engineer
-feature articles
-general manager
-verbal skills
-""
-active directory
-cash registers
-hardware
-counseling
-information systems
-pos
-psychology
-relationship building
-servers
-spss
-graphic
-online marketing
-production manager
-script
-graphic designers
-educators
-monthly blood drives
-t-shirt drives
-selected topics
-advertising sales
-direct marketing
-mailing
-researching
-sales development
-pre-qualifying prospects
-answered product questions
-outstanding writing ability
-microsoft office: word
-interview
-grievance
-fair
-and respectful manner
-setting goals
-vacations
-training and development
-culture & values
-engagement & connect
-supervisory capability
-data collection procedures
-open days
-edi
-training programs
-work history      manager
-banking
-coach
-economics
-investment management
-window
-reception
-statistics
-employee development
-delivered
-edited
-media relations' content
-corporate newsletter content
-easy to understand
-letters and memos
-prioritization
-report
-telephone skills
-client relations
-multilingual
-networking events
-powerpoint presentations
-document translation
-internet research
-web content development
-proposal writing
-strategic research
-social media maintenance
-accountant
-teaching
-internal communications
-marketing research
-print advertising
-print campaign
-basis
-maintenance
-gaap
-community outreach
-financial statements
-general ledger
-leads
-program management
-collection
-financial support
-personnel management
-procurement
-adobe indesign
-ap
-ar
-biomedical
-civil site
-jam
-leadership development
-learning and development
-nas
-network attached storage
-od
-optimization
-organizational development
-pipeline
-quota
-site design
-budget maintenance
-data entry
-office management
-management
-serving staff
-charlotte
-soup kitchen
-clothes drive
-youth leadership development
-basic
-closing
-cooking
-make change
-forms
-ids
-instruction
-maintain inventory
-multimedia
-neat
-safety
-supervisor
-supervising
-tables
-experience with advertising
-negotiating contracts
-publications (newsletters
-website content
-education
-cd
-98
-publication
-express
-including: vocus
-such as hootsuite
-buffer
-socialbro
-objectives
-capabilities
-rajant corporation
-ase group
-altium
-social media strategy
-visual storytelling
-thought leadership campaigns
-corporate brand positioning
-industry events
-rapport
-no jitter
-current analysis
-fierce enterprise communications
-converge! network digest
-uc strategies
-urgent communications
-message development
-microsite development
-seo enhancement
-ineda systems
-intelepeer
-rae systems
-content creation strategy
-industry awards
-re/code
-ee times
-byline article abstracts
-customer case studies
-faqs
-executive bios
-guest blog posts
-eweek
-network computing
-electronic design
-ee journal
-forecasting
-cellphone mate
-asigra
-heritage bank
-toeniskeotter & breeding
-market analysis reports
-backgrounders
-website copy
-case studies
-faq's
-oprah magazine
-salon.com
-cnn small business
-g4tv
-msn games
-campaign datasheets
-spx automotive
-contributed articles
-q&as
-including: menu selection
-av needs
-technological requirements
-entertainment
-sand hill capital
-meriwest credit union
-toeniskoetter & breeding
-fact sheets
-england
-e-mail
-equipment maintenance
-graphs
-manufacturing process
-office administration
-office skills
-pick
-presentation development
-maintain documentation
-answer phones
-ap style
-interpersonal skills
-write press releases
-problem solving
-project planning
-proof reading
-maintain website
-account management
-ai
-epson
-information security
-navigation
-reuters
-telecommunications
-toshiba
-vision
-finding contact information
-inventory oversight
-administration
-balance
-business planning
-financial control
-management skills
-market analysis
-windows 8
-operating system
-persuasive
-report writing
-audit
-best practices
-finishers
-document control
-accountable for
-change orders
-pmo
-process improvement
-real-time
-and sales
-product sales
-sales analysis
-sales and
-sales increase
-sales reports
-transportation safety
-virtual learning
-virtual training
-inventory control
-sops
-tool room
-clinical trials
-financial services
-infomaker
-new hires
-oracle
-pcm
-cost savings analysis
-records management
-audits
-business intelligence
-cost accounting
-evms
-federal acquisition
-federal acquisition regulations
-government contract
-microsoft access
-microsoft office 2010
-microsoft sharepoint
-ms access
-office 2010
-pmp
-share point
-sharepoint
-six sigma
-six-sigma
-business management
-improve procedures
-sentence structure
-aakash institute
-administrative assistant
-administrative support
-drafting
-hindi
-languages
-outlook express
-power-point
-phone systems
-songwriter & musician.
-adobe creative suite
-oracle procurement
-social retreats
-jalan mutiara
-taman bukit ampang
-jalan bukit belacan
-68000 ampang
-jalan pju               1a/46
-47301 petaling jaya
-"state     no.
+644,including registration
+645,attendee tracking
+646,presentation
+647,planned
+648,brand management
+649,competitive
+650,contract negotiation
+651,database  management
+652,news releases
+653,organizational
+654,pricing
+655,promotional materials
+656,proofreading
+657,public  relations
+658,time management
+659,translation
+660,web pages
+661,engage
+662,000 livestream participants)
+663,500 attendees)
+664,project manager
+665,its
+666,pacs
+667,radiology
+668,dicom
+669,integration
+670,integrator
+671,mckesson
+672,sales to
+673,staff training
+674,with sales
+675,security
+676,backbone
+677,data center
+678,mentoring
+679,phone system
+680,windows 7
+681,increase
+682,systems analyst
+683,as400
+684,emr
+685,excellent multitasker
+686,frontpage
+687,hms
+688,internet explorer
+689,kronos
+690,linux
+691,ms sql server
+692,pagemaker
+693,problem-solving
+694,siemens
+695,simultaneously
+696,sql
+697,sql server
+698,sql server 2000
+699,technology management
+700,unix
+701,wordperfect
+702,event wrap-reports
+703,product dossiers
+704,launch plans
+705,hootsuite
+706,kissmetrics
+707,chaos cocktails
+708,tx)
+709,the pr boutique
+710,linda gaunt communications
+711,photo editing
+712,program announcements
+713,pitch letters
+714,company-wide emails
+715,training videos
+716,ads
+717,content development
+718,marketing strategy
+719,hospitals
+720,external
+721,development
+722,motivate
+723,goals
+724,monitoring activities
+725,data analytics
+726,strategic communications
+727,amplify coverage
+728,content writers
+729,digital marketers
+730,visual designers
+731,etc.
+732,media events
+733,press conferences
+734,product launches
+735,- preparing
+736,photos
+737,made changes
+738,post-production team members
+739,advertiser funding
+740,ford
+741,land rover
+742,samsung
+743,htc
+744,international standard
+745,state        provides procurement
+746,logistical
+747,records
+748,systems contracts
+749,vendors by commodity
+750,planning
+751,diligent
+752,sub-consultants
+753,project managers
+754,engineers
+755,engineering
+756,spelling
+757,comprehension
+758,measure
+759,email marketing
+760,community management
+761,communications
+762,social media.
+763,business strategy
+764,database skills
+765,event coordination
+766,fast paced
+767,focused
+768,hris
+769,human resources
+770,social media management
+771,leadership skills
+772,strong organizational skills
+773,troubleshoot
+774,brand development
+775,business strategies
+776,cisco
+777,fireworks
+778,hp
+779,logo
+780,market planning
+781,publicist
+782,rfp
+783,copywriter
+784,proactive
+785,self motivated
+786,governance
+787,public relations strategy
+788,media strategy
+789,premier
+790,strategic planning
+791,white papers
+792,contract management
+793,million
+794,registrations
+795,staffing
+796,energetic
+797,organizational skills
+798,storage area network
+799,corporate finance
+800,detail oriented
+801,engineer
+802,feature articles
+803,general manager
+804,verbal skills
+805,
+806,active directory
+807,cash registers
+808,hardware
+809,counseling
+810,information systems
+811,pos
+812,psychology
+813,relationship building
+814,servers
+815,spss
+816,graphic
+817,online marketing
+818,production manager
+819,script
+820,graphic designers
+821,educators
+822,monthly blood drives
+823,t-shirt drives
+824,selected topics
+825,advertising sales
+826,direct marketing
+827,mailing
+828,researching
+829,sales development
+830,pre-qualifying prospects
+831,answered product questions
+832,outstanding writing ability
+833,microsoft office: word
+834,interview
+835,grievance
+836,fair
+837,and respectful manner
+838,setting goals
+839,vacations
+840,training and development
+841,culture & values
+842,engagement & connect
+843,supervisory capability
+844,data collection procedures
+845,open days
+846,edi
+847,training programs
+848,work history      manager
+849,banking
+850,coach
+851,economics
+852,investment management
+853,window
+854,reception
+855,statistics
+856,employee development
+857,delivered
+858,edited
+859,media relations' content
+860,corporate newsletter content
+861,easy to understand
+862,letters and memos
+863,prioritization
+864,report
+865,telephone skills
+866,client relations
+867,multilingual
+868,networking events
+869,powerpoint presentations
+870,document translation
+871,internet research
+872,web content development
+873,proposal writing
+874,strategic research
+875,social media maintenance
+876,accountant
+877,teaching
+878,internal communications
+879,marketing research
+880,print advertising
+881,print campaign
+882,basis
+883,maintenance
+884,gaap
+885,community outreach
+886,financial statements
+887,general ledger
+888,leads
+889,program management
+890,collection
+891,financial support
+892,personnel management
+893,procurement
+894,adobe indesign
+895,ap
+896,ar
+897,biomedical
+898,civil site
+899,jam
+900,leadership development
+901,learning and development
+902,nas
+903,network attached storage
+904,od
+905,optimization
+906,organizational development
+907,pipeline
+908,quota
+909,site design
+910,budget maintenance
+911,data entry
+912,office management
+913,management
+914,serving staff
+915,charlotte
+916,soup kitchen
+917,clothes drive
+918,youth leadership development
+919,basic
+920,closing
+921,cooking
+922,make change
+923,forms
+924,ids
+925,instruction
+926,maintain inventory
+927,multimedia
+928,neat
+929,safety
+930,supervisor
+931,supervising
+932,tables
+933,experience with advertising
+934,negotiating contracts
+935,publications (newsletters
+936,website content
+937,education
+938,cd
+939,98
+940,publication
+941,express
+942,including: vocus
+943,such as hootsuite
+944,buffer
+945,socialbro
+946,objectives
+947,capabilities
+948,rajant corporation
+949,ase group
+950,altium
+951,social media strategy
+952,visual storytelling
+953,thought leadership campaigns
+954,corporate brand positioning
+955,industry events
+956,rapport
+957,no jitter
+958,current analysis
+959,fierce enterprise communications
+960,converge! network digest
+961,uc strategies
+962,urgent communications
+963,message development
+964,microsite development
+965,seo enhancement
+966,ineda systems
+967,intelepeer
+968,rae systems
+969,content creation strategy
+970,industry awards
+971,re/code
+972,ee times
+973,byline article abstracts
+974,customer case studies
+975,faqs
+976,executive bios
+977,guest blog posts
+978,eweek
+979,network computing
+980,electronic design
+981,ee journal
+982,forecasting
+983,cellphone mate
+984,asigra
+985,heritage bank
+986,toeniskeotter & breeding
+987,market analysis reports
+988,backgrounders
+989,website copy
+990,case studies
+991,faq's
+992,oprah magazine
+993,salon.com
+994,cnn small business
+995,g4tv
+996,msn games
+997,campaign datasheets
+998,spx automotive
+999,contributed articles
+1000,q&as
+1001,including: menu selection
+1002,av needs
+1003,technological requirements
+1004,entertainment
+1005,sand hill capital
+1006,meriwest credit union
+1007,toeniskoetter & breeding
+1008,fact sheets
+1009,england
+1010,e-mail
+1011,equipment maintenance
+1012,graphs
+1013,manufacturing process
+1014,office administration
+1015,office skills
+1016,pick
+1017,presentation development
+1018,maintain documentation
+1019,answer phones
+1020,ap style
+1021,interpersonal skills
+1022,write press releases
+1023,problem solving
+1024,project planning
+1025,proof reading
+1026,maintain website
+1027,account management
+1028,ai
+1029,epson
+1030,information security
+1031,navigation
+1032,reuters
+1033,telecommunications
+1034,toshiba
+1035,vision
+1036,finding contact information
+1037,inventory oversight
+1038,administration
+1039,balance
+1040,business planning
+1041,financial control
+1042,management skills
+1043,market analysis
+1044,windows 8
+1045,operating system
+1046,persuasive
+1047,report writing
+1048,audit
+1049,best practices
+1050,finishers
+1051,document control
+1052,accountable for
+1053,change orders
+1054,pmo
+1055,process improvement
+1056,real-time
+1057,and sales
+1058,product sales
+1059,sales analysis
+1060,sales and
+1061,sales increase
+1062,sales reports
+1063,transportation safety
+1064,virtual learning
+1065,virtual training
+1066,inventory control
+1067,sops
+1068,tool room
+1069,clinical trials
+1070,financial services
+1071,infomaker
+1072,new hires
+1073,oracle
+1074,pcm
+1075,cost savings analysis
+1076,records management
+1077,audits
+1078,business intelligence
+1079,cost accounting
+1080,evms
+1081,federal acquisition
+1082,federal acquisition regulations
+1083,government contract
+1084,microsoft access
+1085,microsoft office 2010
+1086,microsoft sharepoint
+1087,ms access
+1088,office 2010
+1089,pmp
+1090,share point
+1091,sharepoint
+1092,six sigma
+1093,six-sigma
+1094,business management
+1095,improve procedures
+1096,sentence structure
+1097,aakash institute
+1098,administrative assistant
+1099,administrative support
+1100,drafting
+1101,hindi
+1102,languages
+1103,outlook express
+1104,power-point
+1105,phone systems
+1106,songwriter & musician.
+1107,adobe creative suite
+1108,oracle procurement
+1109,social retreats
+1110,jalan mutiara
+1111,taman bukit ampang
+1112,jalan bukit belacan
+1113,68000 ampang
+1114,jalan pju               1a/46
+1115,47301 petaling jaya
+1116,"state     no.
 7-1f"
-seksyen 13
-menara selatan
-"persiaran  
+1117,seksyen 13
+1118,menara selatan
+1119,"persiaran  
 masjid"
-40676 shah alam
-ms word 2000
-ms excel 2000
-permatang pauh
-watching
-uitm kedah
-ms words
-symphony
-autism
-consulting
-data visualization
-facilities management
-mapinfo
-sla
-therapeutic interventions
-agile
-budget management
-detail-oriented
-e-business
-educational materials
-ux
-negotiator
-prescription refills
-software training
-vendor relations
-communication
-teamwork
-creativity
-craft beer
-curating
-webpt
-business communications
-community hospital
-expense reports
-human resource
-office manager
-switchboard
-roi
-site layout
-buying
-buying/procurement
-media buying
-account executive
-tradeshows
-agency partners
-business sales
-forecasts
-sales presentations
-distributor sales
-account sales
-accounts and
-accounts manager
-corporate accounts
-corporate sales
-increasing sales
-isr
-key account
-key accounts
-monthly sales
-national sales
-new products
-regional sales
-sales contract
-sales force
-sales forecast
-sales revenue
-sales/marketing
-tradeshow
-bankruptcy
-different accounts
-account planning
-ambitious
-catalyst
-channel management
-crm
-customer relationship management
-diesel
-hyperion
-illustration
-interactive media
-lotus notes
-marketing/advertising
-national accounts
-natural
-rest
-sales campaign
-sales generation
-share of voice
-steering
-suspension
-voice
-automotive
-aviation
-rural electric
-sampling
-youtube
-including germany
-government relations
-state      speechwriting
-healthsouth
-america''          manager
-news
-creative writing
-explorer
-natural-gas
-reporter
-speechwriting
-professional writing
-first place
-fifth place (national)
-1979
-including venues
-guest speakers
-influencers
-media invites
-briefing documents
-follower engagement
-social listening
-state     oversee layout
-assess refugee settlements
-a/p
-financial goal setting
-layout and design
-team leadership
-microsoft officeproducts
-organization skills
-quickbooks
-russian
-workshops.
-purchase orders
-sales reporting
-analysis
-qvc digital business
-"sales
+1120,40676 shah alam
+1121,ms word 2000
+1122,ms excel 2000
+1123,permatang pauh
+1124,watching
+1125,uitm kedah
+1126,ms words
+1127,symphony
+1128,autism
+1129,consulting
+1130,data visualization
+1131,facilities management
+1132,mapinfo
+1133,sla
+1134,therapeutic interventions
+1135,agile
+1136,budget management
+1137,detail-oriented
+1138,e-business
+1139,educational materials
+1140,ux
+1141,negotiator
+1142,prescription refills
+1143,software training
+1144,vendor relations
+1145,communication
+1146,teamwork
+1147,creativity
+1148,craft beer
+1149,curating
+1150,webpt
+1151,business communications
+1152,community hospital
+1153,expense reports
+1154,human resource
+1155,office manager
+1156,switchboard
+1157,roi
+1158,site layout
+1159,buying
+1160,buying/procurement
+1161,media buying
+1162,account executive
+1163,tradeshows
+1164,agency partners
+1165,business sales
+1166,forecasts
+1167,sales presentations
+1168,distributor sales
+1169,account sales
+1170,accounts and
+1171,accounts manager
+1172,corporate accounts
+1173,corporate sales
+1174,increasing sales
+1175,isr
+1176,key account
+1177,key accounts
+1178,monthly sales
+1179,national sales
+1180,new products
+1181,regional sales
+1182,sales contract
+1183,sales force
+1184,sales forecast
+1185,sales revenue
+1186,sales/marketing
+1187,tradeshow
+1188,bankruptcy
+1189,different accounts
+1190,account planning
+1191,ambitious
+1192,catalyst
+1193,channel management
+1194,crm
+1195,customer relationship management
+1196,diesel
+1197,hyperion
+1198,illustration
+1199,interactive media
+1200,lotus notes
+1201,marketing/advertising
+1202,national accounts
+1203,natural
+1204,rest
+1205,sales campaign
+1206,sales generation
+1207,share of voice
+1208,steering
+1209,suspension
+1210,voice
+1211,automotive
+1212,aviation
+1213,rural electric
+1214,sampling
+1215,youtube
+1216,including germany
+1217,government relations
+1218,state      speechwriting
+1219,healthsouth
+1220,america''          manager
+1221,news
+1222,creative writing
+1223,explorer
+1224,natural-gas
+1225,reporter
+1226,speechwriting
+1227,professional writing
+1228,first place
+1229,fifth place (national)
+1230,1979
+1231,including venues
+1232,guest speakers
+1233,influencers
+1234,media invites
+1235,briefing documents
+1236,follower engagement
+1237,social listening
+1238,state     oversee layout
+1239,assess refugee settlements
+1240,a/p
+1241,financial goal setting
+1242,layout and design
+1243,team leadership
+1244,microsoft officeproducts
+1245,organization skills
+1246,quickbooks
+1247,russian
+1248,workshops.
+1249,purchase orders
+1250,sales reporting
+1251,analysis
+1252,qvc digital business
+1253,"sales
 promotions"
-charity partnerships
-itineraries
-expenses
-establish best practices
-business operations
-negotiating
-techvalidate
-adobe acrobat
-draw blood
-interpersonal
-communication skills
-estimating
-first aid
-drawing
-inventory management
-laptop computers
-notebook computers
-laser printers
-logos
-microsoft office software
-microsoft project
-"microsoft
+1254,charity partnerships
+1255,itineraries
+1256,expenses
+1257,establish best practices
+1258,business operations
+1259,negotiating
+1260,techvalidate
+1261,adobe acrobat
+1262,draw blood
+1263,interpersonal
+1264,communication skills
+1265,estimating
+1266,first aid
+1267,drawing
+1268,inventory management
+1269,laptop computers
+1270,notebook computers
+1271,laser printers
+1272,logos
+1273,microsoft office software
+1274,microsoft project
+1275,"microsoft
   word"
-resuscitation
-collect specimens
-venipuncture
-analyst
-art
-catalogs
-clientele
-database software
-digital photography
-due diligence
-financing
-communicator
-presentation skills
-print design
-print media
-property management
-public health
-state     create outlines
-storyboards
-graphics concepts
-social media tools
-graphics contents
-promotional videos
-adwords
-including designing logos
-business cards
-handling budgets
-contents
-email newsletters
-including answering telephones
-handling computer equipment
-faxes
-contact lists
-state      marketing
-image manipulation
-web development
-business plans
-trade show
-ordering
-sales goals
-sales in
-weekly sales
-answering
-cash
-order entry
-correspondence
-of sales
-operations management
-premiere
-product analysis
-assembly
-chinese
-fame
-ims
-indexing
-online research
-2008
-2009
-2007
-onenote
-entourage
-sprout social
-canvas
-tweet deck
-lexis-nexis
-bacon's mediasource
-mac software/programs
-final draft 7
-sap
-strategic plans
-school districts
-communication processes
-information strategies
-information sources
-track analytics
-archives
-such as newsprint
-internet
-000+ alumni
-scholarship committee
-ppr committee
-2008  youthfriends
+1276,resuscitation
+1277,collect specimens
+1278,venipuncture
+1279,analyst
+1280,art
+1281,catalogs
+1282,clientele
+1283,database software
+1284,digital photography
+1285,due diligence
+1286,financing
+1287,communicator
+1288,presentation skills
+1289,print design
+1290,print media
+1291,property management
+1292,public health
+1293,state     create outlines
+1294,storyboards
+1295,graphics concepts
+1296,social media tools
+1297,graphics contents
+1298,promotional videos
+1299,adwords
+1300,including designing logos
+1301,business cards
+1302,handling budgets
+1303,contents
+1304,email newsletters
+1305,including answering telephones
+1306,handling computer equipment
+1307,faxes
+1308,contact lists
+1309,state      marketing
+1310,image manipulation
+1311,web development
+1312,business plans
+1313,trade show
+1314,ordering
+1315,sales goals
+1316,sales in
+1317,weekly sales
+1318,answering
+1319,cash
+1320,order entry
+1321,correspondence
+1322,of sales
+1323,operations management
+1324,premiere
+1325,product analysis
+1326,assembly
+1327,chinese
+1328,fame
+1329,ims
+1330,indexing
+1331,online research
+1332,2008
+1333,2009
+1334,2007
+1335,onenote
+1336,entourage
+1337,sprout social
+1338,canvas
+1339,tweet deck
+1340,lexis-nexis
+1341,bacon's mediasource
+1342,mac software/programs
+1343,final draft 7
+1344,sap
+1345,strategic plans
+1346,school districts
+1347,communication processes
+1348,information strategies
+1349,information sources
+1350,track analytics
+1351,archives
+1352,such as newsprint
+1353,internet
+1354,000+ alumni
+1355,scholarship committee
+1356,ppr committee
+1357,2008  youthfriends

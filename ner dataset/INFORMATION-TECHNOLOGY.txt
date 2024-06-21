@@ -1,2136 +1,2136 @@
-0
-budget
-cabling
-cisco
-hardware
-client
-documentation
-electrician
-feasibility studies
-funds
-information technology
-inspector
-lan
-materials
-access
-network
-networking
-networks
-personnel
-telephone systems
-printers
-processes
-project management
-quality assurance
-routers
-system design
-technical assistance
-technician
-telecommunications
-troubleshoot
-troubleshooting
-upgrades
-video
-cable
-and telephone.
-army
-counseling
-customer assistance
-database
-inventory
-ip
-windows 7
-policies
-protocols
-repairs
-routing
-san
-supervisor
-test equipment
-wan
-photoshop
-premier
-art
-computer repair
-curriculum development
-customer service training
-department of health
-dreamweaver
-fireworks
-flash
-help desk
-html coding
-illustrator
-indesign
-inventory control
-mac os
-market
-excel
-microsoft networking
-outlook
-powerpoint
-windows os
-word
-multimedia presentations
-natural
-network management
-novell
-php
-progress
-quarkxpress
-staff training
-technical support
-user training
-phone
-wiring
-staff
-trained
-wireless network
-visits
-funerals
-state
-peoplesoft hcm 8.8/9.x
-peoplesoft financials 8.8/9.x
-peopletools 8.51/ 8.54
-sql developer
-ms office
-visio
-ms project
-dell stat 5.6/5.7
-application designer
-putty
-sharepoint
-oracle enterprise manager
-stat admin
-toad
-service now
-remedy
-heat
-oracle e-business
-financial
-operational
-security
-control walkthroughs
-control testing
-remediation assistance
-implementations
-operational audits
-permission lists
-data owners
-end users
-improvements
-monitor
-developers
-quality engineers
-peers
-dashboards
-ps financials
-ps campus solutions
-cybersecurity assessments
-peoplesoft financial systems
-procurement
-audit schedules
-risk management
-compliance
-analysis
-business owners
-peoplesoft
-oracle
-siebel
-payroll
-peoplesoft hr
-define business processes
-invoice approvals
-employee time approvals
-sponsor roadmap
-coaching plan
-business leaders
-applications
-track
-modify
-test
-debug
-determined root cause
-e-procurement
-vpn connectivity
-blackberry
-ccna
-approach
-as/400
-audit reports
-auditing
-business owner
-business process
-business processes
-business process re-engineering
-change management
-cisa
-citrix
-coaching
-continuous improvement
-council
-clients
-customer satisfaction
-dell
-e-business
-financials
-financials 8.8
-financial reporting
-functional
-grants
-hp
-hubs
-hr
-information systems
-internal audit
-it management
-it support
-itil
-leadership
-team lead
-mainframe
-meetings
-mcse
-migration
-enterprise
-oncology
-developer
-peoplesoft hrms
-peoplesoft 9.1
-peoplesoft 9.2
-peopletools
-peopletools 8.51
-quality
-re-engineering
-reporting
-requirement
-requirements gathering
-risk assessment
-sarbanes oxley
-sas
-sigma
-sql
-strategy
-structured
-supplier management
-user support
-technical documentation
-upgrade
-validation
-vpn
-articles
-ad
-cisco ios
-cisco routers
-contracts
-dell poweredge servers
-designing
-erp
-firewall
-focus
-groupwise
-help desk support
-ibm
-ids
-laptops
-notebook computers
-linux
-managing
-mas90
-exchange
-office
-windows
-windows xp
-network engineer
-network printers
-operating systems
-pci
-phone system
-pos
-prime
-printer
-purchasing
-express
-research
-router
-scanners
-sco unix
-ssl
-switches
-cisco switches
-symantec
-trend
-vendor management
-vista
-voip
-windows server
-workflow
-a  certification
-active directory
-anti-virus
-compliance manager
-ca
-concept
-contract negotiations
-conversion
-encryption
-desktops
-disaster recovery
-dns
-gateway
-imaging
-information security
-legal
-mac
-director
-mcafee
-mediator
-mentoring
-microsoft exchange
-mail
-windows (xp
-negotiation
-programming
-proxy
-red hat
-relationship building
-statistics
-tcp/ip
-technical trainer
-phones
-author
-administrative
-analyst
-agency
-cat5
-engineer
-engineering support
-government
-ims
-local area networks
-local area network
-lans
-law
-project leader
-project coordination
-qa
-quick
-radio
-sat
-scheduling
-surveys
-switch
-systems integration
-telephone
-theatre
-uhf
-ultra high frequency
-voice and data
-4d
-adobe products
-apple
-automation
-backup
-broadcast
-budget planning
-computer technician
-databases
-dhcp
-editing
-final cut
-ftp
-magic
-microsoft exchange server
-2000
-network administration
-os
-operating system
-power builder 6.5
-power builder 9.0
-quickbooks pro
-sales
-servers
-software installation
-microsoft sql server
-streaming video
-sybase sql anywhere
-television
-windows 2000 server
-academic
-adp
-architect
-b2b
-behavioral health
-billing
-book
-broadvision
-cad
-case management
-ventura
-crm
-customer support
-data collection
-data warehouse
-decision support
-delivery
-document management
-edge
-estimating
-front office
-drawing
-insurance
-internet marketing
-law enforcement
-leadership skills
-mentor
-microwave
-new construction
-packaging
-pacs
-patient care
-permitting
-presentations
-process re-engineering
-project leadership
-proposal
-public health
-public safety
-real-time
-requirements definition
-rms
-sap
-supervision
-tax
-training materials
-utilities
-warrants
-web development
-asp.net
-adobe acrobat
-adobe dreamweaver
-adobe photoshop
-application design
-arts
-billing systems
-business objects
-business operations
-c++
-client server
-strong communication skills
-"crystal
+,0
+0,budget
+1,cabling
+2,cisco
+3,hardware
+4,client
+5,documentation
+6,electrician
+7,feasibility studies
+8,funds
+9,information technology
+10,inspector
+11,lan
+12,materials
+13,access
+14,network
+15,networking
+16,networks
+17,personnel
+18,telephone systems
+19,printers
+20,processes
+21,project management
+22,quality assurance
+23,routers
+24,system design
+25,technical assistance
+26,technician
+27,telecommunications
+28,troubleshoot
+29,troubleshooting
+30,upgrades
+31,video
+32,cable
+33,and telephone.
+34,army
+35,counseling
+36,customer assistance
+37,database
+38,inventory
+39,ip
+40,windows 7
+41,policies
+42,protocols
+43,repairs
+44,routing
+45,san
+46,supervisor
+47,test equipment
+48,wan
+49,photoshop
+50,premier
+51,art
+52,computer repair
+53,curriculum development
+54,customer service training
+55,department of health
+56,dreamweaver
+57,fireworks
+58,flash
+59,help desk
+60,html coding
+61,illustrator
+62,indesign
+63,inventory control
+64,mac os
+65,market
+66,excel
+67,microsoft networking
+68,outlook
+69,powerpoint
+70,windows os
+71,word
+72,multimedia presentations
+73,natural
+74,network management
+75,novell
+76,php
+77,progress
+78,quarkxpress
+79,staff training
+80,technical support
+81,user training
+82,phone
+83,wiring
+84,staff
+85,trained
+86,wireless network
+87,visits
+88,funerals
+89,state
+90,peoplesoft hcm 8.8/9.x
+91,peoplesoft financials 8.8/9.x
+92,peopletools 8.51/ 8.54
+93,sql developer
+94,ms office
+95,visio
+96,ms project
+97,dell stat 5.6/5.7
+98,application designer
+99,putty
+100,sharepoint
+101,oracle enterprise manager
+102,stat admin
+103,toad
+104,service now
+105,remedy
+106,heat
+107,oracle e-business
+108,financial
+109,operational
+110,security
+111,control walkthroughs
+112,control testing
+113,remediation assistance
+114,implementations
+115,operational audits
+116,permission lists
+117,data owners
+118,end users
+119,improvements
+120,monitor
+121,developers
+122,quality engineers
+123,peers
+124,dashboards
+125,ps financials
+126,ps campus solutions
+127,cybersecurity assessments
+128,peoplesoft financial systems
+129,procurement
+130,audit schedules
+131,risk management
+132,compliance
+133,analysis
+134,business owners
+135,peoplesoft
+136,oracle
+137,siebel
+138,payroll
+139,peoplesoft hr
+140,define business processes
+141,invoice approvals
+142,employee time approvals
+143,sponsor roadmap
+144,coaching plan
+145,business leaders
+146,applications
+147,track
+148,modify
+149,test
+150,debug
+151,determined root cause
+152,e-procurement
+153,vpn connectivity
+154,blackberry
+155,ccna
+156,approach
+157,as/400
+158,audit reports
+159,auditing
+160,business owner
+161,business process
+162,business processes
+163,business process re-engineering
+164,change management
+165,cisa
+166,citrix
+167,coaching
+168,continuous improvement
+169,council
+170,clients
+171,customer satisfaction
+172,dell
+173,e-business
+174,financials
+175,financials 8.8
+176,financial reporting
+177,functional
+178,grants
+179,hp
+180,hubs
+181,hr
+182,information systems
+183,internal audit
+184,it management
+185,it support
+186,itil
+187,leadership
+188,team lead
+189,mainframe
+190,meetings
+191,mcse
+192,migration
+193,enterprise
+194,oncology
+195,developer
+196,peoplesoft hrms
+197,peoplesoft 9.1
+198,peoplesoft 9.2
+199,peopletools
+200,peopletools 8.51
+201,quality
+202,re-engineering
+203,reporting
+204,requirement
+205,requirements gathering
+206,risk assessment
+207,sarbanes oxley
+208,sas
+209,sigma
+210,sql
+211,strategy
+212,structured
+213,supplier management
+214,user support
+215,technical documentation
+216,upgrade
+217,validation
+218,vpn
+219,articles
+220,ad
+221,cisco ios
+222,cisco routers
+223,contracts
+224,dell poweredge servers
+225,designing
+226,erp
+227,firewall
+228,focus
+229,groupwise
+230,help desk support
+231,ibm
+232,ids
+233,laptops
+234,notebook computers
+235,linux
+236,managing
+237,mas90
+238,exchange
+239,office
+240,windows
+241,windows xp
+242,network engineer
+243,network printers
+244,operating systems
+245,pci
+246,phone system
+247,pos
+248,prime
+249,printer
+250,purchasing
+251,express
+252,research
+253,router
+254,scanners
+255,sco unix
+256,ssl
+257,switches
+258,cisco switches
+259,symantec
+260,trend
+261,vendor management
+262,vista
+263,voip
+264,windows server
+265,workflow
+266,a  certification
+267,active directory
+268,anti-virus
+269,compliance manager
+270,ca
+271,concept
+272,contract negotiations
+273,conversion
+274,encryption
+275,desktops
+276,disaster recovery
+277,dns
+278,gateway
+279,imaging
+280,information security
+281,legal
+282,mac
+283,director
+284,mcafee
+285,mediator
+286,mentoring
+287,microsoft exchange
+288,mail
+289,windows (xp
+290,negotiation
+291,programming
+292,proxy
+293,red hat
+294,relationship building
+295,statistics
+296,tcp/ip
+297,technical trainer
+298,phones
+299,author
+300,administrative
+301,analyst
+302,agency
+303,cat5
+304,engineer
+305,engineering support
+306,government
+307,ims
+308,local area networks
+309,local area network
+310,lans
+311,law
+312,project leader
+313,project coordination
+314,qa
+315,quick
+316,radio
+317,sat
+318,scheduling
+319,surveys
+320,switch
+321,systems integration
+322,telephone
+323,theatre
+324,uhf
+325,ultra high frequency
+326,voice and data
+327,4d
+328,adobe products
+329,apple
+330,automation
+331,backup
+332,broadcast
+333,budget planning
+334,computer technician
+335,databases
+336,dhcp
+337,editing
+338,final cut
+339,ftp
+340,magic
+341,microsoft exchange server
+342,2000
+343,network administration
+344,os
+345,operating system
+346,power builder 6.5
+347,power builder 9.0
+348,quickbooks pro
+349,sales
+350,servers
+351,software installation
+352,microsoft sql server
+353,streaming video
+354,sybase sql anywhere
+355,television
+356,windows 2000 server
+357,academic
+358,adp
+359,architect
+360,b2b
+361,behavioral health
+362,billing
+363,book
+364,broadvision
+365,cad
+366,case management
+367,ventura
+368,crm
+369,customer support
+370,data collection
+371,data warehouse
+372,decision support
+373,delivery
+374,document management
+375,edge
+376,estimating
+377,front office
+378,drawing
+379,insurance
+380,internet marketing
+381,law enforcement
+382,leadership skills
+383,mentor
+384,microwave
+385,new construction
+386,packaging
+387,pacs
+388,patient care
+389,permitting
+390,presentations
+391,process re-engineering
+392,project leadership
+393,proposal
+394,public health
+395,public safety
+396,real-time
+397,requirements definition
+398,rms
+399,sap
+400,supervision
+401,tax
+402,training materials
+403,utilities
+404,warrants
+405,web development
+406,asp.net
+407,adobe acrobat
+408,adobe dreamweaver
+409,adobe photoshop
+410,application design
+411,arts
+412,billing systems
+413,business objects
+414,business operations
+415,c++
+416,client server
+417,strong communication skills
+418,"crystal
 reports 9"
-"database
+419,"database
 development"
-database development
-database design
-forms
-frame
-html
-computer support
-marketing materials
-"microsoft
+420,database development
+421,database design
+422,forms
+423,frame
+424,html
+425,computer support
+426,marketing materials
+427,"microsoft
 access"
-microsoft office
-microsoft sharepoint
-oracle database
-pl/sql
-personnel management
-police
-profit
-report writing
-sdlc
-software development
-strategic planning
-system administration
-user manuals
-visual basic
-web intelligence
-branding
-budgets
-business analysis
-bi
-business intelligence
-business management
-data analysis
-dba
-decision making
-hiring
-producing
-sap bw
-ms sql
-staff development
-systems architecture
-website
-adobe
-antivirus
-backup exec
-call center
-capacity planning
-computer assembly
-direct attached storage
-das
-dell servers
-iso 9000
-logistics
-logistics and management
-microsoft certified professional
-microsoft office professional
-microsoft project
-microsoft sql
-microsoft visio professional
-windows 8
-nas
-network attached storage
-new product development
-pbx
-quality improvement
-robotic
-safety
-storage area network
-teamwork
-technical analysis
-visio professional
-vision
-web portal
-integrity
-repair
-files
-implementing
-monitored
-threat bulletins
-nt
-and win 2000)
-network connectivity
-tcp/ip configuration
-provided technical support
-email boxes
-distribution lists
-performed upgrades
-c
-client and server
-compaq
-data processing
-drivers
-email
-ghost
-hewlett-packard
-internet connectivity
-ms office products
-microsoft office suite
-win9
-windows 2000
-win 2000
-windows 95
-98
-windows nt
-monitors
-network security
-norton antivirus
-peripherals
-various printers
-desktop support
-trouble-shoot
-basic
-benefits
-broadband
-budgeting
-cobol
-computer applications
-conferences
-consulting
-customer service
-database management
-dbase iv
-direction
-edi
-features
-fortran
-gis
-ibm compatible
-inspection
-interpretation
-laser
-macintosh
-mapinfo
-mathematics
-ms excel
-management information system
-naval
-novell netware
-oil
-pascal
-pc networking
-camera
-proposals
-reception
-relational database
-rpg iii
-shell
-software engineering
-strategic
-sun sparc
-telecommunication
-transmission
-unix and c
-unix
-vax
-vms
-wide area network
-microsoft outlook 2013
-windows 10
-system security
-data automation
-circuit design application
-unix client server
-interpersonal skills
-network systems
-content encryption
-customer relations
-databases query
-electronic filing
-microsoft windows deployment
-software imaging
-lotus notes
-mainframes
-formal presentations
-radio communication
-geographical statistics
-and technical support.
-detail oriented
-legal terminology
-managerial experience
-meeting organizational skills
-advanced problem-solving skills
-paralegal
-performance appraisals
-lr&w
-westlaw
-lexisnexis
-accounting
-cisco certified
-e-mail
-employee training
-finance
-human resources
-team leadership
-managing people
-ms office suite
-windows 98
-needs analysis
-network administrator
-organizational development
-programmer
-seminars
-service level agreements
-sla
-telecom
-telephony
-trainer
-wordperfect
-account management
-cables
-ms exchange server
-hp unix
-vbscript
-visual basic programming
-network/server security
-geographic information system
-vbscripts and powershell
-sans
-lync 2013
-communicated with teachers
-managers and students
-fortress desktop security
-rosetta stone
-proofpoint spam filter
-iboss web filter
-group policy
-2012
-2003
-7
-10
-linux hp unix
-microsoft office 2007
-2010
-2013
-2016
-skype for business
-escape financial system
-alertus desktop alerting
-""
-laserfiche
-sharepoint 2013
-informacast speaker system
-ram
-video cards
-hard drives
-raid controllers
-network cabling
-motherboards
-20+ years' experience)
-it operations (intermediate
-cna
-a+
-mcp
-comptia a+
-a+network
-a+ security
-hippa
-series 7
-63
-24 microsoft
-comptia
-sec  series 7
-12        skills    a+
-a+ certification
-hardware installation
-dos
-hardware support
-internet explorer
-windows 8.1
-software documentation
-user interface
-asp.net 4.5
-vb.net
-contract negotiation
-etl
-training
-executive management
-senior management
-goldmine
-healthcare it
-marketing
-network analysis
-performance reviews
-process enhancement
-product development
-sql server
-visual studio
-american sign language
-excellent communication
-english
-power point
-microsoft word
-works
-problem solving skills
-translation
-disaster recovery planning
-inspects
-notebooks
-mechanical
-nortel
-pick
-scanner
-script
-shipping
-user documentation
-arabic
-back-up
-nt servers
-pc's
-training programs
-trouble shooting
-.net
-adabas
-ado
-agile
-application development
-asp
-banking
-banyan
-cardiology
-data management
-database administration
-xml
-iis
-it strategy
-c#
-network support
-object modeling
-oracle dba
-oracle sql
-requirements analysis
-tableau
-web applications
-year 2000
-software: active directory
-hp insight manager
-emc avamar
-symantec ghost
-voltage email encryption
-websense
-quest archive manager
-symantec backup exec
-microsoft iis
-ca arcserve
-barracuda spam firewall
-blackberry enterprise server
-sophos anti-virus
-trend micro anti-virus
-vmware
-hyper-v
-barracuda backup
-barracuda web filter
-cisco call manager
-cisco uccx
-exact target
-cisco  switches
-checkpoint firewalls
-hp procurve switches
-meraki wi-fi
-cisco wi-fi
-hp proliant
-dell poweredge.
-streamline
-business systems
-closing 3
-guardian
-investments
-itil v
-money
-msa
-negotiating
-relationship management
-rfi
-rfp
-sales support
-clerical
-good communication skills
-computer knowledge
-excellent customer service
-electrical wiring
-filing
-mechanic
-weapons
-multi-tasking
-record keeping
-spanish
-supervising
-answering phones
-vra
-a+ certified
-cash flow
-content management
-coral
-extranet
-firewalls
-lotus
-microsoft access i
-microsoft access
-microsoft certified
-microsoft office 97
-microsoft windows 2003
-microsoft nt 4
-nt 4 0
-navision
-office suites
-organizing
-report writer i
-sql 2000
-sybase
-system administrator
-training employees
-voice mail
-web site
-bathrooms
-building exterior
-parking lot
-state             information technology
-microsoft great plains
-accountmate
-campus nexus crm
-arcserve
-audio
-bgp
-linc
-domino
-ma
-exchange server
-novell servers
-real estate
-server configuration
-upgrading
-language: chinese
-adobe suit
-java
-cording
-rfid
-e-commerce
-(hr) business marketing
-qms statistics
-including:er
-registration
-pharmacy
-interpersonal
-content
-debugging
-human resource
-j2ee
-ldap
-memory
-optimization
-organizational skills
-problem analysis
-self-starter
-spreadsheet
-system integration
-team player
-storage systems
-network equipment
-imac
-ipad
-configured
-including desktops
-product deficiencies
-quality control
-ado-ekiti    -    city
-and remedy  installing
-hosted applications
-desktop
-dutch
-and russian
-oral
-conflict resolution
-cpr
-creativity
-first aid
-fundraising
-instruction
-philosophy
-read
-recording
-sound
-teacher
-teaching
-positive and welcoming
-caring and secured
-safe-risk taking
-theme based
-emotionally
-physically
-support
-equal
-turn taking
-helping others
-dairy foods
-dedicated
-restrictions
-and responsibilities
-excitement
-pto member
-traditional events
-patriotic events
-program observation
-children needs
-different vehicles
-group activity
-green light
-wheels
-handles
-mirrors)
-safety (hand signal
-helmet
-lanes
-seat belt
-cars/trucks
-boats/ships
-air plane
-make paper boats
-paper airplane
-train blocks
-learn shapes
-vehicle sounds
-coloring sheets
-origami papers
-books
-flash cards
-outdoor with bikes
-theme based songs
-little red wagon
-train set
-play dough
-raisins
-peanut butter
-administrative duties
-schedule appointments
-asset management
-attorney
-balance
-billing system
-cashier
-catalog
-com
-credit
-data entry
-debit
-fast
-laptop computers
-legal documents
-microsoft excel
-ms windows
-ms windows xp
-ms word
-network setup
-notary public
-order office supplies
-organizational
-receptionist
-sims
-install software
-spreadsheets
-answer phones
-written
-c+
-hardware configuration
-computer hardware
-configuration management
-contract management
-copying
-equipment installation
-fax machines
-mercator
-microcomputers
-share point
-win 7
-nec
-oct
-copiers
-pr
-software troubleshooting
-systems administration
-systems analysis
-systems development
-tables
-telephones
-unique
-certification specialists
-ca 92121 network+
-tape backups
-business development
-cd
-cpu
-desktop pc
-dvd
-electronics
-graphs
-hp-ux
-knowledge management
-messaging
-mcse 2003
-netmeeting
-ms outlook
-ms outlook 2000
-windows applications
-navy
-netview
-network hardware
-nms
-pc anywhere
-cameras
-problem resolution
-proliant
-ras
-schematics
-scripts
-service level agreement
-software - troubleshooting
-sun servers
-tivoli
-type
-usb
-web site content
-cat 5
-air force
-competitive
-dictation
-ethernet
-internet protocols
-team leader
-microsoft office 2000
-pricing
-technical training
-word perfect
-and qualifications    windows
-wireshark
-snort
-tcpdump
-encase
-bash programming
-computer networking
-state       analyzed software
-hipaa
-iso 27001
-mac osx
-http/apache
-dns/bind
-ssh
-snmp
-quickly gaining trust
-developing spreadsheets
-faxing reports
-installed
-rdms
-reports
-grantee
-participation
-vba
-client-server
-dec
-directing
-ibm mainframe
-modems
-vse
-written communication  ai
-project management  budgeting
-python  budgets
-quality  budget
-research  business intelligence
-sales  change management
-scheduling  conflict resolution
-sdlc  critical thinking
-network design
-six sigma  crm
-next
-software development  clients
-sql  client
-staffing  data collection
-perl
-strategic  data migration
-problem-solving
-time management  databases
-upgrades  designing
-upgrade  senior management
-state        develops
-develop
-implementation
-throughput
-organization
-infrastructure
-and manage schedules
-resources
-emerging ai
-digital
-schedule adherence
-training end users
-communications
-testing
-marketing and management
-international business
-confluence
-identify interdivisional dependencies
-schedule
-including risks
-planned
-sprint reviews
-sprint retrospectives
-staging
-excellent interpersonal skills
-cost reduction
-electronic health records
-market development
-microsoft products
-risk analysis
-security analysis
-view
-emails
-cis
-budget management
-concise
-promotion i
-retail
-selling
-written communication skills
-microbial testing
-method validation
-efficient internet browsing
-sas programming
-uplc
-uv
-ft-ir
-dissolution apparatus
-buffer preparation
-iso
-identification
-cytotoxic activity
-sds-page
-tissue culture
-gc
-lc/ms
-tlc
-.  ftir
-uv-vis spectrophotometer
-and kf coulometer
-biotechnology
-calibration
-cell culture
-chemistry
-dna
-elisa
-experiments
-ftir
-hplc
-laboratory equipment
-page
-pcr
-scanning
-sop
-symposium
-weighing
-workshops
-administrative support
-client/server
-client support
-mac hardware
-microsoft exchange 2003
-web servers
-3com
-bay networks
-hub
-netware
-software support
-sales software: salesforce.com
-tapscan  cms:  joomla
-process development
-process improvement
-software testing
-serena version manager
-serena business manager
-serena business administrator
-reflections
-winscp
-javascript
-microsoft windows server
-microsoft active directory
-microsoft group policy
-mac os x
-apple ios
-android
-centos
-suse enterprise server
-"novell
+428,microsoft office
+429,microsoft sharepoint
+430,oracle database
+431,pl/sql
+432,personnel management
+433,police
+434,profit
+435,report writing
+436,sdlc
+437,software development
+438,strategic planning
+439,system administration
+440,user manuals
+441,visual basic
+442,web intelligence
+443,branding
+444,budgets
+445,business analysis
+446,bi
+447,business intelligence
+448,business management
+449,data analysis
+450,dba
+451,decision making
+452,hiring
+453,producing
+454,sap bw
+455,ms sql
+456,staff development
+457,systems architecture
+458,website
+459,adobe
+460,antivirus
+461,backup exec
+462,call center
+463,capacity planning
+464,computer assembly
+465,direct attached storage
+466,das
+467,dell servers
+468,iso 9000
+469,logistics
+470,logistics and management
+471,microsoft certified professional
+472,microsoft office professional
+473,microsoft project
+474,microsoft sql
+475,microsoft visio professional
+476,windows 8
+477,nas
+478,network attached storage
+479,new product development
+480,pbx
+481,quality improvement
+482,robotic
+483,safety
+484,storage area network
+485,teamwork
+486,technical analysis
+487,visio professional
+488,vision
+489,web portal
+490,integrity
+491,repair
+492,files
+493,implementing
+494,monitored
+495,threat bulletins
+496,nt
+497,and win 2000)
+498,network connectivity
+499,tcp/ip configuration
+500,provided technical support
+501,email boxes
+502,distribution lists
+503,performed upgrades
+504,c
+505,client and server
+506,compaq
+507,data processing
+508,drivers
+509,email
+510,ghost
+511,hewlett-packard
+512,internet connectivity
+513,ms office products
+514,microsoft office suite
+515,win9
+516,windows 2000
+517,win 2000
+518,windows 95
+519,98
+520,windows nt
+521,monitors
+522,network security
+523,norton antivirus
+524,peripherals
+525,various printers
+526,desktop support
+527,trouble-shoot
+528,basic
+529,benefits
+530,broadband
+531,budgeting
+532,cobol
+533,computer applications
+534,conferences
+535,consulting
+536,customer service
+537,database management
+538,dbase iv
+539,direction
+540,edi
+541,features
+542,fortran
+543,gis
+544,ibm compatible
+545,inspection
+546,interpretation
+547,laser
+548,macintosh
+549,mapinfo
+550,mathematics
+551,ms excel
+552,management information system
+553,naval
+554,novell netware
+555,oil
+556,pascal
+557,pc networking
+558,camera
+559,proposals
+560,reception
+561,relational database
+562,rpg iii
+563,shell
+564,software engineering
+565,strategic
+566,sun sparc
+567,telecommunication
+568,transmission
+569,unix and c
+570,unix
+571,vax
+572,vms
+573,wide area network
+574,microsoft outlook 2013
+575,windows 10
+576,system security
+577,data automation
+578,circuit design application
+579,unix client server
+580,interpersonal skills
+581,network systems
+582,content encryption
+583,customer relations
+584,databases query
+585,electronic filing
+586,microsoft windows deployment
+587,software imaging
+588,lotus notes
+589,mainframes
+590,formal presentations
+591,radio communication
+592,geographical statistics
+593,and technical support.
+594,detail oriented
+595,legal terminology
+596,managerial experience
+597,meeting organizational skills
+598,advanced problem-solving skills
+599,paralegal
+600,performance appraisals
+601,lr&w
+602,westlaw
+603,lexisnexis
+604,accounting
+605,cisco certified
+606,e-mail
+607,employee training
+608,finance
+609,human resources
+610,team leadership
+611,managing people
+612,ms office suite
+613,windows 98
+614,needs analysis
+615,network administrator
+616,organizational development
+617,programmer
+618,seminars
+619,service level agreements
+620,sla
+621,telecom
+622,telephony
+623,trainer
+624,wordperfect
+625,account management
+626,cables
+627,ms exchange server
+628,hp unix
+629,vbscript
+630,visual basic programming
+631,network/server security
+632,geographic information system
+633,vbscripts and powershell
+634,sans
+635,lync 2013
+636,communicated with teachers
+637,managers and students
+638,fortress desktop security
+639,rosetta stone
+640,proofpoint spam filter
+641,iboss web filter
+642,group policy
+643,2012
+644,2003
+645,7
+646,10
+647,linux hp unix
+648,microsoft office 2007
+649,2010
+650,2013
+651,2016
+652,skype for business
+653,escape financial system
+654,alertus desktop alerting
+655,
+656,laserfiche
+657,sharepoint 2013
+658,informacast speaker system
+659,ram
+660,video cards
+661,hard drives
+662,raid controllers
+663,network cabling
+664,motherboards
+665,20+ years' experience)
+666,it operations (intermediate
+667,cna
+668,a+
+669,mcp
+670,comptia a+
+671,a+network
+672,a+ security
+673,hippa
+674,series 7
+675,63
+676,24 microsoft
+677,comptia
+678,sec  series 7
+679,12        skills    a+
+680,a+ certification
+681,hardware installation
+682,dos
+683,hardware support
+684,internet explorer
+685,windows 8.1
+686,software documentation
+687,user interface
+688,asp.net 4.5
+689,vb.net
+690,contract negotiation
+691,etl
+692,training
+693,executive management
+694,senior management
+695,goldmine
+696,healthcare it
+697,marketing
+698,network analysis
+699,performance reviews
+700,process enhancement
+701,product development
+702,sql server
+703,visual studio
+704,american sign language
+705,excellent communication
+706,english
+707,power point
+708,microsoft word
+709,works
+710,problem solving skills
+711,translation
+712,disaster recovery planning
+713,inspects
+714,notebooks
+715,mechanical
+716,nortel
+717,pick
+718,scanner
+719,script
+720,shipping
+721,user documentation
+722,arabic
+723,back-up
+724,nt servers
+725,pc's
+726,training programs
+727,trouble shooting
+728,.net
+729,adabas
+730,ado
+731,agile
+732,application development
+733,asp
+734,banking
+735,banyan
+736,cardiology
+737,data management
+738,database administration
+739,xml
+740,iis
+741,it strategy
+742,c#
+743,network support
+744,object modeling
+745,oracle dba
+746,oracle sql
+747,requirements analysis
+748,tableau
+749,web applications
+750,year 2000
+751,software: active directory
+752,hp insight manager
+753,emc avamar
+754,symantec ghost
+755,voltage email encryption
+756,websense
+757,quest archive manager
+758,symantec backup exec
+759,microsoft iis
+760,ca arcserve
+761,barracuda spam firewall
+762,blackberry enterprise server
+763,sophos anti-virus
+764,trend micro anti-virus
+765,vmware
+766,hyper-v
+767,barracuda backup
+768,barracuda web filter
+769,cisco call manager
+770,cisco uccx
+771,exact target
+772,cisco  switches
+773,checkpoint firewalls
+774,hp procurve switches
+775,meraki wi-fi
+776,cisco wi-fi
+777,hp proliant
+778,dell poweredge.
+779,streamline
+780,business systems
+781,closing 3
+782,guardian
+783,investments
+784,itil v
+785,money
+786,msa
+787,negotiating
+788,relationship management
+789,rfi
+790,rfp
+791,sales support
+792,clerical
+793,good communication skills
+794,computer knowledge
+795,excellent customer service
+796,electrical wiring
+797,filing
+798,mechanic
+799,weapons
+800,multi-tasking
+801,record keeping
+802,spanish
+803,supervising
+804,answering phones
+805,vra
+806,a+ certified
+807,cash flow
+808,content management
+809,coral
+810,extranet
+811,firewalls
+812,lotus
+813,microsoft access i
+814,microsoft access
+815,microsoft certified
+816,microsoft office 97
+817,microsoft windows 2003
+818,microsoft nt 4
+819,nt 4 0
+820,navision
+821,office suites
+822,organizing
+823,report writer i
+824,sql 2000
+825,sybase
+826,system administrator
+827,training employees
+828,voice mail
+829,web site
+830,bathrooms
+831,building exterior
+832,parking lot
+833,state             information technology
+834,microsoft great plains
+835,accountmate
+836,campus nexus crm
+837,arcserve
+838,audio
+839,bgp
+840,linc
+841,domino
+842,ma
+843,exchange server
+844,novell servers
+845,real estate
+846,server configuration
+847,upgrading
+848,language: chinese
+849,adobe suit
+850,java
+851,cording
+852,rfid
+853,e-commerce
+854,(hr) business marketing
+855,qms statistics
+856,including:er
+857,registration
+858,pharmacy
+859,interpersonal
+860,content
+861,debugging
+862,human resource
+863,j2ee
+864,ldap
+865,memory
+866,optimization
+867,organizational skills
+868,problem analysis
+869,self-starter
+870,spreadsheet
+871,system integration
+872,team player
+873,storage systems
+874,network equipment
+875,imac
+876,ipad
+877,configured
+878,including desktops
+879,product deficiencies
+880,quality control
+881,ado-ekiti    -    city
+882,and remedy  installing
+883,hosted applications
+884,desktop
+885,dutch
+886,and russian
+887,oral
+888,conflict resolution
+889,cpr
+890,creativity
+891,first aid
+892,fundraising
+893,instruction
+894,philosophy
+895,read
+896,recording
+897,sound
+898,teacher
+899,teaching
+900,positive and welcoming
+901,caring and secured
+902,safe-risk taking
+903,theme based
+904,emotionally
+905,physically
+906,support
+907,equal
+908,turn taking
+909,helping others
+910,dairy foods
+911,dedicated
+912,restrictions
+913,and responsibilities
+914,excitement
+915,pto member
+916,traditional events
+917,patriotic events
+918,program observation
+919,children needs
+920,different vehicles
+921,group activity
+922,green light
+923,wheels
+924,handles
+925,mirrors)
+926,safety (hand signal
+927,helmet
+928,lanes
+929,seat belt
+930,cars/trucks
+931,boats/ships
+932,air plane
+933,make paper boats
+934,paper airplane
+935,train blocks
+936,learn shapes
+937,vehicle sounds
+938,coloring sheets
+939,origami papers
+940,books
+941,flash cards
+942,outdoor with bikes
+943,theme based songs
+944,little red wagon
+945,train set
+946,play dough
+947,raisins
+948,peanut butter
+949,administrative duties
+950,schedule appointments
+951,asset management
+952,attorney
+953,balance
+954,billing system
+955,cashier
+956,catalog
+957,com
+958,credit
+959,data entry
+960,debit
+961,fast
+962,laptop computers
+963,legal documents
+964,microsoft excel
+965,ms windows
+966,ms windows xp
+967,ms word
+968,network setup
+969,notary public
+970,order office supplies
+971,organizational
+972,receptionist
+973,sims
+974,install software
+975,spreadsheets
+976,answer phones
+977,written
+978,c+
+979,hardware configuration
+980,computer hardware
+981,configuration management
+982,contract management
+983,copying
+984,equipment installation
+985,fax machines
+986,mercator
+987,microcomputers
+988,share point
+989,win 7
+990,nec
+991,oct
+992,copiers
+993,pr
+994,software troubleshooting
+995,systems administration
+996,systems analysis
+997,systems development
+998,tables
+999,telephones
+1000,unique
+1001,certification specialists
+1002,ca 92121 network+
+1003,tape backups
+1004,business development
+1005,cd
+1006,cpu
+1007,desktop pc
+1008,dvd
+1009,electronics
+1010,graphs
+1011,hp-ux
+1012,knowledge management
+1013,messaging
+1014,mcse 2003
+1015,netmeeting
+1016,ms outlook
+1017,ms outlook 2000
+1018,windows applications
+1019,navy
+1020,netview
+1021,network hardware
+1022,nms
+1023,pc anywhere
+1024,cameras
+1025,problem resolution
+1026,proliant
+1027,ras
+1028,schematics
+1029,scripts
+1030,service level agreement
+1031,software - troubleshooting
+1032,sun servers
+1033,tivoli
+1034,type
+1035,usb
+1036,web site content
+1037,cat 5
+1038,air force
+1039,competitive
+1040,dictation
+1041,ethernet
+1042,internet protocols
+1043,team leader
+1044,microsoft office 2000
+1045,pricing
+1046,technical training
+1047,word perfect
+1048,and qualifications    windows
+1049,wireshark
+1050,snort
+1051,tcpdump
+1052,encase
+1053,bash programming
+1054,computer networking
+1055,state       analyzed software
+1056,hipaa
+1057,iso 27001
+1058,mac osx
+1059,http/apache
+1060,dns/bind
+1061,ssh
+1062,snmp
+1063,quickly gaining trust
+1064,developing spreadsheets
+1065,faxing reports
+1066,installed
+1067,rdms
+1068,reports
+1069,grantee
+1070,participation
+1071,vba
+1072,client-server
+1073,dec
+1074,directing
+1075,ibm mainframe
+1076,modems
+1077,vse
+1078,written communication  ai
+1079,project management  budgeting
+1080,python  budgets
+1081,quality  budget
+1082,research  business intelligence
+1083,sales  change management
+1084,scheduling  conflict resolution
+1085,sdlc  critical thinking
+1086,network design
+1087,six sigma  crm
+1088,next
+1089,software development  clients
+1090,sql  client
+1091,staffing  data collection
+1092,perl
+1093,strategic  data migration
+1094,problem-solving
+1095,time management  databases
+1096,upgrades  designing
+1097,upgrade  senior management
+1098,state        develops
+1099,develop
+1100,implementation
+1101,throughput
+1102,organization
+1103,infrastructure
+1104,and manage schedules
+1105,resources
+1106,emerging ai
+1107,digital
+1108,schedule adherence
+1109,training end users
+1110,communications
+1111,testing
+1112,marketing and management
+1113,international business
+1114,confluence
+1115,identify interdivisional dependencies
+1116,schedule
+1117,including risks
+1118,planned
+1119,sprint reviews
+1120,sprint retrospectives
+1121,staging
+1122,excellent interpersonal skills
+1123,cost reduction
+1124,electronic health records
+1125,market development
+1126,microsoft products
+1127,risk analysis
+1128,security analysis
+1129,view
+1130,emails
+1131,cis
+1132,budget management
+1133,concise
+1134,promotion i
+1135,retail
+1136,selling
+1137,written communication skills
+1138,microbial testing
+1139,method validation
+1140,efficient internet browsing
+1141,sas programming
+1142,uplc
+1143,uv
+1144,ft-ir
+1145,dissolution apparatus
+1146,buffer preparation
+1147,iso
+1148,identification
+1149,cytotoxic activity
+1150,sds-page
+1151,tissue culture
+1152,gc
+1153,lc/ms
+1154,tlc
+1155,.  ftir
+1156,uv-vis spectrophotometer
+1157,and kf coulometer
+1158,biotechnology
+1159,calibration
+1160,cell culture
+1161,chemistry
+1162,dna
+1163,elisa
+1164,experiments
+1165,ftir
+1166,hplc
+1167,laboratory equipment
+1168,page
+1169,pcr
+1170,scanning
+1171,sop
+1172,symposium
+1173,weighing
+1174,workshops
+1175,administrative support
+1176,client/server
+1177,client support
+1178,mac hardware
+1179,microsoft exchange 2003
+1180,web servers
+1181,3com
+1182,bay networks
+1183,hub
+1184,netware
+1185,software support
+1186,sales software: salesforce.com
+1187,tapscan  cms:  joomla
+1188,process development
+1189,process improvement
+1190,software testing
+1191,serena version manager
+1192,serena business manager
+1193,serena business administrator
+1194,reflections
+1195,winscp
+1196,javascript
+1197,microsoft windows server
+1198,microsoft active directory
+1199,microsoft group policy
+1200,mac os x
+1201,apple ios
+1202,android
+1203,centos
+1204,suse enterprise server
+1205,"novell
 netware"
-novell edirectory
-novell groupwise
-novell datasync/mobility server
-"novell
+1206,novell edirectory
+1207,novell groupwise
+1208,novell datasync/mobility server
+1209,"novell
 teaming"
-novell zenworks
-adobe connect pro
-apache
-openssl
-mysql
-bind
-expression engine
-aerohive
-bluesocket wireless controller
-barracuda anti-spam appliance
-barracudaware
-3com nbx
-avaya
-cisco pix
-cisco network assistant
-vmware esx
-vmware fusion
-pharos uniprint
-ntop
-nagios
-nagiosql
-icinga
-cacti
-realchat
-mrbs
-webcalendar. vbulletin
-movable type
-wordpress
-mediawiki
-gallery2
-gallery3
-simple
-joomla
-moodle
-mailman
-ems campus
-ems master calendar
-virtual ems
-c-cure
-especially with apple
-micron
-lenovo
-hp laserjets
-canon mfds
-300
-"billing
+1210,novell zenworks
+1211,adobe connect pro
+1212,apache
+1213,openssl
+1214,mysql
+1215,bind
+1216,expression engine
+1217,aerohive
+1218,bluesocket wireless controller
+1219,barracuda anti-spam appliance
+1220,barracudaware
+1221,3com nbx
+1222,avaya
+1223,cisco pix
+1224,cisco network assistant
+1225,vmware esx
+1226,vmware fusion
+1227,pharos uniprint
+1228,ntop
+1229,nagios
+1230,nagiosql
+1231,icinga
+1232,cacti
+1233,realchat
+1234,mrbs
+1235,webcalendar. vbulletin
+1236,movable type
+1237,wordpress
+1238,mediawiki
+1239,gallery2
+1240,gallery3
+1241,simple
+1242,joomla
+1243,moodle
+1244,mailman
+1245,ems campus
+1246,ems master calendar
+1247,virtual ems
+1248,c-cure
+1249,especially with apple
+1250,micron
+1251,lenovo
+1252,hp laserjets
+1253,canon mfds
+1254,300
+1255,"billing
 system"
-"citrix
+1256,"citrix
 metaframe"
-novell groupwise 6.5
-groupwise 5.x
-windows nt 4.0
-nds
-novell 6.0
-novell 6.5
-novell 4.x
-t1
-time management
-consultation
-real time
-systems engineer
-video conferencing
-operations
-ms sql server
-database systems
-life cycle
-ms asp
-online solutions
-project launch
-solutions
-sql server 2000
-system development
-closer
-media strategy
-online marketing
-bank card
-collections
-data migration
-receivables
-intranet
-maintenance
-application support
-archiving
-subject matter expert
-work flow
-business requirements
-graphical user interface
-increase
-kronos
-load balancing
-offshore
-production environment
-belt certified
-black belt
-six sigma
-six-sigma
-associate
-coding
-css
-dhtml
-frontpage
-minitab
-retail sales
-self motivated
-structured software
-test plans
-time & attendance
-time and attendance
-act!
-acrobat
-after effects
-premiere
-consultant
-documentum
-freebsd
-graphic designer
-html5
-ms iis
-internet communications
-languages
-logo
-apple mac
-ms access
-ms exchange
-microsoft windows
-multimedia
-os 7
-print advertising
-print design
-robotic systems
-sage
-microsoft visual basic
-web designer
-web design
-webmaster
-azure
-bash
-batch
-cisco asa
-datadomain
-emc
-enterprise vault
-epo
-file servers
-gpo
-isa
-powershell
-proxy server
-solarwinds
-storsimple
-tmg
-ubuntu
-visual basic script
-vbs
-veritas netbackup
-vranger
-veeam
-vdi
-virtual manchine
-nmap
-zenmap.
-o365
-heat call logging
-crystal reports
-t3 voicemail
-netmotion
-novell imanager
-management
-state      identify
-install
-program
-configure
-modifications
-over the phone
-research complex inquiries
-development
-training classes
-correspondence
-chico center
-orland
-paradise
-procedures
-techniques
-powerpoint and publisher)
-office assistant
-legal office assistant
-brochures
-news releases
-80 new systems)
-hardware repair
-memory upgrades
-software installs
-data dictionaries
-attendance
-database software
-desktop publishing
-desktop publisher
-equipment inventory
-special events
-html web design
-in design
-logging
-macros
-publisher
-newsletter
-sap r/3
-training material
-tutoring
-web server
-customer services
-electronic medical records
-"help
+1257,novell groupwise 6.5
+1258,groupwise 5.x
+1259,windows nt 4.0
+1260,nds
+1261,novell 6.0
+1262,novell 6.5
+1263,novell 4.x
+1264,t1
+1265,time management
+1266,consultation
+1267,real time
+1268,systems engineer
+1269,video conferencing
+1270,operations
+1271,ms sql server
+1272,database systems
+1273,life cycle
+1274,ms asp
+1275,online solutions
+1276,project launch
+1277,solutions
+1278,sql server 2000
+1279,system development
+1280,closer
+1281,media strategy
+1282,online marketing
+1283,bank card
+1284,collections
+1285,data migration
+1286,receivables
+1287,intranet
+1288,maintenance
+1289,application support
+1290,archiving
+1291,subject matter expert
+1292,work flow
+1293,business requirements
+1294,graphical user interface
+1295,increase
+1296,kronos
+1297,load balancing
+1298,offshore
+1299,production environment
+1300,belt certified
+1301,black belt
+1302,six sigma
+1303,six-sigma
+1304,associate
+1305,coding
+1306,css
+1307,dhtml
+1308,frontpage
+1309,minitab
+1310,retail sales
+1311,self motivated
+1312,structured software
+1313,test plans
+1314,time & attendance
+1315,time and attendance
+1316,act!
+1317,acrobat
+1318,after effects
+1319,premiere
+1320,consultant
+1321,documentum
+1322,freebsd
+1323,graphic designer
+1324,html5
+1325,ms iis
+1326,internet communications
+1327,languages
+1328,logo
+1329,apple mac
+1330,ms access
+1331,ms exchange
+1332,microsoft windows
+1333,multimedia
+1334,os 7
+1335,print advertising
+1336,print design
+1337,robotic systems
+1338,sage
+1339,microsoft visual basic
+1340,web designer
+1341,web design
+1342,webmaster
+1343,azure
+1344,bash
+1345,batch
+1346,cisco asa
+1347,datadomain
+1348,emc
+1349,enterprise vault
+1350,epo
+1351,file servers
+1352,gpo
+1353,isa
+1354,powershell
+1355,proxy server
+1356,solarwinds
+1357,storsimple
+1358,tmg
+1359,ubuntu
+1360,visual basic script
+1361,vbs
+1362,veritas netbackup
+1363,vranger
+1364,veeam
+1365,vdi
+1366,virtual manchine
+1367,nmap
+1368,zenmap.
+1369,o365
+1370,heat call logging
+1371,crystal reports
+1372,t3 voicemail
+1373,netmotion
+1374,novell imanager
+1375,management
+1376,state      identify
+1377,install
+1378,program
+1379,configure
+1380,modifications
+1381,over the phone
+1382,research complex inquiries
+1383,development
+1384,training classes
+1385,correspondence
+1386,chico center
+1387,orland
+1388,paradise
+1389,procedures
+1390,techniques
+1391,powerpoint and publisher)
+1392,office assistant
+1393,legal office assistant
+1394,brochures
+1395,news releases
+1396,80 new systems)
+1397,hardware repair
+1398,memory upgrades
+1399,software installs
+1400,data dictionaries
+1401,attendance
+1402,database software
+1403,desktop publishing
+1404,desktop publisher
+1405,equipment inventory
+1406,special events
+1407,html web design
+1408,in design
+1409,logging
+1410,macros
+1411,publisher
+1412,newsletter
+1413,sap r/3
+1414,training material
+1415,tutoring
+1416,web server
+1417,customer services
+1418,electronic medical records
+1419,"help
 desk"
-materials management
-scrum
-computer operations
-cost analysis
-publications
-publication
-training manuals
-ads
-advertising
-ibm aix
-color
-digital photography
-digital video
-direct mail
-ecommerce
-"final
+1420,materials management
+1421,scrum
+1422,computer operations
+1423,cost analysis
+1424,publications
+1425,publication
+1426,training manuals
+1427,ads
+1428,advertising
+1429,ibm aix
+1430,color
+1431,digital photography
+1432,digital video
+1433,direct mail
+1434,ecommerce
+1435,"final
           cut pro"
-sgi irix
-logic
-loss prevention
-"lotus
+1436,sgi irix
+1437,logic
+1438,loss prevention
+1439,"lotus
           notes"
-marketing strategy
-newspaper
-prepress
-"print
+1440,marketing strategy
+1441,newspaper
+1442,prepress
+1443,"print
           advertising"
-print production
-video post production
-api
-bloomberg
-bonds
-business planning
-design and construction
-equities
-equity
-fidessa
-fixed income
-gmp
-goal-setting
-team-building
-managerial
-order management
-pc hardware
-reuters
-securities
-trading systems
-trading system
-vendor relations
-vm
-attention to detail
-business solutions
-charts
-cognos
-fax
-forecasting
-great plains
-jd edwards
-microsoft outlook
-microsoft works
-problem solving
-supply chain
-transportation
-travel arrangements
-multiple website support
-coordinating
-department
-data
-state    computer assistant
-using linux
-including software migration
-000
-adobe suite
-removed viruses-spyware
-ii
-daily operations
-including system backups
-user profile setups
-city
-content management systems
-team collaborator/facilitator
-innovator   inspection
-audits
-researcher
-problem solver
-aix
-business solution
-frame relay
-db2
-innovation
-notes
-performance management
-phd
-rehabilitation
-relational databases
-scada
-staff supervision
-technical management
-track-it
-water treatment
-in theming
-python
-dms ii
-xhtml
-eclipse
-bluej
-jgrasp
-apache struts
-os x
-struts
-meeting department standards
-design
-hardware platforms
-enterprise software applications
-and outsourced systems
-practices
-accounting systems
-negotiate contracts
-data integration
-data modeling
-data warehouses
-due-diligence
-faxing
-lean manufacturing
-loan origination
-modeling
-improve processes
-web sites
-websites
-software licenses
-architects
-manage
-software
-suppliers
-retrieve
-maintained
-including patch management
-account maintenance
-bakermaks
-red hat linux
-team building
-team performance
-shell scripting
-evaluate
-systems software
-applications software
-montgomery
-asm
-capability maturity model
-cmm
-data dictionary system
-database and applications
-due diligence
-government regulations
-oracle rdbms
-scripting
-sqlloader
-unix shell scripts
-programming languages: java/j2ee
-restful-web services
-hibernate
-angularjs
-reactjs
-jquery
-bootstrap
-selenium webdriver
-cucumber  databases: mysql
-postgresql
-mongodb
-maven
-ant  practices: agile/scrum
-waterfall
-tdd
-clean coding
-single page application
-rest
-grunt
-npm
-node
-json
-jenkins  ide: eclipse
-intellij
-aop
-dao
-jdbc
-transaction
-annotation
-mifare
-desfire
-jsp
-file handling
-io
-generics
-code enhancements
-kathmandu engineering college
-annual technological festival
-udp
-http/s
-stp
-hsrp
-isis
-rip
-ospf
-mpls
-smtp
-ipsec
-vlan
-cisco packet tracer
-virtualbox
-aws
-ccomputer communication networks
-multimedia communication
-apache2
-http
-$20 m budget
-600+ retail locations
-6000 mobile technicians
-90 warehouses
-2 distribution centers
-2-way text
-text to chat
-web chat
-multi-modal self-service experience
-chat bots pilot
-personalized promo codes
-agents
-work order management
-platforms:  windows 2000
-win 3.11/95/98
-dos 6.22
-citrix ica
-cisco 2500 switches
-hp laser jets
-citrix metaframe xp
-symantec: pc anywhere
-adobe:                       acrobat
-partition magic
-adware
-spyware
-networking: tcp/ip
-wireless 802.11 a/b/g
-wins
-business applications
-managed
-internal staff members
-ftp servers
-domain policies
-computers
-enterprise resource planning
-pcanywhere
-proposal development
-sarbanes-oxley
-veritas
-apollo
-image
-intel
-microsoft software
-mos
-novel
-pdf
-processors
-receiving
-recruiting
-installing software
-systems analyst
-vb
-accounts payable
-data base
-internet software
-letters
-lotusnotes
-office management
-proofreader
-secretarial
-transcription
-written communication
-composition
-complaints
-or comments
-cancel accounts
-e- mail
-written correspondence
-service level
-department tasks
-other supervisors
-customer service managers
-state              skills    administrative
-coach
-prepare contracts
-dispatching
-inspect
-iso 9001
-recruitment
-safety codes
-supervisory
-educating
-achieving
-dedication
-ado.net
-ajax
-ide
-catalogs
-checkout process
-dcl
-edit
-editor
-window
-sorting
-user interface design
-lotus approach
-develop business
-business process analysis
-client management
-crystal
-oracle 7.3
-oracle and sql
-oracle 8
-os/2
-pc support
-pro c
-reading
-sybase sql server
-system configuration
-taxes
-uniface 6.1
-uniface
-uniface 5.2
-information design
-procedure development
-website design
-training development
-quality processes
-event planning
-work breakdown structures
-basic programming
-bookkeeping
-business communication
-ibm software
-lotus 2.1
-ms-dos
-novell netware 4.11
-shorthand
-typing
-word processing
-wordperfect 5.1
-properly spaced
-however
-include that. otherwise
-inc.
-mechanicsburg
-pa
-business programming
-ibm software applications
-intermediate lotus 2.1
-ms-dos commands
-ibm basic programming
-advanced wordperfect 5.1
-state       academics/business typing
-office procedures
-actionscript
-photo
-brochure
-cms
-css3
-graphics
-java programming
-medical technology
-network engineering
-organization development
-prototyping
-search engine optimization
-storyboarding
-phone 7.0
-video editing
-web development i
-website management
-big data
-circuit design
-data acquisition
-data analyst
-data mining
-dbm
-dti
-design software
-gsm
-labview
-logic analyzer
-manufacturing processes
-matlab
-radar
-ncs
-db
-pivot tables
-project design
-spectrum analyzer
-spss
-metrics
-accountable for
-accounts to
-adjustments
-and account
-basis
-campaign management
-client communication
-consumer marketing
-data quality
-financial services
-mapping
-marketing analysis
-marketing campaign
-marketing research
-process documentation
-product manager
-program management
-public relations
-topo
-bsa
-business systems analysis
-crm marketing
-customer relationship management
-database marketing
-deployment
-gap analysis
-integration
-integrator
-qa process
-root cause analysis
-satisfaction
-segmentation
-functional specifications
-liaison
-ms sharepoint
-user access
-writing functional
-front end
-front end design
-front-end
-informatica
-lamp
-lamp stack
-ms visio
-rational
-rational rose
-roi
-sql server 2005
-technical specifications
-translated
-uml
-warranty
-ghosting
-architecture
-information architecture
-software requirements
-critical thinking
-decision-making
-help-desk
-hp printers
-sms
-tech support
-xerox copiers
-annuities
-qa validation
-project planning
-qa test
-qa testing
-uat
-leadership development
-best practices
-business case
-capacity management
-collection
-portfolio management
-project plans
-saas
-sow
-statement of work
-technical requirements
-cases
-coda
-extract
-transform
-and load
-governance
-ibm cognos
-qa methodology
-quality assurance standards
-sme
-test lead
-batch processing
-its
-instructor
-order processing
-acceptance testing
-data warehousing
-ibm rational software
-org development
-rational software
-rdb
-software qa
-user acceptance
-model view controller
-model-view-controller
-mvc
-application software
-asp.net 4.0
-award
-engines
-exceptions
-file
-invoice
-invoices
-long-term disability
-ltd
-r2
-sftp
-software engineer
-sql server 2012
-ui
-web based
-coldfusion
-prototype
-prototypes
-audio visual
-games
-fast learner
-landscaping
-including lunches
-determining relevance
-prioritization
-etc.
-copier
-including booking airfare
-vendors
-including vips
-greeting visitors
-leave tracking
-maintaining telephone directory
-customer service experience
-"data
+1444,print production
+1445,video post production
+1446,api
+1447,bloomberg
+1448,bonds
+1449,business planning
+1450,design and construction
+1451,equities
+1452,equity
+1453,fidessa
+1454,fixed income
+1455,gmp
+1456,goal-setting
+1457,team-building
+1458,managerial
+1459,order management
+1460,pc hardware
+1461,reuters
+1462,securities
+1463,trading systems
+1464,trading system
+1465,vendor relations
+1466,vm
+1467,attention to detail
+1468,business solutions
+1469,charts
+1470,cognos
+1471,fax
+1472,forecasting
+1473,great plains
+1474,jd edwards
+1475,microsoft outlook
+1476,microsoft works
+1477,problem solving
+1478,supply chain
+1479,transportation
+1480,travel arrangements
+1481,multiple website support
+1482,coordinating
+1483,department
+1484,data
+1485,state    computer assistant
+1486,using linux
+1487,including software migration
+1488,000
+1489,adobe suite
+1490,removed viruses-spyware
+1491,ii
+1492,daily operations
+1493,including system backups
+1494,user profile setups
+1495,city
+1496,content management systems
+1497,team collaborator/facilitator
+1498,innovator   inspection
+1499,audits
+1500,researcher
+1501,problem solver
+1502,aix
+1503,business solution
+1504,frame relay
+1505,db2
+1506,innovation
+1507,notes
+1508,performance management
+1509,phd
+1510,rehabilitation
+1511,relational databases
+1512,scada
+1513,staff supervision
+1514,technical management
+1515,track-it
+1516,water treatment
+1517,in theming
+1518,python
+1519,dms ii
+1520,xhtml
+1521,eclipse
+1522,bluej
+1523,jgrasp
+1524,apache struts
+1525,os x
+1526,struts
+1527,meeting department standards
+1528,design
+1529,hardware platforms
+1530,enterprise software applications
+1531,and outsourced systems
+1532,practices
+1533,accounting systems
+1534,negotiate contracts
+1535,data integration
+1536,data modeling
+1537,data warehouses
+1538,due-diligence
+1539,faxing
+1540,lean manufacturing
+1541,loan origination
+1542,modeling
+1543,improve processes
+1544,web sites
+1545,websites
+1546,software licenses
+1547,architects
+1548,manage
+1549,software
+1550,suppliers
+1551,retrieve
+1552,maintained
+1553,including patch management
+1554,account maintenance
+1555,bakermaks
+1556,red hat linux
+1557,team building
+1558,team performance
+1559,shell scripting
+1560,evaluate
+1561,systems software
+1562,applications software
+1563,montgomery
+1564,asm
+1565,capability maturity model
+1566,cmm
+1567,data dictionary system
+1568,database and applications
+1569,due diligence
+1570,government regulations
+1571,oracle rdbms
+1572,scripting
+1573,sqlloader
+1574,unix shell scripts
+1575,programming languages: java/j2ee
+1576,restful-web services
+1577,hibernate
+1578,angularjs
+1579,reactjs
+1580,jquery
+1581,bootstrap
+1582,selenium webdriver
+1583,cucumber  databases: mysql
+1584,postgresql
+1585,mongodb
+1586,maven
+1587,ant  practices: agile/scrum
+1588,waterfall
+1589,tdd
+1590,clean coding
+1591,single page application
+1592,rest
+1593,grunt
+1594,npm
+1595,node
+1596,json
+1597,jenkins  ide: eclipse
+1598,intellij
+1599,aop
+1600,dao
+1601,jdbc
+1602,transaction
+1603,annotation
+1604,mifare
+1605,desfire
+1606,jsp
+1607,file handling
+1608,io
+1609,generics
+1610,code enhancements
+1611,kathmandu engineering college
+1612,annual technological festival
+1613,udp
+1614,http/s
+1615,stp
+1616,hsrp
+1617,isis
+1618,rip
+1619,ospf
+1620,mpls
+1621,smtp
+1622,ipsec
+1623,vlan
+1624,cisco packet tracer
+1625,virtualbox
+1626,aws
+1627,ccomputer communication networks
+1628,multimedia communication
+1629,apache2
+1630,http
+1631,$20 m budget
+1632,600+ retail locations
+1633,6000 mobile technicians
+1634,90 warehouses
+1635,2 distribution centers
+1636,2-way text
+1637,text to chat
+1638,web chat
+1639,multi-modal self-service experience
+1640,chat bots pilot
+1641,personalized promo codes
+1642,agents
+1643,work order management
+1644,platforms:  windows 2000
+1645,win 3.11/95/98
+1646,dos 6.22
+1647,citrix ica
+1648,cisco 2500 switches
+1649,hp laser jets
+1650,citrix metaframe xp
+1651,symantec: pc anywhere
+1652,adobe:                       acrobat
+1653,partition magic
+1654,adware
+1655,spyware
+1656,networking: tcp/ip
+1657,wireless 802.11 a/b/g
+1658,wins
+1659,business applications
+1660,managed
+1661,internal staff members
+1662,ftp servers
+1663,domain policies
+1664,computers
+1665,enterprise resource planning
+1666,pcanywhere
+1667,proposal development
+1668,sarbanes-oxley
+1669,veritas
+1670,apollo
+1671,image
+1672,intel
+1673,microsoft software
+1674,mos
+1675,novel
+1676,pdf
+1677,processors
+1678,receiving
+1679,recruiting
+1680,installing software
+1681,systems analyst
+1682,vb
+1683,accounts payable
+1684,data base
+1685,internet software
+1686,letters
+1687,lotusnotes
+1688,office management
+1689,proofreader
+1690,secretarial
+1691,transcription
+1692,written communication
+1693,composition
+1694,complaints
+1695,or comments
+1696,cancel accounts
+1697,e- mail
+1698,written correspondence
+1699,service level
+1700,department tasks
+1701,other supervisors
+1702,customer service managers
+1703,state              skills    administrative
+1704,coach
+1705,prepare contracts
+1706,dispatching
+1707,inspect
+1708,iso 9001
+1709,recruitment
+1710,safety codes
+1711,supervisory
+1712,educating
+1713,achieving
+1714,dedication
+1715,ado.net
+1716,ajax
+1717,ide
+1718,catalogs
+1719,checkout process
+1720,dcl
+1721,edit
+1722,editor
+1723,window
+1724,sorting
+1725,user interface design
+1726,lotus approach
+1727,develop business
+1728,business process analysis
+1729,client management
+1730,crystal
+1731,oracle 7.3
+1732,oracle and sql
+1733,oracle 8
+1734,os/2
+1735,pc support
+1736,pro c
+1737,reading
+1738,sybase sql server
+1739,system configuration
+1740,taxes
+1741,uniface 6.1
+1742,uniface
+1743,uniface 5.2
+1744,information design
+1745,procedure development
+1746,website design
+1747,training development
+1748,quality processes
+1749,event planning
+1750,work breakdown structures
+1751,basic programming
+1752,bookkeeping
+1753,business communication
+1754,ibm software
+1755,lotus 2.1
+1756,ms-dos
+1757,novell netware 4.11
+1758,shorthand
+1759,typing
+1760,word processing
+1761,wordperfect 5.1
+1762,properly spaced
+1763,however
+1764,include that. otherwise
+1765,inc.
+1766,mechanicsburg
+1767,pa
+1768,business programming
+1769,ibm software applications
+1770,intermediate lotus 2.1
+1771,ms-dos commands
+1772,ibm basic programming
+1773,advanced wordperfect 5.1
+1774,state       academics/business typing
+1775,office procedures
+1776,actionscript
+1777,photo
+1778,brochure
+1779,cms
+1780,css3
+1781,graphics
+1782,java programming
+1783,medical technology
+1784,network engineering
+1785,organization development
+1786,prototyping
+1787,search engine optimization
+1788,storyboarding
+1789,phone 7.0
+1790,video editing
+1791,web development i
+1792,website management
+1793,big data
+1794,circuit design
+1795,data acquisition
+1796,data analyst
+1797,data mining
+1798,dbm
+1799,dti
+1800,design software
+1801,gsm
+1802,labview
+1803,logic analyzer
+1804,manufacturing processes
+1805,matlab
+1806,radar
+1807,ncs
+1808,db
+1809,pivot tables
+1810,project design
+1811,spectrum analyzer
+1812,spss
+1813,metrics
+1814,accountable for
+1815,accounts to
+1816,adjustments
+1817,and account
+1818,basis
+1819,campaign management
+1820,client communication
+1821,consumer marketing
+1822,data quality
+1823,financial services
+1824,mapping
+1825,marketing analysis
+1826,marketing campaign
+1827,marketing research
+1828,process documentation
+1829,product manager
+1830,program management
+1831,public relations
+1832,topo
+1833,bsa
+1834,business systems analysis
+1835,crm marketing
+1836,customer relationship management
+1837,database marketing
+1838,deployment
+1839,gap analysis
+1840,integration
+1841,integrator
+1842,qa process
+1843,root cause analysis
+1844,satisfaction
+1845,segmentation
+1846,functional specifications
+1847,liaison
+1848,ms sharepoint
+1849,user access
+1850,writing functional
+1851,front end
+1852,front end design
+1853,front-end
+1854,informatica
+1855,lamp
+1856,lamp stack
+1857,ms visio
+1858,rational
+1859,rational rose
+1860,roi
+1861,sql server 2005
+1862,technical specifications
+1863,translated
+1864,uml
+1865,warranty
+1866,ghosting
+1867,architecture
+1868,information architecture
+1869,software requirements
+1870,critical thinking
+1871,decision-making
+1872,help-desk
+1873,hp printers
+1874,sms
+1875,tech support
+1876,xerox copiers
+1877,annuities
+1878,qa validation
+1879,project planning
+1880,qa test
+1881,qa testing
+1882,uat
+1883,leadership development
+1884,best practices
+1885,business case
+1886,capacity management
+1887,collection
+1888,portfolio management
+1889,project plans
+1890,saas
+1891,sow
+1892,statement of work
+1893,technical requirements
+1894,cases
+1895,coda
+1896,extract
+1897,transform
+1898,and load
+1899,governance
+1900,ibm cognos
+1901,qa methodology
+1902,quality assurance standards
+1903,sme
+1904,test lead
+1905,batch processing
+1906,its
+1907,instructor
+1908,order processing
+1909,acceptance testing
+1910,data warehousing
+1911,ibm rational software
+1912,org development
+1913,rational software
+1914,rdb
+1915,software qa
+1916,user acceptance
+1917,model view controller
+1918,model-view-controller
+1919,mvc
+1920,application software
+1921,asp.net 4.0
+1922,award
+1923,engines
+1924,exceptions
+1925,file
+1926,invoice
+1927,invoices
+1928,long-term disability
+1929,ltd
+1930,r2
+1931,sftp
+1932,software engineer
+1933,sql server 2012
+1934,ui
+1935,web based
+1936,coldfusion
+1937,prototype
+1938,prototypes
+1939,audio visual
+1940,games
+1941,fast learner
+1942,landscaping
+1943,including lunches
+1944,determining relevance
+1945,prioritization
+1946,etc.
+1947,copier
+1948,including booking airfare
+1949,vendors
+1950,including vips
+1951,greeting visitors
+1952,leave tracking
+1953,maintaining telephone directory
+1954,customer service experience
+1955,"data
 entry"
-multi-line telephone
-effectively communicate
-priority
-review
-sccm
-macintosh os x
-mobile
-automate
-macintosh os
-network and support
-network & support
-hp servers
-it project management
-macola
-mas 90
-medical manager
-microsoft dynamics
-phone systems
-quickbooks
-solidworks
-terminal server
-toshiba
-adr
-cna 5.1
-corporate accounting
-educational programs
-employee relations
-internal audits
-inventory management
-leadership training
-regulatory compliance
-marketing plans
-novell netware 4.x
-certified novell administrator
-employee development
-backups
-xenapp
-hyper v
-dynamic crm
-dynamic  gp
-financial management
-office365
-improve products
-sales reports
-strategic plans
-cloud
-"active
+1956,multi-line telephone
+1957,effectively communicate
+1958,priority
+1959,review
+1960,sccm
+1961,macintosh os x
+1962,mobile
+1963,automate
+1964,macintosh os
+1965,network and support
+1966,network & support
+1967,hp servers
+1968,it project management
+1969,macola
+1970,mas 90
+1971,medical manager
+1972,microsoft dynamics
+1973,phone systems
+1974,quickbooks
+1975,solidworks
+1976,terminal server
+1977,toshiba
+1978,adr
+1979,cna 5.1
+1980,corporate accounting
+1981,educational programs
+1982,employee relations
+1983,internal audits
+1984,inventory management
+1985,leadership training
+1986,regulatory compliance
+1987,marketing plans
+1988,novell netware 4.x
+1989,certified novell administrator
+1990,employee development
+1991,backups
+1992,xenapp
+1993,hyper v
+1994,dynamic crm
+1995,dynamic  gp
+1996,financial management
+1997,office365
+1998,improve products
+1999,sales reports
+2000,strategic plans
+2001,cloud
+2002,"active
 directory"
-business plan
-network and systems
-microsoft office products
-microsoft windows xp
-multi-media
-novell network
-software design
-systems support
-tested
-review side effects
-drug interactions
-medical equipment
-side effects
-patient profiles
-charge system files
-weighed
-healthcare supplies
-business continuity
-technology infrastructure
-business process improvement
-cdm
-fulfillment
-opex
-provisioning
-retail marketing
-copy machine
-lending
-server virtualization
-virtualization
-directory service
-lan/wan
-workstations
-cissp
-journal
-systems security
-biochemistry
-procurement clerk
-purchasing agent
-computer programmer
-local area  network
-dynamics 365
-project
-powerapps
-powerbi
-flow
-ssharepoint
-intune
-ems
-ssis
-ssas)
-dax
-r
-qlik (qlikview/qliksense)
-sisense
-datorama
-yellowfin
-cisco switch management
-rdp
-automation anywhere
-rf devices
-ap
-automation tools
-clientele
-facility management
-floor plans
-renovation
-sales analysis
-supply chain management
-translating
-ventilation
-acquisitions
-disaster planning
-"enterprise
+2003,business plan
+2004,network and systems
+2005,microsoft office products
+2006,microsoft windows xp
+2007,multi-media
+2008,novell network
+2009,software design
+2010,systems support
+2011,tested
+2012,review side effects
+2013,drug interactions
+2014,medical equipment
+2015,side effects
+2016,patient profiles
+2017,charge system files
+2018,weighed
+2019,healthcare supplies
+2020,business continuity
+2021,technology infrastructure
+2022,business process improvement
+2023,cdm
+2024,fulfillment
+2025,opex
+2026,provisioning
+2027,retail marketing
+2028,copy machine
+2029,lending
+2030,server virtualization
+2031,virtualization
+2032,directory service
+2033,lan/wan
+2034,workstations
+2035,cissp
+2036,journal
+2037,systems security
+2038,biochemistry
+2039,procurement clerk
+2040,purchasing agent
+2041,computer programmer
+2042,local area  network
+2043,dynamics 365
+2044,project
+2045,powerapps
+2046,powerbi
+2047,flow
+2048,ssharepoint
+2049,intune
+2050,ems
+2051,ssis
+2052,ssas)
+2053,dax
+2054,r
+2055,qlik (qlikview/qliksense)
+2056,sisense
+2057,datorama
+2058,yellowfin
+2059,cisco switch management
+2060,rdp
+2061,automation anywhere
+2062,rf devices
+2063,ap
+2064,automation tools
+2065,clientele
+2066,facility management
+2067,floor plans
+2068,renovation
+2069,sales analysis
+2070,supply chain management
+2071,translating
+2072,ventilation
+2073,acquisitions
+2074,disaster planning
+2075,"enterprise
 resource planning"
-facilities management
-operations management
-pc systems
-people skills
-process design
-"proposal
+2076,facilities management
+2077,operations management
+2078,pc systems
+2079,people skills
+2080,process design
+2081,"proposal
        development"
-front page
-internet access
-layout
-office applications
-all pc hardware
-develop policies
-power supply
-tops
-cisco router
-database applications
-windows 9
-property management
-radiology
-stockroom
-sops
-cafm
-p3
-restructuring
-space planning
-voice
-credit card
-packing
-payments
-warehouse inventory
-wireless
-wireless networks
-clarify
-data conversion
-data validation
-fixed asset
-fixed assets
-integration testing
-plant maintenance
-autocad
-course development
-dc
-leadership and development
-trainer workshops (t3)
+2082,front page
+2083,internet access
+2084,layout
+2085,office applications
+2086,all pc hardware
+2087,develop policies
+2088,power supply
+2089,tops
+2090,cisco router
+2091,database applications
+2092,windows 9
+2093,property management
+2094,radiology
+2095,stockroom
+2096,sops
+2097,cafm
+2098,p3
+2099,restructuring
+2100,space planning
+2101,voice
+2102,credit card
+2103,packing
+2104,payments
+2105,warehouse inventory
+2106,wireless
+2107,wireless networks
+2108,clarify
+2109,data conversion
+2110,data validation
+2111,fixed asset
+2112,fixed assets
+2113,integration testing
+2114,plant maintenance
+2115,autocad
+2116,course development
+2117,dc
+2118,leadership and development
+2119,trainer workshops (t3)

@@ -1,1413 +1,1413 @@
-0
-excel
-access
-powerpoint
-xtender
-record journal entries
-including surplus
-depreciation expense
-and the purchase
-rita
-partnership
-corporate
-state       prepare individual
-ultratax
-state         prepared individual
-account reconciliation
-accounting
-accountant
-accounting system
-ar
-budget
-business objects
-closing
-contracts
-financial
-financial analysis
-financial controls
-financial operations
-financial reports
-financial statements
-gl
-grants
-inventory
-invoicing
-ledger
-macros
-microsoft office
-office
-outlook
-word
-monitors
-operating systems
-peoplesoft
-policies
-processes
-procurement
-reporting
-research
-sap
-sarbanes-oxley
-training materials
-view
-accounts payable
-accounts receivable
-billing
-book
-cpt
-finance
-financial/ accounting
-icd-9
-insurance
-leadership skills
-ms office
-personnel
-reconciling
-3d
-accounts receivables
-adobe illustrator
-adobe photoshop
-pagemaker
-audio editing
-auditing
-banking
-budget preparation
-cost analysis
-credit
-clients
-debit
-dec
-documentation
-dos
-senior management
-financial management
-hr
-inspection
-inventory control
-macro media director
-2k
-windows 9.x
-works
-mis
-modeling
-developer 2000
-oracle 8i
-oracle
-payroll
-sales
-tax
-state         prepared
-iseries
-develop
-orders
-growers
-miscellaneous invoicing
-general ledger
-queries
-spreadsheets
-maps
-state      a member-owned
-as/400 (36 environment)
-pc's
-5120
-seed industry
-pharmacy
-general accounting
-accounting systems
-as/400
-automate
-backup
-"bank
+,0
+0,excel
+1,access
+2,powerpoint
+3,xtender
+4,record journal entries
+5,including surplus
+6,depreciation expense
+7,and the purchase
+8,rita
+9,partnership
+10,corporate
+11,state       prepare individual
+12,ultratax
+13,state         prepared individual
+14,account reconciliation
+15,accounting
+16,accountant
+17,accounting system
+18,ar
+19,budget
+20,business objects
+21,closing
+22,contracts
+23,financial
+24,financial analysis
+25,financial controls
+26,financial operations
+27,financial reports
+28,financial statements
+29,gl
+30,grants
+31,inventory
+32,invoicing
+33,ledger
+34,macros
+35,microsoft office
+36,office
+37,outlook
+38,word
+39,monitors
+40,operating systems
+41,peoplesoft
+42,policies
+43,processes
+44,procurement
+45,reporting
+46,research
+47,sap
+48,sarbanes-oxley
+49,training materials
+50,view
+51,accounts payable
+52,accounts receivable
+53,billing
+54,book
+55,cpt
+56,finance
+57,financial/ accounting
+58,icd-9
+59,insurance
+60,leadership skills
+61,ms office
+62,personnel
+63,reconciling
+64,3d
+65,accounts receivables
+66,adobe illustrator
+67,adobe photoshop
+68,pagemaker
+69,audio editing
+70,auditing
+71,banking
+72,budget preparation
+73,cost analysis
+74,credit
+75,clients
+76,debit
+77,dec
+78,documentation
+79,dos
+80,senior management
+81,financial management
+82,hr
+83,inspection
+84,inventory control
+85,macro media director
+86,2k
+87,windows 9.x
+88,works
+89,mis
+90,modeling
+91,developer 2000
+92,oracle 8i
+93,oracle
+94,payroll
+95,sales
+96,tax
+97,state         prepared
+98,iseries
+99,develop
+100,orders
+101,growers
+102,miscellaneous invoicing
+103,general ledger
+104,queries
+105,spreadsheets
+106,maps
+107,state      a member-owned
+108,as/400 (36 environment)
+109,pc's
+110,5120
+111,seed industry
+112,pharmacy
+113,general accounting
+114,accounting systems
+115,as/400
+116,automate
+117,backup
+118,"bank
     reconciliation"
-bank reconciliation
-basic
-budgeting
-business consulting
-business development
-"cash
+119,bank reconciliation
+120,basic
+121,budgeting
+122,business consulting
+123,business development
+124,"cash
    management"
-cash management
-cl
-cobol
-hardware
-certified public accountant
-client
-database
-train employees
-employee training
-"financial
+125,cash management
+126,cl
+127,cobol
+128,hardware
+129,certified public accountant
+130,client
+131,database
+132,train employees
+133,employee training
+134,"financial
    reports"
-ibm
-kronos
-marketing
-order entry
-pricing
-profit
-program development
-sales reporting
-software development
-software documentation
-spreadsheet
-tax returns
-telephone
-web portal
-written
-year 2000
-academic
-accounts payables
-balance sheet
-benefits
-budgets
-cash flow
-cashier
-data analysis
-databases
-email
-external audits
-filling
-financial planning
-financial report
-fixed assets
-general ledger accounting
-government
-information technology
-lotus
-materials
-microsoft access
-microsoft powerpoint
-peachtree accounting
-pivot tables
-program management
-coding
-progress
-proposal
-protocols
-quality
-quickbooks
-recording
-requirement
-sage
-sun
-tables
-taxes
-vision
-accounting software
-ap
-as 400
-cost accounting
-english	   9
-external auditor
-financial accounting
-financial and management
-financial reporting
-funds
-hyperion
-local government
-managing
-power point
-month end closing
-programmer
-sales analysis
-statutory accounts
-tax compliance
-tax planning
-treasury
-the accounting
-reconciliations
-bookkeeper
-audits
-operations
-assembly
-closings
-customer service
-direct sales
-food safety
-government contracts
-logistics
-maintenance
-million
-quality assurance
-receptionist
-retail sales
-sales and
-shipping
-usda
-solutions
-staffing
-cash
-clerk
-merchandising
-ordering
-automated payroll
-payroll processing
-software training
-training
-the accounts
-csi
-ms excel
-networking
-all sales
-basis
-forecasting
-adjustments
-audit
-monthly sales
-sales tax
-annuities
-cpa
-life insurance
-procedure writing
-project management
-public relations
-team building
-administrative manager
-entrees
-entrées
-purchase orders
-fairbanks
-state
-worland
-a/r
-office management
-bookkeeping
-office manager
-accounts for
-process payroll
-bank reconciliations
-g/l
-its
-job costing
-journal
-business management
-clerical
-account reconciliations
-accounts and
-and account
-as400
-balance sheets
-invoice
-office administration
-peachtree
-restaurant manager
-scheduling
-secretary
-state tax
-timberline
-timberline software
-typing
-file
-collections
-litigation
-loans
-team lead
-associate
-mas90
-cases
-cogs
-credit card
-including account
-receivables
-review credit
-customer accounts
-with accounts
-with sales
-mas
-mas 90
-netsuite
-real estate
-illustrator
-recorded
-and banked cash
-checks
-us    accounting
-methods and theories
-laws
-state      supervisor
-kelley van horn
-tracking
-analyzing
-firm
-fixed
-garnishments
-eva haynes
-accounting information systems
-statistics
-attorney
-trial balance
-customer services
-edi
-filing
-focus
-functional
-great plains software
-great plains accounting
-information systems
-instruction
-legal
-ms office applications
-positioning
-purchasing
-supervisor
-supervision
-work flow
-year-end
-approach
-competitive
-crm
-clientele
-customer satisfaction
-french
-fluent in french
-inventory management
-access iii
-microsoft excel ii
-microsoft word
-speaking
-sql
-strategic
-travel arrangements
-adp payroll
-ad
-a/p
-audit reports
-balance
-billings
-business plan development
-coaching
-consultant
-cost control
-hiring
-human resources
-managerial accounting
-enterprise
-problem solving
-trend
-underwriting
-monthly variance analysis
-visual basic
-purchases
-accounts  payable
-acquisitions
-adobe
-business communication
-business law
-charts
-corporate accounting
-"cost 
+135,ibm
+136,kronos
+137,marketing
+138,order entry
+139,pricing
+140,profit
+141,program development
+142,sales reporting
+143,software development
+144,software documentation
+145,spreadsheet
+146,tax returns
+147,telephone
+148,web portal
+149,written
+150,year 2000
+151,academic
+152,accounts payables
+153,balance sheet
+154,benefits
+155,budgets
+156,cash flow
+157,cashier
+158,data analysis
+159,databases
+160,email
+161,external audits
+162,filling
+163,financial planning
+164,financial report
+165,fixed assets
+166,general ledger accounting
+167,government
+168,information technology
+169,lotus
+170,materials
+171,microsoft access
+172,microsoft powerpoint
+173,peachtree accounting
+174,pivot tables
+175,program management
+176,coding
+177,progress
+178,proposal
+179,protocols
+180,quality
+181,quickbooks
+182,recording
+183,requirement
+184,sage
+185,sun
+186,tables
+187,taxes
+188,vision
+189,accounting software
+190,ap
+191,as 400
+192,cost accounting
+193,english	   9
+194,external auditor
+195,financial accounting
+196,financial and management
+197,financial reporting
+198,funds
+199,hyperion
+200,local government
+201,managing
+202,power point
+203,month end closing
+204,programmer
+205,sales analysis
+206,statutory accounts
+207,tax compliance
+208,tax planning
+209,treasury
+210,the accounting
+211,reconciliations
+212,bookkeeper
+213,audits
+214,operations
+215,assembly
+216,closings
+217,customer service
+218,direct sales
+219,food safety
+220,government contracts
+221,logistics
+222,maintenance
+223,million
+224,quality assurance
+225,receptionist
+226,retail sales
+227,sales and
+228,shipping
+229,usda
+230,solutions
+231,staffing
+232,cash
+233,clerk
+234,merchandising
+235,ordering
+236,automated payroll
+237,payroll processing
+238,software training
+239,training
+240,the accounts
+241,csi
+242,ms excel
+243,networking
+244,all sales
+245,basis
+246,forecasting
+247,adjustments
+248,audit
+249,monthly sales
+250,sales tax
+251,annuities
+252,cpa
+253,life insurance
+254,procedure writing
+255,project management
+256,public relations
+257,team building
+258,administrative manager
+259,entrees
+260,entrées
+261,purchase orders
+262,fairbanks
+263,state
+264,worland
+265,a/r
+266,office management
+267,bookkeeping
+268,office manager
+269,accounts for
+270,process payroll
+271,bank reconciliations
+272,g/l
+273,its
+274,job costing
+275,journal
+276,business management
+277,clerical
+278,account reconciliations
+279,accounts and
+280,and account
+281,as400
+282,balance sheets
+283,invoice
+284,office administration
+285,peachtree
+286,restaurant manager
+287,scheduling
+288,secretary
+289,state tax
+290,timberline
+291,timberline software
+292,typing
+293,file
+294,collections
+295,litigation
+296,loans
+297,team lead
+298,associate
+299,mas90
+300,cases
+301,cogs
+302,credit card
+303,including account
+304,receivables
+305,review credit
+306,customer accounts
+307,with accounts
+308,with sales
+309,mas
+310,mas 90
+311,netsuite
+312,real estate
+313,illustrator
+314,recorded
+315,and banked cash
+316,checks
+317,us    accounting
+318,methods and theories
+319,laws
+320,state      supervisor
+321,kelley van horn
+322,tracking
+323,analyzing
+324,firm
+325,fixed
+326,garnishments
+327,eva haynes
+328,accounting information systems
+329,statistics
+330,attorney
+331,trial balance
+332,customer services
+333,edi
+334,filing
+335,focus
+336,functional
+337,great plains software
+338,great plains accounting
+339,information systems
+340,instruction
+341,legal
+342,ms office applications
+343,positioning
+344,purchasing
+345,supervisor
+346,supervision
+347,work flow
+348,year-end
+349,approach
+350,competitive
+351,crm
+352,clientele
+353,customer satisfaction
+354,french
+355,fluent in french
+356,inventory management
+357,access iii
+358,microsoft excel ii
+359,microsoft word
+360,speaking
+361,sql
+362,strategic
+363,travel arrangements
+364,adp payroll
+365,ad
+366,a/p
+367,audit reports
+368,balance
+369,billings
+370,business plan development
+371,coaching
+372,consultant
+373,cost control
+374,hiring
+375,human resources
+376,managerial accounting
+377,enterprise
+378,problem solving
+379,trend
+380,underwriting
+381,monthly variance analysis
+382,visual basic
+383,purchases
+384,accounts  payable
+385,acquisitions
+386,adobe
+387,business communication
+388,business law
+389,charts
+390,corporate accounting
+391,"cost 
 accounting"
-costing
-customer relations
-drafting
-due diligence
-economics
-equity
-expense reports
-forex
-intellectual property
-internal audit
-interpretation
-lacerte
-team leader
-teambuilding
-law
-ma
-mergers
-excel spreadsheets
-exchange
-processing payroll
-payroll v
-pivot table
-quickbooks accounting v
-recruiting
-sap r/3
-secretarial
-staff supervision
-supervising
-tax laws
-tax preparation
-valuation
-annual reports
-arabic
-strong communication skills
-controller
-english
-analyze financial statements
-prepare financial statements
-investments
-market
-ms word
-organizational
-payables
-public accounting
-express
-swedish
-accruals
-corporate finance
-erp
-forms
-image
-jd edwards
-director
-microsoft excel
-microsoft outlook
-month end close
-operations   management
-sage fas
-change management
-client relations
-delivery
-eclipse
-front office
-instructor
-instructional design
-leadership training
-microsoft office suite
-needs analysis
-peoplesoft hrms
-project plans
-teaching
-training material
-training programs
-upgrade
-state     performed debit
-accounting close
-continuous improvement
-business analyst
-call center
-critical thinking
-leadership
-mail
-ms office suites
-relationship management
-risk management
-securities
-phone
-excel (formulas
-vlookups
-access (intermediate)
-outlook (advanced)
-power pivot
-and powerpoint (intermediate))
-calbench
-notes payable
-interest payable
-unearned revenues
-legal services
-revenues
-expenses
-office supplies
-insurance (worker's compensation
-health
-accidental
-and disability)
-petty cash
-notices
-procedures
-ct-3-s/ct-34-sh (nys)
-futa
-state      oversaw a/r
-tangible assets
-revenue
-depreciation
-advertising
-intangible assets (trademarks
-patents
-and licenses)
-line of credit
-bad debts
-returns and allowances
-credit card transactions
-quarterly
-scanning
-printing
-941
-st-100 (quarterly)
-mta-305
-940
-picking/packing orders
-developing
-terminating
-ratification
-implementation
-services
-payroll records
-equipment
-financial statement reports
-advanced corporate taxation
-cost accounting i
-introduction to business
-intermediate accounting i
-intermediate accounting ii
-business organization
-microeconomics
-macroeconomics
-economic statistics
-economic development
-federal income taxation
-corporate taxation
-business operations
-cash receipts
-copying documents
-financial statement analysis
-sorting mail
-sas
-tax accounting
-tax research
-rockwall
-2005
-2006
-2011) bonaire (2003
-microsoft office excel
-outlook and word
-sage 100
-journal entries
-damages
-planning
-analysis
-tools
-adp
-business process improvement
-human resource
-inventory levels
-negotiations
-pl
-receiving
-repairing
-researching
-attention to detail
-cash  flow
-oral communication
-financial statement preparation
-microsoft office programs
-microsoft windows
-presentations
-surveys
-den leader
-fundraising chair
-merit badge counselor
-"state       complete
+392,costing
+393,customer relations
+394,drafting
+395,due diligence
+396,economics
+397,equity
+398,expense reports
+399,forex
+400,intellectual property
+401,internal audit
+402,interpretation
+403,lacerte
+404,team leader
+405,teambuilding
+406,law
+407,ma
+408,mergers
+409,excel spreadsheets
+410,exchange
+411,processing payroll
+412,payroll v
+413,pivot table
+414,quickbooks accounting v
+415,recruiting
+416,sap r/3
+417,secretarial
+418,staff supervision
+419,supervising
+420,tax laws
+421,tax preparation
+422,valuation
+423,annual reports
+424,arabic
+425,strong communication skills
+426,controller
+427,english
+428,analyze financial statements
+429,prepare financial statements
+430,investments
+431,market
+432,ms word
+433,organizational
+434,payables
+435,public accounting
+436,express
+437,swedish
+438,accruals
+439,corporate finance
+440,erp
+441,forms
+442,image
+443,jd edwards
+444,director
+445,microsoft excel
+446,microsoft outlook
+447,month end close
+448,operations   management
+449,sage fas
+450,change management
+451,client relations
+452,delivery
+453,eclipse
+454,front office
+455,instructor
+456,instructional design
+457,leadership training
+458,microsoft office suite
+459,needs analysis
+460,peoplesoft hrms
+461,project plans
+462,teaching
+463,training material
+464,training programs
+465,upgrade
+466,state     performed debit
+467,accounting close
+468,continuous improvement
+469,business analyst
+470,call center
+471,critical thinking
+472,leadership
+473,mail
+474,ms office suites
+475,relationship management
+476,risk management
+477,securities
+478,phone
+479,excel (formulas
+480,vlookups
+481,access (intermediate)
+482,outlook (advanced)
+483,power pivot
+484,and powerpoint (intermediate))
+485,calbench
+486,notes payable
+487,interest payable
+488,unearned revenues
+489,legal services
+490,revenues
+491,expenses
+492,office supplies
+493,insurance (worker's compensation
+494,health
+495,accidental
+496,and disability)
+497,petty cash
+498,notices
+499,procedures
+500,ct-3-s/ct-34-sh (nys)
+501,futa
+502,state      oversaw a/r
+503,tangible assets
+504,revenue
+505,depreciation
+506,advertising
+507,intangible assets (trademarks
+508,patents
+509,and licenses)
+510,line of credit
+511,bad debts
+512,returns and allowances
+513,credit card transactions
+514,quarterly
+515,scanning
+516,printing
+517,941
+518,st-100 (quarterly)
+519,mta-305
+520,940
+521,picking/packing orders
+522,developing
+523,terminating
+524,ratification
+525,implementation
+526,services
+527,payroll records
+528,equipment
+529,financial statement reports
+530,advanced corporate taxation
+531,cost accounting i
+532,introduction to business
+533,intermediate accounting i
+534,intermediate accounting ii
+535,business organization
+536,microeconomics
+537,macroeconomics
+538,economic statistics
+539,economic development
+540,federal income taxation
+541,corporate taxation
+542,business operations
+543,cash receipts
+544,copying documents
+545,financial statement analysis
+546,sorting mail
+547,sas
+548,tax accounting
+549,tax research
+550,rockwall
+551,2005
+552,2006
+553,2011) bonaire (2003
+554,microsoft office excel
+555,outlook and word
+556,sage 100
+557,journal entries
+558,damages
+559,planning
+560,analysis
+561,tools
+562,adp
+563,business process improvement
+564,human resource
+565,inventory levels
+566,negotiations
+567,pl
+568,receiving
+569,repairing
+570,researching
+571,attention to detail
+572,cash  flow
+573,oral communication
+574,financial statement preparation
+575,microsoft office programs
+576,microsoft windows
+577,presentations
+578,surveys
+579,den leader
+580,fundraising chair
+581,merit badge counselor
+582,"state       complete
 accounting"
-phones
-fax
-emails
-ordering of supplies
-"customer
+583,phones
+584,fax
+585,emails
+586,ordering of supplies
+587,"customer
 service"
-"and
+588,"and
 account reconciliation"
-"""clean up"""
-within bylaw guidelines
-ft. collins
-administrative
-engineer
-meetings
-physics
-reception
-retail
-hiring process
-city
-mri
-yardi
-onesite
-productivity
-build
-optimize
-such as bridges
-editing accounts payable
-managing entity cash
-variance analysis
-including ar/ap
-inter-company reconciliation
-internal controls (implementing
-monitoring
-enhancing)
-developed budgets
-accounting management
-abc
-aia
-reconciling bank statements
-bridges
-broadcast
-business plan
-conversion
-database management
-driving
-editing
-forecast financial
-financial forecasts
-problem-solving skills
-property management
-safety
-solomon
-tax return preparation
-teamwork
-accountant i
-consulting
-financial consulting
-general office duties
-wise
-administrative functions
-bi
-computer applications
-data entry
-mortgage loan
-sales reports
-telecommunications
-workflow
-including posting
-adjusting
-p.  2.         accountant
-commercial buildings
-management reports
-booking depreciation
-track variances
-full-year forecast report
-plan
-monthly accruals
-year-end w-2s
-dental
-vision insurance
-401k
-logistics coordination
-trade finance
-analyzed
-including delivery point
-terms
-price
-business communications
-essbase
-financials
-fluent in spanish
-supply chain management
-turbo tax
-account management
-cms
-fluent in english
-mac
-medical billing
-money
-operating system
-record keeping
-russian
-staff training
-vi
-bank
-treasury operations
-wire transfers
-and  ach
-e-mail
-claims
-accounting personnel's
-accounting manager
-maintain files
-yearend
-active-listening
-operational expenses
-withdrawals
-state       performed debit
-year-end financial reports
-adobe acrobat
-agency
-budget analysis
-cash handling
-fds
-fiscal management
-fund accounting
-innovation
-maintains inventory
-macintosh
-mainframe
-managerial
-microsoft office software
-publisher
-windows
-newsletter
-ibm-pc
-copier
-proposals
-repairs
-scanner
-technical support
-time management
-type
-vendors
-including vips
-draw
-ms office suite
-verbal communication skills
-local area network
-president &trailmaster
-maryland volkssport assn
-president
-windows xp
-quickbooks enterprise 17.0
-""
-audit report
-cash register
-catalog
-conferences
-decision-making
-direction
-video
-architect
-asset management
-business case
-cognos
-financial modeling
-oracle financials
-executive presentations
-strategic marketing
-telecom
-capitalization
-4 semesters.  costs
-2 semesters.  economics
-printers
-scanners
-setup networks
-internet connections
-sharing files
-remote work/connections
-antivirus
-domains
-graphics
-envelopes
-insert
-do formats
-labels
-hyperlink
-block
-formulas
-logical conditions
-find
-replace
-lookup
-group
-data validation
-filters
-freeze panes
-effects
-presentation
-exporting
-importing image
-editing videos
-text
-hobby edit image
-creating image
-edit forms
-fill forms
-creating form
-chart of accounts
-bills
-assets
-banks
-reconciliation
-1099
-setting closing dates
-setup payrolls
-employees entry
-vendors entry
-clients entry
-general journal entries
-export
-import
-write checks
-paying bills
-memorized transaction list
-administrative and accounting
-taxes parameters
-budget parameters
-artist
-art
-automation
-creative problem solving
-fast
-manufacturing process
-"manufacturing
+589,"""clean up"""
+590,within bylaw guidelines
+591,ft. collins
+592,administrative
+593,engineer
+594,meetings
+595,physics
+596,reception
+597,retail
+598,hiring process
+599,city
+600,mri
+601,yardi
+602,onesite
+603,productivity
+604,build
+605,optimize
+606,such as bridges
+607,editing accounts payable
+608,managing entity cash
+609,variance analysis
+610,including ar/ap
+611,inter-company reconciliation
+612,internal controls (implementing
+613,monitoring
+614,enhancing)
+615,developed budgets
+616,accounting management
+617,abc
+618,aia
+619,reconciling bank statements
+620,bridges
+621,broadcast
+622,business plan
+623,conversion
+624,database management
+625,driving
+626,editing
+627,forecast financial
+628,financial forecasts
+629,problem-solving skills
+630,property management
+631,safety
+632,solomon
+633,tax return preparation
+634,teamwork
+635,accountant i
+636,consulting
+637,financial consulting
+638,general office duties
+639,wise
+640,administrative functions
+641,bi
+642,computer applications
+643,data entry
+644,mortgage loan
+645,sales reports
+646,telecommunications
+647,workflow
+648,including posting
+649,adjusting
+650,p.  2.         accountant
+651,commercial buildings
+652,management reports
+653,booking depreciation
+654,track variances
+655,full-year forecast report
+656,plan
+657,monthly accruals
+658,year-end w-2s
+659,dental
+660,vision insurance
+661,401k
+662,logistics coordination
+663,trade finance
+664,analyzed
+665,including delivery point
+666,terms
+667,price
+668,business communications
+669,essbase
+670,financials
+671,fluent in spanish
+672,supply chain management
+673,turbo tax
+674,account management
+675,cms
+676,fluent in english
+677,mac
+678,medical billing
+679,money
+680,operating system
+681,record keeping
+682,russian
+683,staff training
+684,vi
+685,bank
+686,treasury operations
+687,wire transfers
+688,and  ach
+689,e-mail
+690,claims
+691,accounting personnel's
+692,accounting manager
+693,maintain files
+694,yearend
+695,active-listening
+696,operational expenses
+697,withdrawals
+698,state       performed debit
+699,year-end financial reports
+700,adobe acrobat
+701,agency
+702,budget analysis
+703,cash handling
+704,fds
+705,fiscal management
+706,fund accounting
+707,innovation
+708,maintains inventory
+709,macintosh
+710,mainframe
+711,managerial
+712,microsoft office software
+713,publisher
+714,windows
+715,newsletter
+716,ibm-pc
+717,copier
+718,proposals
+719,repairs
+720,scanner
+721,technical support
+722,time management
+723,type
+724,vendors
+725,including vips
+726,draw
+727,ms office suite
+728,verbal communication skills
+729,local area network
+730,president &trailmaster
+731,maryland volkssport assn
+732,president
+733,windows xp
+734,quickbooks enterprise 17.0
+735,
+736,audit report
+737,cash register
+738,catalog
+739,conferences
+740,decision-making
+741,direction
+742,video
+743,architect
+744,asset management
+745,business case
+746,cognos
+747,financial modeling
+748,oracle financials
+749,executive presentations
+750,strategic marketing
+751,telecom
+752,capitalization
+753,4 semesters.  costs
+754,2 semesters.  economics
+755,printers
+756,scanners
+757,setup networks
+758,internet connections
+759,sharing files
+760,remote work/connections
+761,antivirus
+762,domains
+763,graphics
+764,envelopes
+765,insert
+766,do formats
+767,labels
+768,hyperlink
+769,block
+770,formulas
+771,logical conditions
+772,find
+773,replace
+774,lookup
+775,group
+776,data validation
+777,filters
+778,freeze panes
+779,effects
+780,presentation
+781,exporting
+782,importing image
+783,editing videos
+784,text
+785,hobby edit image
+786,creating image
+787,edit forms
+788,fill forms
+789,creating form
+790,chart of accounts
+791,bills
+792,assets
+793,banks
+794,reconciliation
+795,1099
+796,setting closing dates
+797,setup payrolls
+798,employees entry
+799,vendors entry
+800,clients entry
+801,general journal entries
+802,export
+803,import
+804,write checks
+805,paying bills
+806,memorized transaction list
+807,administrative and accounting
+808,taxes parameters
+809,budget parameters
+810,artist
+811,art
+812,automation
+813,creative problem solving
+814,fast
+815,manufacturing process
+816,"manufacturing
 processes"
-strategic planning
-upgrading
-accrual
-computer programming
-dialysis
-letters
-month-end closing
-primary care
-profit and loss
-settlements
-com
-edit
-preparing financial reports
-process invoices
-invoice processing
-mba
-developer
-sap fi
-i-travel financials (erp)
-myob
-tally
-xpert
-telegraphic transfers
-online transfers
-payment
-cfs
-ageing reports
-commission statement
-sending follow-up inquiries
-bank transfer
-documentary collection
-letters of credit
-insurance agencies
-hindi
-administrative support
-bank 	reconciliation
-c
-driving license
-computer peripherals
-internet 	applications
-languages
-negotiating
-sound
-strategy
-typing speed
-colleagues
-regional
-including leaflets
-posters
-flyers
-newsletters
-seminars
-and developing
-persuaders
-product knowledge
-applications
-mystery shopper score
-alexandria university
-photo
-business administration
-exhibitions
-international business
-marketing plans
-market research
-marketing materials
-back office
-microsoft certified professional
-mcp
-organizing
-press
-proofreading
-publications
-radio
-trainer
-visual basic 6.0
-microsoft visual studio
-web pages
-automotive
-counseling
-jde
-year end
-microsoft office (word
-outlook)
-copying
-customer service skills
-faxing
-financial analyst
-powerpoint presentations
-communicator
-people soft
-quick learner
-spanish
-team player
-transportation
-compliance reporting
-foreign exchange
-frame
-general ledger accounts
-home office
-lotus notes
-microsoft dynamics
-oracle financial
-billing systems
-clarify
-consolidations
-executive management
-organizational skills
-maintain documentation
-yields
-distributions
-corporate actions related
-as assigned
-compliance reports
-n-sars
-original issue discounts
-invoice preparation
-post payments
-prepare
-make billing
-collection calls
-resolve account discrepancies
-prepare bank deposits
-enter approved payables
-maintain vendor records
-make 401(k)
-daily field reports
-gps trackers
-payroll deduction authorizations
-field travel authorizations
-insurance coverage
-401(k)
-track
-obtainment of approvals
-contractors
-store managers
-taxation
-compliance
-store
-prepaid
-fas 109 provisions
-account analysis
-cash flows
-monthly closings
-invoice coding
-contract execution
-corporate tax processing
-cost reporting
-daily accounting
-financial statements preparation
-fixed asset
-gaap intimate familiarity
-income tax preparation
-liaise between departments
-monthly sales analysis
-payables recognition
-payments processing
-performance management
-analytical skills
-business process
-cash-flow
-crystal reports
-financial analysis/planning
-great plains
-negotiation
-quantitative analysis
-east  building 6
-room 204  charleston
-room 248  charleston
-gus nelson
-lynn nehoda
-room 304  charleston
-complete school assessments
-routing calls
-taking messages
-corresponding via emails
-gl activity
-quickbooks pro
-axiom
-bloomberg terminal
-nvision
-calculated
-cash flow management
-journal entry preparation
-income statement
-leases
-contractual obligations
-states payroll taxes
-basic accounting
-bloomberg
-budget management
-capital expenditures
-cash flow statement
-excellent communication
-fixed asset register
-imaging
-lawson
-problem solving skills
-migration
-coding of invoices
-closing books monthly
-verify all deposits
-payment history and
-if need be
-liability
-report formats
-business licenses
-formatting
-liabilities
-profits and losses
-tax liabilities
-school districts
-villages
-the audit process
-audit programs
-working papers
-maintain records
-accurate
-approval
-000
-obligations
-effectiveness
-dts
-us counties
-and billing.  receipt
-review
-segregation
-collector information
-real    property specifics
-deposits
-service fees
-support
-assisting
-recommending
-recommend
-generating charges
-update
-fetch
-test results
-c programming
-customer care
-full life cycle
-oracle database
-designer 2000
-os/2
-processing payments
-read
-scripts
-system integration
-technical documentation
-upgrades
-utilities
-staff
-faxes
-product
-buying supplies
-ordering products
-answering calls
-micrometers
-height gauges
-wrapped
-ne
-calipers
-strong interpersonal skills
-environmental compliance
-listening
-machinery
-strong organizational skills
-pallet jack
-telecommunication
-phone etiquette
-warehousing
-cost transfers
-budget transfers
-state     examined
-coded
-verified
-balanced
-administer
-tutor if necessary
-applying payments
-monitoring collection activities
-communication skills
-general ledger acounts
-groupwise
-instructing
-mentoring
-packaging
-public speaking
-business processes
-decision making
-financial audits
-supervisory
-budget planning
-data mining
-hard drive
-monarch
-next
-graphs
-harvard graphics
-ms access
-windows 95
-quicken
-sox compliance
-sarbanes oxley
-television
-excellent written
-peachtree complete accounting
-profitool
-estimating
-microsoft office applications
-including bank statements
-gaap
-year end close
-ap/ar
-internal control
-iso
-iso 9001
-ifs
-macola
-adp 5.30
-ceridian
-edge
-networks
-sap 6.20
-iso9001
-mapics
-sap r3
-self-starter
-spc4
-vertex
-adp   improves process
-fixed assets administrator
-project lead
-account reconciliation skill
-communications skills
-financial statements analysis
-research skills
-fast learner
-receivable
-quick books
-regulatory filings
-book keeping
-cash flow projections
-data collection
-dba
-software support
-alpha-5
-windows (2007
-xp
-nt
-2000
-98
-95
-4.1) ms dos
-mas 90/200
-nx/view
-sales logic
-scrapware
-scrap dragon
-iqms
-laser fiche
-type 60 wpm
-derivatives
-natural
-page
-programming
-scheme
-certified fraud examiner
-community involvement
-and character. recipient
-army
-dc
-ims
-workshops
-customer support
-internet explorer
-outlook express
-netscape
-healthcare:     sound
-patient advocacy
-post-operative care
-medical-surgical experience
-mental health experience
-operating room experience
-patient education
-glucose monitoring
-enthusiastic people person
-advanced problem-solving
-dun
-medical transcription
-minute taking
-nursing
-ris
-symposium
-transcription
-type 72wpm
-ms power point
-lombardi
-eagle accounting system
-pega
-dras
-iax
-fund accountant
-processing
-corporate financial policies
-corporate governance
-marathi
-analytical thinking
-communication
-v-look up
-workbench
-eagle
-dras.
-epicor
-office master system
-glacier tax prep
-intuit payroll
-chasepaymentech
-v-lookups
-vision accounting software
-peach tree
-dac-easy
-new hires
-such as deposits
-payments
-record
-electronic funds transfer
-citrix
-interpersonal skills
-cpr certified
-seagate crystal reports
-data management
-investment management
-italian
-natural gas
-notary public
-peoplesoft 7.5
-peoplesoft 9.1
-producer
-user training
-trading systems
-trading system
-gift agreements
-schedules
-including purchases
-interest
-dividends
-fees
-verify
-and reconcile
-analysis direct/indirect costs
-reconciled balances
-deletions
-transfers
-and modifications.  prepared
-processed
-annual personal property
-arts
-concise
-fundraising
-interpersonal
-fashion
-neat
-problem analysis
-monthly bank reconciliations
-community health
-compliance audits
-contract management
-home health
-hospice
-relational database
-revenue recognition
-therapy
-validation
-omissions
-including share drafts
-ach
-atm
-federal reserve
-including vault
-transfer
-on us
-statistical
-examined
-wires
-completeness
-scheduling shifts
-assigning responsibilities
-answering questions
-solving problems
-account payable documentation
-and totals accounts
-articulate
-business intelligence
-calculator
-equipment maintenance
-mailing
-maintains files
-invision
-reconciled
-researched
-financial systems
-control
-updated
-summaries
-briefings
-reports
-data analyses
-budget projections
-previous monthly billing
-number
-and contact personnel
-biomed
-vouchers
-memos
-correspondence
-summary statements
-briefs
-format
-and completeness
-punctuation
-language use
-business strategies
-oral
-content
-design and construction
-financial analyses
-meditech
-copiers
-problem resolution
-written communication
-xerox copier
-great plains dynamics
-sage50
-act
-concerns
-bonds
-income
-cpg
-ctl
-cfm
-including commercial
-supporting documents
-expense reporting
-prepares financial statements
-notes
-rent roll
-monthly adjustments
-closing entries
-including recording depreciation
-interest expense
-owners equity accounts
-e.g payroll
-education grants payments
-travel claim
-financial regulations
-including calculating
-including salaries
-through user feedback
-business consultant
-council
-dispatching
-financial  management
-preparing financial statements
-paye
-sorting
-word processing
-it: excel
-access    erp: sap
-avaloq
-temenos
-resolve customer complaints
-financial and accounting
-lecturer
-streamline
-adp and payroll
-biotechnology
-spread sheets
-financial audit
-ms-office
-supply inventory
-bluebeam
-construction management
-special events
-microsoft
-rfi
-trade shows
+817,strategic planning
+818,upgrading
+819,accrual
+820,computer programming
+821,dialysis
+822,letters
+823,month-end closing
+824,primary care
+825,profit and loss
+826,settlements
+827,com
+828,edit
+829,preparing financial reports
+830,process invoices
+831,invoice processing
+832,mba
+833,developer
+834,sap fi
+835,i-travel financials (erp)
+836,myob
+837,tally
+838,xpert
+839,telegraphic transfers
+840,online transfers
+841,payment
+842,cfs
+843,ageing reports
+844,commission statement
+845,sending follow-up inquiries
+846,bank transfer
+847,documentary collection
+848,letters of credit
+849,insurance agencies
+850,hindi
+851,administrative support
+852,bank 	reconciliation
+853,c
+854,driving license
+855,computer peripherals
+856,internet 	applications
+857,languages
+858,negotiating
+859,sound
+860,strategy
+861,typing speed
+862,colleagues
+863,regional
+864,including leaflets
+865,posters
+866,flyers
+867,newsletters
+868,seminars
+869,and developing
+870,persuaders
+871,product knowledge
+872,applications
+873,mystery shopper score
+874,alexandria university
+875,photo
+876,business administration
+877,exhibitions
+878,international business
+879,marketing plans
+880,market research
+881,marketing materials
+882,back office
+883,microsoft certified professional
+884,mcp
+885,organizing
+886,press
+887,proofreading
+888,publications
+889,radio
+890,trainer
+891,visual basic 6.0
+892,microsoft visual studio
+893,web pages
+894,automotive
+895,counseling
+896,jde
+897,year end
+898,microsoft office (word
+899,outlook)
+900,copying
+901,customer service skills
+902,faxing
+903,financial analyst
+904,powerpoint presentations
+905,communicator
+906,people soft
+907,quick learner
+908,spanish
+909,team player
+910,transportation
+911,compliance reporting
+912,foreign exchange
+913,frame
+914,general ledger accounts
+915,home office
+916,lotus notes
+917,microsoft dynamics
+918,oracle financial
+919,billing systems
+920,clarify
+921,consolidations
+922,executive management
+923,organizational skills
+924,maintain documentation
+925,yields
+926,distributions
+927,corporate actions related
+928,as assigned
+929,compliance reports
+930,n-sars
+931,original issue discounts
+932,invoice preparation
+933,post payments
+934,prepare
+935,make billing
+936,collection calls
+937,resolve account discrepancies
+938,prepare bank deposits
+939,enter approved payables
+940,maintain vendor records
+941,make 401(k)
+942,daily field reports
+943,gps trackers
+944,payroll deduction authorizations
+945,field travel authorizations
+946,insurance coverage
+947,401(k)
+948,track
+949,obtainment of approvals
+950,contractors
+951,store managers
+952,taxation
+953,compliance
+954,store
+955,prepaid
+956,fas 109 provisions
+957,account analysis
+958,cash flows
+959,monthly closings
+960,invoice coding
+961,contract execution
+962,corporate tax processing
+963,cost reporting
+964,daily accounting
+965,financial statements preparation
+966,fixed asset
+967,gaap intimate familiarity
+968,income tax preparation
+969,liaise between departments
+970,monthly sales analysis
+971,payables recognition
+972,payments processing
+973,performance management
+974,analytical skills
+975,business process
+976,cash-flow
+977,crystal reports
+978,financial analysis/planning
+979,great plains
+980,negotiation
+981,quantitative analysis
+982,east  building 6
+983,room 204  charleston
+984,room 248  charleston
+985,gus nelson
+986,lynn nehoda
+987,room 304  charleston
+988,complete school assessments
+989,routing calls
+990,taking messages
+991,corresponding via emails
+992,gl activity
+993,quickbooks pro
+994,axiom
+995,bloomberg terminal
+996,nvision
+997,calculated
+998,cash flow management
+999,journal entry preparation
+1000,income statement
+1001,leases
+1002,contractual obligations
+1003,states payroll taxes
+1004,basic accounting
+1005,bloomberg
+1006,budget management
+1007,capital expenditures
+1008,cash flow statement
+1009,excellent communication
+1010,fixed asset register
+1011,imaging
+1012,lawson
+1013,problem solving skills
+1014,migration
+1015,coding of invoices
+1016,closing books monthly
+1017,verify all deposits
+1018,payment history and
+1019,if need be
+1020,liability
+1021,report formats
+1022,business licenses
+1023,formatting
+1024,liabilities
+1025,profits and losses
+1026,tax liabilities
+1027,school districts
+1028,villages
+1029,the audit process
+1030,audit programs
+1031,working papers
+1032,maintain records
+1033,accurate
+1034,approval
+1035,000
+1036,obligations
+1037,effectiveness
+1038,dts
+1039,us counties
+1040,and billing.  receipt
+1041,review
+1042,segregation
+1043,collector information
+1044,real    property specifics
+1045,deposits
+1046,service fees
+1047,support
+1048,assisting
+1049,recommending
+1050,recommend
+1051,generating charges
+1052,update
+1053,fetch
+1054,test results
+1055,c programming
+1056,customer care
+1057,full life cycle
+1058,oracle database
+1059,designer 2000
+1060,os/2
+1061,processing payments
+1062,read
+1063,scripts
+1064,system integration
+1065,technical documentation
+1066,upgrades
+1067,utilities
+1068,staff
+1069,faxes
+1070,product
+1071,buying supplies
+1072,ordering products
+1073,answering calls
+1074,micrometers
+1075,height gauges
+1076,wrapped
+1077,ne
+1078,calipers
+1079,strong interpersonal skills
+1080,environmental compliance
+1081,listening
+1082,machinery
+1083,strong organizational skills
+1084,pallet jack
+1085,telecommunication
+1086,phone etiquette
+1087,warehousing
+1088,cost transfers
+1089,budget transfers
+1090,state     examined
+1091,coded
+1092,verified
+1093,balanced
+1094,administer
+1095,tutor if necessary
+1096,applying payments
+1097,monitoring collection activities
+1098,communication skills
+1099,general ledger acounts
+1100,groupwise
+1101,instructing
+1102,mentoring
+1103,packaging
+1104,public speaking
+1105,business processes
+1106,decision making
+1107,financial audits
+1108,supervisory
+1109,budget planning
+1110,data mining
+1111,hard drive
+1112,monarch
+1113,next
+1114,graphs
+1115,harvard graphics
+1116,ms access
+1117,windows 95
+1118,quicken
+1119,sox compliance
+1120,sarbanes oxley
+1121,television
+1122,excellent written
+1123,peachtree complete accounting
+1124,profitool
+1125,estimating
+1126,microsoft office applications
+1127,including bank statements
+1128,gaap
+1129,year end close
+1130,ap/ar
+1131,internal control
+1132,iso
+1133,iso 9001
+1134,ifs
+1135,macola
+1136,adp 5.30
+1137,ceridian
+1138,edge
+1139,networks
+1140,sap 6.20
+1141,iso9001
+1142,mapics
+1143,sap r3
+1144,self-starter
+1145,spc4
+1146,vertex
+1147,adp   improves process
+1148,fixed assets administrator
+1149,project lead
+1150,account reconciliation skill
+1151,communications skills
+1152,financial statements analysis
+1153,research skills
+1154,fast learner
+1155,receivable
+1156,quick books
+1157,regulatory filings
+1158,book keeping
+1159,cash flow projections
+1160,data collection
+1161,dba
+1162,software support
+1163,alpha-5
+1164,windows (2007
+1165,xp
+1166,nt
+1167,2000
+1168,98
+1169,95
+1170,4.1) ms dos
+1171,mas 90/200
+1172,nx/view
+1173,sales logic
+1174,scrapware
+1175,scrap dragon
+1176,iqms
+1177,laser fiche
+1178,type 60 wpm
+1179,derivatives
+1180,natural
+1181,page
+1182,programming
+1183,scheme
+1184,certified fraud examiner
+1185,community involvement
+1186,and character. recipient
+1187,army
+1188,dc
+1189,ims
+1190,workshops
+1191,customer support
+1192,internet explorer
+1193,outlook express
+1194,netscape
+1195,healthcare:     sound
+1196,patient advocacy
+1197,post-operative care
+1198,medical-surgical experience
+1199,mental health experience
+1200,operating room experience
+1201,patient education
+1202,glucose monitoring
+1203,enthusiastic people person
+1204,advanced problem-solving
+1205,dun
+1206,medical transcription
+1207,minute taking
+1208,nursing
+1209,ris
+1210,symposium
+1211,transcription
+1212,type 72wpm
+1213,ms power point
+1214,lombardi
+1215,eagle accounting system
+1216,pega
+1217,dras
+1218,iax
+1219,fund accountant
+1220,processing
+1221,corporate financial policies
+1222,corporate governance
+1223,marathi
+1224,analytical thinking
+1225,communication
+1226,v-look up
+1227,workbench
+1228,eagle
+1229,dras.
+1230,epicor
+1231,office master system
+1232,glacier tax prep
+1233,intuit payroll
+1234,chasepaymentech
+1235,v-lookups
+1236,vision accounting software
+1237,peach tree
+1238,dac-easy
+1239,new hires
+1240,such as deposits
+1241,payments
+1242,record
+1243,electronic funds transfer
+1244,citrix
+1245,interpersonal skills
+1246,cpr certified
+1247,seagate crystal reports
+1248,data management
+1249,investment management
+1250,italian
+1251,natural gas
+1252,notary public
+1253,peoplesoft 7.5
+1254,peoplesoft 9.1
+1255,producer
+1256,user training
+1257,trading systems
+1258,trading system
+1259,gift agreements
+1260,schedules
+1261,including purchases
+1262,interest
+1263,dividends
+1264,fees
+1265,verify
+1266,and reconcile
+1267,analysis direct/indirect costs
+1268,reconciled balances
+1269,deletions
+1270,transfers
+1271,and modifications.  prepared
+1272,processed
+1273,annual personal property
+1274,arts
+1275,concise
+1276,fundraising
+1277,interpersonal
+1278,fashion
+1279,neat
+1280,problem analysis
+1281,monthly bank reconciliations
+1282,community health
+1283,compliance audits
+1284,contract management
+1285,home health
+1286,hospice
+1287,relational database
+1288,revenue recognition
+1289,therapy
+1290,validation
+1291,omissions
+1292,including share drafts
+1293,ach
+1294,atm
+1295,federal reserve
+1296,including vault
+1297,transfer
+1298,on us
+1299,statistical
+1300,examined
+1301,wires
+1302,completeness
+1303,scheduling shifts
+1304,assigning responsibilities
+1305,answering questions
+1306,solving problems
+1307,account payable documentation
+1308,and totals accounts
+1309,articulate
+1310,business intelligence
+1311,calculator
+1312,equipment maintenance
+1313,mailing
+1314,maintains files
+1315,invision
+1316,reconciled
+1317,researched
+1318,financial systems
+1319,control
+1320,updated
+1321,summaries
+1322,briefings
+1323,reports
+1324,data analyses
+1325,budget projections
+1326,previous monthly billing
+1327,number
+1328,and contact personnel
+1329,biomed
+1330,vouchers
+1331,memos
+1332,correspondence
+1333,summary statements
+1334,briefs
+1335,format
+1336,and completeness
+1337,punctuation
+1338,language use
+1339,business strategies
+1340,oral
+1341,content
+1342,design and construction
+1343,financial analyses
+1344,meditech
+1345,copiers
+1346,problem resolution
+1347,written communication
+1348,xerox copier
+1349,great plains dynamics
+1350,sage50
+1351,act
+1352,concerns
+1353,bonds
+1354,income
+1355,cpg
+1356,ctl
+1357,cfm
+1358,including commercial
+1359,supporting documents
+1360,expense reporting
+1361,prepares financial statements
+1362,notes
+1363,rent roll
+1364,monthly adjustments
+1365,closing entries
+1366,including recording depreciation
+1367,interest expense
+1368,owners equity accounts
+1369,e.g payroll
+1370,education grants payments
+1371,travel claim
+1372,financial regulations
+1373,including calculating
+1374,including salaries
+1375,through user feedback
+1376,business consultant
+1377,council
+1378,dispatching
+1379,financial  management
+1380,preparing financial statements
+1381,paye
+1382,sorting
+1383,word processing
+1384,it: excel
+1385,access    erp: sap
+1386,avaloq
+1387,temenos
+1388,resolve customer complaints
+1389,financial and accounting
+1390,lecturer
+1391,streamline
+1392,adp and payroll
+1393,biotechnology
+1394,spread sheets
+1395,financial audit
+1396,ms-office
+1397,supply inventory
+1398,bluebeam
+1399,construction management
+1400,special events
+1401,microsoft
+1402,rfi
+1403,trade shows

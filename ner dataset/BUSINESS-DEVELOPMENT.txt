@@ -1,1501 +1,1501 @@
-0
-a+
-advertising
-architect
-army
-articulate
-agency
-budgets
-business development
-business solutions
-calculator
-call center
-cisco
-competitive
-concept
-contracts
-client
-clients
-delivery
-disaster recovery
-documentation
-executive management
-government
-help desk
-information technology
-itil
-itil v
-lan
-lockheed martin
-mgmt
-managing
-marketing
-market
-exchange
-office
-win
-win2
-windows nt server
-modeling
-navy
-neat
-negotiation
-network
-networks
-new business development
-new media
-optimization
-organizational
-positioning
-presenting
-presentations
-prime
-processes
-profit
-program management
-project planning
-proposals
-proposal
-relationship building
-research
-rfi
-rfp
-sales
-securities
-servers
-six sigma
-sla
-sop
-strategic
-technical sales
-desktop support
-white papers
-phone
-upgrades
-wan
-coaching
-cost controls
-point of sale
-promotional
-advertising and marketing
-business management
-cooking
-corporate trainer
-food processing
-packaging
-plating
-product demos
-product development
-retail
-retail marketing
-sales programs
-training manuals
-budget
-purchasing
-financial management
-food safety
-incentive programs
-inventory
-operations
-ordering
-payroll
-purchasing manager
-fundraising
-great attitude
-illustration
-marketing plan
-mentoring
-photoshop
-solutions
-staff training
-word
-department managers
-implemented
-tested
-updated database applications
-promotion
-sales strategy
-brand development
-financial advisory
-purchases
-returns
-voids
-+11% ipc
-state
-indoor soccer
-excel
-outlook
-power point
-works
-google
-sql
-strategic planning
-tables
-troubleshooting
-65 wpm
-budget planning
-content management
-contract negotiation
-pricing
-active learning
-client relations
-computer proficiency
-creative problem solving
-critical thinking
-data collection
-data entry
-email
-executive management support
-filing
-internet research
-letters and memos
-minute taking
-multi-task management
-organizational skills
-scheduling
-service orientation
-speaking
-spreadsheets
-travel arrangements
-""
-including warm calling
-including written proposals
-when i work
-including production
-performance
-trained
-customer service
-streamline
-cold calling
-compliance management
-inventory management
-inventory levels
-inventory control
-logistics
-mailing
-marketing strategies
-process management
-voip
-microsoft excel
-administrators
-stake-holders
-deliveries
-jira
-customer relations
-document reports
-budgeting
-cross-functional team leadership
-business analysis
-access
-microsoft project
-organization
-advanced presentation
-project coordinator
-python
-quality control
-quality assurance
-public speaking
-sap
-spss
-oracle         education     may
-acute care
-administration
-benefits
-interpersonal
-leadership
-finance
-cultured
-team work.
-powerpoint
-wfx
-stafferlink
-healthtrust
-recruiting
-staffing
-hiring
-interviewing
-compensation
-policies
-approved employee preferences
-and managers' requests.
-appointment setting
-art
-b2b
-billing
-business analyst
-business modeling
-business operations
-business process expert
-business systems
-call center manager
-cost accounting
-customer service expert
-database administrator
-e-business director
-estimating
-innovation
-iso
-team leader
-meetings
-2000
-outside sales
-pos
-process control
-process improvement
-production management
-program implementation
-project management
-quality
-reporting
-supervisor
-supply chain management
-teacher
-illustrator
-prices
-availability
-product uses
-twitter
-instagram
-conferences
-customer support
-database
-special events
-hazardous waste disposal
-hazardous waste
-regulatory compliance
-problem solving
-process equipment
-publications
-reading
-shipping
-teamwork
-technical support
-transportation
-troubleshoot
-water treatment
-workshops
-atm
-banking
-brochures
-counselor
-credit
-senior management
-financial
-director
-marketing materials
-microsoft office applications
-oracle
-progress
-risk assessment
-scripts
-statistics
-supervision
-telemarketing
-volunteering
-etc...).
-account management
-accounting
-big data
-business administration
-business consulting
-customer relationship management
-client relations development
-direct marketing
-law
-market evaluation
-messaging
-enterprise
-performance reviews
-performance management
-proposal writing
-professor
-recruitment
-risk management
-selling
-scheme
-strategic plans
-underwriting.
-administrative functions
-expense reporting
-focus
-forecasting
-insurance
-team building
-microsoft office suite
-negotiating
-physical therapy
-primary care
-quick books
-safety
-trend
-public relations
-enthusiastic people person
-advanced problem-solving
-mulch-tasking  client relations
-banking: credit decisions
-credit evaluation
-buyer
-buying/procurement
-sales calls
-exceptions
-internet advertising
-leads
-incoming calls
-clerk
-invoices
-payments
-skip tracer
-bankruptcy
-marketing plans
-territory management
-financial services
-for sales
-new hires
-of sales
-patent
-project manager
-sales force
-sales staff
-training
-with sales
-digital campaign
-digital marketing
-increased sales
-new products
-online marketing
-satisfaction
-sales goals
-sales techniques
-set sales
-class
-sales team
-territory
-the sales
-to sales
-web services
-award
-community outreach
-bpi
-managing projects
-ms office
-sterling
-team player
-finisar
-broadcom
-macom
-on semi
-microchip
-gcs
-northrop grumman
-nxp
-avago
-triquint
-jdsu
-planning
-wireless
-customer reports
-wafer bumping services
-foundries
-amd
-3com
-juniper networks
-customer call reports
-weekly customer updates
-quarterly sales meetings
-baan
-micron
-st micro
-philips
-ca
-northwest (hyundai
-motorola
-conexant
-a plus
-management
-flextronics)
-real estate agents
-cherokee youth lacrosse
-"2013
+,0
+0,a+
+1,advertising
+2,architect
+3,army
+4,articulate
+5,agency
+6,budgets
+7,business development
+8,business solutions
+9,calculator
+10,call center
+11,cisco
+12,competitive
+13,concept
+14,contracts
+15,client
+16,clients
+17,delivery
+18,disaster recovery
+19,documentation
+20,executive management
+21,government
+22,help desk
+23,information technology
+24,itil
+25,itil v
+26,lan
+27,lockheed martin
+28,mgmt
+29,managing
+30,marketing
+31,market
+32,exchange
+33,office
+34,win
+35,win2
+36,windows nt server
+37,modeling
+38,navy
+39,neat
+40,negotiation
+41,network
+42,networks
+43,new business development
+44,new media
+45,optimization
+46,organizational
+47,positioning
+48,presenting
+49,presentations
+50,prime
+51,processes
+52,profit
+53,program management
+54,project planning
+55,proposals
+56,proposal
+57,relationship building
+58,research
+59,rfi
+60,rfp
+61,sales
+62,securities
+63,servers
+64,six sigma
+65,sla
+66,sop
+67,strategic
+68,technical sales
+69,desktop support
+70,white papers
+71,phone
+72,upgrades
+73,wan
+74,coaching
+75,cost controls
+76,point of sale
+77,promotional
+78,advertising and marketing
+79,business management
+80,cooking
+81,corporate trainer
+82,food processing
+83,packaging
+84,plating
+85,product demos
+86,product development
+87,retail
+88,retail marketing
+89,sales programs
+90,training manuals
+91,budget
+92,purchasing
+93,financial management
+94,food safety
+95,incentive programs
+96,inventory
+97,operations
+98,ordering
+99,payroll
+100,purchasing manager
+101,fundraising
+102,great attitude
+103,illustration
+104,marketing plan
+105,mentoring
+106,photoshop
+107,solutions
+108,staff training
+109,word
+110,department managers
+111,implemented
+112,tested
+113,updated database applications
+114,promotion
+115,sales strategy
+116,brand development
+117,financial advisory
+118,purchases
+119,returns
+120,voids
+121,+11% ipc
+122,state
+123,indoor soccer
+124,excel
+125,outlook
+126,power point
+127,works
+128,google
+129,sql
+130,strategic planning
+131,tables
+132,troubleshooting
+133,65 wpm
+134,budget planning
+135,content management
+136,contract negotiation
+137,pricing
+138,active learning
+139,client relations
+140,computer proficiency
+141,creative problem solving
+142,critical thinking
+143,data collection
+144,data entry
+145,email
+146,executive management support
+147,filing
+148,internet research
+149,letters and memos
+150,minute taking
+151,multi-task management
+152,organizational skills
+153,scheduling
+154,service orientation
+155,speaking
+156,spreadsheets
+157,travel arrangements
+158,
+159,including warm calling
+160,including written proposals
+161,when i work
+162,including production
+163,performance
+164,trained
+165,customer service
+166,streamline
+167,cold calling
+168,compliance management
+169,inventory management
+170,inventory levels
+171,inventory control
+172,logistics
+173,mailing
+174,marketing strategies
+175,process management
+176,voip
+177,microsoft excel
+178,administrators
+179,stake-holders
+180,deliveries
+181,jira
+182,customer relations
+183,document reports
+184,budgeting
+185,cross-functional team leadership
+186,business analysis
+187,access
+188,microsoft project
+189,organization
+190,advanced presentation
+191,project coordinator
+192,python
+193,quality control
+194,quality assurance
+195,public speaking
+196,sap
+197,spss
+198,oracle         education     may
+199,acute care
+200,administration
+201,benefits
+202,interpersonal
+203,leadership
+204,finance
+205,cultured
+206,team work.
+207,powerpoint
+208,wfx
+209,stafferlink
+210,healthtrust
+211,recruiting
+212,staffing
+213,hiring
+214,interviewing
+215,compensation
+216,policies
+217,approved employee preferences
+218,and managers' requests.
+219,appointment setting
+220,art
+221,b2b
+222,billing
+223,business analyst
+224,business modeling
+225,business operations
+226,business process expert
+227,business systems
+228,call center manager
+229,cost accounting
+230,customer service expert
+231,database administrator
+232,e-business director
+233,estimating
+234,innovation
+235,iso
+236,team leader
+237,meetings
+238,2000
+239,outside sales
+240,pos
+241,process control
+242,process improvement
+243,production management
+244,program implementation
+245,project management
+246,quality
+247,reporting
+248,supervisor
+249,supply chain management
+250,teacher
+251,illustrator
+252,prices
+253,availability
+254,product uses
+255,twitter
+256,instagram
+257,conferences
+258,customer support
+259,database
+260,special events
+261,hazardous waste disposal
+262,hazardous waste
+263,regulatory compliance
+264,problem solving
+265,process equipment
+266,publications
+267,reading
+268,shipping
+269,teamwork
+270,technical support
+271,transportation
+272,troubleshoot
+273,water treatment
+274,workshops
+275,atm
+276,banking
+277,brochures
+278,counselor
+279,credit
+280,senior management
+281,financial
+282,director
+283,marketing materials
+284,microsoft office applications
+285,oracle
+286,progress
+287,risk assessment
+288,scripts
+289,statistics
+290,supervision
+291,telemarketing
+292,volunteering
+293,etc...).
+294,account management
+295,accounting
+296,big data
+297,business administration
+298,business consulting
+299,customer relationship management
+300,client relations development
+301,direct marketing
+302,law
+303,market evaluation
+304,messaging
+305,enterprise
+306,performance reviews
+307,performance management
+308,proposal writing
+309,professor
+310,recruitment
+311,risk management
+312,selling
+313,scheme
+314,strategic plans
+315,underwriting.
+316,administrative functions
+317,expense reporting
+318,focus
+319,forecasting
+320,insurance
+321,team building
+322,microsoft office suite
+323,negotiating
+324,physical therapy
+325,primary care
+326,quick books
+327,safety
+328,trend
+329,public relations
+330,enthusiastic people person
+331,advanced problem-solving
+332,mulch-tasking  client relations
+333,banking: credit decisions
+334,credit evaluation
+335,buyer
+336,buying/procurement
+337,sales calls
+338,exceptions
+339,internet advertising
+340,leads
+341,incoming calls
+342,clerk
+343,invoices
+344,payments
+345,skip tracer
+346,bankruptcy
+347,marketing plans
+348,territory management
+349,financial services
+350,for sales
+351,new hires
+352,of sales
+353,patent
+354,project manager
+355,sales force
+356,sales staff
+357,training
+358,with sales
+359,digital campaign
+360,digital marketing
+361,increased sales
+362,new products
+363,online marketing
+364,satisfaction
+365,sales goals
+366,sales techniques
+367,set sales
+368,class
+369,sales team
+370,territory
+371,the sales
+372,to sales
+373,web services
+374,award
+375,community outreach
+376,bpi
+377,managing projects
+378,ms office
+379,sterling
+380,team player
+381,finisar
+382,broadcom
+383,macom
+384,on semi
+385,microchip
+386,gcs
+387,northrop grumman
+388,nxp
+389,avago
+390,triquint
+391,jdsu
+392,planning
+393,wireless
+394,customer reports
+395,wafer bumping services
+396,foundries
+397,amd
+398,3com
+399,juniper networks
+400,customer call reports
+401,weekly customer updates
+402,quarterly sales meetings
+403,baan
+404,micron
+405,st micro
+406,philips
+407,ca
+408,northwest (hyundai
+409,motorola
+410,conexant
+411,a plus
+412,management
+413,flextronics)
+414,real estate agents
+415,cherokee youth lacrosse
+416,"2013
 member"
-football team
-state              skills    agency
-com
-content
-cpr
-data dictionary
-ms office suite
-real estate
-surveys
-telephone
-underwriting
-2008
-state              highlights    accounting
-accounts payable
-"business
+417,football team
+418,state              skills    agency
+419,com
+420,content
+421,cpr
+422,data dictionary
+423,ms office suite
+424,real estate
+425,surveys
+426,telephone
+427,underwriting
+428,2008
+429,state              highlights    accounting
+430,accounts payable
+431,"business
 plan"
-closing
-"cold
+432,closing
+433,"cold
 calling"
-crm
-legal
-networking
-tv
-websites
-adobe photoshop
-c
-"excise
+434,crm
+435,legal
+436,networking
+437,tv
+438,websites
+439,adobe photoshop
+440,c
+441,"excise
           duty"
-service tax
-value added tax
-teaching course material
-"teaching lab
+442,service tax
+443,value added tax
+444,teaching course material
+445,"teaching lab
           skills"
-dyes and intermediates
-52
-balance sheets
-basic
-c++
-chemistry
-cost control
-decision making
-macromedia flash
-functional
-gross profit
-html
-leadership skills
-letters
-"manufacturing
+446,dyes and intermediates
+447,52
+448,balance sheets
+449,basic
+450,c++
+451,chemistry
+452,cost control
+453,decision making
+454,macromedia flash
+455,functional
+456,gross profit
+457,html
+458,leadership skills
+459,letters
+460,"manufacturing
           processes"
-market development
-negotiator
-pricing strategies
-programming
-publication
-researching
-self-starter
-strategy
-strategicsourcing
-supply chain
-tax
-tax returns
-teaching
-administrative duties
-ad
-ads
-approach
-designing
-e-commerce
-e-mail
-google analytics
-image
-notes
-managerial
-marketing strategy
-marketing collateral
-materials
-medical sales
-mentor
-97
-mortgage loans
-relationship management
-trade shows
-web development
-principals
-business insight
-530% increase
-email marketing
-needs analysis
-"social
+461,market development
+462,negotiator
+463,pricing strategies
+464,programming
+465,publication
+466,researching
+467,self-starter
+468,strategy
+469,strategicsourcing
+470,supply chain
+471,tax
+472,tax returns
+473,teaching
+474,administrative duties
+475,ad
+476,ads
+477,approach
+478,designing
+479,e-commerce
+480,e-mail
+481,google analytics
+482,image
+483,notes
+484,managerial
+485,marketing strategy
+486,marketing collateral
+487,materials
+488,medical sales
+489,mentor
+490,97
+491,mortgage loans
+492,relationship management
+493,trade shows
+494,web development
+495,principals
+496,business insight
+497,530% increase
+498,email marketing
+499,needs analysis
+500,"social
      media"
-brand identity
-webinars
-on-site events
-custom surveying
-cold-calling
-pipeline management
-club event participation
-valley lo club
-elgin country club
-"turtle
+501,brand identity
+502,webinars
+503,on-site events
+504,custom surveying
+505,cold-calling
+506,pipeline management
+507,club event participation
+508,valley lo club
+509,elgin country club
+510,"turtle
       wax"
-allstate
-bally total fitness
-dell
-hanes
-fisher-price
-walgreens
-devry
-"value
+511,allstate
+512,bally total fitness
+513,dell
+514,hanes
+515,fisher-price
+516,walgreens
+517,devry
+518,"value
 creation"
-secure deals
-ms dos
-linux
-sap pp
-outlook express
-parts list
-penetrations
-power tools
-rotating union
-petrochemicals
-defense
-aviation
-railways
-machine tools
-services
-largest food company
-automobiles
-charts
-color
-corel draw
-databases
-editing
-erp
-graphs
-hand tools
-hp
-internet explorer
-mac os
-market research
-ms access
-pp
-windows 95
-98
-microsoft word
-mis
-multi-tasking
-next
-nt servers
-operating systems
-order management
-pricing strategy
-problem-solving
-development of product
-marketing and product
-quickbooks
-sales development
-sap materials management
-sap mm
-sap r/3
-strategic analysis
-time management
-vista
-welding
-client relationship builder
-contract negotiations
-university of california
-phone calls
-boma san francisco
-boma silicon valley
-apta
-calact
-oakland-east bay
-generating over $70
-reunion arena
-cousins properties
-trizec properties
-trammel crow
-cushman and wakefield
-including managers
-proposal preperation
-budget preparation
-financial analysis
-international sales
-latin
-market analysis
-market trends
-marketing and sales
-translation
-microsoft office programs
-sharepoint
-peoplesoft
-adp payroll
-marketed
-screening
-maintaining contact
-attending networking events
-association memberships
-provide advice
-renewals
-can the principal
-a christmas carol
-military shoeboxes
-english literature
-grammar
-personnel policies
-reviews
-reprimands
-city
-arts
-direct sales
-english
-fashion
-human resource
-human resources
-internet applications
-personnel
-rapport
-record keeping
-spanish
-benefits administrator
-benefits administration
-customer satisfaction
-hr
-ibm
-investments i
-pick
-script
-apc
-2008 impact selling
-american express university
-achieve global
-2000 effective negotiations
-karass
-1998 sales course
-dale carnegie
-1992       skills    banking
-hardware
-consulting
-energy saving
-forms
-newsletter
-salesforce.com crm
-utilities
-communication skills
-consultant
-direction
-equity
-external audits
-funds
-mediation
-operations management
-recording
-scripting
-vendor management
-website
-administrative support
-scheduling appointments
-contract administration
-data base
-home care
-home health
-maintaining inventory
-management skills
-patient safety
-travel arrangements.
-complex sales strategy
-public policy
-enterprise software
-technical analysis
-public sector
-telecommunications
-sales reporting
-public presentations
-attitude  drive  motivation
-adp
-business law
-case management
-corporate finance
-crisis intervention
-dimensions
-e-business
-human resource management
-human relations
-international business
-international marketing
-marketing management
-communicator
-p.c.
-protocols
-psychology
-sales training
-strategic marketing
-technician
-trainer
-brochure
-business plan
-coach
-homecare
-hospice
-nursing
-written
-adobe creative suite
-adobe acrobat
-api
-branding
-competitive analysis
-content development
-creativity
-client support
-data management
-indesign
-marketing strategist
-media relations
-microsoft dynamics
-ms outlook
-presenter
-problem-solver
-fast learner
-software development
-training materials
-vision
-writer
-communications skills
-counseling
-hazardous waste management
-inspector i
-instruction
-instructor i
-lighting
-2k
-needs assessment
-policy development
-sales management
-tender
-and marketing
-sales and
-excellent multitasker
-simultaneous
-accounts and
-from sales
-its
-managed sales
-increase
-audit
-executive assistant
-for selling
-selling and
-accountable for
-implemented sales
-key accounts
-maintenance
-sale and
-sales forecasting
-sales objectives
-sales strategies
-the sale
-overall sales
-project development
-sales plan
-energetic
-highly organized
-mac
-quicken
-san
-self motivated
-storage area network
-very organized
-shopper 08
-09
-automation
-sc
-economics
-engineer
-inside sales
-mathematics
-siemens
-specification
-trouble-shoot
-avid
-business strategies
-cable
-cash flow
-client management
-database analysis
-investments
-newsletters
-producing
-radio
-television
-video
-healthcare
-hp-ux
-unix
-ux
-transmissions
-national accounts
-restructuring
-budget management
-games
-greetings
-joint venture
-joint ventures
-lead generation
-out of home
-pricing analysis
-accounts through
-onboarding
-partner marketing
-audience segmentation
-building design
-building materials
-commercial building
-market segmentation
-segmentation
-execution
-computer literate
-crm systems
-customer needs assessment
-lead development
-& qualifications
-seasoned leadership
-experienced manager
-motivated
-balanced
-corporate training
-direct mail
-document management
-facsimile
-features
-photocopiers
-speaker
-seminars
-ii
-and iii
-forest laboratories
-assembly
-database management
-directing
-fast
-organizing
-fundraising committee
-sweat-a-fit leadership team
-marketing skills     designed
-including: letters
-reports
-sales software: salesforce.com
-keynote
-sengrid
-facebook advertising  instagram
-product market alignment
-data
-procedures
-sales collateral
-follow-up process
-unique activation opportunities
-influencer
-referral
-display
-pr
-digital
-product placement
-unique access opportunities
-kevin love
-revenue share agreements
-product placement opportunities
-brand strategy
-brand marketing
-content creation
-procurement
-unique
-pacific amber pos
-windows 8
-system testing
-employee set up
-transaction corrections
-text
-social (digital media)
-university recruiting
-referrals
-includes: answering phones
-ordering supplies
-preparing expense reimbursements
-competitors
-ballet
-tap
-back-up
-conflict resolution
-cost reduction
-managment
-excel spreadsheets
-windows
-windows xp
-search engines
-pivot tables
-profit and loss
-promotional materials
-receptionist
-answering phones
-business fraternity
-developing business
-bi
-promotional material
-sales reports
-scheduling 2
-sigma
-roofing
-assisted living
-interpersonal and communication
-internal medicine
-marketing/sales
-orthopedics
-rehabilitation
-distributor sales
-territory sales
-district sales
-sales of solutions
-sales teams
-sales accounts
-strategic accounts
-sales promotions
-technology application sales
-clients management
-forecasts
-training development
-financial operations
-merchandising
-corporate operations
-employee engagement
-managing existing accounts
-finding new accounts
-industrial heavy construction
-pcb
-account manager
-new accounts
-circuit board
-printed circuit
-printed circuit board
-quality manager
-statistical process control
-telecom
-accounts by
-aerospace
-business plans
-increasing sales
-integration
-integrator
-market share
-metrics
-odm
-retail sales
-sales to
-company sales
-regional sales
-sales award
-sales representatives
-system development
-financials
-in sales
-inspection
-ipc
-key account
-new product introduction
-npi
-proposal development
-sales organization
-sales related
-salesforce.com
-strategy planning
-acquisitions
-audio
-bachelors
-money
-oct
-settlements
-sound
-supervisory
-suppliers
-rs-25 engine
-x-51 hypersonic engine
-rl10
-autocad
-develop business
-configuration management
-consultation
-information security
-instructor
-material science
-microsoft windows
-radar
-network installation
-quality management
-lockheed
-product sales
-ontime delivery
-engineering
-creating
-such as word
-charitable organizations
-birmingham
-000  - $75
-marketing and management
-restaurant management
-sales manager
-business intelligence
-loans
-mortgage
-adc
-business requirements
-correspondence
-fannie mae
-gse
-project plans
-business process improvement
-drafting
-e-learning
-federal acquisition
-federal government
-fedex
-marketing department
-user experience
-web based
-web-based
-b2c
-investor relations
-lending
-mortgage banking
-mortgage lending
-retail mortgage
-data mining
-pentaho
-act!
-business writing
-compounding
-horizontal
-hospital pharmacy
-mckesson
-microsoft office
-microsoft sharepoint
-outpatient
-publisher
-robotic
-siebel
-six-sigma
-visio
-pharmacy
-mba
-existing accounts
-outbound calls
-accounts receivable
-cash
-cash management
-collections
-credit card
-including accounting
-accountant
-inbound and outbound
-liaison
-bookkeeping
-testing
-cashiering
-loss prevention
-problem resolution
-sales counter
-stocking
-drivers
-10-key
-accounting software
-administrative
-calculators
-clerical
-commodities
-fax
-financial statements
-general office duties
-mail
-office equipment
-copy machines
-coding
-retail management
-speeches
-multi-line telephone
-employee training
-typewriter
-voice mail
-word processing
-"superb
+519,secure deals
+520,ms dos
+521,linux
+522,sap pp
+523,outlook express
+524,parts list
+525,penetrations
+526,power tools
+527,rotating union
+528,petrochemicals
+529,defense
+530,aviation
+531,railways
+532,machine tools
+533,services
+534,largest food company
+535,automobiles
+536,charts
+537,color
+538,corel draw
+539,databases
+540,editing
+541,erp
+542,graphs
+543,hand tools
+544,hp
+545,internet explorer
+546,mac os
+547,market research
+548,ms access
+549,pp
+550,windows 95
+551,98
+552,microsoft word
+553,mis
+554,multi-tasking
+555,next
+556,nt servers
+557,operating systems
+558,order management
+559,pricing strategy
+560,problem-solving
+561,development of product
+562,marketing and product
+563,quickbooks
+564,sales development
+565,sap materials management
+566,sap mm
+567,sap r/3
+568,strategic analysis
+569,time management
+570,vista
+571,welding
+572,client relationship builder
+573,contract negotiations
+574,university of california
+575,phone calls
+576,boma san francisco
+577,boma silicon valley
+578,apta
+579,calact
+580,oakland-east bay
+581,generating over $70
+582,reunion arena
+583,cousins properties
+584,trizec properties
+585,trammel crow
+586,cushman and wakefield
+587,including managers
+588,proposal preperation
+589,budget preparation
+590,financial analysis
+591,international sales
+592,latin
+593,market analysis
+594,market trends
+595,marketing and sales
+596,translation
+597,microsoft office programs
+598,sharepoint
+599,peoplesoft
+600,adp payroll
+601,marketed
+602,screening
+603,maintaining contact
+604,attending networking events
+605,association memberships
+606,provide advice
+607,renewals
+608,can the principal
+609,a christmas carol
+610,military shoeboxes
+611,english literature
+612,grammar
+613,personnel policies
+614,reviews
+615,reprimands
+616,city
+617,arts
+618,direct sales
+619,english
+620,fashion
+621,human resource
+622,human resources
+623,internet applications
+624,personnel
+625,rapport
+626,record keeping
+627,spanish
+628,benefits administrator
+629,benefits administration
+630,customer satisfaction
+631,hr
+632,ibm
+633,investments i
+634,pick
+635,script
+636,apc
+637,2008 impact selling
+638,american express university
+639,achieve global
+640,2000 effective negotiations
+641,karass
+642,1998 sales course
+643,dale carnegie
+644,1992       skills    banking
+645,hardware
+646,consulting
+647,energy saving
+648,forms
+649,newsletter
+650,salesforce.com crm
+651,utilities
+652,communication skills
+653,consultant
+654,direction
+655,equity
+656,external audits
+657,funds
+658,mediation
+659,operations management
+660,recording
+661,scripting
+662,vendor management
+663,website
+664,administrative support
+665,scheduling appointments
+666,contract administration
+667,data base
+668,home care
+669,home health
+670,maintaining inventory
+671,management skills
+672,patient safety
+673,travel arrangements.
+674,complex sales strategy
+675,public policy
+676,enterprise software
+677,technical analysis
+678,public sector
+679,telecommunications
+680,sales reporting
+681,public presentations
+682,attitude  drive  motivation
+683,adp
+684,business law
+685,case management
+686,corporate finance
+687,crisis intervention
+688,dimensions
+689,e-business
+690,human resource management
+691,human relations
+692,international business
+693,international marketing
+694,marketing management
+695,communicator
+696,p.c.
+697,protocols
+698,psychology
+699,sales training
+700,strategic marketing
+701,technician
+702,trainer
+703,brochure
+704,business plan
+705,coach
+706,homecare
+707,hospice
+708,nursing
+709,written
+710,adobe creative suite
+711,adobe acrobat
+712,api
+713,branding
+714,competitive analysis
+715,content development
+716,creativity
+717,client support
+718,data management
+719,indesign
+720,marketing strategist
+721,media relations
+722,microsoft dynamics
+723,ms outlook
+724,presenter
+725,problem-solver
+726,fast learner
+727,software development
+728,training materials
+729,vision
+730,writer
+731,communications skills
+732,counseling
+733,hazardous waste management
+734,inspector i
+735,instruction
+736,instructor i
+737,lighting
+738,2k
+739,needs assessment
+740,policy development
+741,sales management
+742,tender
+743,and marketing
+744,sales and
+745,excellent multitasker
+746,simultaneous
+747,accounts and
+748,from sales
+749,its
+750,managed sales
+751,increase
+752,audit
+753,executive assistant
+754,for selling
+755,selling and
+756,accountable for
+757,implemented sales
+758,key accounts
+759,maintenance
+760,sale and
+761,sales forecasting
+762,sales objectives
+763,sales strategies
+764,the sale
+765,overall sales
+766,project development
+767,sales plan
+768,energetic
+769,highly organized
+770,mac
+771,quicken
+772,san
+773,self motivated
+774,storage area network
+775,very organized
+776,shopper 08
+777,09
+778,automation
+779,sc
+780,economics
+781,engineer
+782,inside sales
+783,mathematics
+784,siemens
+785,specification
+786,trouble-shoot
+787,avid
+788,business strategies
+789,cable
+790,cash flow
+791,client management
+792,database analysis
+793,investments
+794,newsletters
+795,producing
+796,radio
+797,television
+798,video
+799,healthcare
+800,hp-ux
+801,unix
+802,ux
+803,transmissions
+804,national accounts
+805,restructuring
+806,budget management
+807,games
+808,greetings
+809,joint venture
+810,joint ventures
+811,lead generation
+812,out of home
+813,pricing analysis
+814,accounts through
+815,onboarding
+816,partner marketing
+817,audience segmentation
+818,building design
+819,building materials
+820,commercial building
+821,market segmentation
+822,segmentation
+823,execution
+824,computer literate
+825,crm systems
+826,customer needs assessment
+827,lead development
+828,& qualifications
+829,seasoned leadership
+830,experienced manager
+831,motivated
+832,balanced
+833,corporate training
+834,direct mail
+835,document management
+836,facsimile
+837,features
+838,photocopiers
+839,speaker
+840,seminars
+841,ii
+842,and iii
+843,forest laboratories
+844,assembly
+845,database management
+846,directing
+847,fast
+848,organizing
+849,fundraising committee
+850,sweat-a-fit leadership team
+851,marketing skills     designed
+852,including: letters
+853,reports
+854,sales software: salesforce.com
+855,keynote
+856,sengrid
+857,facebook advertising  instagram
+858,product market alignment
+859,data
+860,procedures
+861,sales collateral
+862,follow-up process
+863,unique activation opportunities
+864,influencer
+865,referral
+866,display
+867,pr
+868,digital
+869,product placement
+870,unique access opportunities
+871,kevin love
+872,revenue share agreements
+873,product placement opportunities
+874,brand strategy
+875,brand marketing
+876,content creation
+877,procurement
+878,unique
+879,pacific amber pos
+880,windows 8
+881,system testing
+882,employee set up
+883,transaction corrections
+884,text
+885,social (digital media)
+886,university recruiting
+887,referrals
+888,includes: answering phones
+889,ordering supplies
+890,preparing expense reimbursements
+891,competitors
+892,ballet
+893,tap
+894,back-up
+895,conflict resolution
+896,cost reduction
+897,managment
+898,excel spreadsheets
+899,windows
+900,windows xp
+901,search engines
+902,pivot tables
+903,profit and loss
+904,promotional materials
+905,receptionist
+906,answering phones
+907,business fraternity
+908,developing business
+909,bi
+910,promotional material
+911,sales reports
+912,scheduling 2
+913,sigma
+914,roofing
+915,assisted living
+916,interpersonal and communication
+917,internal medicine
+918,marketing/sales
+919,orthopedics
+920,rehabilitation
+921,distributor sales
+922,territory sales
+923,district sales
+924,sales of solutions
+925,sales teams
+926,sales accounts
+927,strategic accounts
+928,sales promotions
+929,technology application sales
+930,clients management
+931,forecasts
+932,training development
+933,financial operations
+934,merchandising
+935,corporate operations
+936,employee engagement
+937,managing existing accounts
+938,finding new accounts
+939,industrial heavy construction
+940,pcb
+941,account manager
+942,new accounts
+943,circuit board
+944,printed circuit
+945,printed circuit board
+946,quality manager
+947,statistical process control
+948,telecom
+949,accounts by
+950,aerospace
+951,business plans
+952,increasing sales
+953,integration
+954,integrator
+955,market share
+956,metrics
+957,odm
+958,retail sales
+959,sales to
+960,company sales
+961,regional sales
+962,sales award
+963,sales representatives
+964,system development
+965,financials
+966,in sales
+967,inspection
+968,ipc
+969,key account
+970,new product introduction
+971,npi
+972,proposal development
+973,sales organization
+974,sales related
+975,salesforce.com
+976,strategy planning
+977,acquisitions
+978,audio
+979,bachelors
+980,money
+981,oct
+982,settlements
+983,sound
+984,supervisory
+985,suppliers
+986,rs-25 engine
+987,x-51 hypersonic engine
+988,rl10
+989,autocad
+990,develop business
+991,configuration management
+992,consultation
+993,information security
+994,instructor
+995,material science
+996,microsoft windows
+997,radar
+998,network installation
+999,quality management
+1000,lockheed
+1001,product sales
+1002,ontime delivery
+1003,engineering
+1004,creating
+1005,such as word
+1006,charitable organizations
+1007,birmingham
+1008,000  - $75
+1009,marketing and management
+1010,restaurant management
+1011,sales manager
+1012,business intelligence
+1013,loans
+1014,mortgage
+1015,adc
+1016,business requirements
+1017,correspondence
+1018,fannie mae
+1019,gse
+1020,project plans
+1021,business process improvement
+1022,drafting
+1023,e-learning
+1024,federal acquisition
+1025,federal government
+1026,fedex
+1027,marketing department
+1028,user experience
+1029,web based
+1030,web-based
+1031,b2c
+1032,investor relations
+1033,lending
+1034,mortgage banking
+1035,mortgage lending
+1036,retail mortgage
+1037,data mining
+1038,pentaho
+1039,act!
+1040,business writing
+1041,compounding
+1042,horizontal
+1043,hospital pharmacy
+1044,mckesson
+1045,microsoft office
+1046,microsoft sharepoint
+1047,outpatient
+1048,publisher
+1049,robotic
+1050,siebel
+1051,six-sigma
+1052,visio
+1053,pharmacy
+1054,mba
+1055,existing accounts
+1056,outbound calls
+1057,accounts receivable
+1058,cash
+1059,cash management
+1060,collections
+1061,credit card
+1062,including accounting
+1063,accountant
+1064,inbound and outbound
+1065,liaison
+1066,bookkeeping
+1067,testing
+1068,cashiering
+1069,loss prevention
+1070,problem resolution
+1071,sales counter
+1072,stocking
+1073,drivers
+1074,10-key
+1075,accounting software
+1076,administrative
+1077,calculators
+1078,clerical
+1079,commodities
+1080,fax
+1081,financial statements
+1082,general office duties
+1083,mail
+1084,office equipment
+1085,copy machines
+1086,coding
+1087,retail management
+1088,speeches
+1089,multi-line telephone
+1090,employee training
+1091,typewriter
+1092,voice mail
+1093,word processing
+1094,"superb
 customer service"
-"market
+1095,"market
 research"
-salespoint
-zoho
-and outlook
-developing marketing materials
-complaint resolution
-business-to-business
-cabinets
-directing large teams
-"motivating team
+1096,salespoint
+1097,zoho
+1098,and outlook
+1099,developing marketing materials
+1100,complaint resolution
+1101,business-to-business
+1102,cabinets
+1103,directing large teams
+1104,"motivating team
 members"
-"problem
+1105,"problem
 solving"
-performance analysis
-and budget
-consultative sales
-product support
-mixing
-chromatography
-equipment sales
-filtration
-product manager
-product positioning
-sales/marketing
-sales in
-strategic direction
-thought leadership
-asset management
-offshore
-product lifecycle
-product lifecycle management
-auditing
-developed sales
-internet marketing
-million
-product concept
-prototype
-prototypes
-sales channels
-sales for
-sales of
-search engine
-search engine optimization
-selling techniques
-seo
-through sales
-voice
-associate
-cbt
-computer based training
-fdot
-machine safety
-mes
-project engineer
-safety training
-vacuum
-fifo
-self-directed
-warehouse management
-mitigation
-new product development
-and sales
-ibm svc
-integrated marketing campaign
-marketing campaign
-sales support
-svc
-jar
-change management
-exceed
-manufacturing processes
-recruiter
-continuous improvement
-adobe
-clientele
-fluent in english
-financial analyst
-financial reporting
-java
-jd  edwards
-negotiations
-program development
-abc
-business intelligence software
-cms
-conversion
-producer
-application development
-computer maintenance
-it strategy
-employee management
-page
-real-time
-and outlook. mas90
-mas200
-greatplains.
-computer
-analytical
-relationship driven
-presentational
-.  government
-health care
-life sciences
-state      motivator
-state      led teams
-mi
-ky
-state           skills    billing
-book
-client liaison
-"customer
+1106,performance analysis
+1107,and budget
+1108,consultative sales
+1109,product support
+1110,mixing
+1111,chromatography
+1112,equipment sales
+1113,filtration
+1114,product manager
+1115,product positioning
+1116,sales/marketing
+1117,sales in
+1118,strategic direction
+1119,thought leadership
+1120,asset management
+1121,offshore
+1122,product lifecycle
+1123,product lifecycle management
+1124,auditing
+1125,developed sales
+1126,internet marketing
+1127,million
+1128,product concept
+1129,prototype
+1130,prototypes
+1131,sales channels
+1132,sales for
+1133,sales of
+1134,search engine
+1135,search engine optimization
+1136,selling techniques
+1137,seo
+1138,through sales
+1139,voice
+1140,associate
+1141,cbt
+1142,computer based training
+1143,fdot
+1144,machine safety
+1145,mes
+1146,project engineer
+1147,safety training
+1148,vacuum
+1149,fifo
+1150,self-directed
+1151,warehouse management
+1152,mitigation
+1153,new product development
+1154,and sales
+1155,ibm svc
+1156,integrated marketing campaign
+1157,marketing campaign
+1158,sales support
+1159,svc
+1160,jar
+1161,change management
+1162,exceed
+1163,manufacturing processes
+1164,recruiter
+1165,continuous improvement
+1166,adobe
+1167,clientele
+1168,fluent in english
+1169,financial analyst
+1170,financial reporting
+1171,java
+1172,jd  edwards
+1173,negotiations
+1174,program development
+1175,abc
+1176,business intelligence software
+1177,cms
+1178,conversion
+1179,producer
+1180,application development
+1181,computer maintenance
+1182,it strategy
+1183,employee management
+1184,page
+1185,real-time
+1186,and outlook. mas90
+1187,mas200
+1188,greatplains.
+1189,computer
+1190,analytical
+1191,relationship driven
+1192,presentational
+1193,.  government
+1194,health care
+1195,life sciences
+1196,state      motivator
+1197,state      led teams
+1198,mi
+1199,ky
+1200,state           skills    billing
+1201,book
+1202,client liaison
+1203,"customer
 satisfaction"
-invoicing
-sales and management
-training programs
-in-content sponsorships
-online advertising
-plan
-propose
-collateral
-development
-ppc/seo initiatives
-clicky
-media effectiveness
-store traffic
-closing ratios
-roi
-roo
-raffles
-value-added giveaways
-etc.  write speeches
-circulars
-pop/pos materials
-etc.  train
-social marketing
-ethnic media
-etc.  conceive
-write
-script video
-edit
-cost per lead
-etc.  research
-design
-lakers
-ducks
-fox sports
-f/x
-heal the bay
-sony pictures entertainment
-nbc
-closets by design
-los angeles dodgers
-earl scheib
-environmental enterprises
-western nonwovens
-inc.
-film promotion
-tv syndication campaigns
-state      conceptualized
-wrote
-designed
-academic books
-professional journals
-direct mail campaigns
-annual reports
-photography
-ad copy
-brand management
-broadcast
-catalogs
-corporate communications
-film
-fund-raising
-graphic design
-graphics
-marketing / communications
-newspaper
-press releases
-s 7
-employee development
-web site
-articles
-commercial reel
-salary information
-photo
-business strategy
-strong interpersonal skills
-interpersonal skills
-concise
-frame
-listening
-package design
-peak
-presentation skills
-press
-print advertising
-print design
-express
-report writing
-scientific
-strategist
-144%
-running discovery calls
-conference calls
-cold emails
-linkedin marketing
-data extraction
-northeast
-116%
-226%
-80%
-100%
-64%
-129%
-98%
-escalation management
-new hire training
-team forecasting
-000
-cios
-icahn
-hershey
-waste management
-take two interactive
-workday
-salesforce
-sirius xm
-samsung
-email sales
-phone based sales
-weekly forecasting
-weekly territory reviews
-photographing the musicians
-s ports fan
-music collector
-dj/producer
-s  kier
-f  itness enthusiast
-and proud coloradoan
-academic
-behavioral health
-staff development
-education
-camping
-salesloft
-balance sheet
-bonds
-clinical research
-clinical trials
-equities
-financing
-graphical user interface
-information systems
-neural
-london (6 years)
-colombia (5 years)
-china (2 years).
-marketing material
-business planning
-competitive intelligence
-multitasking
-oil
-sales and development
-responsible and reliable
-willing to help
-calm and focused
-print materials
-reading professional publication
-maintaining personal networks
-soothing
-seating
-sterilizing
-carving
-staffed projects
-customer traffic
-ms office (word
-outlook)
-constant contact
-asa/400
-investors
-educational
-sharpspring
-mailchimp
-pardot
-yammer
-google chrome
-skype business
-goto meeting
-linkedin
-marketing automation software
-lead generation software
-contract research
-analytical lab equipment
-automotive
-driving
-product management
-translating
-profiles customers
-educational materials
-educational programs
-injury prevention
-sales plans
-leadership training
-event planning
-organizer
-team development
-statistical analysis
-sun
-tableau
-3-d
-council
-cpt
-floor plans
-forklift
-spreadsheet
-lawrence
-ks.  ordered
-topeka
-ks
-silver level
-kansas workready! certification
-2016                  osha 10
-deal requirements
-potential
-including customer service
-housekeeping
-empowerment
-analyzed findings
-graphic
-marketing & sales
-viagra®
-celebrex®
-lyrica®
-chantix®
-toviaz®
-high volume
-neurology
-endocrinology
-pain management
-podiatry
-ob-gyn's
-dermatology
-aetna
-cigna medicaid
-bextra
-celebrex
-caduet
-chantix
-exubera
-lipitor
-premarin
-pristiq
-relpax
-toviaz
-2006
-2005
-veritas
-local churches
-& media (radio
-community health
-gyn
-human resources management
-logo
-procedure development
-"proposal
+1204,invoicing
+1205,sales and management
+1206,training programs
+1207,in-content sponsorships
+1208,online advertising
+1209,plan
+1210,propose
+1211,collateral
+1212,development
+1213,ppc/seo initiatives
+1214,clicky
+1215,media effectiveness
+1216,store traffic
+1217,closing ratios
+1218,roi
+1219,roo
+1220,raffles
+1221,value-added giveaways
+1222,etc.  write speeches
+1223,circulars
+1224,pop/pos materials
+1225,etc.  train
+1226,social marketing
+1227,ethnic media
+1228,etc.  conceive
+1229,write
+1230,script video
+1231,edit
+1232,cost per lead
+1233,etc.  research
+1234,design
+1235,lakers
+1236,ducks
+1237,fox sports
+1238,f/x
+1239,heal the bay
+1240,sony pictures entertainment
+1241,nbc
+1242,closets by design
+1243,los angeles dodgers
+1244,earl scheib
+1245,environmental enterprises
+1246,western nonwovens
+1247,inc.
+1248,film promotion
+1249,tv syndication campaigns
+1250,state      conceptualized
+1251,wrote
+1252,designed
+1253,academic books
+1254,professional journals
+1255,direct mail campaigns
+1256,annual reports
+1257,photography
+1258,ad copy
+1259,brand management
+1260,broadcast
+1261,catalogs
+1262,corporate communications
+1263,film
+1264,fund-raising
+1265,graphic design
+1266,graphics
+1267,marketing / communications
+1268,newspaper
+1269,press releases
+1270,s 7
+1271,employee development
+1272,web site
+1273,articles
+1274,commercial reel
+1275,salary information
+1276,photo
+1277,business strategy
+1278,strong interpersonal skills
+1279,interpersonal skills
+1280,concise
+1281,frame
+1282,listening
+1283,package design
+1284,peak
+1285,presentation skills
+1286,press
+1287,print advertising
+1288,print design
+1289,express
+1290,report writing
+1291,scientific
+1292,strategist
+1293,144%
+1294,running discovery calls
+1295,conference calls
+1296,cold emails
+1297,linkedin marketing
+1298,data extraction
+1299,northeast
+1300,116%
+1301,226%
+1302,80%
+1303,100%
+1304,64%
+1305,129%
+1306,98%
+1307,escalation management
+1308,new hire training
+1309,team forecasting
+1310,000
+1311,cios
+1312,icahn
+1313,hershey
+1314,waste management
+1315,take two interactive
+1316,workday
+1317,salesforce
+1318,sirius xm
+1319,samsung
+1320,email sales
+1321,phone based sales
+1322,weekly forecasting
+1323,weekly territory reviews
+1324,photographing the musicians
+1325,s ports fan
+1326,music collector
+1327,dj/producer
+1328,s  kier
+1329,f  itness enthusiast
+1330,and proud coloradoan
+1331,academic
+1332,behavioral health
+1333,staff development
+1334,education
+1335,camping
+1336,salesloft
+1337,balance sheet
+1338,bonds
+1339,clinical research
+1340,clinical trials
+1341,equities
+1342,financing
+1343,graphical user interface
+1344,information systems
+1345,neural
+1346,london (6 years)
+1347,colombia (5 years)
+1348,china (2 years).
+1349,marketing material
+1350,business planning
+1351,competitive intelligence
+1352,multitasking
+1353,oil
+1354,sales and development
+1355,responsible and reliable
+1356,willing to help
+1357,calm and focused
+1358,print materials
+1359,reading professional publication
+1360,maintaining personal networks
+1361,soothing
+1362,seating
+1363,sterilizing
+1364,carving
+1365,staffed projects
+1366,customer traffic
+1367,ms office (word
+1368,outlook)
+1369,constant contact
+1370,asa/400
+1371,investors
+1372,educational
+1373,sharpspring
+1374,mailchimp
+1375,pardot
+1376,yammer
+1377,google chrome
+1378,skype business
+1379,goto meeting
+1380,linkedin
+1381,marketing automation software
+1382,lead generation software
+1383,contract research
+1384,analytical lab equipment
+1385,automotive
+1386,driving
+1387,product management
+1388,translating
+1389,profiles customers
+1390,educational materials
+1391,educational programs
+1392,injury prevention
+1393,sales plans
+1394,leadership training
+1395,event planning
+1396,organizer
+1397,team development
+1398,statistical analysis
+1399,sun
+1400,tableau
+1401,3-d
+1402,council
+1403,cpt
+1404,floor plans
+1405,forklift
+1406,spreadsheet
+1407,lawrence
+1408,ks.  ordered
+1409,topeka
+1410,ks
+1411,silver level
+1412,kansas workready! certification
+1413,2016                  osha 10
+1414,deal requirements
+1415,potential
+1416,including customer service
+1417,housekeeping
+1418,empowerment
+1419,analyzed findings
+1420,graphic
+1421,marketing & sales
+1422,viagra®
+1423,celebrex®
+1424,lyrica®
+1425,chantix®
+1426,toviaz®
+1427,high volume
+1428,neurology
+1429,endocrinology
+1430,pain management
+1431,podiatry
+1432,ob-gyn's
+1433,dermatology
+1434,aetna
+1435,cigna medicaid
+1436,bextra
+1437,celebrex
+1438,caduet
+1439,chantix
+1440,exubera
+1441,lipitor
+1442,premarin
+1443,pristiq
+1444,relpax
+1445,toviaz
+1446,2006
+1447,2005
+1448,veritas
+1449,local churches
+1450,& media (radio
+1451,community health
+1452,gyn
+1453,human resources management
+1454,logo
+1455,procedure development
+1456,"proposal
 development"
-draw
-customer service experience
-detail oriented
-fixed assets
-inspect
-valuation
-verbal communication skills
-wastewater treatment
-orange county
-los angeles
-san francisco
-nevada
-ip
-predict
-relational databases
-research design
-sas
-professional writing
-fall 2012
-spring 2013 president
-summer 2011
-microsoft suite (excel
-computer proficient
-expense control
-multi-tasking management
-html coding
-cna certificate
-microsoft software: word
+1457,draw
+1458,customer service experience
+1459,detail oriented
+1460,fixed assets
+1461,inspect
+1462,valuation
+1463,verbal communication skills
+1464,wastewater treatment
+1465,orange county
+1466,los angeles
+1467,san francisco
+1468,nevada
+1469,ip
+1470,predict
+1471,relational databases
+1472,research design
+1473,sas
+1474,professional writing
+1475,fall 2012
+1476,spring 2013 president
+1477,summer 2011
+1478,microsoft suite (excel
+1479,computer proficient
+1480,expense control
+1481,multi-tasking management
+1482,html coding
+1483,cna certificate
+1484,microsoft software: word

@@ -1,1058 +1,1058 @@
-0
-air force 2
-attention to detail
-interpersonal and communication
-communications skills
-oral communication
-creative problem solving
-customer relations
-customer service
-government
-innovation
-inspection
-leadership
-materials
-problem solving
-public safety
-public speaking
-quality
-safety
-sales
-supervisory
-supervision
-technician
-plans
-state
-accounts receivable
-adp
-closing
-"cold
+,0
+0,air force 2
+1,attention to detail
+2,interpersonal and communication
+3,communications skills
+4,oral communication
+5,creative problem solving
+6,customer relations
+7,customer service
+8,government
+9,innovation
+10,inspection
+11,leadership
+12,materials
+13,problem solving
+14,public safety
+15,public speaking
+16,quality
+17,safety
+18,sales
+19,supervisory
+20,supervision
+21,technician
+22,plans
+23,state
+24,accounts receivable
+25,adp
+26,closing
+27,"cold
           calling"
-inventory
-managerial
-excel
-mail
-office
-outlook
-microsoft word
-month end close
-policies
-quickbooks
-selling
-sap
-shipping
-time management
-accounting
-benefits
-budgets
-excellent communication
-contracts
-resolve customer complaints
-employee relations
-firing
-hiring
-labor relations
-market trends
-marketing
-organizational
-personnel
-problem solver
-processes
-promotion
-receiving
-sales forecasting
-staffing
-strategic planning
-employee development
-cash management
-communication skills
-computer literate
-mobilizes
-administrator
-e-finance
-e-pharmacy
-crisis
-business process models
-camtasia
-and snag it
-hardware installs
-troubleshooting
-detailed application knowledge
-scanners
-individual
-worker tasks
-and case summary
-printers
-signature pads
-business process
-business solution
-excellent customer service
-data warehouse
-functional
-""
-assembly
-hardware
-customer satisfaction
-database
-direction
-drivers
-electronics
-forklift
-macola
-works
-neat
-cameras
-pricing
-retail
-routing
-soldering
-troubleshoot
-type
-well organized
-out-of-code
-check
-financial management
-presenting
-employees
-take orders
-direct calls
-copy
-sort
-business transactions
-including mail
-facsimile machines
-voice mail systems
-mailing
-and database systems
-records
-supplies
-listening
-meetings
-microsoft excel
-money
-next
-office machines
-photocopiers
-report writing
-research
-fluent in spanish
-spreadsheets
-take messages
-team player
-telephone
-telephones
-phone
-phone etiquette
-typing speed
-voice mail
-websites
-"customer
+28,inventory
+29,managerial
+30,excel
+31,mail
+32,office
+33,outlook
+34,microsoft word
+35,month end close
+36,policies
+37,quickbooks
+38,selling
+39,sap
+40,shipping
+41,time management
+42,accounting
+43,benefits
+44,budgets
+45,excellent communication
+46,contracts
+47,resolve customer complaints
+48,employee relations
+49,firing
+50,hiring
+51,labor relations
+52,market trends
+53,marketing
+54,organizational
+55,personnel
+56,problem solver
+57,processes
+58,promotion
+59,receiving
+60,sales forecasting
+61,staffing
+62,strategic planning
+63,employee development
+64,cash management
+65,communication skills
+66,computer literate
+67,mobilizes
+68,administrator
+69,e-finance
+70,e-pharmacy
+71,crisis
+72,business process models
+73,camtasia
+74,and snag it
+75,hardware installs
+76,troubleshooting
+77,detailed application knowledge
+78,scanners
+79,individual
+80,worker tasks
+81,and case summary
+82,printers
+83,signature pads
+84,business process
+85,business solution
+86,excellent customer service
+87,data warehouse
+88,functional
+89,
+90,assembly
+91,hardware
+92,customer satisfaction
+93,database
+94,direction
+95,drivers
+96,electronics
+97,forklift
+98,macola
+99,works
+100,neat
+101,cameras
+102,pricing
+103,retail
+104,routing
+105,soldering
+106,troubleshoot
+107,type
+108,well organized
+109,out-of-code
+110,check
+111,financial management
+112,presenting
+113,employees
+114,take orders
+115,direct calls
+116,copy
+117,sort
+118,business transactions
+119,including mail
+120,facsimile machines
+121,voice mail systems
+122,mailing
+123,and database systems
+124,records
+125,supplies
+126,listening
+127,meetings
+128,microsoft excel
+129,money
+130,next
+131,office machines
+132,photocopiers
+133,report writing
+134,research
+135,fluent in spanish
+136,spreadsheets
+137,take messages
+138,team player
+139,telephone
+140,telephones
+141,phone
+142,phone etiquette
+143,typing speed
+144,voice mail
+145,websites
+146,"customer
 satisfaction"
-"customer
+147,"customer
 service"
-email
-expense reports
-fast
-faxes
-facsimile
-filing
-powerpoint)
-sharepoint
-visio
-lms
-centra
-digital marketing
-mailchimp
-webtrends
-treehouse prm
-ms dynamics
-salesforce.com
-hubspot
-marketo
-vertical response
-photoshop
-dreamweaver
-teamsite cms
-citrix
-social media; linkedin
-facebook
-and twitter
-000 - $950
-ga
-manufacturing
-distribution
-literate
-ms excel
-state      responsible for
-sunnyland foods
-lykes
-ball.  park
-tennessee pride
-gwaltney
-south carolina
-1978
-1983
-1985
-macon
-georgia may
-1966 - jul
-1967
-advertising
-as400
-balance
-bookkeeping
-"computer
+148,email
+149,expense reports
+150,fast
+151,faxes
+152,facsimile
+153,filing
+154,powerpoint)
+155,sharepoint
+156,visio
+157,lms
+158,centra
+159,digital marketing
+160,mailchimp
+161,webtrends
+162,treehouse prm
+163,ms dynamics
+164,salesforce.com
+165,hubspot
+166,marketo
+167,vertical response
+168,photoshop
+169,dreamweaver
+170,teamsite cms
+171,citrix
+172,social media; linkedin
+173,facebook
+174,and twitter
+175,000 - $950
+176,ga
+177,manufacturing
+178,distribution
+179,literate
+180,ms excel
+181,state      responsible for
+182,sunnyland foods
+183,lykes
+184,ball.  park
+185,tennessee pride
+186,gwaltney
+187,south carolina
+188,1978
+189,1983
+190,1985
+191,macon
+192,georgia may
+193,1966 - jul
+194,1967
+195,advertising
+196,as400
+197,balance
+198,bookkeeping
+199,"computer
 literate"
-human relations
-management training
-market
-persuasive
-sales representative
-in sales
-corporate sales
-operations
-sales and
-accounts and
-accounts for
-and sales
-billing
-business operations
-developing sales
-kitchen
-lighting
-merchandising
-million
-new accounts
-of sale
-plumbing
-point of sale
-receptionist
-retail sales
-sales of
-sales purchases
-sales reps
-sales revenue
-sales techniques
-training
-outside sales
-clients
-leads
-sales quotas
-buying/procurement
-existing accounts
-new account
-proposals
-purchasing
-sales through
-telemarketing
-marketing management
-microsoft windows
-of sales
-office xp
-powerpoint
-public relations
-sales/marketing
-word
-gm's
-market share
-mailed correspondence
-approach
-army
-automotive
-credit
-client
-customer service experience
-databases
-staff training
-finance
-inventory control
-leadership skills
-marketing strategies
-exchange
-navy
-negotiator
-newspapers
-packaging
-excellent people skills
-presentations
-public speaker
-relationship building
-sales manager
-sales training
-seminars
-transportation
-view
-honest
-reliable
-driven
-enthusiastic people person
-self motivated
-insightful
-innovative
-state       business
-competitive
-counselor
-inside sales
-instruction
-inventory management
-payroll
-quick
-scheduling
-specification.
-cash
-answering
-associate
-exceed
-new hires
-new sales
-pos system
-reconciliation
-recruiting
-sales associate
-sales associates
-the sale
-visual merchandising
-payments
-invoices
-all sales
-correspondence
-data entry
-documentation
-ordering
-sales service
-scanning
-audits
-bank teller
-change orders
-loans
-multitasking
-accounts payable
-between accounts
-general ledger
-incoming calls
-invoice
-purchase orders
-archiving
-data archiving
-detail oriented
-etiquette
-excellent communication skills
-excellent multi-tasker
-microsoft office
-ms office
-multi-line
-multi-line phone
-office assistant
-power point
-microsoft office suite
-calendaring
-critical thinking
-blueprints
-read blueprints
-interpersonal & communication
-conferences
-layout
-networking
-new construction
-plumber
-improve process
-progress
-quality control
-repairs
-fm
-tear
-technical assistance
-ask
-business plan
-features
-real estate
-cpr
-first aid
-long-term
-salads
-soups
-physical security
-information protection
-usa
-account management
-strong sales experience
-s2k (cis billing)
-accounts payable (caps)
-microsoft dynamics crm
-gsa lite
-acrobat pro
-book
-computer knowledge
-team building
-marketing plans
-newspaper
-programming
-sales skills
-sales management
-strategic
-ads
-data base
-"answered   
+200,human relations
+201,management training
+202,market
+203,persuasive
+204,sales representative
+205,in sales
+206,corporate sales
+207,operations
+208,sales and
+209,accounts and
+210,accounts for
+211,and sales
+212,billing
+213,business operations
+214,developing sales
+215,kitchen
+216,lighting
+217,merchandising
+218,million
+219,new accounts
+220,of sale
+221,plumbing
+222,point of sale
+223,receptionist
+224,retail sales
+225,sales of
+226,sales purchases
+227,sales reps
+228,sales revenue
+229,sales techniques
+230,training
+231,outside sales
+232,clients
+233,leads
+234,sales quotas
+235,buying/procurement
+236,existing accounts
+237,new account
+238,proposals
+239,purchasing
+240,sales through
+241,telemarketing
+242,marketing management
+243,microsoft windows
+244,of sales
+245,office xp
+246,powerpoint
+247,public relations
+248,sales/marketing
+249,word
+250,gm's
+251,market share
+252,mailed correspondence
+253,approach
+254,army
+255,automotive
+256,credit
+257,client
+258,customer service experience
+259,databases
+260,staff training
+261,finance
+262,inventory control
+263,leadership skills
+264,marketing strategies
+265,exchange
+266,navy
+267,negotiator
+268,newspapers
+269,packaging
+270,excellent people skills
+271,presentations
+272,public speaker
+273,relationship building
+274,sales manager
+275,sales training
+276,seminars
+277,transportation
+278,view
+279,honest
+280,reliable
+281,driven
+282,enthusiastic people person
+283,self motivated
+284,insightful
+285,innovative
+286,state       business
+287,competitive
+288,counselor
+289,inside sales
+290,instruction
+291,inventory management
+292,payroll
+293,quick
+294,scheduling
+295,specification.
+296,cash
+297,answering
+298,associate
+299,exceed
+300,new hires
+301,new sales
+302,pos system
+303,reconciliation
+304,recruiting
+305,sales associate
+306,sales associates
+307,the sale
+308,visual merchandising
+309,payments
+310,invoices
+311,all sales
+312,correspondence
+313,data entry
+314,documentation
+315,ordering
+316,sales service
+317,scanning
+318,audits
+319,bank teller
+320,change orders
+321,loans
+322,multitasking
+323,accounts payable
+324,between accounts
+325,general ledger
+326,incoming calls
+327,invoice
+328,purchase orders
+329,archiving
+330,data archiving
+331,detail oriented
+332,etiquette
+333,excellent communication skills
+334,excellent multi-tasker
+335,microsoft office
+336,ms office
+337,multi-line
+338,multi-line phone
+339,office assistant
+340,power point
+341,microsoft office suite
+342,calendaring
+343,critical thinking
+344,blueprints
+345,read blueprints
+346,interpersonal & communication
+347,conferences
+348,layout
+349,networking
+350,new construction
+351,plumber
+352,improve process
+353,progress
+354,quality control
+355,repairs
+356,fm
+357,tear
+358,technical assistance
+359,ask
+360,business plan
+361,features
+362,real estate
+363,cpr
+364,first aid
+365,long-term
+366,salads
+367,soups
+368,physical security
+369,information protection
+370,usa
+371,account management
+372,strong sales experience
+373,s2k (cis billing)
+374,accounts payable (caps)
+375,microsoft dynamics crm
+376,gsa lite
+377,acrobat pro
+378,book
+379,computer knowledge
+380,team building
+381,marketing plans
+382,newspaper
+383,programming
+384,sales skills
+385,sales management
+386,strategic
+387,ads
+388,data base
+389,"answered   
      multi-line phones"
-evaluate alternatives
-customer-focused
-agent
-system
-returns
-explaining unique features
-services
-store hours
-answer general questions
-merchandise transfers
-rules
-state        checked in
-fold
-hang
-collect data
-timeliness
-legal
-revenue
-insurance companies
-co-workers
-management
-physicians
-patients
-blankets
-cheque
-distribute
-mats
-lobby
-patient care
-and powerpoint
-casablanca bridal
-david tutera bridal
-the dessy collection
-alfred angelo
-bill levkoff
-hard working
-state     cashier
-adding
-taking messages
-"using
+390,evaluate alternatives
+391,customer-focused
+392,agent
+393,system
+394,returns
+395,explaining unique features
+396,services
+397,store hours
+398,answer general questions
+399,merchandise transfers
+400,rules
+401,state        checked in
+402,fold
+403,hang
+404,collect data
+405,timeliness
+406,legal
+407,revenue
+408,insurance companies
+409,co-workers
+410,management
+411,physicians
+412,patients
+413,blankets
+414,cheque
+415,distribute
+416,mats
+417,lobby
+418,patient care
+419,and powerpoint
+420,casablanca bridal
+421,david tutera bridal
+422,the dessy collection
+423,alfred angelo
+424,bill levkoff
+425,hard working
+426,state     cashier
+427,adding
+428,taking messages
+429,"using
 computer"
-napkins
-communication
-facsimile machine
-reception
-photo
-digital cameras
-editing
-fashion
-flash
-set design
-script
-transmission
-"great
+430,napkins
+431,communication
+432,facsimile machine
+433,reception
+434,photo
+435,digital cameras
+436,editing
+437,fashion
+438,flash
+439,set design
+440,script
+441,transmission
+442,"great
 communication skills"
-english
-negotiation
-pallet jack
-pick
-presentation skills
-rapport
-spanish
-statistics and interpretation
-mining
-predictive analysis
-data analyst
-rstudio
-tableau
-data collection
-machine learning
-energy
-fees
-ratings
-"interpreting
+443,english
+444,negotiation
+445,pallet jack
+446,pick
+447,presentation skills
+448,rapport
+449,spanish
+450,statistics and interpretation
+451,mining
+452,predictive analysis
+453,data analyst
+454,rstudio
+455,tableau
+456,data collection
+457,machine learning
+458,energy
+459,fees
+460,ratings
+461,"interpreting
           contracts"
-c++
-cold calling
-clientele
-drafting
-financial
-financial statements
-interpretation
-ms office suite
-modeling
-oil
-coding
-statistical analysis
-statistics
-tables
-underwriter
-brochures
-c
-cashier
-clerical
-designing
-fax machine
-forms
-inspects
-inventory levels
-letters
-math
-access
-money i
-multi-tasking
-object-oriented programming
-copiers
-pos
-printer
-quick learner
-maintaining files
-typing skills
-illustrator
-great communication skills
-focus
-insurance
-prepare invoices
-issue receipts
-persuasion
-reading
-recording
-new technologies
-product features
-product portfolio
-sales plan
-sales reports
-surgeon
-schedules
-and customers.
-cash handling
-frame
-meal preparation
-micros
-window
-html
-weed whipping
-42 inch blades
-state                liberal arts
-advertisements
-calculators
-cash registers
-market and sales
-researching
-sms
-structured
-adobe creative suite
-ronlynn apparel software
-instagram
-and snapchat)
-internet research
-creative problem solver
-publisher
-ms windows
-leadership qualities
-people skills
-team work
-answering phones
-good people skills
-select
-separating charge slips
-coupons
-and vouchers
-balancing cash drawers
-counters
-memorize orders
-silverware
-food
-tableware
-and by greeting
-seating
-vacuuming carpet
-taking out trash
-appetizers
-and cold dishes
-portioning desserts
-pepper
-sugar
-cream
-condiment
-credit cards
-vouchers
-refunds
-credits
-services or admission
-count
-prices
-availability
-product uses
-racks
-cases
-bins
-attach
-open
-shelves
-streamline
-assisted living
-budget
-customer services
-general management
-human resource
-human resources
-director
-marketing materials
-nursing
-strong organizational skills
-production manager
-project management
-six sigma
-strategic plans
-supervising
-trade shows
-written skills
-cash register
-fluent in english
-natural
-store merchandising
-budgeting
-coaching
-contract negotiations
-forecasting
-hr
-analyzing market
-marketing strategy
-mentoring
-communicator
-new business development
-performance management
-profit
-recruitment
-sales manager i
-sales reporting
-strategy
-coordinate
-grinding
-records of cargo
-or billing statements
-plants
-residences
-offices
-weigh
-trim
-bone
-tie
-and grind meats
-such as beef
-pork
-cleavers
-meat saws
-bandsaws
-cancel accounts
-solicit bid proposals
-financial reports
-make change
-medical supplies
-beverages
-etc.
-dependable
-servers
-verbal communication skills
-excellent written
-salesforce
-act
-and goldmine crm
-allscripts software
-practice fusion software
-appointment setting
-direct mail
-adobe
-cables
-copying
-faxing
-ie
-loss prevention
-win
-monitors
-pc setup
-routers
-supervisor
-technical support
-vista
-cooking
-resolving customer complaints
-delivery
-hand tools
-inspecting
-market meetings
-fluent spanish
-supervision.
-2002
-2003&2006 performance review
-act!
-call center
-cl
-com
-customer      care
-customer care
-2000
-nt
-sales support
-sql
-user support
-trainer
-color
-decision making
-maintain inventory
-machinery
-product-marketing
-speaking
-phones
-retail sales associate
-including counting cash
-cash register transactions
-pos systems
-effective sales
-generate sales
-incentive programs
-sales staff
-security
-selling techniques
-the sales
-administrative assistant
-file
-file systems
-front desk
-greeting
-client relations
-increase
-pediatric
-account executive
-solutions
-its
-award
-channel marketing
-internet marketing
-major accounts
-overall sales
-quota
-sales quota
-yellow pages
-retail marketing
-and marketing
-for sales
-key accounts
-owned sales
-account manager
-accounts to
-accounts with
-coordinate sales
-sales events
-sales presentations
-sales representatives
-territory
-with sales
-sales for
-sales meetings
-senior sales
-top sales
-b to b
-b2b
-lead generation
-inbound and outbound
-audit
-inspections
-maintenance
-medical records
-basis
-customer inquiries
-claims
-cpt
-icd
-icd-9
-icd9 coding
-icd-9 coding
-multi-line phone system
-phone system
-call center representative
-customer support
-microsoft outlook
-paralegal
-complaints
-such as bruises
-open wounds
-bathing
-dressing
-using the toilet
-standing
-walking
-state      carefully selected
-technical
-service
-data processing technology
-government regulations
-state              skills    administrative
-organizational skills
-reporting
-including mopping floors
-washing dishes
-bathrooms
-building exterior
-parking lot
-organizer
-tops
-coach
-interpersonal communication
-consultant
-conversion
-financial analysis
-lotus notes
-managing
-networks
-written
-adding special order
-000-$90
-terms of sales
-natural stone
-resilient flooring
-laminate and hardwood
-laminate
-staffed projects
-strong interpersonal skills
-estimating
-processing payroll
-implementing cost controls
-company policies
-organization
-storage
-supervisory duties
-skills
-kioti ag equipment
-tillage equipment
-sitrex
-bush hog
-servis rhino
-vicon
-land pride implements
-mtd products
-hustler zero turns
-a&i products
-surgery logs
-x-ray logs
-questions and concerns
-vaccines
-company name
-city
-equipment and floors
-strong communication skills
-detail-oriented
-psychology
-credit/debit card payments
-orderly product displays.
-price
-scales
-wrappers
-compactors
-garbage disposals
-food bins
-frozen
-hired
-bloods
-grade b
-sleeves/flats
-cubes
-diagrams
-specifications
-schematics
-work orders
-build
-test
-analysis
-repair
-equipment
-cost estimation
-ia. also
-account reconciliation
-administrative
-manage inventory levels
-mark
-market sales
-office automation
-payment processing
-proofreading
-record keeping
-50 wpm
-workshops
-articles
-equipment operator
-first-aid
-forklifts
-forklift operator
-peak
-procedure development
-"quality
+462,c++
+463,cold calling
+464,clientele
+465,drafting
+466,financial
+467,financial statements
+468,interpretation
+469,ms office suite
+470,modeling
+471,oil
+472,coding
+473,statistical analysis
+474,statistics
+475,tables
+476,underwriter
+477,brochures
+478,c
+479,cashier
+480,clerical
+481,designing
+482,fax machine
+483,forms
+484,inspects
+485,inventory levels
+486,letters
+487,math
+488,access
+489,money i
+490,multi-tasking
+491,object-oriented programming
+492,copiers
+493,pos
+494,printer
+495,quick learner
+496,maintaining files
+497,typing skills
+498,illustrator
+499,great communication skills
+500,focus
+501,insurance
+502,prepare invoices
+503,issue receipts
+504,persuasion
+505,reading
+506,recording
+507,new technologies
+508,product features
+509,product portfolio
+510,sales plan
+511,sales reports
+512,surgeon
+513,schedules
+514,and customers.
+515,cash handling
+516,frame
+517,meal preparation
+518,micros
+519,window
+520,html
+521,weed whipping
+522,42 inch blades
+523,state                liberal arts
+524,advertisements
+525,calculators
+526,cash registers
+527,market and sales
+528,researching
+529,sms
+530,structured
+531,adobe creative suite
+532,ronlynn apparel software
+533,instagram
+534,and snapchat)
+535,internet research
+536,creative problem solver
+537,publisher
+538,ms windows
+539,leadership qualities
+540,people skills
+541,team work
+542,answering phones
+543,good people skills
+544,select
+545,separating charge slips
+546,coupons
+547,and vouchers
+548,balancing cash drawers
+549,counters
+550,memorize orders
+551,silverware
+552,food
+553,tableware
+554,and by greeting
+555,seating
+556,vacuuming carpet
+557,taking out trash
+558,appetizers
+559,and cold dishes
+560,portioning desserts
+561,pepper
+562,sugar
+563,cream
+564,condiment
+565,credit cards
+566,vouchers
+567,refunds
+568,credits
+569,services or admission
+570,count
+571,prices
+572,availability
+573,product uses
+574,racks
+575,cases
+576,bins
+577,attach
+578,open
+579,shelves
+580,streamline
+581,assisted living
+582,budget
+583,customer services
+584,general management
+585,human resource
+586,human resources
+587,director
+588,marketing materials
+589,nursing
+590,strong organizational skills
+591,production manager
+592,project management
+593,six sigma
+594,strategic plans
+595,supervising
+596,trade shows
+597,written skills
+598,cash register
+599,fluent in english
+600,natural
+601,store merchandising
+602,budgeting
+603,coaching
+604,contract negotiations
+605,forecasting
+606,hr
+607,analyzing market
+608,marketing strategy
+609,mentoring
+610,communicator
+611,new business development
+612,performance management
+613,profit
+614,recruitment
+615,sales manager i
+616,sales reporting
+617,strategy
+618,coordinate
+619,grinding
+620,records of cargo
+621,or billing statements
+622,plants
+623,residences
+624,offices
+625,weigh
+626,trim
+627,bone
+628,tie
+629,and grind meats
+630,such as beef
+631,pork
+632,cleavers
+633,meat saws
+634,bandsaws
+635,cancel accounts
+636,solicit bid proposals
+637,financial reports
+638,make change
+639,medical supplies
+640,beverages
+641,etc.
+642,dependable
+643,servers
+644,verbal communication skills
+645,excellent written
+646,salesforce
+647,act
+648,and goldmine crm
+649,allscripts software
+650,practice fusion software
+651,appointment setting
+652,direct mail
+653,adobe
+654,cables
+655,copying
+656,faxing
+657,ie
+658,loss prevention
+659,win
+660,monitors
+661,pc setup
+662,routers
+663,supervisor
+664,technical support
+665,vista
+666,cooking
+667,resolving customer complaints
+668,delivery
+669,hand tools
+670,inspecting
+671,market meetings
+672,fluent spanish
+673,supervision.
+674,2002
+675,2003&2006 performance review
+676,act!
+677,call center
+678,cl
+679,com
+680,customer      care
+681,customer care
+682,2000
+683,nt
+684,sales support
+685,sql
+686,user support
+687,trainer
+688,color
+689,decision making
+690,maintain inventory
+691,machinery
+692,product-marketing
+693,speaking
+694,phones
+695,retail sales associate
+696,including counting cash
+697,cash register transactions
+698,pos systems
+699,effective sales
+700,generate sales
+701,incentive programs
+702,sales staff
+703,security
+704,selling techniques
+705,the sales
+706,administrative assistant
+707,file
+708,file systems
+709,front desk
+710,greeting
+711,client relations
+712,increase
+713,pediatric
+714,account executive
+715,solutions
+716,its
+717,award
+718,channel marketing
+719,internet marketing
+720,major accounts
+721,overall sales
+722,quota
+723,sales quota
+724,yellow pages
+725,retail marketing
+726,and marketing
+727,for sales
+728,key accounts
+729,owned sales
+730,account manager
+731,accounts to
+732,accounts with
+733,coordinate sales
+734,sales events
+735,sales presentations
+736,sales representatives
+737,territory
+738,with sales
+739,sales for
+740,sales meetings
+741,senior sales
+742,top sales
+743,b to b
+744,b2b
+745,lead generation
+746,inbound and outbound
+747,audit
+748,inspections
+749,maintenance
+750,medical records
+751,basis
+752,customer inquiries
+753,claims
+754,cpt
+755,icd
+756,icd-9
+757,icd9 coding
+758,icd-9 coding
+759,multi-line phone system
+760,phone system
+761,call center representative
+762,customer support
+763,microsoft outlook
+764,paralegal
+765,complaints
+766,such as bruises
+767,open wounds
+768,bathing
+769,dressing
+770,using the toilet
+771,standing
+772,walking
+773,state      carefully selected
+774,technical
+775,service
+776,data processing technology
+777,government regulations
+778,state              skills    administrative
+779,organizational skills
+780,reporting
+781,including mopping floors
+782,washing dishes
+783,bathrooms
+784,building exterior
+785,parking lot
+786,organizer
+787,tops
+788,coach
+789,interpersonal communication
+790,consultant
+791,conversion
+792,financial analysis
+793,lotus notes
+794,managing
+795,networks
+796,written
+797,adding special order
+798,000-$90
+799,terms of sales
+800,natural stone
+801,resilient flooring
+802,laminate and hardwood
+803,laminate
+804,staffed projects
+805,strong interpersonal skills
+806,estimating
+807,processing payroll
+808,implementing cost controls
+809,company policies
+810,organization
+811,storage
+812,supervisory duties
+813,skills
+814,kioti ag equipment
+815,tillage equipment
+816,sitrex
+817,bush hog
+818,servis rhino
+819,vicon
+820,land pride implements
+821,mtd products
+822,hustler zero turns
+823,a&i products
+824,surgery logs
+825,x-ray logs
+826,questions and concerns
+827,vaccines
+828,company name
+829,city
+830,equipment and floors
+831,strong communication skills
+832,detail-oriented
+833,psychology
+834,credit/debit card payments
+835,orderly product displays.
+836,price
+837,scales
+838,wrappers
+839,compactors
+840,garbage disposals
+841,food bins
+842,frozen
+843,hired
+844,bloods
+845,grade b
+846,sleeves/flats
+847,cubes
+848,diagrams
+849,specifications
+850,schematics
+851,work orders
+852,build
+853,test
+854,analysis
+855,repair
+856,equipment
+857,cost estimation
+858,ia. also
+859,account reconciliation
+860,administrative
+861,manage inventory levels
+862,mark
+863,market sales
+864,office automation
+865,payment processing
+866,proofreading
+867,record keeping
+868,50 wpm
+869,workshops
+870,articles
+871,equipment operator
+872,first-aid
+873,forklifts
+874,forklift operator
+875,peak
+876,procedure development
+877,"quality
 management"
-self-starter
-business development
-diamond lab class
-lazare kaplan diamonds
-floral sales
-sweetheart
-spray
-rio
-eucalyptus
-spider mums
-pompons
-peonies
-dendrobiums
-freeshias
-snap dragons
-gerber daisies
-kale hydranges
-lily's stargazers
-pink oriental
-asiatic
-alawand vahan
-cheri dori
-dia dori
-pandora
-including window
-conflict resolution
-inspect
-fast learner
-team leadership
-usa    education
-blood
-dmv
-fbi
-future dates
-add-on
-defense attorneys
-agencies (police departments
-sheriffs
-prisons
-genesis
-answer requests
-file documents
-primarily mirth connect
-analyzing
-rfp's
-editing technical content
-reproducing issue
-sql statements
-sql profiler
-state      monitor
-appnexus
-data scrubbing
-invitations
-hindi
-rally methodologies: sdlc
-agile
-css
-javascript
-xml
-xhtml
-r
-sas
-microsoft sql server
-mac osx 10
-ios
-and profiles.
-workflow
-administrative support
-business plans
-consultation
-invoicing
-people management
-marketing manager
-billing system
-business management
-cold-calling
-data analysis
-"facilities
+878,self-starter
+879,business development
+880,diamond lab class
+881,lazare kaplan diamonds
+882,floral sales
+883,sweetheart
+884,spray
+885,rio
+886,eucalyptus
+887,spider mums
+888,pompons
+889,peonies
+890,dendrobiums
+891,freeshias
+892,snap dragons
+893,gerber daisies
+894,kale hydranges
+895,lily's stargazers
+896,pink oriental
+897,asiatic
+898,alawand vahan
+899,cheri dori
+900,dia dori
+901,pandora
+902,including window
+903,conflict resolution
+904,inspect
+905,fast learner
+906,team leadership
+907,usa    education
+908,blood
+909,dmv
+910,fbi
+911,future dates
+912,add-on
+913,defense attorneys
+914,agencies (police departments
+915,sheriffs
+916,prisons
+917,genesis
+918,answer requests
+919,file documents
+920,primarily mirth connect
+921,analyzing
+922,rfp's
+923,editing technical content
+924,reproducing issue
+925,sql statements
+926,sql profiler
+927,state      monitor
+928,appnexus
+929,data scrubbing
+930,invitations
+931,hindi
+932,rally methodologies: sdlc
+933,agile
+934,css
+935,javascript
+936,xml
+937,xhtml
+938,r
+939,sas
+940,microsoft sql server
+941,mac osx 10
+942,ios
+943,and profiles.
+944,workflow
+945,administrative support
+946,business plans
+947,consultation
+948,invoicing
+949,people management
+950,marketing manager
+951,billing system
+952,business management
+953,cold-calling
+954,data analysis
+955,"facilities
 maintenance"
-information systems
-lesson plan
-logistics
-management information systems
-operations management
-pricing strategies
-quality assurance
-risk management
-teacher
-training programs
-product placement
-monitored
-and staffing goals
-objectives
-store safety
-supervisors
-planned
-store recovery
-inventory preparation
-program compliance
-inventory schedule
-shrink control
-weekly shipment receiving
-product merchandising
-vendor relations
-debit
-front office
-ims
-notes
-enterprise
-newsletters
-client management
-marketing communications
-experienced in filemaker
-managing major accounts
-vip customers
-media production
-great selling skills
-event production
-film
-caregiver
-home care
-business writing
-financing
-financial reporting
-microsoft office software
-oracle
-peoplesoft
-people soft
-prime
-procurement
-proposal
-proposal preparation
-purchase requisitions
-simulation
-roofing
-balance sheets
-cash receipts
-catalog
-commodities
-special events
-read
-project schedules
-statutory requirements
-laws
-developed
-contractors
-architects
-cost analysis
-council
-mechanical
-platinum
-renovation
-rfp
-office suite
-google products.
-professional and friendly
-balance inquires
-travel flags
-teaching manners
-how to lead
-stand
-be brushed
-georgia
-check packing lists
-state              skills    agency
-cycle counting
-teaching
-set-up prospect database
-developed marketing campaign
-ensuring educated clients
+956,information systems
+957,lesson plan
+958,logistics
+959,management information systems
+960,operations management
+961,pricing strategies
+962,quality assurance
+963,risk management
+964,teacher
+965,training programs
+966,product placement
+967,monitored
+968,and staffing goals
+969,objectives
+970,store safety
+971,supervisors
+972,planned
+973,store recovery
+974,inventory preparation
+975,program compliance
+976,inventory schedule
+977,shrink control
+978,weekly shipment receiving
+979,product merchandising
+980,vendor relations
+981,debit
+982,front office
+983,ims
+984,notes
+985,enterprise
+986,newsletters
+987,client management
+988,marketing communications
+989,experienced in filemaker
+990,managing major accounts
+991,vip customers
+992,media production
+993,great selling skills
+994,event production
+995,film
+996,caregiver
+997,home care
+998,business writing
+999,financing
+1000,financial reporting
+1001,microsoft office software
+1002,oracle
+1003,peoplesoft
+1004,people soft
+1005,prime
+1006,procurement
+1007,proposal
+1008,proposal preparation
+1009,purchase requisitions
+1010,simulation
+1011,roofing
+1012,balance sheets
+1013,cash receipts
+1014,catalog
+1015,commodities
+1016,special events
+1017,read
+1018,project schedules
+1019,statutory requirements
+1020,laws
+1021,developed
+1022,contractors
+1023,architects
+1024,cost analysis
+1025,council
+1026,mechanical
+1027,platinum
+1028,renovation
+1029,rfp
+1030,office suite
+1031,google products.
+1032,professional and friendly
+1033,balance inquires
+1034,travel flags
+1035,teaching manners
+1036,how to lead
+1037,stand
+1038,be brushed
+1039,georgia
+1040,check packing lists
+1041,state              skills    agency
+1042,cycle counting
+1043,teaching
+1044,set-up prospect database
+1045,developed marketing campaign
+1046,ensuring educated clients

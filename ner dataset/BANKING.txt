@@ -1,1681 +1,1681 @@
-0
-sales software: salesforce.com
-illustrator
-html
-"assistant
+,0
+0,sales software: salesforce.com
+1,illustrator
+2,html
+3,"assistant
 manager"
-customer satisfaction
-excellent customer service
-inventory
-reconciling
-recruiting
-sales
-employee training
-jira
-salesforce
-keynote
-recruitment  banking
-sales  budget
-sql  business development
-strategic  credit
-strategic plans  client
-website  decision-making
-prepared
-state      created
-improved
-"marketing
+4,customer satisfaction
+5,excellent customer service
+6,inventory
+7,reconciling
+8,recruiting
+9,sales
+10,employee training
+11,jira
+12,salesforce
+13,keynote
+14,recruitment  banking
+15,sales  budget
+16,sql  business development
+17,strategic  credit
+18,strategic plans  client
+19,website  decision-making
+20,prepared
+21,state      created
+22,improved
+23,"marketing
  strategy"
-public relations campaigns
-articles
-universities
-including organization
-maintenance
-microsoft office  ttechnology-savvy
-accounting
-banking
-budget
-business development
-credit
-client
-decision-making
-documentation
-due diligence
-finance
-financial
-financial analysis
-financial statements
-mandarin
-marketing  sstrategy
-marketing
-market
-marketing collateral
-money
-microsoft office
-mortgage originator
-newsletters
-pos
-presentations
-pricing strategy
-producer
-project management
-public relations
-purchasing
-real estate
-recruitment
-sql
-strategic
-strategic plans
-website
-programming language: c/c++
-python
-matlab
-r
-lua
-unsupervised learning
-financial forecasting
-including properties appraisals
-cash flow analysis
-asset coverage analysis
-state
-microsoft excel
-microsoft word
-multi tasking
-written
-acquiring
-building
-excel
-succinctly
-loans
-train
-riverside   －   city
-mortgage
-and sales
-mortgage loans
-clients
-escrow
-multi-family
-sales goals
-sales meetings
-accounts and
-all sales
-audits
-basis
-cash
-closing
-coaching
-consultative sales
-customer accounts
-customer service
-effective sales
-lending
-operations
-operations manager
-performance management
-problem resolution
-receptionist
-reconcilements
-retail sales
-sales activities
-sales force
-sales management
-securities
-solutions
-training
-annuities
-brokerage
-top sales
-account executive
-field account
-market share
-subprime
-microsoft project
-word
-fdcpa
-fcra
-ssa
-dws
-msp
-lenderlive
-lps
-bart
-infosource
-agent desktop
-early resolution
-tas
-fortracs
-ivault
-cms
-vls
-icat
-cat
-ccw
-spo tool
-vendorscape
-control link
-ms excel
-powerpoint
-shortsale
-collections
-recovery
-bankruptcy
-property preservation
-analytical
-problem solving
-team player
-goal driven
-and results oriented.
-administrative duties
-call center
-credit  rrisk
-credit risk
-data entry
-imaging
-insurance
-loan documentation
-mac
-office
-quality
-retail
-risk analysis
-shipping
-switchboard
-tax returns
-underwriter
-underwriting
-workflow
-public speaking
-microeconomics
-macroeconomics
-inside hedge funds
-urban economics
-multivariable calculus
-fall 2013
-spring 2015
-fall 2015
-cross cultural management
-business ethics
-critical reading: 720
-cash flow
-economics
-equity
-financial accounting
-financial modeling
-financial reports
-funds
-investments
-market research
-materials
-math
-meetings
-reading
-sat
-proficient in spanish
-golf
-airbnb
-coach
-delivery
-general manager
-leadership
-managing
-selling
-decision making
-fixed income
-team leader
-policies
-strategy
-academic
-account management
-advertisements
-approach
-art
-budgets
-conflict management
-content
-customer service training
-direct marketing
-directing
-event planning
-fast
-functional
-fundraising
-human resource
-hr
-international business
-microsoft suite
-outlook
-power point
-publisher
-networking
-payroll
-presenter
-promotion
-proxy
-public speaker
-radio
-sales training
-staffing
-supervision
-training programs
-accounts receivable
-billing
-business analysis
-business process
-senior management
-government
-legal
-letters
-lotus
-office manager
-oracle
-peach tree
-phone system
-producing
-researching
-research
-risk management
-sla
-solomon
-tax
-taxes
-telephone
-cash handling
-enthusiastic people person
-advanced problem-solving
-excel spss
-track and field
-fax
-filing
-answering phones
-type 50 wpm
-accounts payable
-auditing
-balance sheet
-bookkeeping
-cash receipts
-excellent communication
-hardware
-conflict resolution
-contracts
-checkout process
-"customer
+24,public relations campaigns
+25,articles
+26,universities
+27,including organization
+28,maintenance
+29,microsoft office  ttechnology-savvy
+30,accounting
+31,banking
+32,budget
+33,business development
+34,credit
+35,client
+36,decision-making
+37,documentation
+38,due diligence
+39,finance
+40,financial
+41,financial analysis
+42,financial statements
+43,mandarin
+44,marketing  sstrategy
+45,marketing
+46,market
+47,marketing collateral
+48,money
+49,microsoft office
+50,mortgage originator
+51,newsletters
+52,pos
+53,presentations
+54,pricing strategy
+55,producer
+56,project management
+57,public relations
+58,purchasing
+59,real estate
+60,recruitment
+61,sql
+62,strategic
+63,strategic plans
+64,website
+65,programming language: c/c++
+66,python
+67,matlab
+68,r
+69,lua
+70,unsupervised learning
+71,financial forecasting
+72,including properties appraisals
+73,cash flow analysis
+74,asset coverage analysis
+75,state
+76,microsoft excel
+77,microsoft word
+78,multi tasking
+79,written
+80,acquiring
+81,building
+82,excel
+83,succinctly
+84,loans
+85,train
+86,riverside   －   city
+87,mortgage
+88,and sales
+89,mortgage loans
+90,clients
+91,escrow
+92,multi-family
+93,sales goals
+94,sales meetings
+95,accounts and
+96,all sales
+97,audits
+98,basis
+99,cash
+100,closing
+101,coaching
+102,consultative sales
+103,customer accounts
+104,customer service
+105,effective sales
+106,lending
+107,operations
+108,operations manager
+109,performance management
+110,problem resolution
+111,receptionist
+112,reconcilements
+113,retail sales
+114,sales activities
+115,sales force
+116,sales management
+117,securities
+118,solutions
+119,training
+120,annuities
+121,brokerage
+122,top sales
+123,account executive
+124,field account
+125,market share
+126,subprime
+127,microsoft project
+128,word
+129,fdcpa
+130,fcra
+131,ssa
+132,dws
+133,msp
+134,lenderlive
+135,lps
+136,bart
+137,infosource
+138,agent desktop
+139,early resolution
+140,tas
+141,fortracs
+142,ivault
+143,cms
+144,vls
+145,icat
+146,cat
+147,ccw
+148,spo tool
+149,vendorscape
+150,control link
+151,ms excel
+152,powerpoint
+153,shortsale
+154,collections
+155,recovery
+156,bankruptcy
+157,property preservation
+158,analytical
+159,problem solving
+160,team player
+161,goal driven
+162,and results oriented.
+163,administrative duties
+164,call center
+165,credit  rrisk
+166,credit risk
+167,data entry
+168,imaging
+169,insurance
+170,loan documentation
+171,mac
+172,office
+173,quality
+174,retail
+175,risk analysis
+176,shipping
+177,switchboard
+178,tax returns
+179,underwriter
+180,underwriting
+181,workflow
+182,public speaking
+183,microeconomics
+184,macroeconomics
+185,inside hedge funds
+186,urban economics
+187,multivariable calculus
+188,fall 2013
+189,spring 2015
+190,fall 2015
+191,cross cultural management
+192,business ethics
+193,critical reading: 720
+194,cash flow
+195,economics
+196,equity
+197,financial accounting
+198,financial modeling
+199,financial reports
+200,funds
+201,investments
+202,market research
+203,materials
+204,math
+205,meetings
+206,reading
+207,sat
+208,proficient in spanish
+209,golf
+210,airbnb
+211,coach
+212,delivery
+213,general manager
+214,leadership
+215,managing
+216,selling
+217,decision making
+218,fixed income
+219,team leader
+220,policies
+221,strategy
+222,academic
+223,account management
+224,advertisements
+225,approach
+226,art
+227,budgets
+228,conflict management
+229,content
+230,customer service training
+231,direct marketing
+232,directing
+233,event planning
+234,fast
+235,functional
+236,fundraising
+237,human resource
+238,hr
+239,international business
+240,microsoft suite
+241,outlook
+242,power point
+243,publisher
+244,networking
+245,payroll
+246,presenter
+247,promotion
+248,proxy
+249,public speaker
+250,radio
+251,sales training
+252,staffing
+253,supervision
+254,training programs
+255,accounts receivable
+256,billing
+257,business analysis
+258,business process
+259,senior management
+260,government
+261,legal
+262,letters
+263,lotus
+264,office manager
+265,oracle
+266,peach tree
+267,phone system
+268,producing
+269,researching
+270,research
+271,risk management
+272,sla
+273,solomon
+274,tax
+275,taxes
+276,telephone
+277,cash handling
+278,enthusiastic people person
+279,advanced problem-solving
+280,excel spss
+281,track and field
+282,fax
+283,filing
+284,answering phones
+285,type 50 wpm
+286,accounts payable
+287,auditing
+288,balance sheet
+289,bookkeeping
+290,cash receipts
+291,excellent communication
+292,hardware
+293,conflict resolution
+294,contracts
+295,checkout process
+296,"customer
 relations"
-forecasting
-forklifts
-hiring
-human resources management
-internal audit
-internet connectivity
-labor relations
-team building
-leadership skills
-loss prevention
-97
-operations management
-performance reviews
-personnel
-processes
-"process
+297,forecasting
+298,forklifts
+299,hiring
+300,human resources management
+301,internal audit
+302,internet connectivity
+303,labor relations
+304,team building
+305,leadership skills
+306,loss prevention
+307,97
+308,operations management
+309,performance reviews
+310,personnel
+311,processes
+312,"process
 improvement"
-quality control
-scheduling
-staff development
-telephone etiquette
-phone
-time management
-trainer
-warehousing
-liability
-loan processor
-mortgage lending
-processor
-ups
-fha
-foreclosure
-file
-state tax
-team lead
-banking loan
-loan operations
-mortgage loan
-security
-cases
-mortgage banking
-fannie mae
-internal audits
-nss
-production environment
-ambitious
-articulate
-credit analysis
-detail-oriented
-dos
-fast learner
-loan closing
-loss mitigation
-microsoft sharepoint
-mitigation
-pipeline
-problem solver
-quality assurance
-reviewing financial statements
-risk assessment
-sharepoint
-trading
-real estate analysis
-marketing assistant
-customer relationship software
-coordinating special events
-direct mail programs
-including signage
-marketplace perceptions
-advertising
-agency
-atm
-budgeting
-direct mail
-special events
-executive management
-facilities management
-financial reporting
-image
-investment strategies
-marketing and communication
-microsoft outlook
-microsoft powerpoint
-new product development
-pricing
-product development
-administrative support
-automation
-automotive
-interpersonal
-interpersonal skills
-oral
-customer care
-databases
-direction
-email
-laboratory procedures
-lighting
-lotus notes
-access
-windows xp
-negotiation
-organizational skills
-pc skills
-reporting
-sap
-tax preparer
-tax preparation
-team work
-websites
-workbench
-written communication
-acquisitions
-financing
-investment banking
-mergers
-outside sales
-proposal
-san
-project cure
-10-key
-business administration
-c
-cash deposits
-change management
-com
-cpi
-customer service skills
-database
-hogan
-listening
-director
-"microsoft 
+313,quality control
+314,scheduling
+315,staff development
+316,telephone etiquette
+317,phone
+318,time management
+319,trainer
+320,warehousing
+321,liability
+322,loan processor
+323,mortgage lending
+324,processor
+325,ups
+326,fha
+327,foreclosure
+328,file
+329,state tax
+330,team lead
+331,banking loan
+332,loan operations
+333,mortgage loan
+334,security
+335,cases
+336,mortgage banking
+337,fannie mae
+338,internal audits
+339,nss
+340,production environment
+341,ambitious
+342,articulate
+343,credit analysis
+344,detail-oriented
+345,dos
+346,fast learner
+347,loan closing
+348,loss mitigation
+349,microsoft sharepoint
+350,mitigation
+351,pipeline
+352,problem solver
+353,quality assurance
+354,reviewing financial statements
+355,risk assessment
+356,sharepoint
+357,trading
+358,real estate analysis
+359,marketing assistant
+360,customer relationship software
+361,coordinating special events
+362,direct mail programs
+363,including signage
+364,marketplace perceptions
+365,advertising
+366,agency
+367,atm
+368,budgeting
+369,direct mail
+370,special events
+371,executive management
+372,facilities management
+373,financial reporting
+374,image
+375,investment strategies
+376,marketing and communication
+377,microsoft outlook
+378,microsoft powerpoint
+379,new product development
+380,pricing
+381,product development
+382,administrative support
+383,automation
+384,automotive
+385,interpersonal
+386,interpersonal skills
+387,oral
+388,customer care
+389,databases
+390,direction
+391,email
+392,laboratory procedures
+393,lighting
+394,lotus notes
+395,access
+396,windows xp
+397,negotiation
+398,organizational skills
+399,pc skills
+400,reporting
+401,sap
+402,tax preparer
+403,tax preparation
+404,team work
+405,websites
+406,workbench
+407,written communication
+408,acquisitions
+409,financing
+410,investment banking
+411,mergers
+412,outside sales
+413,proposal
+414,san
+415,project cure
+416,10-key
+417,business administration
+418,c
+419,cash deposits
+420,change management
+421,com
+422,cpi
+423,customer service skills
+424,database
+425,hogan
+426,listening
+427,director
+428,"microsoft 
 access"
-microsoft power point
-next
-organizational development
-process improvement
-procurement
-progress
-protocols
-sales reports
-settlements
-strategic management
-supervisor
-supervising
-technical support
-transportation
-java
-c+
-partner banks
-perform sum-of-the-parts valuation
-relevant topic
-"state
+429,microsoft power point
+430,next
+431,organizational development
+432,process improvement
+433,procurement
+434,progress
+435,protocols
+436,sales reports
+437,settlements
+438,strategic management
+439,supervisor
+440,supervising
+441,technical support
+442,transportation
+443,java
+444,c+
+445,partner banks
+446,perform sum-of-the-parts valuation
+447,relevant topic
+448,"state
 position          month"
-year - month
-probability & statistics
-inc.          colorado springs
-calculus
-data analysis
-french
-macros
-pick
-read
-spanish
-statistics
-technical training
-unique
-awards
-crossfit
-world cup
-business plans
-capital markets
-cognos
-consulting
-contract negotiations
-corporate finance
-essbase
-foreign exchange
-hyperion
-jd edwards
-lotus 1-2-3
-market analysis
-marketing strategies
-marketing and sales
-mergers and acquisitions
-microsoft office applications
-strategic planning
-budget development
-cold calling
-clientele
-microsoft certified
-microsoft office suite
-compliance
-home equity
-vehicle
-commercial
-including branch sales
-city
-growing
-promoting loyalty
-state    june 2004
-uc berkeley campus
-9
-sales prism
-ncino
-siebel systems
-act system
-as 400
-ms access 2.0
-ibm is series
-lotus notes 4.1
-boss
-afs
-caps
-vector 5
-maxaar system
-apollo system
-display write
-facts
-branch suite
-base 2000
-bank pro
-hogan system
-host system
-symitar
-seg manager
-banker insight
-ibm compatible pc
-pbx
-cash register
-percs system
-adobe
-photoshop
-streamline
-attorney
-audio
-computer networking
-help desk
-indesign
-inventory control
-ip
-linux
-litigation
-ms word
-multi-media
-sales manager
-sound
-surveys
-video
-voip
-developing business
-clients service
-mortgage compliance
-understands cfbp requirements
-mortgage loan origination
-policies and sales
-assistant manager
-benefits
-branding
-direct sales
-instructing
-team development
-law
-mechanical
-mentor
-negotiations
-organizational
-fdic
-verbally or written
-while supporting gire
-gs&i
-equity research
-projects
-hire
-nj
-trade secrets
-false advertising
-union
-wage & hour
-flsa
-harassment litigations
-employment agreements
-separations
-fiduciary
-arbitration
-medication
-nasd
-employee handbooks
-venture capital
-officer questionnaires
-forms 10-k
-deposition digests
-pleadings
-motions
-orders
-manage
-scan
-state    new york
-paralegal studies program
-criminal law
-teaneck
-e-discovery
-ada
-claims
-compensation
-correspondence
-defendant
-deposition
-eeoc
-erisa
-executive compensation
-intellectual property
-labor law
-patent
-patents
-plaintiff
-sec
-trademark
-witness
-asbestos
-aml
-bsa
-business systems analysis
-data analytics
-treasury department
-healthcare
-mutual funds
-award
-lexis
-pmp
-regulatory affairs
-regulatory compliance
-westlaw
-wordperfect
-armed forces
-quality coaching
-competitive
-goal setting
-market trend
-qa
-sales forecasting
-spreadsheets
-strong interpersonal skills
-cooking
-features
-receiving
-safety
-supervisory
-tables
-treasury
-.net 3.5
-.net
-asp .net 3.5
-asp.net 2.0
-asp.net 3.5
-ajax
-asm
-basic
-business objects
-css
-css 2
-ebusiness
-editor
-electronics
-hp
-html 4
-ide
-iis 7.0
-itil
-javascript
-c#
-c# 3.0
-windows
-windows applications
-2000
-3.1
-windows 98
-enterprise
-oct
-operating systems
-oracle 9
-oracle database
-pl/sql
-programming
-recording
-servers
-service level agreement
-visual sourcesafe
-visual  sourcesafe
-sql server
-toad
-unix
-vi
-microsoft visual studio
-visual studio
-windows server
-administrative
-commercial loans
-commercial lending
-conferences
-human resources
-loan origination
-notes
-mail
-reception
-relationship management
-ucc
-word processing
-adobe products
-interpersonal and communication
-critical thinking
-resolve customer concerns
-employee relations
-focus
-front office
-management reporting
-mis
-page 2
-improving processes
-self-starter
-spanish fluency
-cash management
-communication skills
-crm
-client expense reports
-market management
-new business development
-sales and management
-tax return preparation
-community development
-driving sales
-weekly staff meetings
-vacation
-leaves of absence
-sickness
-sales coaching
-progression monitoring
-coordinates
-procedures
-real estate loans
-"centers of
+449,year - month
+450,probability & statistics
+451,inc.          colorado springs
+452,calculus
+453,data analysis
+454,french
+455,macros
+456,pick
+457,read
+458,spanish
+459,statistics
+460,technical training
+461,unique
+462,awards
+463,crossfit
+464,world cup
+465,business plans
+466,capital markets
+467,cognos
+468,consulting
+469,contract negotiations
+470,corporate finance
+471,essbase
+472,foreign exchange
+473,hyperion
+474,jd edwards
+475,lotus 1-2-3
+476,market analysis
+477,marketing strategies
+478,marketing and sales
+479,mergers and acquisitions
+480,microsoft office applications
+481,strategic planning
+482,budget development
+483,cold calling
+484,clientele
+485,microsoft certified
+486,microsoft office suite
+487,compliance
+488,home equity
+489,vehicle
+490,commercial
+491,including branch sales
+492,city
+493,growing
+494,promoting loyalty
+495,state    june 2004
+496,uc berkeley campus
+497,9
+498,sales prism
+499,ncino
+500,siebel systems
+501,act system
+502,as 400
+503,ms access 2.0
+504,ibm is series
+505,lotus notes 4.1
+506,boss
+507,afs
+508,caps
+509,vector 5
+510,maxaar system
+511,apollo system
+512,display write
+513,facts
+514,branch suite
+515,base 2000
+516,bank pro
+517,hogan system
+518,host system
+519,symitar
+520,seg manager
+521,banker insight
+522,ibm compatible pc
+523,pbx
+524,cash register
+525,percs system
+526,adobe
+527,photoshop
+528,streamline
+529,attorney
+530,audio
+531,computer networking
+532,help desk
+533,indesign
+534,inventory control
+535,ip
+536,linux
+537,litigation
+538,ms word
+539,multi-media
+540,sales manager
+541,sound
+542,surveys
+543,video
+544,voip
+545,developing business
+546,clients service
+547,mortgage compliance
+548,understands cfbp requirements
+549,mortgage loan origination
+550,policies and sales
+551,assistant manager
+552,benefits
+553,branding
+554,direct sales
+555,instructing
+556,team development
+557,law
+558,mechanical
+559,mentor
+560,negotiations
+561,organizational
+562,fdic
+563,verbally or written
+564,while supporting gire
+565,gs&i
+566,equity research
+567,projects
+568,hire
+569,nj
+570,trade secrets
+571,false advertising
+572,union
+573,wage & hour
+574,flsa
+575,harassment litigations
+576,employment agreements
+577,separations
+578,fiduciary
+579,arbitration
+580,medication
+581,nasd
+582,employee handbooks
+583,venture capital
+584,officer questionnaires
+585,forms 10-k
+586,deposition digests
+587,pleadings
+588,motions
+589,orders
+590,manage
+591,scan
+592,state    new york
+593,paralegal studies program
+594,criminal law
+595,teaneck
+596,e-discovery
+597,ada
+598,claims
+599,compensation
+600,correspondence
+601,defendant
+602,deposition
+603,eeoc
+604,erisa
+605,executive compensation
+606,intellectual property
+607,labor law
+608,patent
+609,patents
+610,plaintiff
+611,sec
+612,trademark
+613,witness
+614,asbestos
+615,aml
+616,bsa
+617,business systems analysis
+618,data analytics
+619,treasury department
+620,healthcare
+621,mutual funds
+622,award
+623,lexis
+624,pmp
+625,regulatory affairs
+626,regulatory compliance
+627,westlaw
+628,wordperfect
+629,armed forces
+630,quality coaching
+631,competitive
+632,goal setting
+633,market trend
+634,qa
+635,sales forecasting
+636,spreadsheets
+637,strong interpersonal skills
+638,cooking
+639,features
+640,receiving
+641,safety
+642,supervisory
+643,tables
+644,treasury
+645,.net 3.5
+646,.net
+647,asp .net 3.5
+648,asp.net 2.0
+649,asp.net 3.5
+650,ajax
+651,asm
+652,basic
+653,business objects
+654,css
+655,css 2
+656,ebusiness
+657,editor
+658,electronics
+659,hp
+660,html 4
+661,ide
+662,iis 7.0
+663,itil
+664,javascript
+665,c#
+666,c# 3.0
+667,windows
+668,windows applications
+669,2000
+670,3.1
+671,windows 98
+672,enterprise
+673,oct
+674,operating systems
+675,oracle 9
+676,oracle database
+677,pl/sql
+678,programming
+679,recording
+680,servers
+681,service level agreement
+682,visual sourcesafe
+683,visual  sourcesafe
+684,sql server
+685,toad
+686,unix
+687,vi
+688,microsoft visual studio
+689,visual studio
+690,windows server
+691,administrative
+692,commercial loans
+693,commercial lending
+694,conferences
+695,human resources
+696,loan origination
+697,notes
+698,mail
+699,reception
+700,relationship management
+701,ucc
+702,word processing
+703,adobe products
+704,interpersonal and communication
+705,critical thinking
+706,resolve customer concerns
+707,employee relations
+708,focus
+709,front office
+710,management reporting
+711,mis
+712,page 2
+713,improving processes
+714,self-starter
+715,spanish fluency
+716,cash management
+717,communication skills
+718,crm
+719,client expense reports
+720,market management
+721,new business development
+722,sales and management
+723,tax return preparation
+724,community development
+725,driving sales
+726,weekly staff meetings
+727,vacation
+728,leaves of absence
+729,sickness
+730,sales coaching
+731,progression monitoring
+732,coordinates
+733,procedures
+734,real estate loans
+735,"centers of
      influence"
-community
-records
-loan collateral
-locking the vault
-"real
+736,community
+737,records
+738,loan collateral
+739,locking the vault
+740,"real
      estate"
-dress
-000 to $1
-000
-assigning
-minimize loss
-reduce risk
-withdrawals
-check cashing requests
-credit card advances
-money orders
-travelers checks
-using their names
-making eye contact
-smiling
-thanking for business
-instruction
-coaches
-"using their
+741,dress
+742,000 to $1
+743,000
+744,assigning
+745,minimize loss
+746,reduce risk
+747,withdrawals
+748,check cashing requests
+749,credit card advances
+750,money orders
+751,travelers checks
+752,using their names
+753,making eye contact
+754,smiling
+755,thanking for business
+756,instruction
+757,coaches
+758,"using their
           names"
-counseling
-disaster recovery planning
-training employees
-mentoring
-problem-resolution
-200
-afroc
-sroa       skills    banking
-cancer
-strong communication skills
-consultant
-team builder
-marketing plan
-negotiating
-oncology
-strategic planning/management
-urology
-view
-agile
-apple
-ask
-book
-browsers
-debit
-xml
-gui
-internet explorer
-inventory management
-apple mac
-mercury interactive
-windows 7
-win 7
-windows 95
-98
-nt
-os
-pci
-requirement
-scrum
-sdlc
-scripts
-specification
-test director
-upgrades
-vendor management
-problem
-state      proactively initiate
-develop
-and manage long-term
-retail loan
-private banking
-small business
-merchant services
-security guidelines
-handle mail
-online charts
-services
-maintaining store appearance
-charts
-maintain files
-store management
-type
-software applications     peoplesoft
-commercial electronic office
-filenet
-quickbooks
-sei trust 3000
-kronos
-lexisnexis
-12
-000 kspm ten-key
-dependable
-accountant
-cash registers
-customer   service
-forms
-layout
-processors
-shadow
-argus real estate
-snl financial
-bloomberg
-capital iq
-thomson one  banker
-tennis
-n.y. yankees
-n.y. giants
-military history
-cash management services
-high-yield accounts
-credit cards
-mortgages
-leasing
-including dcf
-tax credit analysis
-investment return analysis
-financial institutions
-general industrials
-corporate
-state      advised technology
-including: mergers
-private equity investments
-leveraged buyouts
-merger
-municipal
-associate
-financial services
-its
-management sales
-mutual fund
-ipo
-corporate transactions
-m&a
-telecom
-middle market
-exchange
-sales tax
-argus
-ms office
-series 6
-series 7
-premier
-customer support
-english
-latin
-oracle sql
-proposals
-sap r/3
-spss
-validation
-visio
-bi
-capacity planning
-credit/risk
-client relations
-database analysis
-drivers
-financial planning
-fp&a
-long-term care
-ms access
-modeling
-pivot table
-project lead
-trend
-variance analysis
-vba
-website design
-cloud: amazon ec2
-elastic beanstalk (paas)
-lambdas (serverless)
-api gateway
-alexa
-envoy
-code quality
-code coverage
-test coverage
-snyk
-etc.  canary releases
-a/b testing
-c++
-nodejs
-javascript/es6
-typescript
-mysql
-postgres
-sqlite
-realm
-rfps
-vendor selection
-fixed scope
-log aggregation
-up/out
-motivating actively
-rds
-sns
-paas
-12-factor
-ios
-android
-roku
-starz
-barnes & noble
-dish network
-catalog
-scope management
-developers
-induction
-ms project
-adult learning
-business management
-business planning
-first aid course
-presentation skills
-taxation
-business writing
-intermediate representation
-ir
-visio 2000
-case management
-long-term disability
-ltd
-opex
-payments
-project coordinator
-project manager
-purchase orders
-video conference
-account reconciliation
-ad
-bonds
-cashier
-ca
-controller
-document management
-frontpage
-ftp
-information technology
-macintosh
-meeting facilitation
-2k
-windows 7/xp
-navigation
-office equipment
-db
-payment processing
-pc maintenance
-coding
-programmer
-record keeping
-software development
-software testing
-system integration
-desktop support
-user training
-t-sql
-troubleshoot
-troubleshooting
-upgrade
-account analysis &
-"team
+759,counseling
+760,disaster recovery planning
+761,training employees
+762,mentoring
+763,problem-resolution
+764,200
+765,afroc
+766,sroa       skills    banking
+767,cancer
+768,strong communication skills
+769,consultant
+770,team builder
+771,marketing plan
+772,negotiating
+773,oncology
+774,strategic planning/management
+775,urology
+776,view
+777,agile
+778,apple
+779,ask
+780,book
+781,browsers
+782,debit
+783,xml
+784,gui
+785,internet explorer
+786,inventory management
+787,apple mac
+788,mercury interactive
+789,windows 7
+790,win 7
+791,windows 95
+792,98
+793,nt
+794,os
+795,pci
+796,requirement
+797,scrum
+798,sdlc
+799,scripts
+800,specification
+801,test director
+802,upgrades
+803,vendor management
+804,problem
+805,state      proactively initiate
+806,develop
+807,and manage long-term
+808,retail loan
+809,private banking
+810,small business
+811,merchant services
+812,security guidelines
+813,handle mail
+814,online charts
+815,services
+816,maintaining store appearance
+817,charts
+818,maintain files
+819,store management
+820,type
+821,software applications     peoplesoft
+822,commercial electronic office
+823,filenet
+824,quickbooks
+825,sei trust 3000
+826,kronos
+827,lexisnexis
+828,12
+829,000 kspm ten-key
+830,dependable
+831,accountant
+832,cash registers
+833,customer   service
+834,forms
+835,layout
+836,processors
+837,shadow
+838,argus real estate
+839,snl financial
+840,bloomberg
+841,capital iq
+842,thomson one  banker
+843,tennis
+844,n.y. yankees
+845,n.y. giants
+846,military history
+847,cash management services
+848,high-yield accounts
+849,credit cards
+850,mortgages
+851,leasing
+852,including dcf
+853,tax credit analysis
+854,investment return analysis
+855,financial institutions
+856,general industrials
+857,corporate
+858,state      advised technology
+859,including: mergers
+860,private equity investments
+861,leveraged buyouts
+862,merger
+863,municipal
+864,associate
+865,financial services
+866,its
+867,management sales
+868,mutual fund
+869,ipo
+870,corporate transactions
+871,m&a
+872,telecom
+873,middle market
+874,exchange
+875,sales tax
+876,argus
+877,ms office
+878,series 6
+879,series 7
+880,premier
+881,customer support
+882,english
+883,latin
+884,oracle sql
+885,proposals
+886,sap r/3
+887,spss
+888,validation
+889,visio
+890,bi
+891,capacity planning
+892,credit/risk
+893,client relations
+894,database analysis
+895,drivers
+896,financial planning
+897,fp&a
+898,long-term care
+899,ms access
+900,modeling
+901,pivot table
+902,project lead
+903,trend
+904,variance analysis
+905,vba
+906,website design
+907,cloud: amazon ec2
+908,elastic beanstalk (paas)
+909,lambdas (serverless)
+910,api gateway
+911,alexa
+912,envoy
+913,code quality
+914,code coverage
+915,test coverage
+916,snyk
+917,etc.  canary releases
+918,a/b testing
+919,c++
+920,nodejs
+921,javascript/es6
+922,typescript
+923,mysql
+924,postgres
+925,sqlite
+926,realm
+927,rfps
+928,vendor selection
+929,fixed scope
+930,log aggregation
+931,up/out
+932,motivating actively
+933,rds
+934,sns
+935,paas
+936,12-factor
+937,ios
+938,android
+939,roku
+940,starz
+941,barnes & noble
+942,dish network
+943,catalog
+944,scope management
+945,developers
+946,induction
+947,ms project
+948,adult learning
+949,business management
+950,business planning
+951,first aid course
+952,presentation skills
+953,taxation
+954,business writing
+955,intermediate representation
+956,ir
+957,visio 2000
+958,case management
+959,long-term disability
+960,ltd
+961,opex
+962,payments
+963,project coordinator
+964,project manager
+965,purchase orders
+966,video conference
+967,account reconciliation
+968,ad
+969,bonds
+970,cashier
+971,ca
+972,controller
+973,document management
+974,frontpage
+975,ftp
+976,information technology
+977,macintosh
+978,meeting facilitation
+979,2k
+980,windows 7/xp
+981,navigation
+982,office equipment
+983,db
+984,payment processing
+985,pc maintenance
+986,coding
+987,programmer
+988,record keeping
+989,software development
+990,software testing
+991,system integration
+992,desktop support
+993,user training
+994,t-sql
+995,troubleshoot
+996,troubleshooting
+997,upgrade
+998,account analysis &
+999,"team
 lead"
-logistics
-microsoft exchange
-monitors
-space planning
-verbal communication skills
-visual basic
-balance
-management consultant
-ncis
-technical assistance
-vision
-analyst
-conversion
-derivatives
-drafting
-isda
-ms office suite
-migration
-project plans
-reuters
-structured
-swaps
-swift
-data collection
-financial management
-grants
-works
-improves processes
-report writing
-workflow analysis
-project development
-computer proficiency
-team leadership
-marketing plans
-product management
-profit
-business development.sql
-active listener
-creative problem solver
-e-commerce
-gross profit
-mas 90
-medical billing
-peachtree accounting
-police
-quick
-written communicationaccounts payable
-bank reconciliation
-cd
-""
-mental health
-problem solving skills
-psychology
-medisoft
-computerized charting
-std counseling
-great organizational skills
-go live
-applications master
-automate
-business intelligence
-customer relationship management
-crystal reports
-designing
-eclipse
-erp
-hindi
-ibm
-db2
-ibm websphere
-information security
-j2ee
-jboss 5.1.0
-jboss
-languages
-windows 9
-developer
-oracle enterprise manager
-pdf
-power builder 9.0
-rational rose
-red hat 5
-redhat linux 2.5
-sms
-ms sql server
-ms sql
-tomcat5
-tomcat6
-uml
-web designing
-industrial visits
-managerial accounting
-business information systems
-managerial economics
-financial statement analysis
-marketing management
-"nm.
+1000,logistics
+1001,microsoft exchange
+1002,monitors
+1003,space planning
+1004,verbal communication skills
+1005,visual basic
+1006,balance
+1007,management consultant
+1008,ncis
+1009,technical assistance
+1010,vision
+1011,analyst
+1012,conversion
+1013,derivatives
+1014,drafting
+1015,isda
+1016,ms office suite
+1017,migration
+1018,project plans
+1019,reuters
+1020,structured
+1021,swaps
+1022,swift
+1023,data collection
+1024,financial management
+1025,grants
+1026,works
+1027,improves processes
+1028,report writing
+1029,workflow analysis
+1030,project development
+1031,computer proficiency
+1032,team leadership
+1033,marketing plans
+1034,product management
+1035,profit
+1036,business development.sql
+1037,active listener
+1038,creative problem solver
+1039,e-commerce
+1040,gross profit
+1041,mas 90
+1042,medical billing
+1043,peachtree accounting
+1044,police
+1045,quick
+1046,written communicationaccounts payable
+1047,bank reconciliation
+1048,cd
+1049,
+1050,mental health
+1051,problem solving skills
+1052,psychology
+1053,medisoft
+1054,computerized charting
+1055,std counseling
+1056,great organizational skills
+1057,go live
+1058,applications master
+1059,automate
+1060,business intelligence
+1061,customer relationship management
+1062,crystal reports
+1063,designing
+1064,eclipse
+1065,erp
+1066,hindi
+1067,ibm
+1068,db2
+1069,ibm websphere
+1070,information security
+1071,j2ee
+1072,jboss 5.1.0
+1073,jboss
+1074,languages
+1075,windows 9
+1076,developer
+1077,oracle enterprise manager
+1078,pdf
+1079,power builder 9.0
+1080,rational rose
+1081,red hat 5
+1082,redhat linux 2.5
+1083,sms
+1084,ms sql server
+1085,ms sql
+1086,tomcat5
+1087,tomcat6
+1088,uml
+1089,web designing
+1090,industrial visits
+1091,managerial accounting
+1092,business information systems
+1093,managerial economics
+1094,financial statement analysis
+1095,marketing management
+1096,"nm.
 graduate assistantship"
-sales staff
-sales team
-the sales
-regional sales
-sales director
-wealth management
-class
-closing sales
-confident
-detail oriented
-exceed
-journal
-leads
-self motivated
-territory
-the sale
-issue receipts
-phone skills
-trouble shooting
-state      design
-abilities
-assistant vice president
-business banking
-999
-marketing supplies
-communicate
-region trends
-mastering leadership dynamics
-2016      skills    banking
-develop business
-business plan
-community relations
-internet skills
-leadership development
-mac os
-networks
-seminars
-scripting
-vista
-10 key
-cpr certified
-first aid
-general ledger
-nursing
-repairs
-service level agreements
-transmission
-business solutions
-laser
-nice
-requirements gathering
-rms
-tcl
-data warehouse knowledge
-database design
-teradata
-sql testing
-unit testing
-business requirements gathering
-change management planning
-configuration management planning
-data mart development
-code deployment
-feasibility analysis
-integration testing
-application maintenance
-meta data analysis
-teradata pl/sql
-teradata bteq
-teradata fastload
-semantic database design
-technical design
-technical specifications documents
-uat
-basic unix
-finance gate
-team files
-pc fast
-upon demand
-with research
-shared support
-consumer lending
-portfolio
-loan default
-production
-margin analysis
-rate variance analysis
-secondary marketing performance
-capitalized servicing
-delinquency statistics
-loan default (reo)
-mortgage production
-forecast
-existing location renewals
-internal auditing
-manufacturing
-system development
-accruals
-accrual
-adp payroll
-as/400
-business case
-business processes
-citrix
-great plains
-mark
-microsoft access
-"adobe
+1097,sales staff
+1098,sales team
+1099,the sales
+1100,regional sales
+1101,sales director
+1102,wealth management
+1103,class
+1104,closing sales
+1105,confident
+1106,detail oriented
+1107,exceed
+1108,journal
+1109,leads
+1110,self motivated
+1111,territory
+1112,the sale
+1113,issue receipts
+1114,phone skills
+1115,trouble shooting
+1116,state      design
+1117,abilities
+1118,assistant vice president
+1119,business banking
+1120,999
+1121,marketing supplies
+1122,communicate
+1123,region trends
+1124,mastering leadership dynamics
+1125,2016      skills    banking
+1126,develop business
+1127,business plan
+1128,community relations
+1129,internet skills
+1130,leadership development
+1131,mac os
+1132,networks
+1133,seminars
+1134,scripting
+1135,vista
+1136,10 key
+1137,cpr certified
+1138,first aid
+1139,general ledger
+1140,nursing
+1141,repairs
+1142,service level agreements
+1143,transmission
+1144,business solutions
+1145,laser
+1146,nice
+1147,requirements gathering
+1148,rms
+1149,tcl
+1150,data warehouse knowledge
+1151,database design
+1152,teradata
+1153,sql testing
+1154,unit testing
+1155,business requirements gathering
+1156,change management planning
+1157,configuration management planning
+1158,data mart development
+1159,code deployment
+1160,feasibility analysis
+1161,integration testing
+1162,application maintenance
+1163,meta data analysis
+1164,teradata pl/sql
+1165,teradata bteq
+1166,teradata fastload
+1167,semantic database design
+1168,technical design
+1169,technical specifications documents
+1170,uat
+1171,basic unix
+1172,finance gate
+1173,team files
+1174,pc fast
+1175,upon demand
+1176,with research
+1177,shared support
+1178,consumer lending
+1179,portfolio
+1180,loan default
+1181,production
+1182,margin analysis
+1183,rate variance analysis
+1184,secondary marketing performance
+1185,capitalized servicing
+1186,delinquency statistics
+1187,loan default (reo)
+1188,mortgage production
+1189,forecast
+1190,existing location renewals
+1191,internal auditing
+1192,manufacturing
+1193,system development
+1194,accruals
+1195,accrual
+1196,adp payroll
+1197,as/400
+1198,business case
+1199,business processes
+1200,citrix
+1201,great plains
+1202,mark
+1203,microsoft access
+1204,"adobe
 photoshop"
-goals
-objectives
-and procedures.  creating
-"service level
+1205,goals
+1206,objectives
+1207,and procedures.  creating
+1208,"service level
 determination"
-visits utilization
-case mix weight
-business strategies
-"communication
+1209,visits utilization
+1210,case mix weight
+1211,business strategies
+1212,"communication
 skills"
-negotiating contracts
-cost control
-customer services
-driving
-environmental health
-"financial
+1213,negotiating contracts
+1214,cost control
+1215,customer services
+1216,driving
+1217,environmental health
+1218,"financial
 analysis"
-marketing/sales
-organizing
-patient care
-plan development
-cpr
-presenting
-press
-press releases
-print media
-publicist
-publicity
-spanish language
-phones
-television
-feasibility studies
-german
-korean
-graduate finance association
-pl/i
-egl
-databases - db2
-idms/adso
-message broker
-business process management
-mobile and cloud
-middleware - was
-raa
-rbd-egl
-rtcz
-web 2.0
-soa
-mobility
-bpm
-application development
-electronic data interchange
-electronic health records
-it strategy
-management information systems
-quality improvement
-accountability for
-proactive
-affirmative action
-discrimination
-eeo
-equal employment opportunity
-ofccp
-instructor
-teaching
-executive level
-fact
-fact erp
-hr business partner
-hrbp
-virtual learning
-community outreach
-recruiting events
-storage area network
-aspect
-corporate recruiting
-cash-management
-concept
-council
-equities
-2011-2013;  committee chair
-2011; mentor
-business operations
-sales planning
-microsoft office (word
-outlook) share point
-wells fargo systems
-second
-review
-define measurables
-macs
-macbook
-state     major(s): psychology
-analytical skills
-financial consulting
-quantitative analysis
-financial modelling
-global finance
-product management slabware
-busy ls
-alternate investments
-real estate funds
-consumer loans
-which helped record-keeping
-identified investment opportunities
-cost reduction
-investment analysis
-pricing strategies
-record-keeping
-contractors
-planning
-system
-profit sharing
-medical
-dental
-life
-architect
-contract negotiation
-invoicing
-management skills
-improve process
-program implementation
-verbal communication
-including commitment papers
-bridge loan papers
-term sheets
-florida east coast
-hawkeye group
-modern luxury
-prince minerals
-production control services
-railamerica
-private placements
-fx
-interest rate derivatives
-eurobonds
-b/e aerospace
-csx corp.
-duke energy
-fpl
-harris corp.
-heico
-interline brands
-jabil circuit
-lockheed martin
-ring power corp.
-ryder
-teco energy
-walter energy
-strategic business development
-procurement agent
-network
-process reengineering
-process  improvement
-reengineering
-syndicate
-alpha club
-fl      skills    crm
-dec
-investment strategy
-research product
-research reports
-valuation
-10-key by touch
-developing business relationships
-focused
-front-office
-management
-manufacturing process
-marketing & sales
-mrp
-retail management
-submissions
-customer documentation
-close
-regulations
-"compliance and
+1219,marketing/sales
+1220,organizing
+1221,patient care
+1222,plan development
+1223,cpr
+1224,presenting
+1225,press
+1226,press releases
+1227,print media
+1228,publicist
+1229,publicity
+1230,spanish language
+1231,phones
+1232,television
+1233,feasibility studies
+1234,german
+1235,korean
+1236,graduate finance association
+1237,pl/i
+1238,egl
+1239,databases - db2
+1240,idms/adso
+1241,message broker
+1242,business process management
+1243,mobile and cloud
+1244,middleware - was
+1245,raa
+1246,rbd-egl
+1247,rtcz
+1248,web 2.0
+1249,soa
+1250,mobility
+1251,bpm
+1252,application development
+1253,electronic data interchange
+1254,electronic health records
+1255,it strategy
+1256,management information systems
+1257,quality improvement
+1258,accountability for
+1259,proactive
+1260,affirmative action
+1261,discrimination
+1262,eeo
+1263,equal employment opportunity
+1264,ofccp
+1265,instructor
+1266,teaching
+1267,executive level
+1268,fact
+1269,fact erp
+1270,hr business partner
+1271,hrbp
+1272,virtual learning
+1273,community outreach
+1274,recruiting events
+1275,storage area network
+1276,aspect
+1277,corporate recruiting
+1278,cash-management
+1279,concept
+1280,council
+1281,equities
+1282,2011-2013;  committee chair
+1283,2011; mentor
+1284,business operations
+1285,sales planning
+1286,microsoft office (word
+1287,outlook) share point
+1288,wells fargo systems
+1289,second
+1290,review
+1291,define measurables
+1292,macs
+1293,macbook
+1294,state     major(s): psychology
+1295,analytical skills
+1296,financial consulting
+1297,quantitative analysis
+1298,financial modelling
+1299,global finance
+1300,product management slabware
+1301,busy ls
+1302,alternate investments
+1303,real estate funds
+1304,consumer loans
+1305,which helped record-keeping
+1306,identified investment opportunities
+1307,cost reduction
+1308,investment analysis
+1309,pricing strategies
+1310,record-keeping
+1311,contractors
+1312,planning
+1313,system
+1314,profit sharing
+1315,medical
+1316,dental
+1317,life
+1318,architect
+1319,contract negotiation
+1320,invoicing
+1321,management skills
+1322,improve process
+1323,program implementation
+1324,verbal communication
+1325,including commitment papers
+1326,bridge loan papers
+1327,term sheets
+1328,florida east coast
+1329,hawkeye group
+1330,modern luxury
+1331,prince minerals
+1332,production control services
+1333,railamerica
+1334,private placements
+1335,fx
+1336,interest rate derivatives
+1337,eurobonds
+1338,b/e aerospace
+1339,csx corp.
+1340,duke energy
+1341,fpl
+1342,harris corp.
+1343,heico
+1344,interline brands
+1345,jabil circuit
+1346,lockheed martin
+1347,ring power corp.
+1348,ryder
+1349,teco energy
+1350,walter energy
+1351,strategic business development
+1352,procurement agent
+1353,network
+1354,process reengineering
+1355,process  improvement
+1356,reengineering
+1357,syndicate
+1358,alpha club
+1359,fl      skills    crm
+1360,dec
+1361,investment strategy
+1362,research product
+1363,research reports
+1364,valuation
+1365,10-key by touch
+1366,developing business relationships
+1367,focused
+1368,front-office
+1369,management
+1370,manufacturing process
+1371,marketing & sales
+1372,mrp
+1373,retail management
+1374,submissions
+1375,customer documentation
+1376,close
+1377,regulations
+1378,"compliance and
      weekly"
-monthly
-quarterly
-state              skills    book
-customer-service
-imageready
-ms office (word
-powerpoint)   web/multimedia: coldfusion
-flash
-search optimization
-web server administration
-multi-channel packet
-cashiering
-knowledge sharing
-first-time borrowers
-mortgage loan originations
-fulfillment
-servicing securitization
-brochures
-catalogs
-coldfusion
-content management
-event management
-multimedia
-optimization
-web server
-year-end
-os : mvs
-os/390
-z/os
-vasm oracle
-racf
-opc
-qmf
-file-aid
-spufi
-xpeditor
-endevor
-abend-aid
-sdf
-dclgen
-super-c
-ibm sort
-icetool
-bms
-quality center (8.2)
-clear quest
-fault analyzer
-sdsf
-ibm utilities
-sonar
-rdz
-jcl
-cics
-vsam
-ms-office
-scheduler
-rexx
-jcl/proc
-vs cobol-ii
-cobol
-expeditor
-r2ds
-fun fridays
-news-letter
-team outings
-daily status reporting
-leave management
-abends & tickets
-scheduling change
-bug fixing
-code reviews
-learning's during project
-oh forex
-oh cards
-rmds
-db2 admin panel
-authorization
-processing
-linking
-brio
-cobol-ii
-db2 8.0
-db2 9.0
-ibm-mvs
-ispf
-mainframe
-ms-access
-pl1
-quest
-tso
-udb
-biotechnology
-commodities
-financials
-innovation
-iq
-mandarin chinese
-symposium
-opening and closing
-routing
-multi-functional device
-multi-line phone
-360
-track orders
-provided price quotes
-including sales
-cancellations
-ocean marine
-endorsements
-state          skills    ten-key
-administrative skills
-customer liaison
-marketing sales
-social media platforms
-typing 55 wpm
-adobe pagemaker 6.5
-adobe photoshop
-dreamweaver
-customer account information
-posting stop payments
-programming/configuration/installation documents
-installation
-dba
-editing
-marketing materials
-online help
-developer 2000
-sales skills
-telecommunications
-wiring
-graphics
-merchandising
-powerpoint presentations
-page
-pr
-publications
-teacher
-cch atx
-ma
-tax compliance
-telemarketing
-partnerships
-llcs
-"s
+1379,monthly
+1380,quarterly
+1381,state              skills    book
+1382,customer-service
+1383,imageready
+1384,ms office (word
+1385,powerpoint)   web/multimedia: coldfusion
+1386,flash
+1387,search optimization
+1388,web server administration
+1389,multi-channel packet
+1390,cashiering
+1391,knowledge sharing
+1392,first-time borrowers
+1393,mortgage loan originations
+1394,fulfillment
+1395,servicing securitization
+1396,brochures
+1397,catalogs
+1398,coldfusion
+1399,content management
+1400,event management
+1401,multimedia
+1402,optimization
+1403,web server
+1404,year-end
+1405,os : mvs
+1406,os/390
+1407,z/os
+1408,vasm oracle
+1409,racf
+1410,opc
+1411,qmf
+1412,file-aid
+1413,spufi
+1414,xpeditor
+1415,endevor
+1416,abend-aid
+1417,sdf
+1418,dclgen
+1419,super-c
+1420,ibm sort
+1421,icetool
+1422,bms
+1423,quality center (8.2)
+1424,clear quest
+1425,fault analyzer
+1426,sdsf
+1427,ibm utilities
+1428,sonar
+1429,rdz
+1430,jcl
+1431,cics
+1432,vsam
+1433,ms-office
+1434,scheduler
+1435,rexx
+1436,jcl/proc
+1437,vs cobol-ii
+1438,cobol
+1439,expeditor
+1440,r2ds
+1441,fun fridays
+1442,news-letter
+1443,team outings
+1444,daily status reporting
+1445,leave management
+1446,abends & tickets
+1447,scheduling change
+1448,bug fixing
+1449,code reviews
+1450,learning's during project
+1451,oh forex
+1452,oh cards
+1453,rmds
+1454,db2 admin panel
+1455,authorization
+1456,processing
+1457,linking
+1458,brio
+1459,cobol-ii
+1460,db2 8.0
+1461,db2 9.0
+1462,ibm-mvs
+1463,ispf
+1464,mainframe
+1465,ms-access
+1466,pl1
+1467,quest
+1468,tso
+1469,udb
+1470,biotechnology
+1471,commodities
+1472,financials
+1473,innovation
+1474,iq
+1475,mandarin chinese
+1476,symposium
+1477,opening and closing
+1478,routing
+1479,multi-functional device
+1480,multi-line phone
+1481,360
+1482,track orders
+1483,provided price quotes
+1484,including sales
+1485,cancellations
+1486,ocean marine
+1487,endorsements
+1488,state          skills    ten-key
+1489,administrative skills
+1490,customer liaison
+1491,marketing sales
+1492,social media platforms
+1493,typing 55 wpm
+1494,adobe pagemaker 6.5
+1495,adobe photoshop
+1496,dreamweaver
+1497,customer account information
+1498,posting stop payments
+1499,programming/configuration/installation documents
+1500,installation
+1501,dba
+1502,editing
+1503,marketing materials
+1504,online help
+1505,developer 2000
+1506,sales skills
+1507,telecommunications
+1508,wiring
+1509,graphics
+1510,merchandising
+1511,powerpoint presentations
+1512,page
+1513,pr
+1514,publications
+1515,teacher
+1516,cch atx
+1517,ma
+1518,tax compliance
+1519,telemarketing
+1520,partnerships
+1521,llcs
+1522,"s
     corporations"
-hospitality industry
-payroll tax deposits
-backup
-clerical
-phone support
-mailing
-sales experience
-supervising 7
-phone etiquette
-typing 40 wpm
-written communication skills
-state       manage
-write
-influencing
-collaboration
-peers
-managers
-customers
-vendors
-business partners
-deliverables
-creative services
-within budget
-proofing
-state              officer
-consolidations
-edit
-organization skills
-print production
-project planning
-rfi
-six sigma
-spreadsheet
-attention to detail
-concise
-educator
-multi-tasking
-speaking
-typing skills
-excellent oral/written skills
-administration
-preparing trial balance
-balance sheet analysis
-forecasting cash flows
-government grant proposals
-accounts payables
-accounts receivables
-legal issues
-clinical trails
-subaccounts
-creating purchase orders
-monitoring
-irb
-africa
-asset valuation
-collateral security evaluation
-working capital financing
-bills discounting
-bank guarantees
-follow-on offerings
-cra          2011
-russian (native)
-belarusian (native)
-fincen
-european union
-united nations
-ofac requirements
-worldcompliance
-worldcheck
-"other sources;
+1523,hospitality industry
+1524,payroll tax deposits
+1525,backup
+1526,clerical
+1527,phone support
+1528,mailing
+1529,sales experience
+1530,supervising 7
+1531,phone etiquette
+1532,typing 40 wpm
+1533,written communication skills
+1534,state       manage
+1535,write
+1536,influencing
+1537,collaboration
+1538,peers
+1539,managers
+1540,customers
+1541,vendors
+1542,business partners
+1543,deliverables
+1544,creative services
+1545,within budget
+1546,proofing
+1547,state              officer
+1548,consolidations
+1549,edit
+1550,organization skills
+1551,print production
+1552,project planning
+1553,rfi
+1554,six sigma
+1555,spreadsheet
+1556,attention to detail
+1557,concise
+1558,educator
+1559,multi-tasking
+1560,speaking
+1561,typing skills
+1562,excellent oral/written skills
+1563,administration
+1564,preparing trial balance
+1565,balance sheet analysis
+1566,forecasting cash flows
+1567,government grant proposals
+1568,accounts payables
+1569,accounts receivables
+1570,legal issues
+1571,clinical trails
+1572,subaccounts
+1573,creating purchase orders
+1574,monitoring
+1575,irb
+1576,africa
+1577,asset valuation
+1578,collateral security evaluation
+1579,working capital financing
+1580,bills discounting
+1581,bank guarantees
+1582,follow-on offerings
+1583,cra          2011
+1584,russian (native)
+1585,belarusian (native)
+1586,fincen
+1587,european union
+1588,united nations
+1589,ofac requirements
+1590,worldcompliance
+1591,worldcheck
+1592,"other sources;
 
   surveillance"
-business correspondence
-"inquiries/investigations
+1593,business correspondence
+1594,"inquiries/investigations
 processing (english"
-trade-financial operations
-foreign exchange transactions
-interbank deals
-"inquiries/investigations
+1595,trade-financial operations
+1596,foreign exchange transactions
+1597,interbank deals
+1598,"inquiries/investigations
     processing (english"
-"loans;
+1599,"loans;
       customers
     attracting"
-belarus
-cold-calling
-needs assessment
-project coordination
-salesforce.com crm
-self-motivated
-managerial
-prime
-solid communication
-loan originations
-pricing loan
-locking loan rates
-va
-fnma
-capitalizing on referrals
-assessing customer needs
-resources
-time horizon
-referral activities
-customer follow up
-prospect building
-people
-where appropriate
-assessments
-trust
-estate services
-investment managers
-private bankers
-financial consultants
-wealth management specialists
-000§ concurrence $1
-520
-873
-183
-491
-66
-63 · life
-accounting:    financial statements
-month-end close
-fixed assets
-streamline processes
-citrix budgeting
-peoplesoft
-ability
-brio reporting
-accpac
-fas best
-microsoft
-corrigo-work order network
-mortgageware
-as/400 jack henry
-electronic commerce
-all microsoft
-office suite
-symantec
-seo
-sem
+1600,belarus
+1601,cold-calling
+1602,needs assessment
+1603,project coordination
+1604,salesforce.com crm
+1605,self-motivated
+1606,managerial
+1607,prime
+1608,solid communication
+1609,loan originations
+1610,pricing loan
+1611,locking loan rates
+1612,va
+1613,fnma
+1614,capitalizing on referrals
+1615,assessing customer needs
+1616,resources
+1617,time horizon
+1618,referral activities
+1619,customer follow up
+1620,prospect building
+1621,people
+1622,where appropriate
+1623,assessments
+1624,trust
+1625,estate services
+1626,investment managers
+1627,private bankers
+1628,financial consultants
+1629,wealth management specialists
+1630,000§ concurrence $1
+1631,520
+1632,873
+1633,183
+1634,491
+1635,66
+1636,63 · life
+1637,accounting:    financial statements
+1638,month-end close
+1639,fixed assets
+1640,streamline processes
+1641,citrix budgeting
+1642,peoplesoft
+1643,ability
+1644,brio reporting
+1645,accpac
+1646,fas best
+1647,microsoft
+1648,corrigo-work order network
+1649,mortgageware
+1650,as/400 jack henry
+1651,electronic commerce
+1652,all microsoft
+1653,office suite
+1654,symantec
+1655,seo
+1656,sem

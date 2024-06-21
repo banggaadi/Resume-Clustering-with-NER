@@ -1,2014 +1,2014 @@
-0
-budget
-hardware
-network systems
-database
-dec
-documentation
-inspection
-logistics
-meetings
-ms excel
-microsoft office
-outlook
-powerpoint
-network
-networking
-operating systems
-oracle
-personnel
-presentations
-progress
-quality
-maintain documentation
-routers
-safety
-scheduling
-shipping
-spreadsheets
-supervision
-operating
-repairs
-gas turbine engines
-main propulsion machinery
-auxiliary equipments
-prolusion control systems
-air systems
-automatic control valves
-automatic electronic controls
-blow-in doors
-bus transfer switches
-cannon plugs
-console filters
-demister pads
-detector components
-electrically operated valves
-electrical controllers
-electrical motors
-electrical relays
-fuel oil coalesces
-fuel oil systems
-halon systems
-hydraulic systems
-indicating relays
-intake louver hatches
-lever control components
-engine components
-fuel system components
-fuel systems
-generators
-generators assembly components
-lube oil systems
-module components
-power turbine components
-jacking gears
-seawater cooling pumps
-main switchboards
-frequency regulators
-electronic enclosures
-indicating micro switches
-salinity cells
-hydraulic system components
-leadership
-personnel management skills
-methods
-funding source
-modernization projects
-sustainment projects
-hawaii united states
-annual salary: 60
-equipment and materials
-amp meter
-voltmeter
-based on priority
-navy course: a-651-0119
-testing
-operation
-maintenance
-front desk
-food & beverage
-security
-health
-fire
-problems
-unusual occurrences
-rangers
-concerts
-blueprints
-carpentry
-detail-oriented
-electrical wiring
-engineer
-hvac
-materials
-excel
-window
-windows xp
-word
-oil
-painting
-plumbing
-read
-soldering
-fluent in spanish
-welding
-wiring
-proficiency in c++
-autocad
-autocad inventor
-python
-linux
-xcode
-visual basic
-ms word
-ms powerpoint
-arcview
-drafting
-gps
-graphic
-microsoft access
-microstation
-file maintenance
-surveys
-utilities
-drop test
-button cycling test
-sturgeons
-signal generators
-develop
-maintain test procedures
-tester debugging
-ecn
-deviations
-qrqc
-workflow analysis
-kanban
-simulated continuous flow
-de-bottlenecking
-riverbed
-hp
-silverspring networks
-nec
-cisco
-pocketfinder
-commercial
-visual aids
-state            associate degree
-physics
-automation
-cable modems
-cabling
-cad
-cat5
-coach
-cpu
-dc
-debugging
-dft
-design software
-electronics
-email
-features
-functional
-government
-intel
-logic analyzer
-mac os
-marketing
-mcafee
-mes
-access
-win 7
-netscape
-networking essentials
-networks
-os
-optimization
-oscilloscope
-osi
-pc hardware installation
-pc software
-pc troubleshooting
-proposals
-reading
-red hat
-rms
-routing
-schematics
-servers
-shell programming
-script
-scripting
-six sigma
-solaris
-sql server
-sun microsystems
-switches
-tcp/ip
-tds
-technical support
-telecommunication
-phone
-test equipment
-troubleshoot
-troubleshooting
-unix
-upgrade
-validation
-view
-wan
-x-86
-multi-meters
-state      implemented schematics
-state        implemented schematics
-client server
-computer networks
-computer sales
-clients
-desktops
-hp netservers
-laptops
-windows
-migration
-network printers
-nics
-protocols
-purchasing
-qa
-raid
-repairing
-specification
-upgrading
-usability testing
-vista
-auto-cad
-c
-c++
-hazop
-iso 9001
-logic
-works
-minitab
-plc
-pro-e
-profit
-project management
-quality assurance
-receiving
-research
-statistical process control
-strategic planning
-supply chain
-visual basics
-""
-r
-catia
-ansys
-product          project management
-gd&t
-kaizen
-apqp
-ppap
-8d
-5 why
-kpi's
-reliability sae standards
-vehicle ergonomics
-dvp&r
-qcc
-people
-workplace safety
-state      designed
-developed
-tooling
-equipment
-fishbone analysis
-5why
-control plans
-used benchmarking
-customer surveys
-head clearance
-entrance height
-saej1516v002
-sub-systems
-analyzed the jph
-throughput
-bottleneck
-labor hours
-benchmarking
-cnc
-cost analysis
-ergonomics
-lean manufacturing
-manufacturing process
-packaging
-process engineering
-product development
-pro/engineer
-pro/mechanical
-solid edge
-microsoft navision
-microsoft project
-china cabinets
-procurement of material
-optic design
-ada
-photo
-architect
-brochures
-catalogs
-client
-edge
-etl
-forms
-graphics
-inspector
-interpretation
-lighting
-material selection
-mechanical
-mentoring
-navision
-procurement
-product management
-safety codes
-sales
-unique
-administrative
-cash receipts
-customer service
-directing
-instruction
-inventory
-machinery
-natural gas
-organizing
-police
-promotion
-quality control
-reconciling
-risk management
-supervisory
-proactive
-self-motivated
-ar
-bank reconciliations
-billings
-budgets
-cash flow projections
-government contracting
-technical
-peachtree (proficient)
-jde (proficient)
-great plains (trained)
-labview
-matlab
-word.
-evaluate
-document
-maintained
-reservoir characterizations
-minimize non-value-added time
-processes
-procedures
-and line activities
-installed upgrades
-performed troubleshooting
-graphs
-diagrams
-reports
-designing
-failure analysis
-process control
-process design
-simulation
-system configuration
-systems engineering
-cero
-hypermesh
-dfmea
-ms office suite
-fortran
-matlab/simulink
-key issues
-trends
-university of michigan-dearborn
-engine operation
-air flowrate
-visvesvaraya technological university
-common rail
-glow plugs
-spark plugs
-head gaskets
-shims
-tappets
-brake pads
-brake shoes
-brake fluid
-engine oil
-coolant
-egr systems
-vvt systems
-engine filters
-fuel filters
-servicing of inter-coolers
-suspension systems
-sheet metal works
-websites
-magazine and
-options
-automotive powertrains
-vehicle thermal management
-strength of materials
-fluid mechanics
-heat transfer
-thermodynamics      skills    ansys
-automobiles
-automotive
-basic
-business plan development
-calibration
-concept
-dimensions
-gateways
-inspect
-market
-office
-programming
-requirement
-selling
-system engineering
-transmission
-visvesvaraya technological university.
-hmi
-scada
-servo drives
-vfd
-panel testing
-abu dhabi
-hook up drawing
-mto
-material requisition
-vendor offer evaluation
-technical write up
-api
-isa
-iec
-control panel  wiring
-flow
-pressure
-unit commitment
-economic dispatch)
-control system design
-power electronics
-apollo
-c++ programming
-com
-controller
-engineering projects
-fat
-drawing
-http
-ms office
-philosophy
-plc programming
-siemens
-siemens plc
-system design
-system  analysis
-teaching
-uh)
-lead development
-build teams
-mentor
-digital tv
-industrial automation
-control systems  c
-java
-jvm
-embedded linux
-lxc
-rtos - os9
-vxworks  dvb
-mpeg
-h.264
-hls
-mp4  json
-rest
-soap
-xml
-snmp
-tr069  microcontrollers
-hardware  matlab
-scrum
-sdlc
-data entry
-circuit design
-digital signal processing
-drafting 2
-english
-fast
-french
-leadership skills
-mathcad
-microprocessors
-c#
-multimeters
-orcad
-pspice
-software design
-solidworks
-systems design
-power systems analysis
-verilog
-ms visual studio
-qualification documents
-measurement
-glass cases
-state      took calls
-10am-4pm
-4pm-10pm)
-triples
-north bend
-bellevue
-attention to detail
-interpersonal skills
-critical thinking
-dependable
-electrical engineering
-electrical systems
-forklifts
-logo
-next
-pick
-quick
-fast learner
-television
-time management
-audio
-cd-roms
-ceridian
-cost reduction
-drivers
-executive management
-mac
-managing
-marketing and sales
-multimedia
-objective c
-policies
-printers
-quest
-scanners
-scripts
-software development
-software testing
-sound cards
-sun
-test tools
-usb
-video
-automotive cnc
-cnc programming
-shop floor
-amada
-estimating
-receptionist
-retail sales
-manufacturing engineer
-cost estimating
-problem solving
-plasma
-brakes
-stamping
-automotive stamping
-continuous improvement
-engineering support
-manufacturing processes
-outside sales
-press brake
-sales with
-stamping dies
-tool room
-press brakes
-laser
-motoman
-robotic
-robotic welding
-strippit
-turret press
-hand tools
-inspections
-design for manufacturing
-collection
-flux core
-load calculations
-mechanical engineer
-mechanical/electrical engineer
-product support
-steel design
-structural steel
-structural steel design
-compressors
-machining
-plating
-powder coating
-shear
-sorting
-total project management
-lasers
-air conditioning
-assembly
-autodesk
-buying/procurement
-cabinets
-chassis
-circuit board
-control panel
-conveyors
-designer/drafter
-electrical schematics
-mig
-ms outlook
-ncr
-stainless steel
-stamping press
-telecommunications
-tig welding
-training
-trusses
-mechanical engineering
-adobe captivate
-blackboard
-business objects
-clarity
-cerner
-doors
-echimp
-eclipsys
-ehrs
-epic
-hboc
-macess
-idx
-i-max facet
-heat
-sql server 2005
-cognos
-er/studio
-mini-tab
-sas
-sharepoint foundation 2007/2010
-spss
-one note
-power point
-project
-sharepoint
-and visio.
-delivery
-paint
-plc 5
-power distribution
-producing
-robotic systems
-vision systems
-corrective maintenance
-industrial machinery
-preventive maintenance
-sensors
-biotechnology
-electrical mechanical
-estimation
-hydraulics
-mechanical technician
-pneumatics
-project manager
-sop
-circuit boards
-dmm
-electrical test
-esd
-first article inspection
-medical devices
-production process
-schematic
-surface mount
-test engineer
-through-hole
-control systems
-sensor
-temperature and humidity
-electrical engineer
-entry level
-ieee
-self motivated
-pr
-public relations
-git
-bash
-pandas
-seaborn
-matplotlib
-openfoam
-cfd-ace+®
-fluent®
-comsol®
-lammps
-afm
-confocal microscopy
-regression analysis
-diverter
-dem
-problem-solving
-prioritizing
-multitasking
-openwells
-spotfire
-sap
-concur
-project assignments
-standardize
-dimensional specifications
-morale
-productivity
-ii
-new product development
-instrument software testing
-test execution
-including software
-digital
-state
-me
-us
-budgeting
-construction management
-film
-hiring
-negotiations
-process improvement
-spc
-strategy
-system administrator
-3d
-3d studio max
-adobe
-photoshop
-architectural drafting
-book
-conversion
-crystal reports
-data dictionary
-databases
-edit
-fiber optics
-gis
-hps
-illustrator
-indesign
-mapper 6
-ms access
-ms project
-3.1
-enterprise
-networks 4.7.1
-db
-coding
-revit
-supervisor
-transformers
-transformer
-design software:  labview
-synopsys design vision
-modelsim
-osx   equipment:  oscilloscope
-spectrum analyzer
-nsit
-2011-12
-cpr certified
-data acquisition
-digital design
-direction
-electronics i
-fashion
-first aid
-html programming
-windows 2000
-natural
-oscilloscopes
-physics i
-speaking
-sql
-statistics
-systems design i
-technical writing
-vhdl
-vi
-web design
-cost
-resources
-facilities
-equipment specialists
-development of staff
-objective
-availability
-labor reduction
-yield improvements
-lower chemical cost
-part consumption
-integration engineers
-equipment performance
-production planning
-manufacturing
-directed
-bill of materials
-productions version
-quality management forms
-electroless nickel
-electrolytic copper
-1995.       skills    basic
-cobol
-pascal
-prolith (modeling)
-statistical analysis: jmp
-pcs
-spc++
-data view
-crystal ball
-pluming
-full finish
-team builder
-outlook training
-excel training
-hotsos training
-"stratton warren ""mms"""
-bluebeam
-microsoft word
-city
-3d modeling
-read blueprints
-detail oriented
-floor plans
-frame
-3dsmax
-messaging
-microsoft office applications
-multi-tasking
-problem solving skills
-renovation
-replaced
-cleaning
-mechanical drafting
-bim
-accounting software
-balance
-capital expenditures
-handling cash
-civil engineering
-interpersonal communications
-consulting
-contracts
-prepare contract
-customer care
-design and construction
-engineering design
-expense reports
-filing
-marketing research
-peak
-prime
-project plans
-express
-recording
-transportation
-written communication
-technical drawings
-including sweeping
-store inventory
-transactions
-state      ged
-08/2017
-clinical analyst
-analyst
-agency
-dialysis
-develop drug
-iia
-iso
-market and development
-personnel management
-design process
-researching
-solid works
-team management
-visio
-functional block diagram
-structured text
-instruction list. )
-assembly (intel
-motorola
-ti)
-inventor
-psim
-easy power
-xilinx ise
-siemens step 7
-wago codesys
-allen bradley rslogix
-erp (alliance
-global shop
-xa
-specifications
-criteria
-production schedules
-switchboards
-one-line drawings
-variable frequency drives
-dynamic braking cabinets
-panel boards
-jacking switchgears
-block diagrams
-electrical one-lines
-test
-motor model
-short circuit
-breaker coordination
-arc flash
-fault analysis
-kencana shipyard
-malaysia: vfds
-mccs
-generator controls
-environmental safety
-erp
-flash
-hardware design
-microprocessor
-modeling
-power generation
-protel
-renovations
-staff management
-step 7
-structured
-supervising
-switchgear
-tender
-academic
-project lead
-testing software
-automated equipment
-operations
-transmissions
-commodities
-hydraulic pumps
-pumps
-design engineering
-engineering department
-process development
-assembly process
-business requirements
-electronic production
-production control
-massey ferguson
-product design
-six-sigma
-automation design
-contract negotiations
-ergonomic
-fanuc
-policy development
-robotics
-program management
-industrial/manufacturing
-manufacturing engineering
-fans
-cables
-fcals
-gbic
-mounting
-alignment
-adjusting
-operational testing
-machines
-stake
-screw
-bolt
-rivet
-weld
-cement
-press fits
-parts fabrication assembly
-cable
-hp servers
-ibm
-layout
-monitors
-msn
-power supply
-press
-proliant
-systems integration
-type
-switch
-lfacs
-icgs / idds
-requestnet
-aardwolf
-adtran
-microsoft outlook
-ccp
-wsam image
-lotus sametime
-fiber brains
-ringbuilder
-plat indexes
-venue
-wsam-dc fiber
-assist
-workforce management systems
-relief
-including contractors
-private owners
-customers
-building contractors
-state      prepared diagrams
-work orders
-logs
-drawings
-charts
-electronic
-copper
-build terminals
-facility addresses
-facility checks
-inquiries
-beltsville
-md
-grounds
-heating
-shocks
-parking lots
-building pads
-production engineering
-siemens plm
-solidworks pdm  tableau
-powerbi
-tm1  ms access
-sharepoint designer  jira
-684
-847
-$1b sales
-mgm resorts
-caesars entertainment
-wynn resorts
-15 indirect engineers
-system controls
-capital equipment
-elt
-independent work ethic
-6 direct reports
-1 million skus
-5 direct reports
-& service departments
-procedural training
-and project manager
-asp.net
-agile
-apache
-capacity planning
-competitive
-crystal
-eclipse
-full life cycle
-php
-iis
-javascript
-mvc
-developer
-rapport
-reporting
-system architecture
-verbal communication
-visual studio
-written
-excellent communication
-inspecting
-team lead
-modems
-technician
-trainer
-approach
-atl
-backup
-broadcast
-cli
-ca
-content
-dynamic html5
-editing
-ftp
-gui
-ids
-innovation
-explorer
-ip
-json
-lan
-mb
-mfc
-win
-2000
-nas
-oop
-page
-proxy
-rendering
-san
-threads
-video editing
-visual c++
-workflow
-writer
-bridges
-css
-html5
-hr
-team building
-memory
-performance reviews
-atm
-cadence
-de-bugging
-ethernet
-iso 9000
-linux os
-power supplies
-sonet
-t1
-trouble shooting
-estimate
-execute
-technical reviews
-managing releases
-demos
-risk mitigation planning
-conflict resolution
-training & development
-multitasking abilities
-overseeing hiring
-jira
-checklists
-software engineering
-and operating systems
-black box testing
-sanity testing
-boundary analysis
-performance testing
-system integration testing
-functional testing
-test plan
-test coverage
-traceability matrix
-bug tracking
-katalon studio
-xls data input
-unix shell/perl scripting
-groovy
-iso 8583
-emv tags
-tcp
-postman
-curl-siege
-jmeter
-jcl
-cics
-unix-solaris
-vsphere
-proxmox
-ingenico
-equinox
-pax and innowi
-key management
-kpi
-dukpt
-key injection
-git-stash
-git-lab
-torquisesvn
-sourcetree
-oracle 12c
-postgresql
-mongodb
-pgadmin 4
-sql developer
-sql management studio
-toad
-microsoft office suite
-bugzilla
-redmine
-waterfall
-iterative
-restaurant manager
-symphony
-positouch
-iccverify
-vcms
-vts
-astrex
-discover rct
-ats
-mas
-mdfs
-aci-interchange
-aci-prm
-aci-adm
-tsys certifynow
-budget 5
-coaching
-communication skills
-communication  skills
-counseling
-customer services
-focus
-mathematics
-payroll
-property management
-record keeping
-staff  training
-adobe acrobat
-cms
-customer relations
-train employees
-great plains
-maintain inventory
-inventory control
-mrp
-router
-100 boundary systems
-defined
-benefits/compensation management
-process improvements
-application development
-arbonne international
-24 hour fitness
-symantec
-critical path
-etec systems
-salesforce
-engineering
-infrastructure
-partners
-distributors
-ordering
-registering
-renewing
-billing
-glenayre electronics
-quantum corporation
-costs
-claremont
-los angeles
-interorganizational collaborations
-interpersonal
-computer literate
-cpu's
-database software
-energy manager
-facility management
-laundry
-team leader
-legal
-msa
-navy
-radiography
-real estate
-strategic
-strategic plans
-written communication skills
-programming languages: c
-hp qtp
-physics: 81/100
-chemistry: 89/100
-virtual stock market
-business processes
-chemistry
-crm
-event management
-image
-qtp
-quick test professional
-tableau
-shielding
-isolation
-latchup
-antenna
-em
-hercules
-caliber
-"chip
+,0
+0,budget
+1,hardware
+2,network systems
+3,database
+4,dec
+5,documentation
+6,inspection
+7,logistics
+8,meetings
+9,ms excel
+10,microsoft office
+11,outlook
+12,powerpoint
+13,network
+14,networking
+15,operating systems
+16,oracle
+17,personnel
+18,presentations
+19,progress
+20,quality
+21,maintain documentation
+22,routers
+23,safety
+24,scheduling
+25,shipping
+26,spreadsheets
+27,supervision
+28,operating
+29,repairs
+30,gas turbine engines
+31,main propulsion machinery
+32,auxiliary equipments
+33,prolusion control systems
+34,air systems
+35,automatic control valves
+36,automatic electronic controls
+37,blow-in doors
+38,bus transfer switches
+39,cannon plugs
+40,console filters
+41,demister pads
+42,detector components
+43,electrically operated valves
+44,electrical controllers
+45,electrical motors
+46,electrical relays
+47,fuel oil coalesces
+48,fuel oil systems
+49,halon systems
+50,hydraulic systems
+51,indicating relays
+52,intake louver hatches
+53,lever control components
+54,engine components
+55,fuel system components
+56,fuel systems
+57,generators
+58,generators assembly components
+59,lube oil systems
+60,module components
+61,power turbine components
+62,jacking gears
+63,seawater cooling pumps
+64,main switchboards
+65,frequency regulators
+66,electronic enclosures
+67,indicating micro switches
+68,salinity cells
+69,hydraulic system components
+70,leadership
+71,personnel management skills
+72,methods
+73,funding source
+74,modernization projects
+75,sustainment projects
+76,hawaii united states
+77,annual salary: 60
+78,equipment and materials
+79,amp meter
+80,voltmeter
+81,based on priority
+82,navy course: a-651-0119
+83,testing
+84,operation
+85,maintenance
+86,front desk
+87,food & beverage
+88,security
+89,health
+90,fire
+91,problems
+92,unusual occurrences
+93,rangers
+94,concerts
+95,blueprints
+96,carpentry
+97,detail-oriented
+98,electrical wiring
+99,engineer
+100,hvac
+101,materials
+102,excel
+103,window
+104,windows xp
+105,word
+106,oil
+107,painting
+108,plumbing
+109,read
+110,soldering
+111,fluent in spanish
+112,welding
+113,wiring
+114,proficiency in c++
+115,autocad
+116,autocad inventor
+117,python
+118,linux
+119,xcode
+120,visual basic
+121,ms word
+122,ms powerpoint
+123,arcview
+124,drafting
+125,gps
+126,graphic
+127,microsoft access
+128,microstation
+129,file maintenance
+130,surveys
+131,utilities
+132,drop test
+133,button cycling test
+134,sturgeons
+135,signal generators
+136,develop
+137,maintain test procedures
+138,tester debugging
+139,ecn
+140,deviations
+141,qrqc
+142,workflow analysis
+143,kanban
+144,simulated continuous flow
+145,de-bottlenecking
+146,riverbed
+147,hp
+148,silverspring networks
+149,nec
+150,cisco
+151,pocketfinder
+152,commercial
+153,visual aids
+154,state            associate degree
+155,physics
+156,automation
+157,cable modems
+158,cabling
+159,cad
+160,cat5
+161,coach
+162,cpu
+163,dc
+164,debugging
+165,dft
+166,design software
+167,electronics
+168,email
+169,features
+170,functional
+171,government
+172,intel
+173,logic analyzer
+174,mac os
+175,marketing
+176,mcafee
+177,mes
+178,access
+179,win 7
+180,netscape
+181,networking essentials
+182,networks
+183,os
+184,optimization
+185,oscilloscope
+186,osi
+187,pc hardware installation
+188,pc software
+189,pc troubleshooting
+190,proposals
+191,reading
+192,red hat
+193,rms
+194,routing
+195,schematics
+196,servers
+197,shell programming
+198,script
+199,scripting
+200,six sigma
+201,solaris
+202,sql server
+203,sun microsystems
+204,switches
+205,tcp/ip
+206,tds
+207,technical support
+208,telecommunication
+209,phone
+210,test equipment
+211,troubleshoot
+212,troubleshooting
+213,unix
+214,upgrade
+215,validation
+216,view
+217,wan
+218,x-86
+219,multi-meters
+220,state      implemented schematics
+221,state        implemented schematics
+222,client server
+223,computer networks
+224,computer sales
+225,clients
+226,desktops
+227,hp netservers
+228,laptops
+229,windows
+230,migration
+231,network printers
+232,nics
+233,protocols
+234,purchasing
+235,qa
+236,raid
+237,repairing
+238,specification
+239,upgrading
+240,usability testing
+241,vista
+242,auto-cad
+243,c
+244,c++
+245,hazop
+246,iso 9001
+247,logic
+248,works
+249,minitab
+250,plc
+251,pro-e
+252,profit
+253,project management
+254,quality assurance
+255,receiving
+256,research
+257,statistical process control
+258,strategic planning
+259,supply chain
+260,visual basics
+261,
+262,r
+263,catia
+264,ansys
+265,product          project management
+266,gd&t
+267,kaizen
+268,apqp
+269,ppap
+270,8d
+271,5 why
+272,kpi's
+273,reliability sae standards
+274,vehicle ergonomics
+275,dvp&r
+276,qcc
+277,people
+278,workplace safety
+279,state      designed
+280,developed
+281,tooling
+282,equipment
+283,fishbone analysis
+284,5why
+285,control plans
+286,used benchmarking
+287,customer surveys
+288,head clearance
+289,entrance height
+290,saej1516v002
+291,sub-systems
+292,analyzed the jph
+293,throughput
+294,bottleneck
+295,labor hours
+296,benchmarking
+297,cnc
+298,cost analysis
+299,ergonomics
+300,lean manufacturing
+301,manufacturing process
+302,packaging
+303,process engineering
+304,product development
+305,pro/engineer
+306,pro/mechanical
+307,solid edge
+308,microsoft navision
+309,microsoft project
+310,china cabinets
+311,procurement of material
+312,optic design
+313,ada
+314,photo
+315,architect
+316,brochures
+317,catalogs
+318,client
+319,edge
+320,etl
+321,forms
+322,graphics
+323,inspector
+324,interpretation
+325,lighting
+326,material selection
+327,mechanical
+328,mentoring
+329,navision
+330,procurement
+331,product management
+332,safety codes
+333,sales
+334,unique
+335,administrative
+336,cash receipts
+337,customer service
+338,directing
+339,instruction
+340,inventory
+341,machinery
+342,natural gas
+343,organizing
+344,police
+345,promotion
+346,quality control
+347,reconciling
+348,risk management
+349,supervisory
+350,proactive
+351,self-motivated
+352,ar
+353,bank reconciliations
+354,billings
+355,budgets
+356,cash flow projections
+357,government contracting
+358,technical
+359,peachtree (proficient)
+360,jde (proficient)
+361,great plains (trained)
+362,labview
+363,matlab
+364,word.
+365,evaluate
+366,document
+367,maintained
+368,reservoir characterizations
+369,minimize non-value-added time
+370,processes
+371,procedures
+372,and line activities
+373,installed upgrades
+374,performed troubleshooting
+375,graphs
+376,diagrams
+377,reports
+378,designing
+379,failure analysis
+380,process control
+381,process design
+382,simulation
+383,system configuration
+384,systems engineering
+385,cero
+386,hypermesh
+387,dfmea
+388,ms office suite
+389,fortran
+390,matlab/simulink
+391,key issues
+392,trends
+393,university of michigan-dearborn
+394,engine operation
+395,air flowrate
+396,visvesvaraya technological university
+397,common rail
+398,glow plugs
+399,spark plugs
+400,head gaskets
+401,shims
+402,tappets
+403,brake pads
+404,brake shoes
+405,brake fluid
+406,engine oil
+407,coolant
+408,egr systems
+409,vvt systems
+410,engine filters
+411,fuel filters
+412,servicing of inter-coolers
+413,suspension systems
+414,sheet metal works
+415,websites
+416,magazine and
+417,options
+418,automotive powertrains
+419,vehicle thermal management
+420,strength of materials
+421,fluid mechanics
+422,heat transfer
+423,thermodynamics      skills    ansys
+424,automobiles
+425,automotive
+426,basic
+427,business plan development
+428,calibration
+429,concept
+430,dimensions
+431,gateways
+432,inspect
+433,market
+434,office
+435,programming
+436,requirement
+437,selling
+438,system engineering
+439,transmission
+440,visvesvaraya technological university.
+441,hmi
+442,scada
+443,servo drives
+444,vfd
+445,panel testing
+446,abu dhabi
+447,hook up drawing
+448,mto
+449,material requisition
+450,vendor offer evaluation
+451,technical write up
+452,api
+453,isa
+454,iec
+455,control panel  wiring
+456,flow
+457,pressure
+458,unit commitment
+459,economic dispatch)
+460,control system design
+461,power electronics
+462,apollo
+463,c++ programming
+464,com
+465,controller
+466,engineering projects
+467,fat
+468,drawing
+469,http
+470,ms office
+471,philosophy
+472,plc programming
+473,siemens
+474,siemens plc
+475,system design
+476,system  analysis
+477,teaching
+478,uh)
+479,lead development
+480,build teams
+481,mentor
+482,digital tv
+483,industrial automation
+484,control systems  c
+485,java
+486,jvm
+487,embedded linux
+488,lxc
+489,rtos - os9
+490,vxworks  dvb
+491,mpeg
+492,h.264
+493,hls
+494,mp4  json
+495,rest
+496,soap
+497,xml
+498,snmp
+499,tr069  microcontrollers
+500,hardware  matlab
+501,scrum
+502,sdlc
+503,data entry
+504,circuit design
+505,digital signal processing
+506,drafting 2
+507,english
+508,fast
+509,french
+510,leadership skills
+511,mathcad
+512,microprocessors
+513,c#
+514,multimeters
+515,orcad
+516,pspice
+517,software design
+518,solidworks
+519,systems design
+520,power systems analysis
+521,verilog
+522,ms visual studio
+523,qualification documents
+524,measurement
+525,glass cases
+526,state      took calls
+527,10am-4pm
+528,4pm-10pm)
+529,triples
+530,north bend
+531,bellevue
+532,attention to detail
+533,interpersonal skills
+534,critical thinking
+535,dependable
+536,electrical engineering
+537,electrical systems
+538,forklifts
+539,logo
+540,next
+541,pick
+542,quick
+543,fast learner
+544,television
+545,time management
+546,audio
+547,cd-roms
+548,ceridian
+549,cost reduction
+550,drivers
+551,executive management
+552,mac
+553,managing
+554,marketing and sales
+555,multimedia
+556,objective c
+557,policies
+558,printers
+559,quest
+560,scanners
+561,scripts
+562,software development
+563,software testing
+564,sound cards
+565,sun
+566,test tools
+567,usb
+568,video
+569,automotive cnc
+570,cnc programming
+571,shop floor
+572,amada
+573,estimating
+574,receptionist
+575,retail sales
+576,manufacturing engineer
+577,cost estimating
+578,problem solving
+579,plasma
+580,brakes
+581,stamping
+582,automotive stamping
+583,continuous improvement
+584,engineering support
+585,manufacturing processes
+586,outside sales
+587,press brake
+588,sales with
+589,stamping dies
+590,tool room
+591,press brakes
+592,laser
+593,motoman
+594,robotic
+595,robotic welding
+596,strippit
+597,turret press
+598,hand tools
+599,inspections
+600,design for manufacturing
+601,collection
+602,flux core
+603,load calculations
+604,mechanical engineer
+605,mechanical/electrical engineer
+606,product support
+607,steel design
+608,structural steel
+609,structural steel design
+610,compressors
+611,machining
+612,plating
+613,powder coating
+614,shear
+615,sorting
+616,total project management
+617,lasers
+618,air conditioning
+619,assembly
+620,autodesk
+621,buying/procurement
+622,cabinets
+623,chassis
+624,circuit board
+625,control panel
+626,conveyors
+627,designer/drafter
+628,electrical schematics
+629,mig
+630,ms outlook
+631,ncr
+632,stainless steel
+633,stamping press
+634,telecommunications
+635,tig welding
+636,training
+637,trusses
+638,mechanical engineering
+639,adobe captivate
+640,blackboard
+641,business objects
+642,clarity
+643,cerner
+644,doors
+645,echimp
+646,eclipsys
+647,ehrs
+648,epic
+649,hboc
+650,macess
+651,idx
+652,i-max facet
+653,heat
+654,sql server 2005
+655,cognos
+656,er/studio
+657,mini-tab
+658,sas
+659,sharepoint foundation 2007/2010
+660,spss
+661,one note
+662,power point
+663,project
+664,sharepoint
+665,and visio.
+666,delivery
+667,paint
+668,plc 5
+669,power distribution
+670,producing
+671,robotic systems
+672,vision systems
+673,corrective maintenance
+674,industrial machinery
+675,preventive maintenance
+676,sensors
+677,biotechnology
+678,electrical mechanical
+679,estimation
+680,hydraulics
+681,mechanical technician
+682,pneumatics
+683,project manager
+684,sop
+685,circuit boards
+686,dmm
+687,electrical test
+688,esd
+689,first article inspection
+690,medical devices
+691,production process
+692,schematic
+693,surface mount
+694,test engineer
+695,through-hole
+696,control systems
+697,sensor
+698,temperature and humidity
+699,electrical engineer
+700,entry level
+701,ieee
+702,self motivated
+703,pr
+704,public relations
+705,git
+706,bash
+707,pandas
+708,seaborn
+709,matplotlib
+710,openfoam
+711,cfd-ace+®
+712,fluent®
+713,comsol®
+714,lammps
+715,afm
+716,confocal microscopy
+717,regression analysis
+718,diverter
+719,dem
+720,problem-solving
+721,prioritizing
+722,multitasking
+723,openwells
+724,spotfire
+725,sap
+726,concur
+727,project assignments
+728,standardize
+729,dimensional specifications
+730,morale
+731,productivity
+732,ii
+733,new product development
+734,instrument software testing
+735,test execution
+736,including software
+737,digital
+738,state
+739,me
+740,us
+741,budgeting
+742,construction management
+743,film
+744,hiring
+745,negotiations
+746,process improvement
+747,spc
+748,strategy
+749,system administrator
+750,3d
+751,3d studio max
+752,adobe
+753,photoshop
+754,architectural drafting
+755,book
+756,conversion
+757,crystal reports
+758,data dictionary
+759,databases
+760,edit
+761,fiber optics
+762,gis
+763,hps
+764,illustrator
+765,indesign
+766,mapper 6
+767,ms access
+768,ms project
+769,3.1
+770,enterprise
+771,networks 4.7.1
+772,db
+773,coding
+774,revit
+775,supervisor
+776,transformers
+777,transformer
+778,design software:  labview
+779,synopsys design vision
+780,modelsim
+781,osx   equipment:  oscilloscope
+782,spectrum analyzer
+783,nsit
+784,2011-12
+785,cpr certified
+786,data acquisition
+787,digital design
+788,direction
+789,electronics i
+790,fashion
+791,first aid
+792,html programming
+793,windows 2000
+794,natural
+795,oscilloscopes
+796,physics i
+797,speaking
+798,sql
+799,statistics
+800,systems design i
+801,technical writing
+802,vhdl
+803,vi
+804,web design
+805,cost
+806,resources
+807,facilities
+808,equipment specialists
+809,development of staff
+810,objective
+811,availability
+812,labor reduction
+813,yield improvements
+814,lower chemical cost
+815,part consumption
+816,integration engineers
+817,equipment performance
+818,production planning
+819,manufacturing
+820,directed
+821,bill of materials
+822,productions version
+823,quality management forms
+824,electroless nickel
+825,electrolytic copper
+826,1995.       skills    basic
+827,cobol
+828,pascal
+829,prolith (modeling)
+830,statistical analysis: jmp
+831,pcs
+832,spc++
+833,data view
+834,crystal ball
+835,pluming
+836,full finish
+837,team builder
+838,outlook training
+839,excel training
+840,hotsos training
+841,"stratton warren ""mms"""
+842,bluebeam
+843,microsoft word
+844,city
+845,3d modeling
+846,read blueprints
+847,detail oriented
+848,floor plans
+849,frame
+850,3dsmax
+851,messaging
+852,microsoft office applications
+853,multi-tasking
+854,problem solving skills
+855,renovation
+856,replaced
+857,cleaning
+858,mechanical drafting
+859,bim
+860,accounting software
+861,balance
+862,capital expenditures
+863,handling cash
+864,civil engineering
+865,interpersonal communications
+866,consulting
+867,contracts
+868,prepare contract
+869,customer care
+870,design and construction
+871,engineering design
+872,expense reports
+873,filing
+874,marketing research
+875,peak
+876,prime
+877,project plans
+878,express
+879,recording
+880,transportation
+881,written communication
+882,technical drawings
+883,including sweeping
+884,store inventory
+885,transactions
+886,state      ged
+887,08/2017
+888,clinical analyst
+889,analyst
+890,agency
+891,dialysis
+892,develop drug
+893,iia
+894,iso
+895,market and development
+896,personnel management
+897,design process
+898,researching
+899,solid works
+900,team management
+901,visio
+902,functional block diagram
+903,structured text
+904,instruction list. )
+905,assembly (intel
+906,motorola
+907,ti)
+908,inventor
+909,psim
+910,easy power
+911,xilinx ise
+912,siemens step 7
+913,wago codesys
+914,allen bradley rslogix
+915,erp (alliance
+916,global shop
+917,xa
+918,specifications
+919,criteria
+920,production schedules
+921,switchboards
+922,one-line drawings
+923,variable frequency drives
+924,dynamic braking cabinets
+925,panel boards
+926,jacking switchgears
+927,block diagrams
+928,electrical one-lines
+929,test
+930,motor model
+931,short circuit
+932,breaker coordination
+933,arc flash
+934,fault analysis
+935,kencana shipyard
+936,malaysia: vfds
+937,mccs
+938,generator controls
+939,environmental safety
+940,erp
+941,flash
+942,hardware design
+943,microprocessor
+944,modeling
+945,power generation
+946,protel
+947,renovations
+948,staff management
+949,step 7
+950,structured
+951,supervising
+952,switchgear
+953,tender
+954,academic
+955,project lead
+956,testing software
+957,automated equipment
+958,operations
+959,transmissions
+960,commodities
+961,hydraulic pumps
+962,pumps
+963,design engineering
+964,engineering department
+965,process development
+966,assembly process
+967,business requirements
+968,electronic production
+969,production control
+970,massey ferguson
+971,product design
+972,six-sigma
+973,automation design
+974,contract negotiations
+975,ergonomic
+976,fanuc
+977,policy development
+978,robotics
+979,program management
+980,industrial/manufacturing
+981,manufacturing engineering
+982,fans
+983,cables
+984,fcals
+985,gbic
+986,mounting
+987,alignment
+988,adjusting
+989,operational testing
+990,machines
+991,stake
+992,screw
+993,bolt
+994,rivet
+995,weld
+996,cement
+997,press fits
+998,parts fabrication assembly
+999,cable
+1000,hp servers
+1001,ibm
+1002,layout
+1003,monitors
+1004,msn
+1005,power supply
+1006,press
+1007,proliant
+1008,systems integration
+1009,type
+1010,switch
+1011,lfacs
+1012,icgs / idds
+1013,requestnet
+1014,aardwolf
+1015,adtran
+1016,microsoft outlook
+1017,ccp
+1018,wsam image
+1019,lotus sametime
+1020,fiber brains
+1021,ringbuilder
+1022,plat indexes
+1023,venue
+1024,wsam-dc fiber
+1025,assist
+1026,workforce management systems
+1027,relief
+1028,including contractors
+1029,private owners
+1030,customers
+1031,building contractors
+1032,state      prepared diagrams
+1033,work orders
+1034,logs
+1035,drawings
+1036,charts
+1037,electronic
+1038,copper
+1039,build terminals
+1040,facility addresses
+1041,facility checks
+1042,inquiries
+1043,beltsville
+1044,md
+1045,grounds
+1046,heating
+1047,shocks
+1048,parking lots
+1049,building pads
+1050,production engineering
+1051,siemens plm
+1052,solidworks pdm  tableau
+1053,powerbi
+1054,tm1  ms access
+1055,sharepoint designer  jira
+1056,684
+1057,847
+1058,$1b sales
+1059,mgm resorts
+1060,caesars entertainment
+1061,wynn resorts
+1062,15 indirect engineers
+1063,system controls
+1064,capital equipment
+1065,elt
+1066,independent work ethic
+1067,6 direct reports
+1068,1 million skus
+1069,5 direct reports
+1070,& service departments
+1071,procedural training
+1072,and project manager
+1073,asp.net
+1074,agile
+1075,apache
+1076,capacity planning
+1077,competitive
+1078,crystal
+1079,eclipse
+1080,full life cycle
+1081,php
+1082,iis
+1083,javascript
+1084,mvc
+1085,developer
+1086,rapport
+1087,reporting
+1088,system architecture
+1089,verbal communication
+1090,visual studio
+1091,written
+1092,excellent communication
+1093,inspecting
+1094,team lead
+1095,modems
+1096,technician
+1097,trainer
+1098,approach
+1099,atl
+1100,backup
+1101,broadcast
+1102,cli
+1103,ca
+1104,content
+1105,dynamic html5
+1106,editing
+1107,ftp
+1108,gui
+1109,ids
+1110,innovation
+1111,explorer
+1112,ip
+1113,json
+1114,lan
+1115,mb
+1116,mfc
+1117,win
+1118,2000
+1119,nas
+1120,oop
+1121,page
+1122,proxy
+1123,rendering
+1124,san
+1125,threads
+1126,video editing
+1127,visual c++
+1128,workflow
+1129,writer
+1130,bridges
+1131,css
+1132,html5
+1133,hr
+1134,team building
+1135,memory
+1136,performance reviews
+1137,atm
+1138,cadence
+1139,de-bugging
+1140,ethernet
+1141,iso 9000
+1142,linux os
+1143,power supplies
+1144,sonet
+1145,t1
+1146,trouble shooting
+1147,estimate
+1148,execute
+1149,technical reviews
+1150,managing releases
+1151,demos
+1152,risk mitigation planning
+1153,conflict resolution
+1154,training & development
+1155,multitasking abilities
+1156,overseeing hiring
+1157,jira
+1158,checklists
+1159,software engineering
+1160,and operating systems
+1161,black box testing
+1162,sanity testing
+1163,boundary analysis
+1164,performance testing
+1165,system integration testing
+1166,functional testing
+1167,test plan
+1168,test coverage
+1169,traceability matrix
+1170,bug tracking
+1171,katalon studio
+1172,xls data input
+1173,unix shell/perl scripting
+1174,groovy
+1175,iso 8583
+1176,emv tags
+1177,tcp
+1178,postman
+1179,curl-siege
+1180,jmeter
+1181,jcl
+1182,cics
+1183,unix-solaris
+1184,vsphere
+1185,proxmox
+1186,ingenico
+1187,equinox
+1188,pax and innowi
+1189,key management
+1190,kpi
+1191,dukpt
+1192,key injection
+1193,git-stash
+1194,git-lab
+1195,torquisesvn
+1196,sourcetree
+1197,oracle 12c
+1198,postgresql
+1199,mongodb
+1200,pgadmin 4
+1201,sql developer
+1202,sql management studio
+1203,toad
+1204,microsoft office suite
+1205,bugzilla
+1206,redmine
+1207,waterfall
+1208,iterative
+1209,restaurant manager
+1210,symphony
+1211,positouch
+1212,iccverify
+1213,vcms
+1214,vts
+1215,astrex
+1216,discover rct
+1217,ats
+1218,mas
+1219,mdfs
+1220,aci-interchange
+1221,aci-prm
+1222,aci-adm
+1223,tsys certifynow
+1224,budget 5
+1225,coaching
+1226,communication skills
+1227,communication  skills
+1228,counseling
+1229,customer services
+1230,focus
+1231,mathematics
+1232,payroll
+1233,property management
+1234,record keeping
+1235,staff  training
+1236,adobe acrobat
+1237,cms
+1238,customer relations
+1239,train employees
+1240,great plains
+1241,maintain inventory
+1242,inventory control
+1243,mrp
+1244,router
+1245,100 boundary systems
+1246,defined
+1247,benefits/compensation management
+1248,process improvements
+1249,application development
+1250,arbonne international
+1251,24 hour fitness
+1252,symantec
+1253,critical path
+1254,etec systems
+1255,salesforce
+1256,engineering
+1257,infrastructure
+1258,partners
+1259,distributors
+1260,ordering
+1261,registering
+1262,renewing
+1263,billing
+1264,glenayre electronics
+1265,quantum corporation
+1266,costs
+1267,claremont
+1268,los angeles
+1269,interorganizational collaborations
+1270,interpersonal
+1271,computer literate
+1272,cpu's
+1273,database software
+1274,energy manager
+1275,facility management
+1276,laundry
+1277,team leader
+1278,legal
+1279,msa
+1280,navy
+1281,radiography
+1282,real estate
+1283,strategic
+1284,strategic plans
+1285,written communication skills
+1286,programming languages: c
+1287,hp qtp
+1288,physics: 81/100
+1289,chemistry: 89/100
+1290,virtual stock market
+1291,business processes
+1292,chemistry
+1293,crm
+1294,event management
+1295,image
+1296,qtp
+1297,quick test professional
+1298,tableau
+1299,shielding
+1300,isolation
+1301,latchup
+1302,antenna
+1303,em
+1304,hercules
+1305,caliber
+1306,"chip
 assembly router"
-aprisa
-regulator
-data management
-iq
-layout design
-real time
-sun-solaris
-chemical engineering technician
-engineering management
-equipment inventory
-staffing
-cooking
-gardening
-banking
-calculus
-credit
-database management system
-experiments
-mysql
-retail
-vba
-akanksha foundation
-accounting
-civil engineer
-front office
-director
-meeting facilitation
-mail
-multi-line telephone
-proofing
-self-starter
-spanish
-typing
-website
-air force
-conflict management
-senior management
-team leadership
-leadership development
-microsoft visio
-peer review
-project planning
-risk analysis
-asp.net 4.5
-clustering
-curriculum development
-customer satisfaction
-data analysis
-data mining
-data warehouse
-database design
-database management
-data warehousing
-environmental protection
-environmental science
-html
-instructor
-lecturer
-machine learning
-microsoft sql
-workshops
-decision-making
-experimentation
-lesson planning
-mechanical design
-nastran
-patran
-camera
-predict
-research and design
-army
-inspects
-marconi
-radar
-radio
-telephone
-control
-road
-bridging
-af/ rf generators
-transceiver analyzers
-frequency counters
-fdrs
-tdrs
-semiautomatic
-administration
-write/review ca/pa reports
-responses
-analyzing
-and summarizing information
-recalls
-corrective actions
-procedural breakdowns
-2012
-forecasting
-ims
-sap r/3
-strategy/planning
-supervising 4
-reduce waste
-a+
-account management
-alpha
-microsoft applications
-b2b
-bind
-cat 5
-computer hardware
-css3
-customer support
-dhcp
-dns
-fax machines
-firewall
-help desk
-human resources
-inventory management
-ipx
-java script
-jquery
-lans
-all microsoft
-exchange
-money
-publisher
-windows applications
-windows 95
-msql
-nsf
-network administration
-network security
-pc's
-pc hardware
-software installation
-ss7
-tech support
-software support
-telecom
-telephony
-vpn
-voice over ip
-voip
-web development
-wans
-windows server
-biology
-oral
-"cost
+1307,aprisa
+1308,regulator
+1309,data management
+1310,iq
+1311,layout design
+1312,real time
+1313,sun-solaris
+1314,chemical engineering technician
+1315,engineering management
+1316,equipment inventory
+1317,staffing
+1318,cooking
+1319,gardening
+1320,banking
+1321,calculus
+1322,credit
+1323,database management system
+1324,experiments
+1325,mysql
+1326,retail
+1327,vba
+1328,akanksha foundation
+1329,accounting
+1330,civil engineer
+1331,front office
+1332,director
+1333,meeting facilitation
+1334,mail
+1335,multi-line telephone
+1336,proofing
+1337,self-starter
+1338,spanish
+1339,typing
+1340,website
+1341,air force
+1342,conflict management
+1343,senior management
+1344,team leadership
+1345,leadership development
+1346,microsoft visio
+1347,peer review
+1348,project planning
+1349,risk analysis
+1350,asp.net 4.5
+1351,clustering
+1352,curriculum development
+1353,customer satisfaction
+1354,data analysis
+1355,data mining
+1356,data warehouse
+1357,database design
+1358,database management
+1359,data warehousing
+1360,environmental protection
+1361,environmental science
+1362,html
+1363,instructor
+1364,lecturer
+1365,machine learning
+1366,microsoft sql
+1367,workshops
+1368,decision-making
+1369,experimentation
+1370,lesson planning
+1371,mechanical design
+1372,nastran
+1373,patran
+1374,camera
+1375,predict
+1376,research and design
+1377,army
+1378,inspects
+1379,marconi
+1380,radar
+1381,radio
+1382,telephone
+1383,control
+1384,road
+1385,bridging
+1386,af/ rf generators
+1387,transceiver analyzers
+1388,frequency counters
+1389,fdrs
+1390,tdrs
+1391,semiautomatic
+1392,administration
+1393,write/review ca/pa reports
+1394,responses
+1395,analyzing
+1396,and summarizing information
+1397,recalls
+1398,corrective actions
+1399,procedural breakdowns
+1400,2012
+1401,forecasting
+1402,ims
+1403,sap r/3
+1404,strategy/planning
+1405,supervising 4
+1406,reduce waste
+1407,a+
+1408,account management
+1409,alpha
+1410,microsoft applications
+1411,b2b
+1412,bind
+1413,cat 5
+1414,computer hardware
+1415,css3
+1416,customer support
+1417,dhcp
+1418,dns
+1419,fax machines
+1420,firewall
+1421,help desk
+1422,human resources
+1423,inventory management
+1424,ipx
+1425,java script
+1426,jquery
+1427,lans
+1428,all microsoft
+1429,exchange
+1430,money
+1431,publisher
+1432,windows applications
+1433,windows 95
+1434,msql
+1435,nsf
+1436,network administration
+1437,network security
+1438,pc's
+1439,pc hardware
+1440,software installation
+1441,ss7
+1442,tech support
+1443,software support
+1444,telecom
+1445,telephony
+1446,vpn
+1447,voice over ip
+1448,voip
+1449,web development
+1450,wans
+1451,windows server
+1452,biology
+1453,oral
+1454,"cost
 analysis"
-equipment operation
-pq
-"process
+1455,equipment operation
+1456,pq
+1457,"process
 development"
-process-engineering
-"quality
+1458,process-engineering
+1459,"quality
 assurance"
-turkey
-carburetors
-ignition points
-alternators
-regulators
-oil change
-u.s. army
-ft. huachuca
-az
-completed 1998   •certificate
-aberdeen proving ground
-pueblo high school
-tucson
-lock-out/tag-out
-iso-9001 standards
-electrical equipment operation
-mechanical repair
-oil servicing
-electrical component repair
-safety awareness
-various testing equipment
-equipment/wiring installation
-solenoid/valves
-pc repair
-fabrication
-well organized
-premier
-back-up
-council
-internet usage
-leadership training
-exchange server
-mom
-novell servers
-performance management
-recruiting
-systems management server
-speech
-apple computers
-asset management
-equipment installation
-filling
-fire protection
-food safety
-hammer
-labor relations
-maintenance schedules
-microsoft nt server
-microwave
-novell
-phones
-uhf
-vhf
-water quality
-wonderware
-chill
-sc
-fax
-laboratory testing
-maple
-nds
-oss
-positioning
-technical documentation
-technician v
-upgrades
-welder
-written communications
-active directory
-ad
-imaging
-itil v
-mcse
-microsoft technologies
-producer
-sla
-desktop support
-supplier mgmt
-program engineering
-component procurement
-me planning
-schedule commitments
-state      december 4th
-baseline schedules
-change management
-through approvals
-bca
-business operations
-business plan
-business strategy
-design of experiments
-financial planning
-ie
-people management
-mgmt
-product marketing
-max
-production management
-sound
-tal
-vision
-rough sketches
-troubleshooting diagrams
-layouts and plans
-ms  office
-run simulation
-implementation
-including verification
-testing tools
-manual drawings
-installing
-state      operates
-modifies
-icing indicators
-drive units
-spray units
-test support structure
-standpipe systems
-fire pumps
-panels
-releasing
-updating
-wrong parts
-lss
-closing
-articles
-oam
-chemcad
-c+
-antivirus
-apple
-bgp
-call center
-ccna
-cd-rom
-cisco ios
-encryption
-dell
-help desk support
-insurance
-internet explorer
-linux and os
-windows 7
-microsoft windows
-msi
-networking i
-ospf
-printer
-ssl
-system administration
-tables
-tv
-troubleshooting i
-video conferencing
-acrylic
-engineer-in-training
-eit
-graphics and design
-material science
-microsoft excel
-microsoft powerpoint
-"project
+1460,turkey
+1461,carburetors
+1462,ignition points
+1463,alternators
+1464,regulators
+1465,oil change
+1466,u.s. army
+1467,ft. huachuca
+1468,az
+1469,completed 1998   •certificate
+1470,aberdeen proving ground
+1471,pueblo high school
+1472,tucson
+1473,lock-out/tag-out
+1474,iso-9001 standards
+1475,electrical equipment operation
+1476,mechanical repair
+1477,oil servicing
+1478,electrical component repair
+1479,safety awareness
+1480,various testing equipment
+1481,equipment/wiring installation
+1482,solenoid/valves
+1483,pc repair
+1484,fabrication
+1485,well organized
+1486,premier
+1487,back-up
+1488,council
+1489,internet usage
+1490,leadership training
+1491,exchange server
+1492,mom
+1493,novell servers
+1494,performance management
+1495,recruiting
+1496,systems management server
+1497,speech
+1498,apple computers
+1499,asset management
+1500,equipment installation
+1501,filling
+1502,fire protection
+1503,food safety
+1504,hammer
+1505,labor relations
+1506,maintenance schedules
+1507,microsoft nt server
+1508,microwave
+1509,novell
+1510,phones
+1511,uhf
+1512,vhf
+1513,water quality
+1514,wonderware
+1515,chill
+1516,sc
+1517,fax
+1518,laboratory testing
+1519,maple
+1520,nds
+1521,oss
+1522,positioning
+1523,technical documentation
+1524,technician v
+1525,upgrades
+1526,welder
+1527,written communications
+1528,active directory
+1529,ad
+1530,imaging
+1531,itil v
+1532,mcse
+1533,microsoft technologies
+1534,producer
+1535,sla
+1536,desktop support
+1537,supplier mgmt
+1538,program engineering
+1539,component procurement
+1540,me planning
+1541,schedule commitments
+1542,state      december 4th
+1543,baseline schedules
+1544,change management
+1545,through approvals
+1546,bca
+1547,business operations
+1548,business plan
+1549,business strategy
+1550,design of experiments
+1551,financial planning
+1552,ie
+1553,people management
+1554,mgmt
+1555,product marketing
+1556,max
+1557,production management
+1558,sound
+1559,tal
+1560,vision
+1561,rough sketches
+1562,troubleshooting diagrams
+1563,layouts and plans
+1564,ms  office
+1565,run simulation
+1566,implementation
+1567,including verification
+1568,testing tools
+1569,manual drawings
+1570,installing
+1571,state      operates
+1572,modifies
+1573,icing indicators
+1574,drive units
+1575,spray units
+1576,test support structure
+1577,standpipe systems
+1578,fire pumps
+1579,panels
+1580,releasing
+1581,updating
+1582,wrong parts
+1583,lss
+1584,closing
+1585,articles
+1586,oam
+1587,chemcad
+1588,c+
+1589,antivirus
+1590,apple
+1591,bgp
+1592,call center
+1593,ccna
+1594,cd-rom
+1595,cisco ios
+1596,encryption
+1597,dell
+1598,help desk support
+1599,insurance
+1600,internet explorer
+1601,linux and os
+1602,windows 7
+1603,microsoft windows
+1604,msi
+1605,networking i
+1606,ospf
+1607,printer
+1608,ssl
+1609,system administration
+1610,tables
+1611,tv
+1612,troubleshooting i
+1613,video conferencing
+1614,acrylic
+1615,engineer-in-training
+1616,eit
+1617,graphics and design
+1618,material science
+1619,microsoft excel
+1620,microsoft powerpoint
+1621,"project
 management"
-"verbal communication
+1622,"verbal communication
 skills"
-verbal communication skills
-weighing
-experience with autocad
-dynamic ax
-peoplesoft
-sales force
-advertisements
-advertising
-ad copy
-financial
-market trends
-workbench
-accounts receivable
-aia
-bank reconciliation
-daily cash receipts
-cash flow
-consultant
-financial reports
-financial statements
-general ledger
-general ledger accounts
-pivot tables
-spreadsheet
-tax
-timberline
-content management
-camc
-charleston
-9800
-dsl/cable
-hubs
-ide/ scsi devices
-network storage devices
-vb.net
-budget management
-calculator
-facilities management
-financial reporting
-human resource management
-inventory levels
-java 1
-java 2
-problem-solving skills
-maintain records
-re-engineering
-software training
-supply chain management
-tango
-user support
-water treatment
-web design 1
-web design 2
-websites.
-metallurgical
-metallurgical engineering
-fundraising
-mec
-exploration
-metallurgy
-laboratory
-xrf
-coatings
-corrosion
-materials engineering
-pipeline
-machine tools
-team work
-c programming
-macintosh
-math
-98
-operating system
-35mm
-pro-engineer
-unigraphics
-asp
-rest  jquery
-bootstrap
-html5  mssql
-dts
-ssis
-ssrs  iis 5
-iis 6  agile
-kanban  objective c
-including customization delivery
-net
-data migration
-database administration
-driving
-e-commerce
-information technology
-market planning
-order management
-presenting
-pricing
-product manager
-real-time
-sales management
-stories
-ui design
-venture capital
-year-end
-computer-aided design (cad)
-nx unigraphics
-catia  mmachining
-v5
-sstatistical data analysis
-quality function deployment
-5s jmp
-pam-stamp
-3-d  ddesign
-funds
-statistical analysis
-sharepoint & costpoint
-administrative assistant
-benefits
-clerical
-mailing
-office equipment
-reception
-scanning
-repair and overhaul
-block upgrades
-prototypes
-suppliers
-lm reps
-define scope
-project objectives
-status reports
-support equipment
-align
-tolerances
-bpo/pre-flight
-aircraft systems
-components
-letters
-schedule maintenance
-staff development
-technical assistance
-construct
-current
-microsoft team foundation
-microsoft test manager
-tera term
-gshell
-utp
-including refractometer
-cd
-autodesk inventor
-abaqus
-dynamic
-gd & t
-tolerance analysis
-advanced manufacturing
-safety procedures
-process parameters
-increase material flow
-engineering analysis
-finite element analysis
-chaudhary r.
-ingle a. (phd)
-cad/cam
-lathe
-prototyping
-dasylab
-electrical
-lean/5s
-hydraulic testing
-applied science
-state     applied science
-munitions systems technology
-printing
-extrusion
-die design
-iprime
-microstructures
-polymer processing
-servo controls
-calibrations
-6 sigma
-asq stats
-advance regressions
-instron testing methods
-corona treating
-isd 287
-american red cross
-certified              skills    administrative
-chemist
-cpr
-data collection
-design of experiment
-dsc
-ind
-indexing
-peachtree
-seminars
-sigma
-technical training
-tutoring
-algebra
-geometry
-college math
-presentation
-analysis
-grading and evaluation
-esl students
-technology integration
-classroom monitoring
-quantitative analysis
-operations management
-optimization  c
-google docs
-ajax
-expert systems
-neural
-pl/sql
-pci
-perl
-public safety
-real-time 3
-receiving 6
-valuation
-vc
-agile software development
-handsoft
-epdm
-clearquest
-lean/six sigma
-safety engineering
-"requirements
+1623,verbal communication skills
+1624,weighing
+1625,experience with autocad
+1626,dynamic ax
+1627,peoplesoft
+1628,sales force
+1629,advertisements
+1630,advertising
+1631,ad copy
+1632,financial
+1633,market trends
+1634,workbench
+1635,accounts receivable
+1636,aia
+1637,bank reconciliation
+1638,daily cash receipts
+1639,cash flow
+1640,consultant
+1641,financial reports
+1642,financial statements
+1643,general ledger
+1644,general ledger accounts
+1645,pivot tables
+1646,spreadsheet
+1647,tax
+1648,timberline
+1649,content management
+1650,camc
+1651,charleston
+1652,9800
+1653,dsl/cable
+1654,hubs
+1655,ide/ scsi devices
+1656,network storage devices
+1657,vb.net
+1658,budget management
+1659,calculator
+1660,facilities management
+1661,financial reporting
+1662,human resource management
+1663,inventory levels
+1664,java 1
+1665,java 2
+1666,problem-solving skills
+1667,maintain records
+1668,re-engineering
+1669,software training
+1670,supply chain management
+1671,tango
+1672,user support
+1673,water treatment
+1674,web design 1
+1675,web design 2
+1676,websites.
+1677,metallurgical
+1678,metallurgical engineering
+1679,fundraising
+1680,mec
+1681,exploration
+1682,metallurgy
+1683,laboratory
+1684,xrf
+1685,coatings
+1686,corrosion
+1687,materials engineering
+1688,pipeline
+1689,machine tools
+1690,team work
+1691,c programming
+1692,macintosh
+1693,math
+1694,98
+1695,operating system
+1696,35mm
+1697,pro-engineer
+1698,unigraphics
+1699,asp
+1700,rest  jquery
+1701,bootstrap
+1702,html5  mssql
+1703,dts
+1704,ssis
+1705,ssrs  iis 5
+1706,iis 6  agile
+1707,kanban  objective c
+1708,including customization delivery
+1709,net
+1710,data migration
+1711,database administration
+1712,driving
+1713,e-commerce
+1714,information technology
+1715,market planning
+1716,order management
+1717,presenting
+1718,pricing
+1719,product manager
+1720,real-time
+1721,sales management
+1722,stories
+1723,ui design
+1724,venture capital
+1725,year-end
+1726,computer-aided design (cad)
+1727,nx unigraphics
+1728,catia  mmachining
+1729,v5
+1730,sstatistical data analysis
+1731,quality function deployment
+1732,5s jmp
+1733,pam-stamp
+1734,3-d  ddesign
+1735,funds
+1736,statistical analysis
+1737,sharepoint & costpoint
+1738,administrative assistant
+1739,benefits
+1740,clerical
+1741,mailing
+1742,office equipment
+1743,reception
+1744,scanning
+1745,repair and overhaul
+1746,block upgrades
+1747,prototypes
+1748,suppliers
+1749,lm reps
+1750,define scope
+1751,project objectives
+1752,status reports
+1753,support equipment
+1754,align
+1755,tolerances
+1756,bpo/pre-flight
+1757,aircraft systems
+1758,components
+1759,letters
+1760,schedule maintenance
+1761,staff development
+1762,technical assistance
+1763,construct
+1764,current
+1765,microsoft team foundation
+1766,microsoft test manager
+1767,tera term
+1768,gshell
+1769,utp
+1770,including refractometer
+1771,cd
+1772,autodesk inventor
+1773,abaqus
+1774,dynamic
+1775,gd & t
+1776,tolerance analysis
+1777,advanced manufacturing
+1778,safety procedures
+1779,process parameters
+1780,increase material flow
+1781,engineering analysis
+1782,finite element analysis
+1783,chaudhary r.
+1784,ingle a. (phd)
+1785,cad/cam
+1786,lathe
+1787,prototyping
+1788,dasylab
+1789,electrical
+1790,lean/5s
+1791,hydraulic testing
+1792,applied science
+1793,state     applied science
+1794,munitions systems technology
+1795,printing
+1796,extrusion
+1797,die design
+1798,iprime
+1799,microstructures
+1800,polymer processing
+1801,servo controls
+1802,calibrations
+1803,6 sigma
+1804,asq stats
+1805,advance regressions
+1806,instron testing methods
+1807,corona treating
+1808,isd 287
+1809,american red cross
+1810,certified              skills    administrative
+1811,chemist
+1812,cpr
+1813,data collection
+1814,design of experiment
+1815,dsc
+1816,ind
+1817,indexing
+1818,peachtree
+1819,seminars
+1820,sigma
+1821,technical training
+1822,tutoring
+1823,algebra
+1824,geometry
+1825,college math
+1826,presentation
+1827,analysis
+1828,grading and evaluation
+1829,esl students
+1830,technology integration
+1831,classroom monitoring
+1832,quantitative analysis
+1833,operations management
+1834,optimization  c
+1835,google docs
+1836,ajax
+1837,expert systems
+1838,neural
+1839,pl/sql
+1840,pci
+1841,perl
+1842,public safety
+1843,real-time 3
+1844,receiving 6
+1845,valuation
+1846,vc
+1847,agile software development
+1848,handsoft
+1849,epdm
+1850,clearquest
+1851,lean/six sigma
+1852,safety engineering
+1853,"requirements
 engineering creation"
-ansys 14
-dfma
-dfa/dfm
-zemax
-i-deas
-intralink
-"bill of
+1854,ansys 14
+1855,dfma
+1856,dfa/dfm
+1857,zemax
+1858,i-deas
+1859,intralink
+1860,"bill of
 materials"
-cage codes
-asme standards
-simulink
-software engineers
-test engineers
-technical artists and
-bc
-citrix
-laboratory equipment
-process equipment
-business analysts
-documentation specialists
-multi-channel business applications
-personalization features
-cell phones
-pdas (palm vii
-voice
-scheduling and dispatching
-spare parts
-oracle/sql
-management
-standards
-support
-required escalations
-jeopardy notifications
-risk
-gui usability
-boundary
-performance
-regression
-findings
-donators
-employees
-events
-acceptance
-user preferences
-national education center
-san francisco
-kensington training program
-san mateo
-cases
-regression testing
-client/server
-integration
-integration testing
-integrator
-lotus notes
-ms visual basic
-software quality assurance
-network protocols
-qa test
-test cases
-application analysis
-application support
-automated test scripts
-basis
-business process management
-dispatching
-issues management
-maintenance repair
-planning modules
-process management
-qa testing
-staff training
-systems support
-test scripts
-graphical user interface
-wireless
-black box
-usability
-adt
-pocket pc
-systems administration
-telephones
-wap
-retail marketing
-architecture
-database systems
-design review
-quality engineer
-software quality engineer
-test plans
-white box
-white box testing
-db2
-dbase
-dbase iv
-netbeui
-new products
-rdbms
-solutions
-storage area network
-structured software
-system integration
-virtual machine
-visual test
-vm
-assurance analyst
-automated testing
-back end
-data integrity
-dos
-file
-invoice
-ms exchange
-ms-dos
-business intelligence
-e-business
-embedded systems
-qa engineering
-real time embedded
-wireless data
-visio)
-erp-sap
-sas-stat
-animations
-visual management
-5s
-standardized work
-boring machine
-checks
-tests
-six sigma methodology
-continuous improvement techniques
-safety engineering (fta
-fmea)
-mission arlington
-arlington
-texas.         skills     asp.net
-grinders
-languages
-visual basic 6
-ms visio
-stat graphics
-manufacturing yield improvement
-cip
-mill
-scheme
-"system
+1861,cage codes
+1862,asme standards
+1863,simulink
+1864,software engineers
+1865,test engineers
+1866,technical artists and
+1867,bc
+1868,citrix
+1869,laboratory equipment
+1870,process equipment
+1871,business analysts
+1872,documentation specialists
+1873,multi-channel business applications
+1874,personalization features
+1875,cell phones
+1876,pdas (palm vii
+1877,voice
+1878,scheduling and dispatching
+1879,spare parts
+1880,oracle/sql
+1881,management
+1882,standards
+1883,support
+1884,required escalations
+1885,jeopardy notifications
+1886,risk
+1887,gui usability
+1888,boundary
+1889,performance
+1890,regression
+1891,findings
+1892,donators
+1893,employees
+1894,events
+1895,acceptance
+1896,user preferences
+1897,national education center
+1898,san francisco
+1899,kensington training program
+1900,san mateo
+1901,cases
+1902,regression testing
+1903,client/server
+1904,integration
+1905,integration testing
+1906,integrator
+1907,lotus notes
+1908,ms visual basic
+1909,software quality assurance
+1910,network protocols
+1911,qa test
+1912,test cases
+1913,application analysis
+1914,application support
+1915,automated test scripts
+1916,basis
+1917,business process management
+1918,dispatching
+1919,issues management
+1920,maintenance repair
+1921,planning modules
+1922,process management
+1923,qa testing
+1924,staff training
+1925,systems support
+1926,test scripts
+1927,graphical user interface
+1928,wireless
+1929,black box
+1930,usability
+1931,adt
+1932,pocket pc
+1933,systems administration
+1934,telephones
+1935,wap
+1936,retail marketing
+1937,architecture
+1938,database systems
+1939,design review
+1940,quality engineer
+1941,software quality engineer
+1942,test plans
+1943,white box
+1944,white box testing
+1945,db2
+1946,dbase
+1947,dbase iv
+1948,netbeui
+1949,new products
+1950,rdbms
+1951,solutions
+1952,storage area network
+1953,structured software
+1954,system integration
+1955,virtual machine
+1956,visual test
+1957,vm
+1958,assurance analyst
+1959,automated testing
+1960,back end
+1961,data integrity
+1962,dos
+1963,file
+1964,invoice
+1965,ms exchange
+1966,ms-dos
+1967,business intelligence
+1968,e-business
+1969,embedded systems
+1970,qa engineering
+1971,real time embedded
+1972,wireless data
+1973,visio)
+1974,erp-sap
+1975,sas-stat
+1976,animations
+1977,visual management
+1978,5s
+1979,standardized work
+1980,boring machine
+1981,checks
+1982,tests
+1983,six sigma methodology
+1984,continuous improvement techniques
+1985,safety engineering (fta
+1986,fmea)
+1987,mission arlington
+1988,arlington
+1989,texas.         skills     asp.net
+1990,grinders
+1991,languages
+1992,visual basic 6
+1993,ms visio
+1994,stat graphics
+1995,manufacturing yield improvement
+1996,cip
+1997,mill
+1998,scheme
+1999,"system
 design"
-naval
-fm
-sps
-drilling and tapping
+2000,naval
+2001,fm
+2002,sps
+2003,drilling and tapping

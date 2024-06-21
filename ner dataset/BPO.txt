@@ -1,578 +1,578 @@
-0
-business management
-conversion
-client
-customer satisfaction
-customer services
-"customer service
+,0
+0,business management
+1,conversion
+2,client
+3,customer satisfaction
+4,customer services
+5,"customer service
 experience"
-direct sales
-direction
-"executive
+6,direct sales
+7,direction
+8,"executive
 management"
-focus
-forms
-hiring
-languages
-director
-marketing
-meetings
-works
-enterprise
-network
-"performance
+9,focus
+10,forms
+11,hiring
+12,languages
+13,director
+14,marketing
+15,meetings
+16,works
+17,enterprise
+18,network
+19,"performance
 management"
-quality
-""
-real time
-recruiting
-sales
-"sales
+20,quality
+21,
+22,real time
+23,recruiting
+24,sales
+25,"sales
 analysis"
-spanish
-strategy
-calendaring
-client relations
-computer proficiency
-coordination
-creative problem solving
-critical thinking
-customer needs assessment
-customer service
-data entry
-documentation
-email
-executive management support
-filing
-grammar
-internet research
-letters and memos
-multi-task management
-organizational skills
-prioritization
-scheduling
-service orientation
-telephone skills
-time management
-travel arrangements
-type 85 wpm
-typing
-vendor management
-order entry
-re-pricing of claims
-receptionist
-advanced problem-solving
-rims
-sap
-outlook
-data warehouse maintenance
-microsoft office suite
-microsoft outlook
-microsoft powerpoint
-microsoft word.
-attention to detail
-billing
-data analysis
-e-mail
-english
-organize files
-financial
-financial reports
-investments
-leadership
-microsoft office
-office
-portuguese
-risk management
-selling
-strategic planning
-phone
-web page
-account management
-b2b
-balance
-budgets
-budget
-business development
-business intelligence
-contract negotiations
-clientele
-clients
-e-commerce
-executive management
-senior management
-gateway
-help desk
-hp
-kronos
-market
-materials
-optimization
-performance reviews
-policies
-proposals
-speaking
-qa
-quality assurance
-real-time
-reporting
-specification
-staffing
-symantec
-technical support
-telecommunications
-training materials
-powerpoint
-excel
-project initiation
-planning
-industry updates
-monitor satisfaction
-word
-basic
-business works
-cable
-capacity planning
-coaching
-computer peripherals
-computer hardware
-computer applications
-driving
-features
-frame
-functional
-java
-leadership skills
-logic
-mentoring
-ms office
-windows operating systems
-share point
-presenting
-processes
-project lead
-project management
-sound
-sql
-strategic management
-supervision
-translating
-troubleshooting
-verbal communication skills
-visio
-web designing
-wise
-workflow
-written
-mi
-cincinnati
-screening resumes
-behavioral based interviewing
-high energy
-multi-tasking
-recruitment
-performance management
-michigan
-ohio and midland
-hi-potential program
-query resolution
-one-on-one meetings
-town halls
-city
-branding
-bi
-change management
-closing
-communication skills
-employee relations
-fast
-human resource
-hr
-mac os
-managing
-ms office suite
-windows
-98
-oracle applications
-organization development
-performance appraisal
-process improvement
-promotion
-settlements
-strategic
-"survey
+26,spanish
+27,strategy
+28,calendaring
+29,client relations
+30,computer proficiency
+31,coordination
+32,creative problem solving
+33,critical thinking
+34,customer needs assessment
+35,customer service
+36,data entry
+37,documentation
+38,email
+39,executive management support
+40,filing
+41,grammar
+42,internet research
+43,letters and memos
+44,multi-task management
+45,organizational skills
+46,prioritization
+47,scheduling
+48,service orientation
+49,telephone skills
+50,time management
+51,travel arrangements
+52,type 85 wpm
+53,typing
+54,vendor management
+55,order entry
+56,re-pricing of claims
+57,receptionist
+58,advanced problem-solving
+59,rims
+60,sap
+61,outlook
+62,data warehouse maintenance
+63,microsoft office suite
+64,microsoft outlook
+65,microsoft powerpoint
+66,microsoft word.
+67,attention to detail
+68,billing
+69,data analysis
+70,e-mail
+71,english
+72,organize files
+73,financial
+74,financial reports
+75,investments
+76,leadership
+77,microsoft office
+78,office
+79,portuguese
+80,risk management
+81,selling
+82,strategic planning
+83,phone
+84,web page
+85,account management
+86,b2b
+87,balance
+88,budgets
+89,budget
+90,business development
+91,business intelligence
+92,contract negotiations
+93,clientele
+94,clients
+95,e-commerce
+96,executive management
+97,senior management
+98,gateway
+99,help desk
+100,hp
+101,kronos
+102,market
+103,materials
+104,optimization
+105,performance reviews
+106,policies
+107,proposals
+108,speaking
+109,qa
+110,quality assurance
+111,real-time
+112,reporting
+113,specification
+114,staffing
+115,symantec
+116,technical support
+117,telecommunications
+118,training materials
+119,powerpoint
+120,excel
+121,project initiation
+122,planning
+123,industry updates
+124,monitor satisfaction
+125,word
+126,basic
+127,business works
+128,cable
+129,capacity planning
+130,coaching
+131,computer peripherals
+132,computer hardware
+133,computer applications
+134,driving
+135,features
+136,frame
+137,functional
+138,java
+139,leadership skills
+140,logic
+141,mentoring
+142,ms office
+143,windows operating systems
+144,share point
+145,presenting
+146,processes
+147,project lead
+148,project management
+149,sound
+150,sql
+151,strategic management
+152,supervision
+153,translating
+154,troubleshooting
+155,verbal communication skills
+156,visio
+157,web designing
+158,wise
+159,workflow
+160,written
+161,mi
+162,cincinnati
+163,screening resumes
+164,behavioral based interviewing
+165,high energy
+166,multi-tasking
+167,recruitment
+168,performance management
+169,michigan
+170,ohio and midland
+171,hi-potential program
+172,query resolution
+173,one-on-one meetings
+174,town halls
+175,city
+176,branding
+177,bi
+178,change management
+179,closing
+180,communication skills
+181,employee relations
+182,fast
+183,human resource
+184,hr
+185,mac os
+186,managing
+187,ms office suite
+188,windows
+189,98
+190,oracle applications
+191,organization development
+192,performance appraisal
+193,process improvement
+194,promotion
+195,settlements
+196,strategic
+197,"survey
 design"
-asset management
-administrative
-computer proficient
-conflict management
-contract negotiation
-digital photography
-file management
-problem solving
-property management
-social media
-routers: cisco 17xx
-18xx
-26xx
-28xx
-37xx
-38xx
-3750
-45xx
-65xx series
-nexus  5k
-2k
-7k
-eigrp
-bgp
-rip-2
-pbr
-route filtering
-redistribution
-summarization
-vtp
-stp
-pvst+
-rpvst+
-multicast operations
-layer 3 switches
-ether channels
-fast ethernet
-gigabit ethernet
-fddi
-cddi
-token ring
-channelized links (e1/t1/e3/t3)
-fiber optic circuits
-frame relay
-isdn
-hsrp
-glbp
-irdp
-nat
-snmp
-syslog
-ntp
-dhcp
-cdp
-dns
-fxo/fxs/e&m/t1/isdn/ pri
-radius
-ips/ids
-dmz setup
-cbac
-cisco nac
-acl
-ios firewall features
-ex 4200
-ex 4500
-mx-480
-m series
-srx210
-change
-telecommunication
-multi-tasking call center
-contracts
-insurance
-team building
-mac
-outlook exchange
-newsletter
-personnel
-presentations
-re-engineering
-spreadsheets
-team player
-strong public speaker
-professional and friendly
-active directory
-backup
-ccna
-cisco
-cisco certified
-hardware
-dec
-erp
-firewalls
-ftp
-gui
-hindi
-ip
-lan
-access
-microsoft certified professional
-mcp
-mail
-windows 8
-windows7
-windows xp
-migration
-ess
-network associates
-network printers
-network and troubleshooting
-networking
-ospf
-printer
-protocols
-rip
-routers
-routing
-sap basis
-servers
-switches
-phones
-telnet
-terminal server
-vista
-wan
-post:- abhana
-disit:- damoh
-adobe
-advertisements
-art
-interpersonal communication
-excellent communication
-creative design
-client satisfaction
-dependable
-adaptable learner
-staff training
-first aid
-government security clearance
-graphic design
-computer graphics
-leadership ability
-organized individual
-messaging
-weapons training
-page-layout
-critical thinker
-photography
-very fast learner
-tear gas training
-honesty
-loyalty
-integrity
-proficient in sap
-evms
-accruals
-call center
-counseling
-financial management
-forecasting
-invoicing
-mod
-network support
-procurement
-profit
-vendor relations
-microsoft office: word
-pp
-vurv
-taleo
-banner
-brass peoplesoft
-hireexpress
-and fmp
-a level 2
-analyst
-arts
-as/400
-bridges
-c
-call centre
-coach
-credit
-desktops
-engineer
-event management
-ids
-maintaining inventory
-inventory
-itil
-itil v
-knowledge management
-laptops
-logging
-microsoft exchange
-windows 7
-win
-win 7
-win 2000
-win 95
-nt
-msn
-operating system
-oracle
-punjabi
-san
-sla
-sql server
-ssl
-tax
-technical documentation
-troubleshoot
-video
-vpn
-vc
-karan vihar
-kirari extn- ii
-nangloi
-c++
-c#
-microsoft project
-8.1
-firefox
-sql server 2005
-policy amounts
-policy premium dates
-transfer funds
-system security
-cases
-test cases
-functional testing
-integration
-integration testing
-integrator
-android
-android sdk
-ios
-mapping
-safari
-software testing
-statistics
-test plans
-topo
-writing functional
-test engineer
-writing test
-writing test cases
-ms sql server
-retail
-retail marketing
-system testing
-acceptance testing
-gis
-html
-javascript
-linux
-performance testing
-regression testing
-scripting
-self motivated
-software development
-structured software
-system integration
-user acceptance
-user acceptance testing
-xml
-operations
-database
-insurance management
-payments
-b2b software
-high performance computing
-security
-software engineering
-trading
-program management
-service management
-client relationship management
-sales and solutioning
-transition management
-managing p&l
-a p
-behavioral health
-business operations
-business planning
-business process
-consulting
-contact management
-customer relationship management
-crm
-customer care
-dell
-direct marketing
-entrepreneur
-fp&a
-gross profit
-human resource management
-human resources
-inside sales
-legal
-management consulting
-organizational
-process re-engineering
-sales support
-accounts payable
-ad
-ap
-automation
-trial balance
-book
-debit
-fixed assets
-indexing
-processing of invoices
-invoice processing
-letters
-ms-word
-purchase requisitions
-purchasing
-receiving
-reconciling
-shared service
-sla i
-sun
-acquisitions
-banking
-cl
-cpa
-inventory control
-microsoft dynamics
-mis
-navision
-negotiation
-requirement
-stock control
-supervising
-moorthy nagar
-villivakkam
-faxing
-anesthesia
-labs
-registration
-well baby newborn
-inpatient claims
-power point
-internet explorer
-cms pricers
-drg calculator
-icd-9
-cpt
-problems
-"power
+198,asset management
+199,administrative
+200,computer proficient
+201,conflict management
+202,contract negotiation
+203,digital photography
+204,file management
+205,problem solving
+206,property management
+207,social media
+208,routers: cisco 17xx
+209,18xx
+210,26xx
+211,28xx
+212,37xx
+213,38xx
+214,3750
+215,45xx
+216,65xx series
+217,nexus  5k
+218,2k
+219,7k
+220,eigrp
+221,bgp
+222,rip-2
+223,pbr
+224,route filtering
+225,redistribution
+226,summarization
+227,vtp
+228,stp
+229,pvst+
+230,rpvst+
+231,multicast operations
+232,layer 3 switches
+233,ether channels
+234,fast ethernet
+235,gigabit ethernet
+236,fddi
+237,cddi
+238,token ring
+239,channelized links (e1/t1/e3/t3)
+240,fiber optic circuits
+241,frame relay
+242,isdn
+243,hsrp
+244,glbp
+245,irdp
+246,nat
+247,snmp
+248,syslog
+249,ntp
+250,dhcp
+251,cdp
+252,dns
+253,fxo/fxs/e&m/t1/isdn/ pri
+254,radius
+255,ips/ids
+256,dmz setup
+257,cbac
+258,cisco nac
+259,acl
+260,ios firewall features
+261,ex 4200
+262,ex 4500
+263,mx-480
+264,m series
+265,srx210
+266,change
+267,telecommunication
+268,multi-tasking call center
+269,contracts
+270,insurance
+271,team building
+272,mac
+273,outlook exchange
+274,newsletter
+275,personnel
+276,presentations
+277,re-engineering
+278,spreadsheets
+279,team player
+280,strong public speaker
+281,professional and friendly
+282,active directory
+283,backup
+284,ccna
+285,cisco
+286,cisco certified
+287,hardware
+288,dec
+289,erp
+290,firewalls
+291,ftp
+292,gui
+293,hindi
+294,ip
+295,lan
+296,access
+297,microsoft certified professional
+298,mcp
+299,mail
+300,windows 8
+301,windows7
+302,windows xp
+303,migration
+304,ess
+305,network associates
+306,network printers
+307,network and troubleshooting
+308,networking
+309,ospf
+310,printer
+311,protocols
+312,rip
+313,routers
+314,routing
+315,sap basis
+316,servers
+317,switches
+318,phones
+319,telnet
+320,terminal server
+321,vista
+322,wan
+323,post:- abhana
+324,disit:- damoh
+325,adobe
+326,advertisements
+327,art
+328,interpersonal communication
+329,excellent communication
+330,creative design
+331,client satisfaction
+332,dependable
+333,adaptable learner
+334,staff training
+335,first aid
+336,government security clearance
+337,graphic design
+338,computer graphics
+339,leadership ability
+340,organized individual
+341,messaging
+342,weapons training
+343,page-layout
+344,critical thinker
+345,photography
+346,very fast learner
+347,tear gas training
+348,honesty
+349,loyalty
+350,integrity
+351,proficient in sap
+352,evms
+353,accruals
+354,call center
+355,counseling
+356,financial management
+357,forecasting
+358,invoicing
+359,mod
+360,network support
+361,procurement
+362,profit
+363,vendor relations
+364,microsoft office: word
+365,pp
+366,vurv
+367,taleo
+368,banner
+369,brass peoplesoft
+370,hireexpress
+371,and fmp
+372,a level 2
+373,analyst
+374,arts
+375,as/400
+376,bridges
+377,c
+378,call centre
+379,coach
+380,credit
+381,desktops
+382,engineer
+383,event management
+384,ids
+385,maintaining inventory
+386,inventory
+387,itil
+388,itil v
+389,knowledge management
+390,laptops
+391,logging
+392,microsoft exchange
+393,windows 7
+394,win
+395,win 7
+396,win 2000
+397,win 95
+398,nt
+399,msn
+400,operating system
+401,oracle
+402,punjabi
+403,san
+404,sla
+405,sql server
+406,ssl
+407,tax
+408,technical documentation
+409,troubleshoot
+410,video
+411,vpn
+412,vc
+413,karan vihar
+414,kirari extn- ii
+415,nangloi
+416,c++
+417,c#
+418,microsoft project
+419,8.1
+420,firefox
+421,sql server 2005
+422,policy amounts
+423,policy premium dates
+424,transfer funds
+425,system security
+426,cases
+427,test cases
+428,functional testing
+429,integration
+430,integration testing
+431,integrator
+432,android
+433,android sdk
+434,ios
+435,mapping
+436,safari
+437,software testing
+438,statistics
+439,test plans
+440,topo
+441,writing functional
+442,test engineer
+443,writing test
+444,writing test cases
+445,ms sql server
+446,retail
+447,retail marketing
+448,system testing
+449,acceptance testing
+450,gis
+451,html
+452,javascript
+453,linux
+454,performance testing
+455,regression testing
+456,scripting
+457,self motivated
+458,software development
+459,structured software
+460,system integration
+461,user acceptance
+462,user acceptance testing
+463,xml
+464,operations
+465,database
+466,insurance management
+467,payments
+468,b2b software
+469,high performance computing
+470,security
+471,software engineering
+472,trading
+473,program management
+474,service management
+475,client relationship management
+476,sales and solutioning
+477,transition management
+478,managing p&l
+479,a p
+480,behavioral health
+481,business operations
+482,business planning
+483,business process
+484,consulting
+485,contact management
+486,customer relationship management
+487,crm
+488,customer care
+489,dell
+490,direct marketing
+491,entrepreneur
+492,fp&a
+493,gross profit
+494,human resource management
+495,human resources
+496,inside sales
+497,legal
+498,management consulting
+499,organizational
+500,process re-engineering
+501,sales support
+502,accounts payable
+503,ad
+504,ap
+505,automation
+506,trial balance
+507,book
+508,debit
+509,fixed assets
+510,indexing
+511,processing of invoices
+512,invoice processing
+513,letters
+514,ms-word
+515,purchase requisitions
+516,purchasing
+517,receiving
+518,reconciling
+519,shared service
+520,sla i
+521,sun
+522,acquisitions
+523,banking
+524,cl
+525,cpa
+526,inventory control
+527,microsoft dynamics
+528,mis
+529,navision
+530,negotiation
+531,requirement
+532,stock control
+533,supervising
+534,moorthy nagar
+535,villivakkam
+536,faxing
+537,anesthesia
+538,labs
+539,registration
+540,well baby newborn
+541,inpatient claims
+542,power point
+543,internet explorer
+544,cms pricers
+545,drg calculator
+546,icd-9
+547,cpt
+548,problems
+549,"power
 point"
-facets
-ika systems
-"drg
+550,facets
+551,ika systems
+552,"drg
 calculator"
-claims processing
-active
-long term disability
-carrier eligibility
-brokers
-government regulation
-benefits
-brochures
-calculator
-cms
-cpt coding
-team lead
-team leader
-microsoft access
-microsoft word
-police
-coding
+553,claims processing
+554,active
+555,long term disability
+556,carrier eligibility
+557,brokers
+558,government regulation
+559,benefits
+560,brochures
+561,calculator
+562,cms
+563,cpt coding
+564,team lead
+565,team leader
+566,microsoft access
+567,microsoft word
+568,police
+569,coding

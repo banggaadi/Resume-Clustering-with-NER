@@ -1,611 +1,611 @@
-0
-including changing tires
-purchase orders
-expense reports
-departments
-co-signees
-state
-vehicle repairs
-database
-inventory
-marketing strategies
-sales
-cacs
-strata
-fico
-design topology/playbook
-time   management
-huon
-claims portal
-california auto
-collector car
-home
-assigned risk
-and umbrella insurance
-license verification
-embrace changes
-procedures
-development/growth
-the msc
-banks
-mortgagees
-effects of changes
-call center
-coaching
-ca
-clients
-driving
-focus
-hiring
-insurance
-marketing
-meetings
-msc
-policies
-processes
-quality
-state      investigates
-evaluates
-back injury
-services
-state      investigate
-adjust and settle
-complex  auto
-mobile home
-boat
-adjust
-criminal investigations
-corrections
-interview of witnesses
-physicians
-police reports
-closing
-contracts
-cpt coding
-criminal justice
-customer service
-documentation
-email
-fax
-faxing
-iso
-law
-legal
-lexis nexis
-medical billing
-access
-excel
-mail
-office
-outlook express
-powerpoint
-works
-police
-problem resolution
-fluent in spanish
-supervision
-telephones
-financial manager
-usa bank
-dreamweaver
-illustrator
-photoshop
-acrobat pro
-photoshop elements
-final cut pro
-ms office
-mac osx
-mac ios
-api
-arabic
-arts
-auditing
-automotive
-c
-catia v
-contract management
-cost control
-client
-dec
-delivery
-engineer
-fluent          english
-financial
-frame
-french
-inspection
-inspector
-invoicing
-iso9001
-logistics
-logos
-managing
-manufacturing process
-material science
-ms outlook
-ms project
-windows 9
-nt
-oct
-oil
-organizing
-organizational
-page 6
-painting
-pascal
-personnel
-producing
-profit
-progress
-project lead
-purchasing
-quality management
-qa
-quality control
-recruitment
-reporting
-safety
-scheduling
-six sigma
-specification
-suppliers selection
-"systems
+,0
+0,including changing tires
+1,purchase orders
+2,expense reports
+3,departments
+4,co-signees
+5,state
+6,vehicle repairs
+7,database
+8,inventory
+9,marketing strategies
+10,sales
+11,cacs
+12,strata
+13,fico
+14,design topology/playbook
+15,time   management
+16,huon
+17,claims portal
+18,california auto
+19,collector car
+20,home
+21,assigned risk
+22,and umbrella insurance
+23,license verification
+24,embrace changes
+25,procedures
+26,development/growth
+27,the msc
+28,banks
+29,mortgagees
+30,effects of changes
+31,call center
+32,coaching
+33,ca
+34,clients
+35,driving
+36,focus
+37,hiring
+38,insurance
+39,marketing
+40,meetings
+41,msc
+42,policies
+43,processes
+44,quality
+45,state      investigates
+46,evaluates
+47,back injury
+48,services
+49,state      investigate
+50,adjust and settle
+51,complex  auto
+52,mobile home
+53,boat
+54,adjust
+55,criminal investigations
+56,corrections
+57,interview of witnesses
+58,physicians
+59,police reports
+60,closing
+61,contracts
+62,cpt coding
+63,criminal justice
+64,customer service
+65,documentation
+66,email
+67,fax
+68,faxing
+69,iso
+70,law
+71,legal
+72,lexis nexis
+73,medical billing
+74,access
+75,excel
+76,mail
+77,office
+78,outlook express
+79,powerpoint
+80,works
+81,police
+82,problem resolution
+83,fluent in spanish
+84,supervision
+85,telephones
+86,financial manager
+87,usa bank
+88,dreamweaver
+89,illustrator
+90,photoshop
+91,acrobat pro
+92,photoshop elements
+93,final cut pro
+94,ms office
+95,mac osx
+96,mac ios
+97,api
+98,arabic
+99,arts
+100,auditing
+101,automotive
+102,c
+103,catia v
+104,contract management
+105,cost control
+106,client
+107,dec
+108,delivery
+109,engineer
+110,fluent          english
+111,financial
+112,frame
+113,french
+114,inspection
+115,inspector
+116,invoicing
+117,iso9001
+118,logistics
+119,logos
+120,managing
+121,manufacturing process
+122,material science
+123,ms outlook
+124,ms project
+125,windows 9
+126,nt
+127,oct
+128,oil
+129,organizing
+130,organizational
+131,page 6
+132,painting
+133,pascal
+134,personnel
+135,producing
+136,profit
+137,progress
+138,project lead
+139,purchasing
+140,quality management
+141,qa
+142,quality control
+143,recruitment
+144,reporting
+145,safety
+146,scheduling
+147,six sigma
+148,specification
+149,suppliers selection
+150,"systems
 management"
-validation
-veritas
-welding
-america online
-aol
-auto repair
-branding
-budget
-business development
-com
-content
-contract negotiations
-credit
-dell
-government
-internet development
-internet service provider
-leadership
-marketing plans
-market
-marketing manager
-marketing materials
-mba
-money
-multimedia
-multi-media
-pricing
-product development
-project management
-publications
-receiving
-retail
-rfp
-sales/development
-sales reporting
-shell
-stories
-strategy development
-telemarketing
-web site
-writer
-zip
-10 key calculator
-administrative duties
-administrative support
-conversion
-customer service skills
-faxes
-letters
-medical terminology
-ms office suite
-word
-outlook
-problem solving
-proofreading
-scanners
-trouble shooting
-vectoring
-web browsing
-xerox copiers
-neat
-organizational skills
-problem solver
-quick
-reception
-self-starter
-tandem
-telecommunication
-phone
-evaluate
-reserve
-risk control
-unit goals
-create
-determine liability
-presentations
-litigation management
-account management
-accounting
-ad
-automobiles
-customer relations
-customer satisfaction
-estimating
-forecasting
-lockheed-martin
-mechanical
-negotiations
-network
-operations management
-paint
-program management
-proposals
-proposal
-repairs
-sales manager
-scientific
-sun
-upgrades
-administrative
-attention to detail
-attorney
-legal documents
-research
-billing
-cancer
-clerical
-direction
-fast
-instruction
-team leader
-operating system
-speaking
-real-time
-selling
-scanning
-staffing
-strategy
-typing
-state                skills    accountant
-accounting systems
-accounting system
-accounts payable
-balance sheet
-financial statements
-excel spreadsheets
-microsoft office
-tax returns
-year-end
-cashiering
-cpt
-data entry
-databases
-icd-9
-inspect
-inventory control
-microsoft access
-programming
-reconciling
-maintain files
-san
-tax
-telephone
-book
-coach
-consulting
-decision-making
-decision making
-designing
-functional
-team development
-director
-strategic thinking
-systems thinking
-eligibility
-claims
-call quality
-shareholders
-policy owners
-choices
-growth
-inform superiors
-termination
-city
-communication
-public safety leadership
-public safety
-apache
-autocad
-charts
-data analysis
-data visualization
-layout
-matlab
-ms excel
-minitab
-mysql
-optimization
-oracle database
-python
-sas
-simulation
-spss
-sql
-statistical analysis
-tableau
-visio
-website
-cum laude
-governance compliance
-sponsor feedback
-obtaining recommendations
-general counsel
-general counsel   city
-legal studies    city
-3.63 gpa
-texas
-wilmington
-north carolina
-1994-1995 4.0 gpa
-metrics
-operations
-training
-audit
-audits
-governance
-planview
-business intelligence
-leads
-oracle
-associate
-data sources
-microsoft sharepoint
-posting
-process improvement
-security
-sharepoint
-excel 2003
-microsoft excel
-outlook 2003
-microsoft powerpoint
-powerpoint 2003
-word 2003
-ambulation
-eating
-dressing
-bed
-analytics (1 year)
-baton employment
-interpersonal and communication
-file management
-litigation
-mediation
-medical record review
-commercial needs
-negotiation
-quality assurance
-risk management
-settlements
-peopletools
-peoplesoft query  sql
-windows nt
-windows 2003
-project
-publisher
-rqm
-clear case)
-kronos connect
-kronos
-sox
-adp
-webhire
-company sales staff
-benefits
-excellent customer service
-iq
-mentoring
-valuation
-written
-accounts payable/receivable
-adobe
-bookkeeping
-database management
-meeting planning
-new product development
-office management
-online marketing
-peachtree accounting
-policies and procedures
-property management
-quickbooks pro
-real estate
-production scheduling
-agency
-back-up
-banking
-daily cash deposits
-cashier
-conferences
-drivers
-equity
-senior management
-fashion
-fixed income
-insurance sales
-materials
-knowledge of store
-public relations
-receptionist
-script
-shipping
-spreadsheets
-strategic
-transportation
-3d
-assembly language
-c language
-cad
-chinese
-clustering
-controller
-database software
-economics
-editing
-embedded system
-english
-experiments
-gui
-graphic
-java
-laser
-lathe
-machine learning
-"mechanical
+151,validation
+152,veritas
+153,welding
+154,america online
+155,aol
+156,auto repair
+157,branding
+158,budget
+159,business development
+160,com
+161,content
+162,contract negotiations
+163,credit
+164,dell
+165,government
+166,internet development
+167,internet service provider
+168,leadership
+169,marketing plans
+170,market
+171,marketing manager
+172,marketing materials
+173,mba
+174,money
+175,multimedia
+176,multi-media
+177,pricing
+178,product development
+179,project management
+180,publications
+181,receiving
+182,retail
+183,rfp
+184,sales/development
+185,sales reporting
+186,shell
+187,stories
+188,strategy development
+189,telemarketing
+190,web site
+191,writer
+192,zip
+193,10 key calculator
+194,administrative duties
+195,administrative support
+196,conversion
+197,customer service skills
+198,faxes
+199,letters
+200,medical terminology
+201,ms office suite
+202,word
+203,outlook
+204,problem solving
+205,proofreading
+206,scanners
+207,trouble shooting
+208,vectoring
+209,web browsing
+210,xerox copiers
+211,neat
+212,organizational skills
+213,problem solver
+214,quick
+215,reception
+216,self-starter
+217,tandem
+218,telecommunication
+219,phone
+220,evaluate
+221,reserve
+222,risk control
+223,unit goals
+224,create
+225,determine liability
+226,presentations
+227,litigation management
+228,account management
+229,accounting
+230,ad
+231,automobiles
+232,customer relations
+233,customer satisfaction
+234,estimating
+235,forecasting
+236,lockheed-martin
+237,mechanical
+238,negotiations
+239,network
+240,operations management
+241,paint
+242,program management
+243,proposals
+244,proposal
+245,repairs
+246,sales manager
+247,scientific
+248,sun
+249,upgrades
+250,administrative
+251,attention to detail
+252,attorney
+253,legal documents
+254,research
+255,billing
+256,cancer
+257,clerical
+258,direction
+259,fast
+260,instruction
+261,team leader
+262,operating system
+263,speaking
+264,real-time
+265,selling
+266,scanning
+267,staffing
+268,strategy
+269,typing
+270,state                skills    accountant
+271,accounting systems
+272,accounting system
+273,accounts payable
+274,balance sheet
+275,financial statements
+276,excel spreadsheets
+277,microsoft office
+278,tax returns
+279,year-end
+280,cashiering
+281,cpt
+282,data entry
+283,databases
+284,icd-9
+285,inspect
+286,inventory control
+287,microsoft access
+288,programming
+289,reconciling
+290,maintain files
+291,san
+292,tax
+293,telephone
+294,book
+295,coach
+296,consulting
+297,decision-making
+298,decision making
+299,designing
+300,functional
+301,team development
+302,director
+303,strategic thinking
+304,systems thinking
+305,eligibility
+306,claims
+307,call quality
+308,shareholders
+309,policy owners
+310,choices
+311,growth
+312,inform superiors
+313,termination
+314,city
+315,communication
+316,public safety leadership
+317,public safety
+318,apache
+319,autocad
+320,charts
+321,data analysis
+322,data visualization
+323,layout
+324,matlab
+325,ms excel
+326,minitab
+327,mysql
+328,optimization
+329,oracle database
+330,python
+331,sas
+332,simulation
+333,spss
+334,sql
+335,statistical analysis
+336,tableau
+337,visio
+338,website
+339,cum laude
+340,governance compliance
+341,sponsor feedback
+342,obtaining recommendations
+343,general counsel
+344,general counsel   city
+345,legal studies    city
+346,3.63 gpa
+347,texas
+348,wilmington
+349,north carolina
+350,1994-1995 4.0 gpa
+351,metrics
+352,operations
+353,training
+354,audit
+355,audits
+356,governance
+357,planview
+358,business intelligence
+359,leads
+360,oracle
+361,associate
+362,data sources
+363,microsoft sharepoint
+364,posting
+365,process improvement
+366,security
+367,sharepoint
+368,excel 2003
+369,microsoft excel
+370,outlook 2003
+371,microsoft powerpoint
+372,powerpoint 2003
+373,word 2003
+374,ambulation
+375,eating
+376,dressing
+377,bed
+378,analytics (1 year)
+379,baton employment
+380,interpersonal and communication
+381,file management
+382,litigation
+383,mediation
+384,medical record review
+385,commercial needs
+386,negotiation
+387,quality assurance
+388,risk management
+389,settlements
+390,peopletools
+391,peoplesoft query  sql
+392,windows nt
+393,windows 2003
+394,project
+395,publisher
+396,rqm
+397,clear case)
+398,kronos connect
+399,kronos
+400,sox
+401,adp
+402,webhire
+403,company sales staff
+404,benefits
+405,excellent customer service
+406,iq
+407,mentoring
+408,valuation
+409,written
+410,accounts payable/receivable
+411,adobe
+412,bookkeeping
+413,database management
+414,meeting planning
+415,new product development
+416,office management
+417,online marketing
+418,peachtree accounting
+419,policies and procedures
+420,property management
+421,quickbooks pro
+422,real estate
+423,production scheduling
+424,agency
+425,back-up
+426,banking
+427,daily cash deposits
+428,cashier
+429,conferences
+430,drivers
+431,equity
+432,senior management
+433,fashion
+434,fixed income
+435,insurance sales
+436,materials
+437,knowledge of store
+438,public relations
+439,receptionist
+440,script
+441,shipping
+442,spreadsheets
+443,strategic
+444,transportation
+445,3d
+446,assembly language
+447,c language
+448,cad
+449,chinese
+450,clustering
+451,controller
+452,database software
+453,economics
+454,editing
+455,embedded system
+456,english
+457,experiments
+458,gui
+459,graphic
+460,java
+461,laser
+462,lathe
+463,machine learning
+464,"mechanical
   design"
-mechanical design
-mechanical engineering
-windows 7
-mill
-modeling
-networks
-neural
-operating systems
-os
-camera
-plc
-predict
-rendering
-robotics
-solidworks
-sql server
-stata
-statistics
-system design
-"trading
+465,mechanical design
+466,mechanical engineering
+467,windows 7
+468,mill
+469,modeling
+470,networks
+471,neural
+472,operating systems
+473,os
+474,camera
+475,plc
+476,predict
+477,rendering
+478,robotics
+479,solidworks
+480,sql server
+481,stata
+482,statistics
+483,system design
+484,"trading
  system"
-vision
-10baset
-atm
-atm network
-cd roms
-hardware
-customer services
-ethernet
-network cabling
-firewall
-frame relay
-ghost
-novell groupwise
-hard drives
-phone support
-ibm
-lan
-laptops
-lotus suites
-meridian
-microsoft products
-exchange server
-ms exchange
-microsoft office suites
-97
-windows
-2000
-win 95
-98
-windows nt workstation
-modems
-network interface cards
-network security
-network servers
-nortel
-novell 5.0
-office suites
-pbx
-phone system
-printer
-ram
-routers
-servers
-switches
-software support
-desktop support
-user training
-technician
-token ring
-training manuals
-troubleshoot
-troubleshooting
-unix
-video cards
-cash handling
-communication skills
-cpr certified
-resolving customer complaints
-medisoft
-type 50 wpm
-ms word
-dispatching
-state       general studies
-adp payroll
-air force
-balance
-basic
-excellent oral
-cost reduction
-information security
-loss prevention
-weapons
-payroll
-philosophy
-recruiting
-sales training
-web content development
-written communication skills
-state     scheduling appointments
-maintaining calendars
-equipment
-worksite direction
-weddings
-retirement parties
-handle scheduling/ booking
-"addressing
+485,vision
+486,10baset
+487,atm
+488,atm network
+489,cd roms
+490,hardware
+491,customer services
+492,ethernet
+493,network cabling
+494,firewall
+495,frame relay
+496,ghost
+497,novell groupwise
+498,hard drives
+499,phone support
+500,ibm
+501,lan
+502,laptops
+503,lotus suites
+504,meridian
+505,microsoft products
+506,exchange server
+507,ms exchange
+508,microsoft office suites
+509,97
+510,windows
+511,2000
+512,win 95
+513,98
+514,windows nt workstation
+515,modems
+516,network interface cards
+517,network security
+518,network servers
+519,nortel
+520,novell 5.0
+521,office suites
+522,pbx
+523,phone system
+524,printer
+525,ram
+526,routers
+527,servers
+528,switches
+529,software support
+530,desktop support
+531,user training
+532,technician
+533,token ring
+534,training manuals
+535,troubleshoot
+536,troubleshooting
+537,unix
+538,video cards
+539,cash handling
+540,communication skills
+541,cpr certified
+542,resolving customer complaints
+543,medisoft
+544,type 50 wpm
+545,ms word
+546,dispatching
+547,state       general studies
+548,adp payroll
+549,air force
+550,balance
+551,basic
+552,excellent oral
+553,cost reduction
+554,information security
+555,loss prevention
+556,weapons
+557,payroll
+558,philosophy
+559,recruiting
+560,sales training
+561,web content development
+562,written communication skills
+563,state     scheduling appointments
+564,maintaining calendars
+565,equipment
+566,worksite direction
+567,weddings
+568,retirement parties
+569,handle scheduling/ booking
+570,"addressing
 customer concerns"
-tracking employees hours
-scheduling appointments
-addressing customer concerns
-special events
-arranging travel
-"dean's
+571,tracking employees hours
+572,scheduling appointments
+573,addressing customer concerns
+574,special events
+575,arranging travel
+576,"dean's
 list scholar"
-consultation
-hindi
-television
-muneshwara layout laggere
-chikkegowdappa anand
-cim 7.2.1
-cim
-cim 7.0
-cim6.2
-tibco dq
-tibco patterns
-tibco ems 8.3
-eclipse
-rational rose
-magic draw
-mdm solutions architecture
-configuration management
-system integration
-j2ee
-weblogic
-javascript
-jdbc
-pl/sql
-shell script
-sql loader
-nt 4.0
-windows xp
-unix   database: oracle
+577,consultation
+578,hindi
+579,television
+580,muneshwara layout laggere
+581,chikkegowdappa anand
+582,cim 7.2.1
+583,cim
+584,cim 7.0
+585,cim6.2
+586,tibco dq
+587,tibco patterns
+588,tibco ems 8.3
+589,eclipse
+590,rational rose
+591,magic draw
+592,mdm solutions architecture
+593,configuration management
+594,system integration
+595,j2ee
+596,weblogic
+597,javascript
+598,jdbc
+599,pl/sql
+600,shell script
+601,sql loader
+602,nt 4.0
+603,windows xp
+604,unix   database: oracle

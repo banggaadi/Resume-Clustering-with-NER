@@ -1,1451 +1,1451 @@
-0
-trim development
-l/d & s/o
-tkmaxx
-marks and spencer
-banana republic
-jcp.
-state
-webpdm
-mex.
-photo
-advertising
-arabic
-artist
-arts
-art
-agency
-basic
-good communication skills
-computer literate
-creativity
-database
-dec
-designing
-economics
-english
-filling
-french
-languages
-leadership skills
-math
-access
-excel
-ms office
-powerpoint
-word
-organizing
-paint
-physics
-pos
-selling
-time management
-typing skills
-printer
-fax machine
-banners
-united states
-adobe creative suite
-dreamweaver
-photoshop
-branding
-brochures
-chinese
-coreldraw
-css
-clients
-due diligence
-edit
-html
-illustrator
-indesign
-interpretation
-layout
-logos
-logo
-marketing materials
-microsoft office suite
-packaging
-posters
-property management
-publicity
-real estate
-translation
-typography
-webpage design
-web design
-adobe: captivate
-media encoder
-reader  microsoft: excel
-internet explorer
-media player
-outlook
-sharepoint
-skype
-visio
-word  google: chrome
-docs
-drive
-forms
-gmail
-sheets    ibm: db2
-sql
-stored procedures
-sap success factors
-vmware
-youtube
-c
-state       design
-content analysis
-story boarding
-interactive design
-test
-"project
+,0
+0,trim development
+1,l/d & s/o
+2,tkmaxx
+3,marks and spencer
+4,banana republic
+5,jcp.
+6,state
+7,webpdm
+8,mex.
+9,photo
+10,advertising
+11,arabic
+12,artist
+13,arts
+14,art
+15,agency
+16,basic
+17,good communication skills
+18,computer literate
+19,creativity
+20,database
+21,dec
+22,designing
+23,economics
+24,english
+25,filling
+26,french
+27,languages
+28,leadership skills
+29,math
+30,access
+31,excel
+32,ms office
+33,powerpoint
+34,word
+35,organizing
+36,paint
+37,physics
+38,pos
+39,selling
+40,time management
+41,typing skills
+42,printer
+43,fax machine
+44,banners
+45,united states
+46,adobe creative suite
+47,dreamweaver
+48,photoshop
+49,branding
+50,brochures
+51,chinese
+52,coreldraw
+53,css
+54,clients
+55,due diligence
+56,edit
+57,html
+58,illustrator
+59,indesign
+60,interpretation
+61,layout
+62,logos
+63,logo
+64,marketing materials
+65,microsoft office suite
+66,packaging
+67,posters
+68,property management
+69,publicity
+70,real estate
+71,translation
+72,typography
+73,webpage design
+74,web design
+75,adobe: captivate
+76,media encoder
+77,reader  microsoft: excel
+78,internet explorer
+79,media player
+80,outlook
+81,sharepoint
+82,skype
+83,visio
+84,word  google: chrome
+85,docs
+86,drive
+87,forms
+88,gmail
+89,sheets    ibm: db2
+90,sql
+91,stored procedures
+92,sap success factors
+93,vmware
+94,youtube
+95,c
+96,state       design
+97,content analysis
+98,story boarding
+99,interactive design
+100,test
+101,"project
      scheduling"
-problem based scenarios
-project scheduling
-designed
-posttest
-curriculum
-knowledge center
-state      gathered requirements
-measured training
-championed corporate initiatives
-supported organizational requirements
-state      designed
-developed
-authored
-web
-computer
-magazine articles
-"book
+102,problem based scenarios
+103,project scheduling
+104,designed
+105,posttest
+106,curriculum
+107,knowledge center
+108,state      gathered requirements
+109,measured training
+110,championed corporate initiatives
+111,supported organizational requirements
+112,state      designed
+113,developed
+114,authored
+115,web
+116,computer
+117,magazine articles
+118,"book
 publications"
-schedules
-resources
-subject matter expert
-class manager
-3d
-animation
-business management
-chemistry
-computer networking
-customer service
-database analysis
-graphic
-basic html
-inventory management
-inventory
-materials
-microsoft office
-nmr
-payroll
-profit
-coding
-sales
-scheduling
-sql server
-cad
-catalog
-color
-fashion
-drawing
-hr
-information systems
-meetings
-organizational
-design process
-quality
-research
-collecting samples
-trend
-type
-blueprints
-budgeting
-budgets
-budget
-content
-negotiate contracts
-documentation
-drafting
-equipment operation
-features
-fertilizers
-inspect
-employee management
-managing
-mark
-mechanical
-modeling
-personnel
-policies
-product design
-product development
-product improvement
-progress
-proposals
-quality control
-read
-maintain records
-renovations
-safety
-supervisor
-supervising
-upgrades
-visual studio.net  asp
-css3  javascript
-asp.net
-html5
-css3
-javascript
-jquery
-mysql
-from 800 hours
-xslt
-visual basic
-tfs
-visual studio 2014
-sql server 2012
-agile development
-and other projects
-redesigned
-using c#
-angularjs
-mvc
-.net framework 4.5
-visual studio 2012
-loan officers
-c#
-entity framework 5
-adobe photoshop
-web forms
-using html asp
-and c#
-created
-an image gallery
-maintained
-windows nt
-sql server 7
-additional reports
-state              skills    .net
-vb.net
-visual basic.net
-accounting
-adobe suite
-adobe
-agile
-asp
-auditing
-credit
-crystal reports 8.5
-client
-decision-making
-xml
-financial
-forth
-graphic design
-graphics
-php
-image
-insurance
-legal
-legal/ compliance
-mentor
-mentoring
-microsoft access
-sql server 2000
-migration
-mvc 4.0
-developer
-processes
-processors
-qa
-sarbanes-oxley
-scrum
-software development
-testing software
-microsoft sql server
-phone
-upgrading
-upgrade
-user interface
-video
-vb 6
-visual studio
-website
-websites
-academic
-backup
-coaching
-conferences
-counseling
-course development
-crystal reports
-curriculum design
-curriculum development
-data entry
-direction
-information mapping
-instruction
-instructor
-instructional design
-knowledge management
-team leader
-lesson plans
-ms word
-works
-multimedia
-needs analysis
-order entry
-writing prescriptions
-project management
-quick
-reading
-supply chain
-task analysis
-teacher
-technical writing
-user documentation
-trainer
-training materials
-training manuals
-training programs
-tutoring
-workshops
-asset management
-automation
-business systems
-controller
-eclipse
-eclipse 4
-engineer
-ejb
-focus
-hindi
-java
-java 6.0
-jsp
-jboss
-logistics
-office
-oracle
-plsql
-programming
-purchasing
-express
-requirement
-servers
-shipping
-specification
-struts
-system configuration
-system engineering
-uml
-vision
-wealth management
-pumps
-easily shipped
-europe
-vehicle glider equations
-drive cycle modeling
-horsepower
-rpm
-program activities
-running errands
-classes
-transportation
-statistical processes
-statistics simulations
-3d modeling
-autocad
-broadcasting
-cable
-com
-hardware
-data analysis
-fortran
-frame
-lathe
-linux
-director
-maple
-matlab
-mechanical engineering
-mill
-navigation
-speaking
-python
-quantitative analysis
-simulation
-sketching
-solidworks
-statistical analysis
-statistics
-translating
-welding
-wiring
-written
-ordered
-hired
-arrhythmias
-asthma
-including assessments
-dressing
-feeding
-dementia
-diabetes
-cancer
-resulting in $30
-state    studio art
-license number  [number]
-assembly
-banking
-concept
-in design
-logo creation
-mental health
-mail
-nursing i
-nursing
-pdf
-pen
-postscript
-presentations
-quarkxpress
-sigma
-unique
-workflow
-"languages
+119,schedules
+120,resources
+121,subject matter expert
+122,class manager
+123,3d
+124,animation
+125,business management
+126,chemistry
+127,computer networking
+128,customer service
+129,database analysis
+130,graphic
+131,basic html
+132,inventory management
+133,inventory
+134,materials
+135,microsoft office
+136,nmr
+137,payroll
+138,profit
+139,coding
+140,sales
+141,scheduling
+142,sql server
+143,cad
+144,catalog
+145,color
+146,fashion
+147,drawing
+148,hr
+149,information systems
+150,meetings
+151,organizational
+152,design process
+153,quality
+154,research
+155,collecting samples
+156,trend
+157,type
+158,blueprints
+159,budgeting
+160,budgets
+161,budget
+162,content
+163,negotiate contracts
+164,documentation
+165,drafting
+166,equipment operation
+167,features
+168,fertilizers
+169,inspect
+170,employee management
+171,managing
+172,mark
+173,mechanical
+174,modeling
+175,personnel
+176,policies
+177,product design
+178,product development
+179,product improvement
+180,progress
+181,proposals
+182,quality control
+183,read
+184,maintain records
+185,renovations
+186,safety
+187,supervisor
+188,supervising
+189,upgrades
+190,visual studio.net  asp
+191,css3  javascript
+192,asp.net
+193,html5
+194,css3
+195,javascript
+196,jquery
+197,mysql
+198,from 800 hours
+199,xslt
+200,visual basic
+201,tfs
+202,visual studio 2014
+203,sql server 2012
+204,agile development
+205,and other projects
+206,redesigned
+207,using c#
+208,angularjs
+209,mvc
+210,.net framework 4.5
+211,visual studio 2012
+212,loan officers
+213,c#
+214,entity framework 5
+215,adobe photoshop
+216,web forms
+217,using html asp
+218,and c#
+219,created
+220,an image gallery
+221,maintained
+222,windows nt
+223,sql server 7
+224,additional reports
+225,state              skills    .net
+226,vb.net
+227,visual basic.net
+228,accounting
+229,adobe suite
+230,adobe
+231,agile
+232,asp
+233,auditing
+234,credit
+235,crystal reports 8.5
+236,client
+237,decision-making
+238,xml
+239,financial
+240,forth
+241,graphic design
+242,graphics
+243,php
+244,image
+245,insurance
+246,legal
+247,legal/ compliance
+248,mentor
+249,mentoring
+250,microsoft access
+251,sql server 2000
+252,migration
+253,mvc 4.0
+254,developer
+255,processes
+256,processors
+257,qa
+258,sarbanes-oxley
+259,scrum
+260,software development
+261,testing software
+262,microsoft sql server
+263,phone
+264,upgrading
+265,upgrade
+266,user interface
+267,video
+268,vb 6
+269,visual studio
+270,website
+271,websites
+272,academic
+273,backup
+274,coaching
+275,conferences
+276,counseling
+277,course development
+278,crystal reports
+279,curriculum design
+280,curriculum development
+281,data entry
+282,direction
+283,information mapping
+284,instruction
+285,instructor
+286,instructional design
+287,knowledge management
+288,team leader
+289,lesson plans
+290,ms word
+291,works
+292,multimedia
+293,needs analysis
+294,order entry
+295,writing prescriptions
+296,project management
+297,quick
+298,reading
+299,supply chain
+300,task analysis
+301,teacher
+302,technical writing
+303,user documentation
+304,trainer
+305,training materials
+306,training manuals
+307,training programs
+308,tutoring
+309,workshops
+310,asset management
+311,automation
+312,business systems
+313,controller
+314,eclipse
+315,eclipse 4
+316,engineer
+317,ejb
+318,focus
+319,hindi
+320,java
+321,java 6.0
+322,jsp
+323,jboss
+324,logistics
+325,office
+326,oracle
+327,plsql
+328,programming
+329,purchasing
+330,express
+331,requirement
+332,servers
+333,shipping
+334,specification
+335,struts
+336,system configuration
+337,system engineering
+338,uml
+339,vision
+340,wealth management
+341,pumps
+342,easily shipped
+343,europe
+344,vehicle glider equations
+345,drive cycle modeling
+346,horsepower
+347,rpm
+348,program activities
+349,running errands
+350,classes
+351,transportation
+352,statistical processes
+353,statistics simulations
+354,3d modeling
+355,autocad
+356,broadcasting
+357,cable
+358,com
+359,hardware
+360,data analysis
+361,fortran
+362,frame
+363,lathe
+364,linux
+365,director
+366,maple
+367,matlab
+368,mechanical engineering
+369,mill
+370,navigation
+371,speaking
+372,python
+373,quantitative analysis
+374,simulation
+375,sketching
+376,solidworks
+377,statistical analysis
+378,statistics
+379,translating
+380,welding
+381,wiring
+382,written
+383,ordered
+384,hired
+385,arrhythmias
+386,asthma
+387,including assessments
+388,dressing
+389,feeding
+390,dementia
+391,diabetes
+392,cancer
+393,resulting in $30
+394,state    studio art
+395,license number  [number]
+396,assembly
+397,banking
+398,concept
+399,in design
+400,logo creation
+401,mental health
+402,mail
+403,nursing i
+404,nursing
+405,pdf
+406,pen
+407,postscript
+408,presentations
+409,quarkxpress
+410,sigma
+411,unique
+412,workflow
+413,"languages
 : c"
-c++
-c#.net
-mathematica
-pl/sql
-"xhtml/css   environment:
+414,c++
+415,c#.net
+416,mathematica
+417,pl/sql
+418,"xhtml/css   environment:
 windows"
-unix
-linux(red hat)
-windows server
-wamp
-sql developer
-netbeans
-dev-c++
-notepad++
-faculty
-patching
-query optimization
-triggers
-cursors
-joins
-views
-developing
-dns
-tomcat
-cas
-apache
-and tomcat integrate
-framework manager
-staff
-""
-specification  autocad
-strategy  budgets
-chipotle
-designers
-builders
-furniture manufacturers
-facility managers
-collaboration
-000
-schematic
-ada
-change management
-council
-customer satisfaction
-innovation
-interior design
-team lead
-leadership
-ms office suite
-problem resolution
-procurement
-project coordination
-retail
-space planning
-strategy
-verbal communication
-graphic designer
-layers
-silos
-camera raw adjustments
-shortcuts
-shadowing
-strategy for retouching
-manipulating selections
-cropping an image
-adding borders
-creating a panorama
-correcting image distortion
-importing smart objects
-using smart filters
-creating effects
-rendering videos
-adding transitions
-positioning 3d elements
-systems cabling
-ohmmeters
-html/css coding
-animate
-glasgow
-sligo
-cork
-ap16
-puerto rico
-and campoverde.(e.g.  gluten
-elemental impurities
-gluten
-ema
-pharm eur
-usp
-adobe acrobat
-power point
-ibtn research group
-nhs trust
-checking
-dream weaver
-api
-c language
-clinical research
-data management
-data base
-database management
-digital video
-editor
-embedded c
-embedded system
-computer graphics
-logic
-access 2000
-exchange
-oracle 9
-oracle8.0
-page
-plc
-recording
-risk analysis
-risk assessment
-system design
-visual basics
-visual basic 6.0
-visual basic6.0
-web designer
-web designing
-university of banglore
-trivandrum
-kerala
-at caledonian university
-dream weaver (pentasoft
-painting
-swimming
-cooking
-photographing
-playing piano
-game design
-lighting
-maya
-painter
-people skills
-reality
-rendering
-sound
-sound design
-autodesk (autocad mechanical
-inventor
-etc.)
-client/server
-closing
-communication skills
-cnc
-customer support
-laser
-lotus notes
-mapics
-windows operating systems
-pdm
-polish
-red hat
-revit
-technical management
-user training
-cash register
-resolve customer complaints
-delivery
-filing
-2000
-receiving
-tables
-telephones
-application development
-army
-business strategy
-consultant
-consulting
-cost analysis
-erp
-functional
-government
-itil
-market
-microwave
-enterprise
-network
-networks
-process design
-recruiting
-routers
-sales support
-sap
-sdlc
-staffing
-strategic
-switches
-system integration
-technical support
-troubleshooting
-pricing
-spreadsheets
-adobe indesign
-adobe illustrator
-html coding
-promotional materials
-sense-of-humor
-conceptual thinker
-attention-to-detail
-strong design sense
-resourceful researcher
-friendly attitude
-professional behavior
-expert juggling skills
-creative and artistic
-quick learner
-including advertisements
-including web pages
-state     determined styles
-including catalogs
-visual communication courses
-civil 3d
-civil engineering  drafting
-office skills
-marketing
-problem solving
-relationship building
-self-starter
-sorting
-design software
-detail-oriented
-microsoft word
-microstation
-team player
-kline & warren
-inc./technician
-invoices
-receipt forms
-websites brochures
-business cards
-like business cards
-in social media
-wayne marshall
-january 2014
-august 2013
-mixtape cover
-fliers
-greek life
-family day
-strawberry jubilee
-gumbo ya-ya
-faculty and administration
-largest
-regulations
-design production teams
-budget preparation
-contracts
-leadership and training
-office suite
-marina del rey
-atlanta
-ga turpin ranch
-jackson hole
-las vegas
-union
-wa nordstrom home
-bellevue
-wa blumer residence
-wa baruffi residence
-seattle
-wa wood residence
-sun valley
-id wood residence
-wa luigi osteria
-los angeles
-ca pho restaurant
-ca borracho cantina
-ca caffe primo
-glendale
-hollywood
-petaluma
-ca
-including contractors
-consultants
-fabricators
-dining room design
-non verbal communication
-assessed
-coached
-guest recovery
-professional symposiums
-field and self-study
-customer expectations
-attitude
-personality styles
-this included
-cash handling
-up-selling
-etc.
-loan specialist
-skills
-e.g.  prompts
-narratives
-ucf   -   city
-merchandising
-microsoft excel
-multitasking
-human resources leadership
-interpersonal skills
-inventory control
-staff training
-advanced adobe cs6
-studio designer
-secured sponsors
-juxtapoz
-interiors
-website makeovers
-analyzed competitors
-researched target markets
-setup llc
-vetted suppliers
-sourced wine
-lovelypackage.com)
-102.1 kpri radio
-world packaging news
-cool hunting project
-trendhunter
-trendera
-organized
-analyzed
-sales director
-creative director
-product designers
-such as signage
-goggle racks
-window decals
-minor in spanish
-billings
-cashier
-magic
-pick
-mt
-administrative
-administrative support
-budget management
-data collection
-event planning
-finance
-fundraising
-grant writing
-grant proposals
-hiring
-multi-tasking
-promotion
-proposal
-publications
-record-keeping
-recruitment
-reporting
-written communication
-articles
-assistant manager
-file management
-machining
-process engineering
-trouble-shooting
-direction. graphic
-and vision.
-certification in pro/engineer
-creo
-cadds4x-sunhardware
-autocad-r2002
-fastcad
-procad.
-ads
-basis
-translated
-solutions
-brand identity
-flash
-freehand
-hansen
-illustration
-logo design
-premier
-prepress
-promotional
-pr
-public relations
-corporate communications
-point of purchase
-pop
-proofreading
-content management
-copy writing
-front desk
-marketing collateral
-marketing strategy
-receptionist
-san
-storage area network
-tradeshow
-web content management
-adobe dreamweaver
-keypoint
-prototyping
-wireframes and illustrations
-attorney
-benefits
-call center
-cash registers
-oral
-consultation
-greek
-regulatory compliance
-money
-problem-solving skills
-researching
-certification: six sigma
-sheet metal enclosures
-frames
-doors
-panels
-state       during tenure
-midlothian high school
-woods chapel
-galveston industrial
-vertex bd
-key truss 1.184
-steel smart 7.0
-shop drawings
-hilti profis anchor
-inventor fusion 2013
-nitro pro 8
-vu 360
-steel view
-pareto's principle
-autocad 3
-charts
-funds
-lingo
-mathcad
-minitab
-six sigma
-vertex
-view
-exhausts
-style covers
-automotive latches
-chrome
-powder coating
-3dmodeling
-automotive
-cables
-catia
-databases
-jd edwards
-pro-e
-pro engineer
-shell
-trade shows
-aftereffects
-ad
-avid
-film
-natural
-composer
-next
-camera
-adobe-photoshop
-autocad 2
-corel-draw
-dos
-estimating
-macromedia flash
-information technology
-page maker
-primavera
-reporter
-date:                                                                           (zabeer.k)
-overcome obstacles
-pos system
-answering phone
-blueprint reading
-bridges
-computer experience
-german
-spanish
-and graphic arts
-and consideration. sincerely
-auto cad
-editing
-esri
-gis
-gps
-supervision
-technician
-deadlines
-raffles
-waiter
-paier perspective
-fabric samples
-finishes
-specifying materials
-staircases
-fireplace
-window treatments
-living room
-ct
-lace
-linens
-silver
-clothes
-accessories
-city
-conceptual design
-critical thinking
-window
-networking
-presenting
-presentation skills
-microsoft office (word
-outlook)
-projectwise explorer
-adobe professional
-hart communication
-some sap experience.
-photoshop 6.0
-autocad r14
-broadband
-"design and
+419,unix
+420,linux(red hat)
+421,windows server
+422,wamp
+423,sql developer
+424,netbeans
+425,dev-c++
+426,notepad++
+427,faculty
+428,patching
+429,query optimization
+430,triggers
+431,cursors
+432,joins
+433,views
+434,developing
+435,dns
+436,tomcat
+437,cas
+438,apache
+439,and tomcat integrate
+440,framework manager
+441,staff
+442,
+443,specification  autocad
+444,strategy  budgets
+445,chipotle
+446,designers
+447,builders
+448,furniture manufacturers
+449,facility managers
+450,collaboration
+451,000
+452,schematic
+453,ada
+454,change management
+455,council
+456,customer satisfaction
+457,innovation
+458,interior design
+459,team lead
+460,leadership
+461,ms office suite
+462,problem resolution
+463,procurement
+464,project coordination
+465,retail
+466,space planning
+467,strategy
+468,verbal communication
+469,graphic designer
+470,layers
+471,silos
+472,camera raw adjustments
+473,shortcuts
+474,shadowing
+475,strategy for retouching
+476,manipulating selections
+477,cropping an image
+478,adding borders
+479,creating a panorama
+480,correcting image distortion
+481,importing smart objects
+482,using smart filters
+483,creating effects
+484,rendering videos
+485,adding transitions
+486,positioning 3d elements
+487,systems cabling
+488,ohmmeters
+489,html/css coding
+490,animate
+491,glasgow
+492,sligo
+493,cork
+494,ap16
+495,puerto rico
+496,and campoverde.(e.g.  gluten
+497,elemental impurities
+498,gluten
+499,ema
+500,pharm eur
+501,usp
+502,adobe acrobat
+503,power point
+504,ibtn research group
+505,nhs trust
+506,checking
+507,dream weaver
+508,api
+509,c language
+510,clinical research
+511,data management
+512,data base
+513,database management
+514,digital video
+515,editor
+516,embedded c
+517,embedded system
+518,computer graphics
+519,logic
+520,access 2000
+521,exchange
+522,oracle 9
+523,oracle8.0
+524,page
+525,plc
+526,recording
+527,risk analysis
+528,risk assessment
+529,system design
+530,visual basics
+531,visual basic 6.0
+532,visual basic6.0
+533,web designer
+534,web designing
+535,university of banglore
+536,trivandrum
+537,kerala
+538,at caledonian university
+539,dream weaver (pentasoft
+540,painting
+541,swimming
+542,cooking
+543,photographing
+544,playing piano
+545,game design
+546,lighting
+547,maya
+548,painter
+549,people skills
+550,reality
+551,rendering
+552,sound
+553,sound design
+554,autodesk (autocad mechanical
+555,inventor
+556,etc.)
+557,client/server
+558,closing
+559,communication skills
+560,cnc
+561,customer support
+562,laser
+563,lotus notes
+564,mapics
+565,windows operating systems
+566,pdm
+567,polish
+568,red hat
+569,revit
+570,technical management
+571,user training
+572,cash register
+573,resolve customer complaints
+574,delivery
+575,filing
+576,2000
+577,receiving
+578,tables
+579,telephones
+580,application development
+581,army
+582,business strategy
+583,consultant
+584,consulting
+585,cost analysis
+586,erp
+587,functional
+588,government
+589,itil
+590,market
+591,microwave
+592,enterprise
+593,network
+594,networks
+595,process design
+596,recruiting
+597,routers
+598,sales support
+599,sap
+600,sdlc
+601,staffing
+602,strategic
+603,switches
+604,system integration
+605,technical support
+606,troubleshooting
+607,pricing
+608,spreadsheets
+609,adobe indesign
+610,adobe illustrator
+611,html coding
+612,promotional materials
+613,sense-of-humor
+614,conceptual thinker
+615,attention-to-detail
+616,strong design sense
+617,resourceful researcher
+618,friendly attitude
+619,professional behavior
+620,expert juggling skills
+621,creative and artistic
+622,quick learner
+623,including advertisements
+624,including web pages
+625,state     determined styles
+626,including catalogs
+627,visual communication courses
+628,civil 3d
+629,civil engineering  drafting
+630,office skills
+631,marketing
+632,problem solving
+633,relationship building
+634,self-starter
+635,sorting
+636,design software
+637,detail-oriented
+638,microsoft word
+639,microstation
+640,team player
+641,kline & warren
+642,inc./technician
+643,invoices
+644,receipt forms
+645,websites brochures
+646,business cards
+647,like business cards
+648,in social media
+649,wayne marshall
+650,january 2014
+651,august 2013
+652,mixtape cover
+653,fliers
+654,greek life
+655,family day
+656,strawberry jubilee
+657,gumbo ya-ya
+658,faculty and administration
+659,largest
+660,regulations
+661,design production teams
+662,budget preparation
+663,contracts
+664,leadership and training
+665,office suite
+666,marina del rey
+667,atlanta
+668,ga turpin ranch
+669,jackson hole
+670,las vegas
+671,union
+672,wa nordstrom home
+673,bellevue
+674,wa blumer residence
+675,wa baruffi residence
+676,seattle
+677,wa wood residence
+678,sun valley
+679,id wood residence
+680,wa luigi osteria
+681,los angeles
+682,ca pho restaurant
+683,ca borracho cantina
+684,ca caffe primo
+685,glendale
+686,hollywood
+687,petaluma
+688,ca
+689,including contractors
+690,consultants
+691,fabricators
+692,dining room design
+693,non verbal communication
+694,assessed
+695,coached
+696,guest recovery
+697,professional symposiums
+698,field and self-study
+699,customer expectations
+700,attitude
+701,personality styles
+702,this included
+703,cash handling
+704,up-selling
+705,etc.
+706,loan specialist
+707,skills
+708,e.g.  prompts
+709,narratives
+710,ucf   -   city
+711,merchandising
+712,microsoft excel
+713,multitasking
+714,human resources leadership
+715,interpersonal skills
+716,inventory control
+717,staff training
+718,advanced adobe cs6
+719,studio designer
+720,secured sponsors
+721,juxtapoz
+722,interiors
+723,website makeovers
+724,analyzed competitors
+725,researched target markets
+726,setup llc
+727,vetted suppliers
+728,sourced wine
+729,lovelypackage.com)
+730,102.1 kpri radio
+731,world packaging news
+732,cool hunting project
+733,trendhunter
+734,trendera
+735,organized
+736,analyzed
+737,sales director
+738,creative director
+739,product designers
+740,such as signage
+741,goggle racks
+742,window decals
+743,minor in spanish
+744,billings
+745,cashier
+746,magic
+747,pick
+748,mt
+749,administrative
+750,administrative support
+751,budget management
+752,data collection
+753,event planning
+754,finance
+755,fundraising
+756,grant writing
+757,grant proposals
+758,hiring
+759,multi-tasking
+760,promotion
+761,proposal
+762,publications
+763,record-keeping
+764,recruitment
+765,reporting
+766,written communication
+767,articles
+768,assistant manager
+769,file management
+770,machining
+771,process engineering
+772,trouble-shooting
+773,direction. graphic
+774,and vision.
+775,certification in pro/engineer
+776,creo
+777,cadds4x-sunhardware
+778,autocad-r2002
+779,fastcad
+780,procad.
+781,ads
+782,basis
+783,translated
+784,solutions
+785,brand identity
+786,flash
+787,freehand
+788,hansen
+789,illustration
+790,logo design
+791,premier
+792,prepress
+793,promotional
+794,pr
+795,public relations
+796,corporate communications
+797,point of purchase
+798,pop
+799,proofreading
+800,content management
+801,copy writing
+802,front desk
+803,marketing collateral
+804,marketing strategy
+805,receptionist
+806,san
+807,storage area network
+808,tradeshow
+809,web content management
+810,adobe dreamweaver
+811,keypoint
+812,prototyping
+813,wireframes and illustrations
+814,attorney
+815,benefits
+816,call center
+817,cash registers
+818,oral
+819,consultation
+820,greek
+821,regulatory compliance
+822,money
+823,problem-solving skills
+824,researching
+825,certification: six sigma
+826,sheet metal enclosures
+827,frames
+828,doors
+829,panels
+830,state       during tenure
+831,midlothian high school
+832,woods chapel
+833,galveston industrial
+834,vertex bd
+835,key truss 1.184
+836,steel smart 7.0
+837,shop drawings
+838,hilti profis anchor
+839,inventor fusion 2013
+840,nitro pro 8
+841,vu 360
+842,steel view
+843,pareto's principle
+844,autocad 3
+845,charts
+846,funds
+847,lingo
+848,mathcad
+849,minitab
+850,six sigma
+851,vertex
+852,view
+853,exhausts
+854,style covers
+855,automotive latches
+856,chrome
+857,powder coating
+858,3dmodeling
+859,automotive
+860,cables
+861,catia
+862,databases
+863,jd edwards
+864,pro-e
+865,pro engineer
+866,shell
+867,trade shows
+868,aftereffects
+869,ad
+870,avid
+871,film
+872,natural
+873,composer
+874,next
+875,camera
+876,adobe-photoshop
+877,autocad 2
+878,corel-draw
+879,dos
+880,estimating
+881,macromedia flash
+882,information technology
+883,page maker
+884,primavera
+885,reporter
+886,date:                                                                           (zabeer.k)
+887,overcome obstacles
+888,pos system
+889,answering phone
+890,blueprint reading
+891,bridges
+892,computer experience
+893,german
+894,spanish
+895,and graphic arts
+896,and consideration. sincerely
+897,auto cad
+898,editing
+899,esri
+900,gis
+901,gps
+902,supervision
+903,technician
+904,deadlines
+905,raffles
+906,waiter
+907,paier perspective
+908,fabric samples
+909,finishes
+910,specifying materials
+911,staircases
+912,fireplace
+913,window treatments
+914,living room
+915,ct
+916,lace
+917,linens
+918,silver
+919,clothes
+920,accessories
+921,city
+922,conceptual design
+923,critical thinking
+924,window
+925,networking
+926,presenting
+927,presentation skills
+928,microsoft office (word
+929,outlook)
+930,projectwise explorer
+931,adobe professional
+932,hart communication
+933,some sap experience.
+934,photoshop 6.0
+935,autocad r14
+936,broadband
+937,"design and
 construction"
-hvac
-investments
-marketing material
-microstation 7.1
-renovation
-surveys
-used public speaking
-atd certified
-procedures
-combat shield team
-adult training theory
-leadership and management
-award
-articulate
-adult learning
-electronic warfare
-avionics
-maintenance
-back end
-computer based training
-learning management system
-lms
-online learning
-online training
-liaison
-microsoft software: excel
-target price
-merchants
-including sewing construction
-trim
-grading
-design
-trims
-pattern making
-washing and shrinkage
-fabrication matching
-sample room
-state   chemistry
-sketch
-invision
-omnigraffle
-after effects
-keynote
-rhino
-watercolor
-bluebeam
-design thinking
-ui/ux
-mandarin
-blueprint
-tops
-welder
-acrobat
-balance
-brochure design
-creative design
-e-mail
-layout design
-marketing plan
-microsoft windows
-print production
-quark
-audio production
-budget planning
-computer knowledge
-desktop publishing
-google analytics
-http
-mac
-mandarin chinese
-marketing analysis
-market research
-marketing strategies
-marketing communication
-ms excel
-ms outlook
-ms powerpoint
-windows 7
-new construction
-newsletters
-persuasion
-positioning
-fast learner
-radio
-television
-administrative duties
-aia billing
-scheduling appointments
-expense reports
-general office duties
-office equipment
-scanning
-telephony
-transcription
-travel arrangements
-typing 50-60 wpm
-managing executive calender
-bentley autoplant
-cadworx
-autodesk vault
-navisworks
-& flexcad
-powerpoint and access
-113
-2012   patent 8
-360
-2013   patent 8
-840
-data gathering
-persona development
-wire-framing
-story writing
-interface analysis
-vendor relations
-client support
-systems design
-sensor design
-technology specialist
-itech fitness
-lance armstrong
-popcap software
-konami
-softkinetics
-big rooster
-nec
-lg
-dewar
-sharp
-amtouch
-immersion
-ra sports
-fitlinxx
-polar
-virtual active
-workflows
-task lists
-affinity diagramming
-perception
-usability
-feedback
-dynamic data analysis
-image processing
-subject confidentiality
-data integrity
-look and feel
-running compatibility testing
-establishing version control
-media
-back-end print services
-spatial relationships
-occlusion
-depth of field
-perspective
-depth cues
-reliability
-dod
-nima
-engineers
-prototyped
-establishing asset needs
-s.
-kobus
-d.
-proctor
-bank
-t.
-& liebhaber
-d.a.
-t.e.
-& holste
-holste
-& kobus
-m.
-callan
-j.
-& bank
-san diego
-ca.   smallman
-h.s.
-st. john
-and cowen
-drop lines
-ca. technical report
-smallman
-in press.
-used business
-well established
-apparently
-several cubicle spaces
-reception area
-contractors
-sub-contractors
-rentable and occupied
-surface textures
-shorthand
-business machines
-business law
-business writing
-computer aided design
-email
-sales skills
-space-planning
-typing
-pricing  plans
-project scope
-details
-aec architectural template
-lotus
-art history minor
-state    interior design
-ibm
-notes
-microsoft project
-adobe photoshop cc
-corel draw x7
-graphtec
-ioline
-hs15
-live or digital
-designer   city
-ltd.     2016       city
-usa     digital design
-patternmaking
-usa
-fax
-by phone
-letterheads
-conversion
-excellent customer service
-direct mail
-macintosh computers
-marketing communications
-publisher
-monitors
-takes notes
-copiers
-printers
-proofing
-supply inventory
-web development
-web pages
-cad drafter
-3d rendering
-ffe
-project finance
-soon ncidq certified
-colorado
-counseling teens
-approach
-concept development
-fast
-floor plans
-"interior
+938,hvac
+939,investments
+940,marketing material
+941,microstation 7.1
+942,renovation
+943,surveys
+944,used public speaking
+945,atd certified
+946,procedures
+947,combat shield team
+948,adult training theory
+949,leadership and management
+950,award
+951,articulate
+952,adult learning
+953,electronic warfare
+954,avionics
+955,maintenance
+956,back end
+957,computer based training
+958,learning management system
+959,lms
+960,online learning
+961,online training
+962,liaison
+963,microsoft software: excel
+964,target price
+965,merchants
+966,including sewing construction
+967,trim
+968,grading
+969,design
+970,trims
+971,pattern making
+972,washing and shrinkage
+973,fabrication matching
+974,sample room
+975,state   chemistry
+976,sketch
+977,invision
+978,omnigraffle
+979,after effects
+980,keynote
+981,rhino
+982,watercolor
+983,bluebeam
+984,design thinking
+985,ui/ux
+986,mandarin
+987,blueprint
+988,tops
+989,welder
+990,acrobat
+991,balance
+992,brochure design
+993,creative design
+994,e-mail
+995,layout design
+996,marketing plan
+997,microsoft windows
+998,print production
+999,quark
+1000,audio production
+1001,budget planning
+1002,computer knowledge
+1003,desktop publishing
+1004,google analytics
+1005,http
+1006,mac
+1007,mandarin chinese
+1008,marketing analysis
+1009,market research
+1010,marketing strategies
+1011,marketing communication
+1012,ms excel
+1013,ms outlook
+1014,ms powerpoint
+1015,windows 7
+1016,new construction
+1017,newsletters
+1018,persuasion
+1019,positioning
+1020,fast learner
+1021,radio
+1022,television
+1023,administrative duties
+1024,aia billing
+1025,scheduling appointments
+1026,expense reports
+1027,general office duties
+1028,office equipment
+1029,scanning
+1030,telephony
+1031,transcription
+1032,travel arrangements
+1033,typing 50-60 wpm
+1034,managing executive calender
+1035,bentley autoplant
+1036,cadworx
+1037,autodesk vault
+1038,navisworks
+1039,& flexcad
+1040,powerpoint and access
+1041,113
+1042,2012   patent 8
+1043,360
+1044,2013   patent 8
+1045,840
+1046,data gathering
+1047,persona development
+1048,wire-framing
+1049,story writing
+1050,interface analysis
+1051,vendor relations
+1052,client support
+1053,systems design
+1054,sensor design
+1055,technology specialist
+1056,itech fitness
+1057,lance armstrong
+1058,popcap software
+1059,konami
+1060,softkinetics
+1061,big rooster
+1062,nec
+1063,lg
+1064,dewar
+1065,sharp
+1066,amtouch
+1067,immersion
+1068,ra sports
+1069,fitlinxx
+1070,polar
+1071,virtual active
+1072,workflows
+1073,task lists
+1074,affinity diagramming
+1075,perception
+1076,usability
+1077,feedback
+1078,dynamic data analysis
+1079,image processing
+1080,subject confidentiality
+1081,data integrity
+1082,look and feel
+1083,running compatibility testing
+1084,establishing version control
+1085,media
+1086,back-end print services
+1087,spatial relationships
+1088,occlusion
+1089,depth of field
+1090,perspective
+1091,depth cues
+1092,reliability
+1093,dod
+1094,nima
+1095,engineers
+1096,prototyped
+1097,establishing asset needs
+1098,s.
+1099,kobus
+1100,d.
+1101,proctor
+1102,bank
+1103,t.
+1104,& liebhaber
+1105,d.a.
+1106,t.e.
+1107,& holste
+1108,holste
+1109,& kobus
+1110,m.
+1111,callan
+1112,j.
+1113,& bank
+1114,san diego
+1115,ca.   smallman
+1116,h.s.
+1117,st. john
+1118,and cowen
+1119,drop lines
+1120,ca. technical report
+1121,smallman
+1122,in press.
+1123,used business
+1124,well established
+1125,apparently
+1126,several cubicle spaces
+1127,reception area
+1128,contractors
+1129,sub-contractors
+1130,rentable and occupied
+1131,surface textures
+1132,shorthand
+1133,business machines
+1134,business law
+1135,business writing
+1136,computer aided design
+1137,email
+1138,sales skills
+1139,space-planning
+1140,typing
+1141,pricing  plans
+1142,project scope
+1143,details
+1144,aec architectural template
+1145,lotus
+1146,art history minor
+1147,state    interior design
+1148,ibm
+1149,notes
+1150,microsoft project
+1151,adobe photoshop cc
+1152,corel draw x7
+1153,graphtec
+1154,ioline
+1155,hs15
+1156,live or digital
+1157,designer   city
+1158,ltd.     2016       city
+1159,usa     digital design
+1160,patternmaking
+1161,usa
+1162,fax
+1163,by phone
+1164,letterheads
+1165,conversion
+1166,excellent customer service
+1167,direct mail
+1168,macintosh computers
+1169,marketing communications
+1170,publisher
+1171,monitors
+1172,takes notes
+1173,copiers
+1174,printers
+1175,proofing
+1176,supply inventory
+1177,web development
+1178,web pages
+1179,cad drafter
+1180,3d rendering
+1181,ffe
+1182,project finance
+1183,soon ncidq certified
+1184,colorado
+1185,counseling teens
+1186,approach
+1187,concept development
+1188,fast
+1189,floor plans
+1190,"interior
 design"
-plumbing
-teaching
-kaufmann's
-strawbridge's
-elevations
-architects
-product
-and approach.
-sales presentations
-club meetings
-brushes
-cleaners
-disinfectants
-insecticides
-acid
-abrasives
-including vacuums
-pressure washers
-tires
-history
-berlin
-buenos aires
-seoul
-hyderabad
-internally and externally
-better
-costing
-plm
-develop product
-quality assurance
-sourcing strategy
-copywriters
-photographers
-stylists
-illustrators
-other designers
-account executives
-counting
-labeling
-performance
-2009    school name
-3-d design
-4d
-cartooning
-computer networks
-direct sales
-directing
-dollies
-forklifts
-inspecting
-logging
-mac os
-windows
-95/98
-personnel management
-photography
-store manager
-strategic plans
-vista
-"state    • 
+1191,plumbing
+1192,teaching
+1193,kaufmann's
+1194,strawbridge's
+1195,elevations
+1196,architects
+1197,product
+1198,and approach.
+1199,sales presentations
+1200,club meetings
+1201,brushes
+1202,cleaners
+1203,disinfectants
+1204,insecticides
+1205,acid
+1206,abrasives
+1207,including vacuums
+1208,pressure washers
+1209,tires
+1210,history
+1211,berlin
+1212,buenos aires
+1213,seoul
+1214,hyderabad
+1215,internally and externally
+1216,better
+1217,costing
+1218,plm
+1219,develop product
+1220,quality assurance
+1221,sourcing strategy
+1222,copywriters
+1223,photographers
+1224,stylists
+1225,illustrators
+1226,other designers
+1227,account executives
+1228,counting
+1229,labeling
+1230,performance
+1231,2009    school name
+1232,3-d design
+1233,4d
+1234,cartooning
+1235,computer networks
+1236,direct sales
+1237,directing
+1238,dollies
+1239,forklifts
+1240,inspecting
+1241,logging
+1242,mac os
+1243,windows
+1244,95/98
+1245,personnel management
+1246,photography
+1247,store manager
+1248,strategic plans
+1249,vista
+1250,"state    • 
 primarily"
-magazines
-invitations
-state    • design
-monthly articles
-contents page
-infographics
-walt disney
-stylesheets
-usa          skills    3d
-adobe cs
-book design
-catalogs
-graphics          design
-ie
-marketing and sales
-packaging design
-package design
-publication
-technical illustration
-training material
-web graphics
-author
-leadership development
-letters
-lotus 1-2-3
-mailing
-management information systems
-news releases
-paradox
-photo manipulation
-press releases
-quarkexpress
-seminars
-tax
-user support
-answer phones
-business  operations
-business solutions
-creative  direction
-creative  director
-entrepreneur
-fireworks
-ux
-interactive  design
-lab  testing
-pencil
-product  management
-search  engine  optimization
-strategy  planning
-usability  testing
-user  interface
-website  design
-website development
-web sites
-advanced problem-solving
-advertisements
-avenue
-press
-print design
-repairs
-sculpture
-soldering
-acquisitions
-"adobe
+1251,magazines
+1252,invitations
+1253,state    • design
+1254,monthly articles
+1255,contents page
+1256,infographics
+1257,walt disney
+1258,stylesheets
+1259,usa          skills    3d
+1260,adobe cs
+1261,book design
+1262,catalogs
+1263,graphics          design
+1264,ie
+1265,marketing and sales
+1266,packaging design
+1267,package design
+1268,publication
+1269,technical illustration
+1270,training material
+1271,web graphics
+1272,author
+1273,leadership development
+1274,letters
+1275,lotus 1-2-3
+1276,mailing
+1277,management information systems
+1278,news releases
+1279,paradox
+1280,photo manipulation
+1281,press releases
+1282,quarkexpress
+1283,seminars
+1284,tax
+1285,user support
+1286,answer phones
+1287,business  operations
+1288,business solutions
+1289,creative  direction
+1290,creative  director
+1291,entrepreneur
+1292,fireworks
+1293,ux
+1294,interactive  design
+1295,lab  testing
+1296,pencil
+1297,product  management
+1298,search  engine  optimization
+1299,strategy  planning
+1300,usability  testing
+1301,user  interface
+1302,website  design
+1303,website development
+1304,web sites
+1305,advanced problem-solving
+1306,advertisements
+1307,avenue
+1308,press
+1309,print design
+1310,repairs
+1311,sculpture
+1312,soldering
+1313,acquisitions
+1314,"adobe
 photoshop"
-art direction
-brand strategy
-clipper
-content development
-clientele
-client relations
-"marketing
+1315,art direction
+1316,brand strategy
+1317,clipper
+1318,content development
+1319,clientele
+1320,client relations
+1321,"marketing
 communications"
-microsoft office programs
-newsletter
-promotional material
-vendor management
-acrylics
-air force
-bash
-book
-brochure
-bi
-cd
-computer hardware
-corel draw
-digital cameras
-editorial
-inkjet printers
-newspaper
-operating systems
-35 mm
-cameras
-pre-press
-print shop
-scaling
-scanners
-tv
-visio professional
-web page
-"adobe creative
+1322,microsoft office programs
+1323,newsletter
+1324,promotional material
+1325,vendor management
+1326,acrylics
+1327,air force
+1328,bash
+1329,book
+1330,brochure
+1331,bi
+1332,cd
+1333,computer hardware
+1334,corel draw
+1335,digital cameras
+1336,editorial
+1337,inkjet printers
+1338,newspaper
+1339,operating systems
+1340,35 mm
+1341,cameras
+1342,pre-press
+1343,print shop
+1344,scaling
+1345,scanners
+1346,tv
+1347,visio professional
+1348,web page
+1349,"adobe creative
 suite"
-apple
-building codes
-certificate   :   business
-bookkeeping
-budget development
-employee training
-salesforce
-zoho
-online networking.
-business communications
-business development
-copyediting
-performance reviews
-pearl
-persuasive
-producer
-proposal development
-rfi
-rfp
-web site design
-well-organized
-unigraphics nx 7.5
-8.0
-ms access
-making visual
-inc.
-asheville
-cody
-wy   wildwood furniture
-ventura
-wapiti
-wy   jeri gillett
-belfry
-powell
-wy   dorothea hartley
-oakview
-leader
-netlab
-xendesktop
-3d design
-engineering design
-japanese
-mechanic
-microsoft office suites
-new product development
-3ds max
-adobe after effects
-cms
-sc
-cvs
-windows platform
-optimization
-softimage
-staff development
-interior designer
-sales consultant
-self employed
-layouts
-designer
-cold calling
-customer service specialist
-memory
-negotiator
-telecom
-telecommunication
-telecommunications
-telephone
-calibration
-creative direction
-ftp
-explorer
-messaging
-router
-troubleshoot
-attention to detail
-cad/cam
-e-commerce
-microsoft office applications
-budget analysis
-drivers
-driving
-job analysis
-listening
-97
-powerpoint presentations
-weapons
-navy
-naval
-program management
-technical manuals
+1350,apple
+1351,building codes
+1352,certificate   :   business
+1353,bookkeeping
+1354,budget development
+1355,employee training
+1356,salesforce
+1357,zoho
+1358,online networking.
+1359,business communications
+1360,business development
+1361,copyediting
+1362,performance reviews
+1363,pearl
+1364,persuasive
+1365,producer
+1366,proposal development
+1367,rfi
+1368,rfp
+1369,web site design
+1370,well-organized
+1371,unigraphics nx 7.5
+1372,8.0
+1373,ms access
+1374,making visual
+1375,inc.
+1376,asheville
+1377,cody
+1378,wy   wildwood furniture
+1379,ventura
+1380,wapiti
+1381,wy   jeri gillett
+1382,belfry
+1383,powell
+1384,wy   dorothea hartley
+1385,oakview
+1386,leader
+1387,netlab
+1388,xendesktop
+1389,3d design
+1390,engineering design
+1391,japanese
+1392,mechanic
+1393,microsoft office suites
+1394,new product development
+1395,3ds max
+1396,adobe after effects
+1397,cms
+1398,sc
+1399,cvs
+1400,windows platform
+1401,optimization
+1402,softimage
+1403,staff development
+1404,interior designer
+1405,sales consultant
+1406,self employed
+1407,layouts
+1408,designer
+1409,cold calling
+1410,customer service specialist
+1411,memory
+1412,negotiator
+1413,telecom
+1414,telecommunication
+1415,telecommunications
+1416,telephone
+1417,calibration
+1418,creative direction
+1419,ftp
+1420,explorer
+1421,messaging
+1422,router
+1423,troubleshoot
+1424,attention to detail
+1425,cad/cam
+1426,e-commerce
+1427,microsoft office applications
+1428,budget analysis
+1429,drivers
+1430,driving
+1431,job analysis
+1432,listening
+1433,97
+1434,powerpoint presentations
+1435,weapons
+1436,navy
+1437,naval
+1438,program management
+1439,technical manuals

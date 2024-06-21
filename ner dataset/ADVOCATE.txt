@@ -1,1411 +1,1411 @@
-0
-training
-liaison
-federal government
-public policy
-eligibility and claims
-call quality
-customer satisfaction
-mentor
-with resume assistance
-career counseling
-complaints
-and problems.  develop
-high-performing
-education levels
-physical abilities
-skill development
-professional growth
-succession planning
-motivate
-coach
-state       provided training
-education
-state       presented information
-simulations
-team exercises
-group discussions
-videos
-materials and aids
-information
-360-degree assessments
-case studies
-self-study
-mentoring programs
-e-learning
-coaching
-role-play
-ojt
-encompassing instructional manuals
-quick reference guides
-to include; benefits
-payroll
-awards time/attendance
-disciplinary actions
-counseling/evaluations
-conflict resolution
-retention efforts
-gainesville
-state               skills    benefits
-consultant
-consulting
-counseling
-clients
-documentation
-focus
-forms
-hr
-instructor
-leadership
-materials
-meetings
-mentoring
-multimedia
-organizational
-policies
-processes
-quality
-quick
-six sigma
-strategic
-teaching
-employee development
-training programs
-"member
+,0
+0,training
+1,liaison
+2,federal government
+3,public policy
+4,eligibility and claims
+5,call quality
+6,customer satisfaction
+7,mentor
+8,with resume assistance
+9,career counseling
+10,complaints
+11,and problems.  develop
+12,high-performing
+13,education levels
+14,physical abilities
+15,skill development
+16,professional growth
+17,succession planning
+18,motivate
+19,coach
+20,state       provided training
+21,education
+22,state       presented information
+23,simulations
+24,team exercises
+25,group discussions
+26,videos
+27,materials and aids
+28,information
+29,360-degree assessments
+30,case studies
+31,self-study
+32,mentoring programs
+33,e-learning
+34,coaching
+35,role-play
+36,ojt
+37,encompassing instructional manuals
+38,quick reference guides
+39,to include; benefits
+40,payroll
+41,awards time/attendance
+42,disciplinary actions
+43,counseling/evaluations
+44,conflict resolution
+45,retention efforts
+46,gainesville
+47,state               skills    benefits
+48,consultant
+49,consulting
+50,counseling
+51,clients
+52,documentation
+53,focus
+54,forms
+55,hr
+56,instructor
+57,leadership
+58,materials
+59,meetings
+60,mentoring
+61,multimedia
+62,organizational
+63,policies
+64,processes
+65,quality
+66,quick
+67,six sigma
+68,strategic
+69,teaching
+70,employee development
+71,training programs
+72,"member
 jacksonville"
-union member
-personally thanked
-nepal
-practice
-including claims
-emails
-pharmacies
-theft
-homeowners
-lunches
-child care
-council
-government
-money
-progress
-sales
-social services
-staffing
-e-mail
-quickly gaining trust
-or comments
-deeds
-purchase agreements
-contracts
-power of attorney
-wills
-accounts payable
-monthly billing
-payroll taxes
-took minutes
-the atm
-state       presidents scholarship
-loup city
-accounts receivable
-billing
-service
-wireless network troubleshooting
-wireless device troubleshooting
-state      answer phones
-home
-correspondences
-filing
-state      answered phones
-siding
-foundation
-word
-monthly
-team meetings
-mental health
-excel
-powerpoint
-windows
-microsoft word
-quality teaching
-throughout the hospital
-including assessments
-evaluations
-scheduled appointments
-pulse rate
-weight
-height
-transactions
-books
-schedule appointments
-greeted patients
-sorted mail
-state
-credit
-customer inquiries
-customer service
-problem solving
-receptionist
-retail sales
-cash
-cashier
-answering phones
-auditing
-scheduling
-medical assistant
-medical assistant certificate
-access
-clerical
-coding
-cpr
-cpr certified
-cpt
-data entry
-ekg
-icd
-icd-9
-medical coding
-outlook
-phlebotomist
-phlebotomy
-sterile
-sterilization
-acquisitions
-agency
-billings
-email
-senior management
-financial
-hiring
-human resources
-information security
-letters
-mailing
-mba
-share point
-windows xp
-networking
-pos
-presentations
-scanning
-supervisor
-generating reports
-professional and friendly
-multi-tasking
-atm
-call center
-cash handling
-cash register
-client
-excellent customer service
-debit
-fashion
-fsa
-inventory
-negotiating
-research
-safety
-selling
-supervising
-tax
-calculators
-cash registers
-closing
-cooking
-funds
-issue receipts
-mark
-nice
-paint
-maintain records
-tables
-team work
-wise
-written
-condition
-past
-payments
-corrections
-ordered
-state            skills    agency
-basic
-"call
+73,union member
+74,personally thanked
+75,nepal
+76,practice
+77,including claims
+78,emails
+79,pharmacies
+80,theft
+81,homeowners
+82,lunches
+83,child care
+84,council
+85,government
+86,money
+87,progress
+88,sales
+89,social services
+90,staffing
+91,e-mail
+92,quickly gaining trust
+93,or comments
+94,deeds
+95,purchase agreements
+96,contracts
+97,power of attorney
+98,wills
+99,accounts payable
+100,monthly billing
+101,payroll taxes
+102,took minutes
+103,the atm
+104,state       presidents scholarship
+105,loup city
+106,accounts receivable
+107,billing
+108,service
+109,wireless network troubleshooting
+110,wireless device troubleshooting
+111,state      answer phones
+112,home
+113,correspondences
+114,filing
+115,state      answered phones
+116,siding
+117,foundation
+118,word
+119,monthly
+120,team meetings
+121,mental health
+122,excel
+123,powerpoint
+124,windows
+125,microsoft word
+126,quality teaching
+127,throughout the hospital
+128,including assessments
+129,evaluations
+130,scheduled appointments
+131,pulse rate
+132,weight
+133,height
+134,transactions
+135,books
+136,schedule appointments
+137,greeted patients
+138,sorted mail
+139,state
+140,credit
+141,customer inquiries
+142,customer service
+143,problem solving
+144,receptionist
+145,retail sales
+146,cash
+147,cashier
+148,answering phones
+149,auditing
+150,scheduling
+151,medical assistant
+152,medical assistant certificate
+153,access
+154,clerical
+155,coding
+156,cpr
+157,cpr certified
+158,cpt
+159,data entry
+160,ekg
+161,icd
+162,icd-9
+163,medical coding
+164,outlook
+165,phlebotomist
+166,phlebotomy
+167,sterile
+168,sterilization
+169,acquisitions
+170,agency
+171,billings
+172,email
+173,senior management
+174,financial
+175,hiring
+176,human resources
+177,information security
+178,letters
+179,mailing
+180,mba
+181,share point
+182,windows xp
+183,networking
+184,pos
+185,presentations
+186,scanning
+187,supervisor
+188,generating reports
+189,professional and friendly
+190,multi-tasking
+191,atm
+192,call center
+193,cash handling
+194,cash register
+195,client
+196,excellent customer service
+197,debit
+198,fashion
+199,fsa
+200,inventory
+201,negotiating
+202,research
+203,safety
+204,selling
+205,supervising
+206,tax
+207,calculators
+208,cash registers
+209,closing
+210,cooking
+211,funds
+212,issue receipts
+213,mark
+214,nice
+215,paint
+216,maintain records
+217,tables
+218,team work
+219,wise
+220,written
+221,condition
+222,past
+223,payments
+224,corrections
+225,ordered
+226,state            skills    agency
+227,basic
+228,"call
     center"
-case manager
-cna
-creative problem solver
-fast
-insurance
-insurance sales
-listening
-strong organizational skills
-patient care
-problem solver
-quick learner
-range of motion
-statistics
-telephone
-training development
-transportation
-researching  banking
-customer support
-ms office
-ms powerpoint
-publisher
-rapport
-icd-10    mortgage loans
-taxes
-phone skills
-phone
-trade shows
-type
-video
-websites
-streamline
-budget
-interpersonal skills
-computer-literate
-notes
-managing
-organizational skills
-problem-solver
-reporting
-supervision
-clerk
-heavy machinery
-forensic
-security
-community outreach
-compensation
-multi-line
-multi-line phone
-multi-line phone system
-phone system
-operations
-cases
-dynamics
-engines
-learning center
-learning centers
-microsoft dynamics
-accounts payables
-accounts receivables
-administrative
-benefits
-oral
-database
-director
-office
-network
-nursing
-personnel
-protocols
-speech
-ms excel
-facet
-pivot tables
-or internet
-in a professional
-courteous
-eligibility
-claims
-financial spending accounts
-health reimbursement accounts
-cell phone applications
-generates
-physicians
-including room transfers
-typing
-allergies
-attention to detail
-emotional support
-home health
-hospice
-ids
-law
-medical terminology
-coordinate patient care
-quality assurance
-self-motivated
-team player
-administrative support
-creativity
-customer services
-event planning
-fund raising
-leadership skills
-leadership training
-mail
-microsoft office
-neat
-cameras
-program development
-quickbooks
-risk management
-sound
-phones
-trauma
-type 50 wpm
-vision
-10 key
-adding machine
-approach
-banking
-bonds
-case management
-copying
-crisis intervention
-driving
-trains employees
-faxing
-fundraising
-law enforcement
-legal
-microsoft excel
-works
-organizing
-police
-public relations
-receiving
-record keeping
-recruiting
-researching
-secretarial
-supervisory
-taking messages
-typing 65 wpm
-warrants
-excellent communication skills
-investigative skill
-customer service skills
-inventory clerk
-exceptional writing skills
-and research skills.
-anatomy
-charts
-interpersonal
-ca
-decision making
-delivery
-ekg's
-monitors
-paralegal
-assist patients
-positioning
-san
-collect specimens
-technician
-answer phones
-take vital signs
-recording vital signs
-weighing
-relaxation skills
-impulse control
-social skills
-c
-community health
-direction
-logistics
-needs assessment
-quantitative analysis
-simulation
-treatment plans
-google
-windows live
-childplus
-blood pressure
-brand management
-business development
-business processes
-cancer
-data analysis
-sql
-telecommunications
-telecom
-academic
-aims
-arts
-art
-book
-critical thinking
-essays
-special events
-leadership development
-problem solving skills
-programming
-recruitment
-spanish
-tutoring
-handle cash
-merchandising
-army
-blueprints
-catalogs
-hand tools
-inspect
-mechanical
-power tools
-read
-recording
-soldering
-solder
-supply chain management
-troubleshooting
-wiring
-program director
-co-workers
-empathy
-active directory
-anti-virus
-audio
-cables
-cabling
-hardware upgrades
-computer hardware
-editing
-frontpage
-ghost
-html
-php
-javascript
-linux
-mac
-macintosh
-messaging
-microsoft office suite
-windows operating systems
-win
-win7
-win8
-network wiring
-operating systems
-operating system
-pc's
-pc components
-peripherals
-python
-raid
-redhat
-routing
-tcp/ip networking
-tv
-television
-troubleshoot
-upgrading
-upgrade
-vista
-doms applications
-as/400
-microsoft applications
-administrative assistant
-analyst
-a/s 400
-communication skills
-computer applications
-customer relationship management
-customer care
-dos
-english
-languages
-microsoft outlook
-people soft
-presentation skills
-procurement
-public speaking
-security clearance
-phone etiquette
-accounting
-accounts to
-basis
-invoices
-invoicing
-shipping
-the accounting
-account analysis
-archiving
-cash management
-credit card
-customer service representative
-data archiving
-data integrity
-detail-oriented
-etiquette
-forecasting
-invoice
-peoplesoft
-time management
-ces
-pirs
-fips
-ebill
-aclaims
-rmim
-rmih
-seiu
-computer literate
-telephone skills
-creative problem solving
-customer satisfaction training
-january 2004
-march 2004
-july 2005
-strong verbal skills
-excellent written skills
-billing system
-cable
-customer 			service
-features
-finance
-human resources management
-marketing strategies
-order entry
-pricing
-servers
-staff training
-trend
-inc
-chinese
-conferences
-business presentations
-strategy
-account management
-cisco
-com
-client relations
-customer relations
-kronos
-sharepoint
-ms windows
-needs analysis
-enterprise
-newsletter
-peak
-performance reviews
-improve processes
-project management
-sales support
-technical support
-training materials
-underwriter
-underwriting
-articles
-cultures
-manages multiple tasks
-location sponsors
-property managers
-including product positioning
-campaign strategies
-advising
-tours
-orientation
-prospective adoptive parents
-business owners
-job placement
-interviewing
-county
-houston
-tx. (in progress
-product positioning
-community relations
-recruiter
-solid waste
-solid waste management
-waste management
-hipaa
-maintenance
-truck driving
-food distribution
-storage area network
-greet
-telephone customer service
-vouchers
-optical
-forecasts
-greeting
-sales floor
-stocking
-correspondence
-databases
-telephones
-painting
-switchboard
-answering
-general office
-general office duties
-inventory records
-process payroll
-purchase orders
-punctual
-excellent communication
-computer skills
-financial planning
-goal setting
-microsoft office (outlook
-power point
-and excel)
-and public speaking.
-clientele
-mediation
-promotion
-purchasing
-seminars
-set design
-skin care
-cash receipts
-firing
-exchange
-reconciling
-workflow
-team staff meetings
-finances
-employment
-food and clothing
-housing
-job leads
-counselor
-diagnosis
-psychiatrist
-report writing
-therapy
-trainer
-milwaukee
-account reconciliations
-apollo
-ftp
-general ledger accounts
-http
-legal documents
-mysql
-owl
-pick
-express
-commercial plans
-georgia
-arizona
-indiana
-south dakota)
-champva plans
-use of plan
-formulary
-technical issues
-questions
-cpanel
-product questions
-tracking orders
-delivery information
-rectify shipping errors
-product ordering
-delivery status
-pick-ups
-when necessary
-bills
-coverage area
-promotions
-address changes
-opening new accounts
-adding beneficiaries
-mortgage
-business operations
-international business
-oracle
-spreadsheets
-analyze their needs
-cash shipments
-random vault audits
-dual control assignments
-approvals
-insurance review
-renters
-flood (fema)
-wind and hale
-state      generate spreadsheets
-permits
-review supplier's location
-price
-term of payments
-product specifications
-shipment details
-reputation
-prices
-salesforce.com
-quality analysis
-life coaching
-advertising
-marketing
-multitasking
-communicator
-sales and training
-spreadsheet
-phon
-computer proficiency
-customer needs assessment
-data collection
-microsoft office: word
-oms systems
-associate
-greetings
-its
-new sales
-sales associate
-sales associates
-administrative tasks
-ordering
-50 wpm
-accounts and
-cardiology
-medical insurance
-medical records
-of accounts
-outpatient
-paying
-satisfaction
-testing
-epicare
-emdeon
-signature
-idx
-medical manager
-ms word
-nc tracks
-3g
-bts
-hardware
-engineer
-functional
-lab testing
-lab test
-mapinfo
-market
-microsoft office suites
-networks
-optimization
-product management
-project planning
-radio
-spectrum analyzer
-supplier management
-unix
-validation
-risk assessment
-safety planning
-supportive counseling
-community programs
-attendance counselors
-behavior
-a.
-& checa
-5(1)
-epidemiology
-state     epidemiology
-color
-dft7
-electronic medical records
-gl
-speaker
-sas
-fluent spanish
-spanish-speaking
-"spanish
+229,case manager
+230,cna
+231,creative problem solver
+232,fast
+233,insurance
+234,insurance sales
+235,listening
+236,strong organizational skills
+237,patient care
+238,problem solver
+239,quick learner
+240,range of motion
+241,statistics
+242,telephone
+243,training development
+244,transportation
+245,researching  banking
+246,customer support
+247,ms office
+248,ms powerpoint
+249,publisher
+250,rapport
+251,icd-10    mortgage loans
+252,taxes
+253,phone skills
+254,phone
+255,trade shows
+256,type
+257,video
+258,websites
+259,streamline
+260,budget
+261,interpersonal skills
+262,computer-literate
+263,notes
+264,managing
+265,organizational skills
+266,problem-solver
+267,reporting
+268,supervision
+269,clerk
+270,heavy machinery
+271,forensic
+272,security
+273,community outreach
+274,compensation
+275,multi-line
+276,multi-line phone
+277,multi-line phone system
+278,phone system
+279,operations
+280,cases
+281,dynamics
+282,engines
+283,learning center
+284,learning centers
+285,microsoft dynamics
+286,accounts payables
+287,accounts receivables
+288,administrative
+289,benefits
+290,oral
+291,database
+292,director
+293,office
+294,network
+295,nursing
+296,personnel
+297,protocols
+298,speech
+299,ms excel
+300,facet
+301,pivot tables
+302,or internet
+303,in a professional
+304,courteous
+305,eligibility
+306,claims
+307,financial spending accounts
+308,health reimbursement accounts
+309,cell phone applications
+310,generates
+311,physicians
+312,including room transfers
+313,typing
+314,allergies
+315,attention to detail
+316,emotional support
+317,home health
+318,hospice
+319,ids
+320,law
+321,medical terminology
+322,coordinate patient care
+323,quality assurance
+324,self-motivated
+325,team player
+326,administrative support
+327,creativity
+328,customer services
+329,event planning
+330,fund raising
+331,leadership skills
+332,leadership training
+333,mail
+334,microsoft office
+335,neat
+336,cameras
+337,program development
+338,quickbooks
+339,risk management
+340,sound
+341,phones
+342,trauma
+343,type 50 wpm
+344,vision
+345,10 key
+346,adding machine
+347,approach
+348,banking
+349,bonds
+350,case management
+351,copying
+352,crisis intervention
+353,driving
+354,trains employees
+355,faxing
+356,fundraising
+357,law enforcement
+358,legal
+359,microsoft excel
+360,works
+361,organizing
+362,police
+363,public relations
+364,receiving
+365,record keeping
+366,recruiting
+367,researching
+368,secretarial
+369,supervisory
+370,taking messages
+371,typing 65 wpm
+372,warrants
+373,excellent communication skills
+374,investigative skill
+375,customer service skills
+376,inventory clerk
+377,exceptional writing skills
+378,and research skills.
+379,anatomy
+380,charts
+381,interpersonal
+382,ca
+383,decision making
+384,delivery
+385,ekg's
+386,monitors
+387,paralegal
+388,assist patients
+389,positioning
+390,san
+391,collect specimens
+392,technician
+393,answer phones
+394,take vital signs
+395,recording vital signs
+396,weighing
+397,relaxation skills
+398,impulse control
+399,social skills
+400,c
+401,community health
+402,direction
+403,logistics
+404,needs assessment
+405,quantitative analysis
+406,simulation
+407,treatment plans
+408,google
+409,windows live
+410,childplus
+411,blood pressure
+412,brand management
+413,business development
+414,business processes
+415,cancer
+416,data analysis
+417,sql
+418,telecommunications
+419,telecom
+420,academic
+421,aims
+422,arts
+423,art
+424,book
+425,critical thinking
+426,essays
+427,special events
+428,leadership development
+429,problem solving skills
+430,programming
+431,recruitment
+432,spanish
+433,tutoring
+434,handle cash
+435,merchandising
+436,army
+437,blueprints
+438,catalogs
+439,hand tools
+440,inspect
+441,mechanical
+442,power tools
+443,read
+444,recording
+445,soldering
+446,solder
+447,supply chain management
+448,troubleshooting
+449,wiring
+450,program director
+451,co-workers
+452,empathy
+453,active directory
+454,anti-virus
+455,audio
+456,cables
+457,cabling
+458,hardware upgrades
+459,computer hardware
+460,editing
+461,frontpage
+462,ghost
+463,html
+464,php
+465,javascript
+466,linux
+467,mac
+468,macintosh
+469,messaging
+470,microsoft office suite
+471,windows operating systems
+472,win
+473,win7
+474,win8
+475,network wiring
+476,operating systems
+477,operating system
+478,pc's
+479,pc components
+480,peripherals
+481,python
+482,raid
+483,redhat
+484,routing
+485,tcp/ip networking
+486,tv
+487,television
+488,troubleshoot
+489,upgrading
+490,upgrade
+491,vista
+492,doms applications
+493,as/400
+494,microsoft applications
+495,administrative assistant
+496,analyst
+497,a/s 400
+498,communication skills
+499,computer applications
+500,customer relationship management
+501,customer care
+502,dos
+503,english
+504,languages
+505,microsoft outlook
+506,people soft
+507,presentation skills
+508,procurement
+509,public speaking
+510,security clearance
+511,phone etiquette
+512,accounting
+513,accounts to
+514,basis
+515,invoices
+516,invoicing
+517,shipping
+518,the accounting
+519,account analysis
+520,archiving
+521,cash management
+522,credit card
+523,customer service representative
+524,data archiving
+525,data integrity
+526,detail-oriented
+527,etiquette
+528,forecasting
+529,invoice
+530,peoplesoft
+531,time management
+532,ces
+533,pirs
+534,fips
+535,ebill
+536,aclaims
+537,rmim
+538,rmih
+539,seiu
+540,computer literate
+541,telephone skills
+542,creative problem solving
+543,customer satisfaction training
+544,january 2004
+545,march 2004
+546,july 2005
+547,strong verbal skills
+548,excellent written skills
+549,billing system
+550,cable
+551,customer 			service
+552,features
+553,finance
+554,human resources management
+555,marketing strategies
+556,order entry
+557,pricing
+558,servers
+559,staff training
+560,trend
+561,inc
+562,chinese
+563,conferences
+564,business presentations
+565,strategy
+566,account management
+567,cisco
+568,com
+569,client relations
+570,customer relations
+571,kronos
+572,sharepoint
+573,ms windows
+574,needs analysis
+575,enterprise
+576,newsletter
+577,peak
+578,performance reviews
+579,improve processes
+580,project management
+581,sales support
+582,technical support
+583,training materials
+584,underwriter
+585,underwriting
+586,articles
+587,cultures
+588,manages multiple tasks
+589,location sponsors
+590,property managers
+591,including product positioning
+592,campaign strategies
+593,advising
+594,tours
+595,orientation
+596,prospective adoptive parents
+597,business owners
+598,job placement
+599,interviewing
+600,county
+601,houston
+602,tx. (in progress
+603,product positioning
+604,community relations
+605,recruiter
+606,solid waste
+607,solid waste management
+608,waste management
+609,hipaa
+610,maintenance
+611,truck driving
+612,food distribution
+613,storage area network
+614,greet
+615,telephone customer service
+616,vouchers
+617,optical
+618,forecasts
+619,greeting
+620,sales floor
+621,stocking
+622,correspondence
+623,databases
+624,telephones
+625,painting
+626,switchboard
+627,answering
+628,general office
+629,general office duties
+630,inventory records
+631,process payroll
+632,purchase orders
+633,punctual
+634,excellent communication
+635,computer skills
+636,financial planning
+637,goal setting
+638,microsoft office (outlook
+639,power point
+640,and excel)
+641,and public speaking.
+642,clientele
+643,mediation
+644,promotion
+645,purchasing
+646,seminars
+647,set design
+648,skin care
+649,cash receipts
+650,firing
+651,exchange
+652,reconciling
+653,workflow
+654,team staff meetings
+655,finances
+656,employment
+657,food and clothing
+658,housing
+659,job leads
+660,counselor
+661,diagnosis
+662,psychiatrist
+663,report writing
+664,therapy
+665,trainer
+666,milwaukee
+667,account reconciliations
+668,apollo
+669,ftp
+670,general ledger accounts
+671,http
+672,legal documents
+673,mysql
+674,owl
+675,pick
+676,express
+677,commercial plans
+678,georgia
+679,arizona
+680,indiana
+681,south dakota)
+682,champva plans
+683,use of plan
+684,formulary
+685,technical issues
+686,questions
+687,cpanel
+688,product questions
+689,tracking orders
+690,delivery information
+691,rectify shipping errors
+692,product ordering
+693,delivery status
+694,pick-ups
+695,when necessary
+696,bills
+697,coverage area
+698,promotions
+699,address changes
+700,opening new accounts
+701,adding beneficiaries
+702,mortgage
+703,business operations
+704,international business
+705,oracle
+706,spreadsheets
+707,analyze their needs
+708,cash shipments
+709,random vault audits
+710,dual control assignments
+711,approvals
+712,insurance review
+713,renters
+714,flood (fema)
+715,wind and hale
+716,state      generate spreadsheets
+717,permits
+718,review supplier's location
+719,price
+720,term of payments
+721,product specifications
+722,shipment details
+723,reputation
+724,prices
+725,salesforce.com
+726,quality analysis
+727,life coaching
+728,advertising
+729,marketing
+730,multitasking
+731,communicator
+732,sales and training
+733,spreadsheet
+734,phon
+735,computer proficiency
+736,customer needs assessment
+737,data collection
+738,microsoft office: word
+739,oms systems
+740,associate
+741,greetings
+742,its
+743,new sales
+744,sales associate
+745,sales associates
+746,administrative tasks
+747,ordering
+748,50 wpm
+749,accounts and
+750,cardiology
+751,medical insurance
+752,medical records
+753,of accounts
+754,outpatient
+755,paying
+756,satisfaction
+757,testing
+758,epicare
+759,emdeon
+760,signature
+761,idx
+762,medical manager
+763,ms word
+764,nc tracks
+765,3g
+766,bts
+767,hardware
+768,engineer
+769,functional
+770,lab testing
+771,lab test
+772,mapinfo
+773,market
+774,microsoft office suites
+775,networks
+776,optimization
+777,product management
+778,project planning
+779,radio
+780,spectrum analyzer
+781,supplier management
+782,unix
+783,validation
+784,risk assessment
+785,safety planning
+786,supportive counseling
+787,community programs
+788,attendance counselors
+789,behavior
+790,a.
+791,& checa
+792,5(1)
+793,epidemiology
+794,state     epidemiology
+795,color
+796,dft7
+797,electronic medical records
+798,gl
+799,speaker
+800,sas
+801,fluent spanish
+802,spanish-speaking
+803,"spanish
 speaking"
-including counting cash
-"cash
+804,including counting cash
+805,"cash
 registers"
-strong communication skills
-"customer
+806,strong communication skills
+807,"customer
 service"
-"excellent customer
+808,"excellent customer
 service"
-negotiations
-personnel training
-store management
-"store
+809,negotiations
+810,personnel training
+811,store management
+812,"store
 management"
-worked with autism
-down syndrome
-mentally ill
-mentaly retarded
-human trafficker
-consultation
-food stamps
-medicaid
-nycha
-doh
-dv
-guardian
-isp
-mental illness
-speaking
-ssi
-translating
-treatment plan
-and printshop
-peer counseling
-internet applications
-resources
-social
-domestic
-requirements and policy
-safety plans
-childcare
-clothing
-coached
-grades
-managing assignments
-health care providers
-providing treatments
-neurology
-anesthesiology
-rheumatology
-orthopedics
-121% bonus requirements
-diabetes
-pain management
-and infectious diseases
-urology
-analytical skills
-caregiver
-change management
-competitive intelligence
-concept
-designing
-emergency care
-endocrinology
-human resource management
-infectious diseases
-interface design
-knowledge management
-long-term care
-management skills
-managing people
-marketing plan
-market research
-2000
-oncology
-oncologist
-persuasion
-problem - solving
-profit
-real time
-relationship building
-sales experience
-sales training
-teamwork
-wound care
-healthcare: claims authorization
-great organizational skills
-premier
-automate
-behavioral health
-benefits administration
-client 2
-database management
-employee relations
-hipaa regulations
-internal audit
-team building
-negotiation
-denied
-policies and procedures
-bluechip
-idm
-its/formats
-bluesquared
-inter-plan messaging
-facets
-etm
-ultera
-networx
-changes
-reinstatements
-groups
-and updated mhs
-msiq
-aggregate
-specific
-avaya
-citrix
-ibm
-mainframe
-navigation
-ocr
-website
-strong clerical
-management
-active listening
-curriculum development
-group facilitation
-crisis counseling
-cost reduction
-resolve customer complaints
-directing
-employee training
-financial statements
-product-marketing
-social referencing
-advocacy
-youth advocacy
-outreach
-editing skills
-money handling
-presenting
-statistical analysis
-time management.
-maintain calendar
-inventory control
-office equipment
-pharmacy technician
-retail
-staff development
-strategic planning
-translator
-data base
-dispatching
-forth
-goldmine
-indexing
-lawson
-medisoft
-reading
-sorting
-typing 45wpm
-verbal communication
-allegra
-artiva
-including executive team
-telehealth appointments
-google analytics
-google adwords
-content
-layout and design
-meta/alt tags
-headings
-links
-conducting research
-developing a proposal
-present
-prioritize
-design layout
-project updates
-relational databases
-setting theories
-building filters/queries
-creating mail lists
-contact center database
-credentialing office
-physician lists
-public service management
-injections
-diabetic management
-cva cases
-gt  management
-psych care
-med surg
-assited living care
-iv care management
-vital signs
-glucose testing
-dressing changes
-infants
-and children
-surgical sterile field
-standard first aid
-gt feeding management
-iv management
-great management skills
-""
-blood draws
-ekgs
-equipment maintenance
-filling
-first aid
-health education
-immunizations
-instruction
-patient flow
-preparing patient
-surgery
-triage
-patient triage
-urgent care
-vaccine
-care planning
-infection control
-nurse manager
-evening nursing supervisor
-setting priorities
-upholding corporate standards
-and material management
-qa
-understanding professional issues
-valuing every employee
-nct's
-general surgical
-isolation
-backup
-business management
-competitive
-cost control
-"customer
+813,worked with autism
+814,down syndrome
+815,mentally ill
+816,mentaly retarded
+817,human trafficker
+818,consultation
+819,food stamps
+820,medicaid
+821,nycha
+822,doh
+823,dv
+824,guardian
+825,isp
+826,mental illness
+827,speaking
+828,ssi
+829,translating
+830,treatment plan
+831,and printshop
+832,peer counseling
+833,internet applications
+834,resources
+835,social
+836,domestic
+837,requirements and policy
+838,safety plans
+839,childcare
+840,clothing
+841,coached
+842,grades
+843,managing assignments
+844,health care providers
+845,providing treatments
+846,neurology
+847,anesthesiology
+848,rheumatology
+849,orthopedics
+850,121% bonus requirements
+851,diabetes
+852,pain management
+853,and infectious diseases
+854,urology
+855,analytical skills
+856,caregiver
+857,change management
+858,competitive intelligence
+859,concept
+860,designing
+861,emergency care
+862,endocrinology
+863,human resource management
+864,infectious diseases
+865,interface design
+866,knowledge management
+867,long-term care
+868,management skills
+869,managing people
+870,marketing plan
+871,market research
+872,2000
+873,oncology
+874,oncologist
+875,persuasion
+876,problem - solving
+877,profit
+878,real time
+879,relationship building
+880,sales experience
+881,sales training
+882,teamwork
+883,wound care
+884,healthcare: claims authorization
+885,great organizational skills
+886,premier
+887,automate
+888,behavioral health
+889,benefits administration
+890,client 2
+891,database management
+892,employee relations
+893,hipaa regulations
+894,internal audit
+895,team building
+896,negotiation
+897,denied
+898,policies and procedures
+899,bluechip
+900,idm
+901,its/formats
+902,bluesquared
+903,inter-plan messaging
+904,facets
+905,etm
+906,ultera
+907,networx
+908,changes
+909,reinstatements
+910,groups
+911,and updated mhs
+912,msiq
+913,aggregate
+914,specific
+915,avaya
+916,citrix
+917,ibm
+918,mainframe
+919,navigation
+920,ocr
+921,website
+922,strong clerical
+923,management
+924,active listening
+925,curriculum development
+926,group facilitation
+927,crisis counseling
+928,cost reduction
+929,resolve customer complaints
+930,directing
+931,employee training
+932,financial statements
+933,product-marketing
+934,social referencing
+935,advocacy
+936,youth advocacy
+937,outreach
+938,editing skills
+939,money handling
+940,presenting
+941,statistical analysis
+942,time management.
+943,maintain calendar
+944,inventory control
+945,office equipment
+946,pharmacy technician
+947,retail
+948,staff development
+949,strategic planning
+950,translator
+951,data base
+952,dispatching
+953,forth
+954,goldmine
+955,indexing
+956,lawson
+957,medisoft
+958,reading
+959,sorting
+960,typing 45wpm
+961,verbal communication
+962,allegra
+963,artiva
+964,including executive team
+965,telehealth appointments
+966,google analytics
+967,google adwords
+968,content
+969,layout and design
+970,meta/alt tags
+971,headings
+972,links
+973,conducting research
+974,developing a proposal
+975,present
+976,prioritize
+977,design layout
+978,project updates
+979,relational databases
+980,setting theories
+981,building filters/queries
+982,creating mail lists
+983,contact center database
+984,credentialing office
+985,physician lists
+986,public service management
+987,injections
+988,diabetic management
+989,cva cases
+990,gt  management
+991,psych care
+992,med surg
+993,assited living care
+994,iv care management
+995,vital signs
+996,glucose testing
+997,dressing changes
+998,infants
+999,and children
+1000,surgical sterile field
+1001,standard first aid
+1002,gt feeding management
+1003,iv management
+1004,great management skills
+1005,
+1006,blood draws
+1007,ekgs
+1008,equipment maintenance
+1009,filling
+1010,first aid
+1011,health education
+1012,immunizations
+1013,instruction
+1014,patient flow
+1015,preparing patient
+1016,surgery
+1017,triage
+1018,patient triage
+1019,urgent care
+1020,vaccine
+1021,care planning
+1022,infection control
+1023,nurse manager
+1024,evening nursing supervisor
+1025,setting priorities
+1026,upholding corporate standards
+1027,and material management
+1028,qa
+1029,understanding professional issues
+1030,valuing every employee
+1031,nct's
+1032,general surgical
+1033,isolation
+1034,backup
+1035,business management
+1036,competitive
+1037,cost control
+1038,"customer
 satisfaction"
-electronic mail
-food safety
-inspection
-inspects
-isis
-team leader
-managerial
-"microsoft
+1039,electronic mail
+1040,food safety
+1041,inspection
+1042,inspects
+1043,isis
+1044,team leader
+1045,managerial
+1046,"microsoft
 outlook"
-quality control
-"six
+1047,quality control
+1048,"six
 sigma"
-strategic plans
-technical assistance
-total quality management
-translation
-adaptive equipment
-administrative duties
-appointment setting
-cpr (certified
-home care
-meal prep
-medication management
-bathing
-supply inventory
-wounds
-written communication
-benchmarking
-budgets
-customer-service
-client support
-payroll processing
-performance management
-process improvement
-consistent
-verifying patient demographics
-adult
-receipts
-account management operations
-executive level
-proposals
-corrective action
-drafting
-financing
-legal research
-mergers and acquisitions
-securities
-team management
-communicate effectively
-value teamwork
-build strong relationships
-listen intently
-clarify uncertainties
-formulate differentials
-normal variant
-physician referrals
-hematology
-psychological
-cardiac
-neurological
-musculoskeletal
-respiratory therapists
-dieticians
-assessment
-implementation
-needs
-concerns
-blood administration
-organizational development
-equal employment opportunity
-labor law
-employee engagement
-employment law
-labor laws
-human resource management.
-balance
-facilities management
-help desk
-imaging
-information systems
-publications
-sculpture
-voip
-all-area
-all-conference
-all-state
-making badges
-onboarding
-staffing meetings
-tuition reimbursement access
-pro watch
-counseled
-vacation requests
-verified
-data
-communications
-timelines
-deliverables
-direct mail
-state           legislative intern
-business strategy
-crm
-litigation
-marketing and communications
-spanish language
-canceling
-bill payment
-screened calls
-including taking messages
-including medication information
-automation
-catalog
-corporate training
-educator
-program design
-stress management
-structured
-unique
-strong interpersonal skills
-aix
-hacmp
-veritas
-websphere
-network file system
-nfs
-systems administration
-dns
-veritas volume manager
-volume manager
-file
-file systems
-tivoli
-apache
-tomcat
-system administration
-disaster recovery
-tsm
-nis
-backups
-lpars
-tivoli storage manager
-tcp
-db2
-tibco
-emc
-emc vmax
-vmax
-cluster server
-red hat
-solaris
-veritas cluster server
-vmware
-ethernet
-performance tuning
-pseries
-ssl
-application server
-bash
-bourne shell
-dns server
-firewall
-korn
-nmap
-rs/6000
-shell scripts
-snort
-tcp/ip
-access control
-amazon ec2
-amazon s3
-amazon sqs
-architecture
-aws
-ec2
-identity management
-iis
-internet information services
-lan
-middleware
-ms sql server
-replication
-sql server
-sybase
-symantec
-unix/linux
-vpn
-web server
-web services
-weblogic
-awk
-clariion
-cloning
-data center
-data recovery
-disaster recovery planning
-emc clariion
-emc power path
-internet protocol security
-ipsec
-java
-jboss
-ksh
-legato
-net backup
-perl
-power path
-production environment
-recovery planning
-router
-sed
-systems security
-team lead
-terminal server
-unix/aix
-veritas net backup
-virtual machine
-virtualization
-vm
-xml
-business requirements
-change control
-collection
-dmx
-emc dmx
-firmware
-hp-ux
-jfs
-migrations
-resource utilization
-security administration
-storage management
-trouble tickets
-ux
-clustering
-emc srdf
-netapp
-netbackup
-netcool
-peregrine
-srdf
-sun
-tripwire
-workstations
-dhcp
-msvc
-network storage
-odm
-scsi
-sftp
-solutions
-system installation
-capacity planning
-job scheduling
-logging
-microsoft sharepoint
-microsoft windows
-msm
-nagios
-network administration
-scripting
-single sign on
-sso
-switch capacity
-technical documentation
-teradata
-web based
-windows 2000
-writing technical
-including testing
-medical procedures
-suicide
-plan
-any status changes
-sepsis
-000 accounts
-saving $500
-landscaping
-accounting software
-budgeting
-cash flow
-financial and accounting
-financial analysis
-financial analyst
-financial reporting
-financial management/ reporting
-phone systems
-quickbooks pro
-tax preparation
-year-end
-hcg
-rsv's
-handling
-answer payroll questions
-explain benefits
-educational opportunities
-analyzing data
-as400
-windows applications
-problem-solving skills
-workshops
-charge patient
-print
-clot boxes
-epidural
-drug
-state      verify prescription
-count medication
-label
-state      successful leader
-attorney
-business plans
-detail oriented
-grant proposals
-press releases
-strata
-admall
-salesforce
-mactive
-including seo
-sem
-ott
-sales literature
-media kits
-and sales contracts
-problems
-advertising history
-state      identify
-develop
-market characteristics
-postings
-mathematical accuracy
-record
-bailey
-fluent in english
-farsi
-hindi
-instructing
-lesson plans
-prime
-rehabilitation
-urdu
-welfare
-diet
-bank deposits
-planned special events
-communicated with parents
-ny member
-sales goals
-therapeutic
-and sell
-assistant director
-writing skills
-audits
-financial reports
-tle
-and sales
-award
-my sales
-patience
-sales and
-health promotion
-nutrition counseling
-microsoft office (excel
+1049,strategic plans
+1050,technical assistance
+1051,total quality management
+1052,translation
+1053,adaptive equipment
+1054,administrative duties
+1055,appointment setting
+1056,cpr (certified
+1057,home care
+1058,meal prep
+1059,medication management
+1060,bathing
+1061,supply inventory
+1062,wounds
+1063,written communication
+1064,benchmarking
+1065,budgets
+1066,customer-service
+1067,client support
+1068,payroll processing
+1069,performance management
+1070,process improvement
+1071,consistent
+1072,verifying patient demographics
+1073,adult
+1074,receipts
+1075,account management operations
+1076,executive level
+1077,proposals
+1078,corrective action
+1079,drafting
+1080,financing
+1081,legal research
+1082,mergers and acquisitions
+1083,securities
+1084,team management
+1085,communicate effectively
+1086,value teamwork
+1087,build strong relationships
+1088,listen intently
+1089,clarify uncertainties
+1090,formulate differentials
+1091,normal variant
+1092,physician referrals
+1093,hematology
+1094,psychological
+1095,cardiac
+1096,neurological
+1097,musculoskeletal
+1098,respiratory therapists
+1099,dieticians
+1100,assessment
+1101,implementation
+1102,needs
+1103,concerns
+1104,blood administration
+1105,organizational development
+1106,equal employment opportunity
+1107,labor law
+1108,employee engagement
+1109,employment law
+1110,labor laws
+1111,human resource management.
+1112,balance
+1113,facilities management
+1114,help desk
+1115,imaging
+1116,information systems
+1117,publications
+1118,sculpture
+1119,voip
+1120,all-area
+1121,all-conference
+1122,all-state
+1123,making badges
+1124,onboarding
+1125,staffing meetings
+1126,tuition reimbursement access
+1127,pro watch
+1128,counseled
+1129,vacation requests
+1130,verified
+1131,data
+1132,communications
+1133,timelines
+1134,deliverables
+1135,direct mail
+1136,state           legislative intern
+1137,business strategy
+1138,crm
+1139,litigation
+1140,marketing and communications
+1141,spanish language
+1142,canceling
+1143,bill payment
+1144,screened calls
+1145,including taking messages
+1146,including medication information
+1147,automation
+1148,catalog
+1149,corporate training
+1150,educator
+1151,program design
+1152,stress management
+1153,structured
+1154,unique
+1155,strong interpersonal skills
+1156,aix
+1157,hacmp
+1158,veritas
+1159,websphere
+1160,network file system
+1161,nfs
+1162,systems administration
+1163,dns
+1164,veritas volume manager
+1165,volume manager
+1166,file
+1167,file systems
+1168,tivoli
+1169,apache
+1170,tomcat
+1171,system administration
+1172,disaster recovery
+1173,tsm
+1174,nis
+1175,backups
+1176,lpars
+1177,tivoli storage manager
+1178,tcp
+1179,db2
+1180,tibco
+1181,emc
+1182,emc vmax
+1183,vmax
+1184,cluster server
+1185,red hat
+1186,solaris
+1187,veritas cluster server
+1188,vmware
+1189,ethernet
+1190,performance tuning
+1191,pseries
+1192,ssl
+1193,application server
+1194,bash
+1195,bourne shell
+1196,dns server
+1197,firewall
+1198,korn
+1199,nmap
+1200,rs/6000
+1201,shell scripts
+1202,snort
+1203,tcp/ip
+1204,access control
+1205,amazon ec2
+1206,amazon s3
+1207,amazon sqs
+1208,architecture
+1209,aws
+1210,ec2
+1211,identity management
+1212,iis
+1213,internet information services
+1214,lan
+1215,middleware
+1216,ms sql server
+1217,replication
+1218,sql server
+1219,sybase
+1220,symantec
+1221,unix/linux
+1222,vpn
+1223,web server
+1224,web services
+1225,weblogic
+1226,awk
+1227,clariion
+1228,cloning
+1229,data center
+1230,data recovery
+1231,disaster recovery planning
+1232,emc clariion
+1233,emc power path
+1234,internet protocol security
+1235,ipsec
+1236,java
+1237,jboss
+1238,ksh
+1239,legato
+1240,net backup
+1241,perl
+1242,power path
+1243,production environment
+1244,recovery planning
+1245,router
+1246,sed
+1247,systems security
+1248,team lead
+1249,terminal server
+1250,unix/aix
+1251,veritas net backup
+1252,virtual machine
+1253,virtualization
+1254,vm
+1255,xml
+1256,business requirements
+1257,change control
+1258,collection
+1259,dmx
+1260,emc dmx
+1261,firmware
+1262,hp-ux
+1263,jfs
+1264,migrations
+1265,resource utilization
+1266,security administration
+1267,storage management
+1268,trouble tickets
+1269,ux
+1270,clustering
+1271,emc srdf
+1272,netapp
+1273,netbackup
+1274,netcool
+1275,peregrine
+1276,srdf
+1277,sun
+1278,tripwire
+1279,workstations
+1280,dhcp
+1281,msvc
+1282,network storage
+1283,odm
+1284,scsi
+1285,sftp
+1286,solutions
+1287,system installation
+1288,capacity planning
+1289,job scheduling
+1290,logging
+1291,microsoft sharepoint
+1292,microsoft windows
+1293,msm
+1294,nagios
+1295,network administration
+1296,scripting
+1297,single sign on
+1298,sso
+1299,switch capacity
+1300,technical documentation
+1301,teradata
+1302,web based
+1303,windows 2000
+1304,writing technical
+1305,including testing
+1306,medical procedures
+1307,suicide
+1308,plan
+1309,any status changes
+1310,sepsis
+1311,000 accounts
+1312,saving $500
+1313,landscaping
+1314,accounting software
+1315,budgeting
+1316,cash flow
+1317,financial and accounting
+1318,financial analysis
+1319,financial analyst
+1320,financial reporting
+1321,financial management/ reporting
+1322,phone systems
+1323,quickbooks pro
+1324,tax preparation
+1325,year-end
+1326,hcg
+1327,rsv's
+1328,handling
+1329,answer payroll questions
+1330,explain benefits
+1331,educational opportunities
+1332,analyzing data
+1333,as400
+1334,windows applications
+1335,problem-solving skills
+1336,workshops
+1337,charge patient
+1338,print
+1339,clot boxes
+1340,epidural
+1341,drug
+1342,state      verify prescription
+1343,count medication
+1344,label
+1345,state      successful leader
+1346,attorney
+1347,business plans
+1348,detail oriented
+1349,grant proposals
+1350,press releases
+1351,strata
+1352,admall
+1353,salesforce
+1354,mactive
+1355,including seo
+1356,sem
+1357,ott
+1358,sales literature
+1359,media kits
+1360,and sales contracts
+1361,problems
+1362,advertising history
+1363,state      identify
+1364,develop
+1365,market characteristics
+1366,postings
+1367,mathematical accuracy
+1368,record
+1369,bailey
+1370,fluent in english
+1371,farsi
+1372,hindi
+1373,instructing
+1374,lesson plans
+1375,prime
+1376,rehabilitation
+1377,urdu
+1378,welfare
+1379,diet
+1380,bank deposits
+1381,planned special events
+1382,communicated with parents
+1383,ny member
+1384,sales goals
+1385,therapeutic
+1386,and sell
+1387,assistant director
+1388,writing skills
+1389,audits
+1390,financial reports
+1391,tle
+1392,and sales
+1393,award
+1394,my sales
+1395,patience
+1396,sales and
+1397,health promotion
+1398,nutrition counseling
+1399,microsoft office (excel
